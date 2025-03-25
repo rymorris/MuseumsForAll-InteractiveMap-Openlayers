@@ -23,6 +23,7 @@ body {
 .site-main {
   position: relative;
   z-index: 1;
+  height: 100vh;
 }
 @media screen and (min-width: 64em) {
   .site-main {

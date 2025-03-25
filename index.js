@@ -3,7 +3,7 @@ import "ol/ol.css"
 import { Map, View, Feature } from 'ol/index.js'
 import TileLayer from 'ol/layer/Tile.js'
 import OSM from 'ol/source/OSM.js'
-import { defaults as defaultControls, ScaleLine,ZoomSlider,ZoomToExtent} from 'ol/control.js'
+import { defaults as defaultControls, ScaleLine} from 'ol/control.js'
 import VectorSource from 'ol/source/Vector.js'
 import {  Vector as VectorLayer } from 'ol/layer.js'
 import { Circle, Fill, Stroke, Style } from 'ol/style.js';
@@ -62,12 +62,6 @@ const map = new Map({
     new ScaleLine({
       units: 'degrees'
     }),
-    new ZoomSlider(),
-    new ZoomToExtent({
-      extent: [
-        -98.583333, 39.833333, -98.583333, 39.833333
-      ]
-    })
   ]),
   target: 'map',
   overlays: [overlay],
