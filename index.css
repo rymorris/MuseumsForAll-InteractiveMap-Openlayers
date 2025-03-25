@@ -1,14 +1,9 @@
-html {
-  height: 100.1%; /* Slightly more than viewport */
-  overflow-y: scroll;
-}
-
 body {
   margin:0;
   padding:0;
   width:100%;
   overflow: hidden;
-  height:100%;
+  height:100dvh;
   box-sizing: border-box;
 }
 

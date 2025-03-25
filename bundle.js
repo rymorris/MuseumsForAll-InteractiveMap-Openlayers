@@ -48178,6 +48178,7 @@ map.on('click', function(evt) {
       <p><strong>Phone:</strong> <a target="_blank" href='tel: ${properties.phone}'>${properties.phone}</a></p>
       <p><strong>Website:</strong> <a target="_blank" href="${properties.website}">${properties.website}</a></p>
       <button class="google-maps-button" onclick="window.open('http://maps.google.com/?q=${properties.name}+${properties.address}', '_blank')">Open in Google Maps</button>
+      <small>Map is approximate - Use Google Maps for directions.</small>
     `;
 
     overlay.setPosition(coordinate);
@@ -48240,13 +48241,6 @@ fetch('combined.json', {
     // Add all features to the vector source
     vectorSource.addFeatures(features);
     
-    // Optionally fit the view to show all features
-    // if (features.length > 0) {
-    //   map.getView().fit(vectorSource.getExtent(), {
-    //     padding: [50, 50, 50, 50],
-    //     duration: 1000
-    //   });
-    // }
   })
   .catch(error => {
     console.error('Error loading JSON data:', error);
@@ -48293,7 +48287,7 @@ document.addEventListener('DOMContentLoaded', function () {
                             if (typeof city.longitude === 'number' && typeof city.latitude === 'number') {
                               map.getView().animate({
                                   center: [city.longitude, city.latitude],
-                                  zoom: 10
+                                  zoom: 11
                               });
                           } else {
                               console.error('Invalid coordinates for city:', city);
@@ -48328,7 +48322,7 @@ function getUserLocationAndSetMap() {
         // Update map view
         const view = map.getView();
         view.setCenter(userCoords);
-        view.setZoom(13); // Zoom level for a good local view
+        view.setZoom(11); // Zoom level for a good local view
 
         // 5. Create and add vector layer (only if not already added to map)
 if (!map.getLayers().getArray().some(layer => layer instanceof ol_layer_js__WEBPACK_IMPORTED_MODULE_4__["default"])) {
@@ -48360,6 +48354,7 @@ if (!map.getLayers().getArray().some(layer => layer instanceof ol_layer_js__WEBP
     // Fallback to default coordinates
   }
 }
+
 })();
 
 /******/ })()
