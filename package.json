@@ -26,8 +26,7 @@
   "scripts": {
     "start": "webpack serve --open",
     "build": "webpack",
-    "dev": "npm run build && npm run start",
-    "deploy": "gh-pages -d dist"
+    "dev": "npm run build && npm run start"
   },
   "author": "Grace-Amondi",
   "license": "ISC",

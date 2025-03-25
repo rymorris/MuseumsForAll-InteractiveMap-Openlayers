@@ -17,7 +17,7 @@ const config = {
   devtool: 'cheap-module-source-map', // Better for development
   output: {
     filename: 'bundle.js',
-    path: path.resolve(__dirname, 'gh-pages'),
+    path: path.resolve(__dirname, 'dist'),
     publicPath: '/',
   },
   module: {
@@ -30,7 +30,7 @@ const config = {
   },
   devServer: {
     static: {
-      directory: path.join(__dirname, 'gh-pages'),
+      directory: path.join(__dirname, 'dist'),
     },
     compress: false,
     port: 9000,
@@ -66,15 +66,15 @@ const config = {
       patterns: [
         {
           from: path.resolve(__dirname, 'src', 'index.css'),
-          to: path.resolve(__dirname, 'gh-pages', 'index.css')
+          to: path.resolve(__dirname, 'dist', 'index.css')
         },
         {
           from: path.resolve(__dirname, 'src', 'USCities.json'),
-          to: path.resolve(__dirname, 'gh-pages', 'USCities.json')
+          to: path.resolve(__dirname, 'dist', 'USCities.json')
         },
         {
           from: path.resolve(__dirname, 'src', 'about.html'),
-          to: path.resolve(__dirname, 'gh-pages', 'about.html')
+          to: path.resolve(__dirname, 'dist', 'about.html')
         }
       ]
     })
