@@ -48080,7 +48080,7 @@ var closer = document.getElementById('popup-closer');
 
 // define view
 const view = new ol_index_js__WEBPACK_IMPORTED_MODULE_2__["default"]({
-  projection: 'EPSG:4326',
+  projection: 'EPSG:3857',
   center: [-98.583333, 39.833333],
   zoom: 3
 })

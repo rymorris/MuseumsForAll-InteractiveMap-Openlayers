@@ -18,8 +18,8 @@ var closer = document.getElementById('popup-closer');
 
 // define view
 const view = new View({
-  projection: 'EPSG:4326',
-  center: [-98.583333, 39.833333],
+  projection: 'EPSG:3857',
+  center: [-10198538, 5535775],
   zoom: 3
 })
 
@@ -233,8 +233,12 @@ document.addEventListener('DOMContentLoaded', function () {
 
                             // Center the map on the selected city
                             if (typeof city.longitude === 'number' && typeof city.latitude === 'number') {
+                              const centerCoords = fromLonLat(
+                                [city.longitude, city.latitude],
+                                view.getProjection() // Optional: specify target projection
+                              );
                               map.getView().animate({
-                                  center: [city.longitude, city.latitude],
+                                  center: centerCoords,
                                   zoom: 11
                               });
                           } else {
@@ -269,7 +273,7 @@ function getUserLocationAndSetMap() {
         
         // Update map view
         const view = map.getView();
-        view.setCenter(userCoords);
+        view.setCenter(fromLonLat(userCoords, view.getProjection()));
         view.setZoom(11); // Zoom level for a good local view
 
         // 5. Create and add vector layer (only if not already added to map)
@@ -287,8 +291,12 @@ if (!map.getLayers().getArray().some(layer => layer instanceof VectorLayer)) {
         // Error callback
         console.error('Error getting location:', error.message);
         // Fallback to default coordinates
-        map.getView().setCenter([-98.583333, 39.833333]); // Your default coordinates
-        map.getView().setZoom(3);
+        const defaultCoords = fromLonLat(
+          [-98.583333, 39.833333],
+          view.getProjection() // Optional: specify target projection
+        );
+        map.getView().setCenter(defaultCoords); // Your default coordinates
+        map.getView().setZoom(4);
       },
       {
         enableHighAccuracy: true, // Try to get the most accurate position
