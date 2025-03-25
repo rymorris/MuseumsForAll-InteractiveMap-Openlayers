@@ -1,0 +1,364 @@
+{
+  "institutions": [
+    {
+      "name": "American Mural Project",
+      "city": "Winsted",
+      "state": "Connecticut",
+      "address": "90 Whiting St, Winsted, CT 06098",
+      "coordinates": {
+        "latitude": 41.9214,
+        "longitude": -73.0695
+      },
+      "phone": "(860) 379-3006",
+      "website": "https://www.americanmuralproject.org"
+    },
+    {
+      "name": "Bruce Museum",
+      "city": "Greenwich",
+      "state": "Connecticut",
+      "address": "1 Museum Dr, Greenwich, CT 06830",
+      "coordinates": {
+        "latitude": 41.0256,
+        "longitude": -73.6283
+      },
+      "phone": "(203) 869-0376",
+      "website": "https://brucemuseum.org"
+    },
+    {
+      "name": "Connecticut Museum of Culture and History",
+      "city": "Hartford",
+      "state": "Connecticut",
+      "address": "1 Elizabeth St, Hartford, CT 06105",
+      "coordinates": {
+        "latitude": 41.7638,
+        "longitude": -72.6854
+      },
+      "phone": "(860) 236-5621",
+      "website": "https://www.connecticutmuseum.org"
+    },
+    {
+      "name": "Connecticut River Museum",
+      "city": "Essex",
+      "state": "Connecticut",
+      "address": "67 Main St, Essex, CT 06426",
+      "coordinates": {
+        "latitude": 41.3529,
+        "longitude": -72.3864
+      },
+      "phone": "(860) 767-8269",
+      "website": "https://www.ctrivermuseum.org"
+    },
+    {
+      "name": "Denison Pequotsepos Nature Center",
+      "city": "Mystic",
+      "state": "Connecticut",
+      "address": "109 Pequotsepos Rd, Mystic, CT 06355",
+      "coordinates": {
+        "latitude": 41.3642,
+        "longitude": -71.9773
+      },
+      "phone": "(860) 536-1216",
+      "website": "https://dpnc.org"
+    },
+    {
+      "name": "EverWonder Children's Museum",
+      "city": "Newtown",
+      "state": "Connecticut",
+      "address": "31 Pecks Lane, Newtown, CT 06470",
+      "coordinates": {
+        "latitude": 41.4138,
+        "longitude": -73.3084
+      },
+      "phone": "(203) 364-4009",
+      "website": "https://www.everwondermuseum.org"
+    },
+    {
+      "name": "Fairfield University Art Museum",
+      "city": "Fairfield",
+      "state": "Connecticut",
+      "address": "200 Barlow Rd, Fairfield, CT 06824",
+      "coordinates": {
+        "latitude": 41.1613,
+        "longitude": -73.2773
+      },
+      "phone": "(203) 254-4046",
+      "website": "https://www.fairfield.edu/museum"
+    },
+    {
+      "name": "Florence Griswold Museum",
+      "city": "Old Lyme",
+      "state": "Connecticut",
+      "address": "96 Lyme St, Old Lyme, CT 06371",
+      "coordinates": {
+        "latitude": 41.3224,
+        "longitude": -72.3289
+      },
+      "phone": "(860) 434-5542",
+      "website": "https://florencegriswoldmuseum.org"
+    },
+    {
+      "name": "Hill-Stead Museum",
+      "city": "Farmington",
+      "state": "Connecticut",
+      "address": "35 Mountain Rd, Farmington, CT 06032",
+      "coordinates": {
+        "latitude": 41.7252,
+        "longitude": -72.8272
+      },
+      "phone": "(860) 677-4787",
+      "website": "https://www.hillstead.org"
+    },
+    {
+      "name": "Historic New England - Roseland Cottage",
+      "city": "Woodstock",
+      "state": "Connecticut",
+      "address": "556 CT-169, Woodstock, CT 06281",
+      "coordinates": {
+        "latitude": 41.9547,
+        "longitude": -71.9803
+      },
+      "phone": "(860) 928-4074",
+      "website": "https://www.historicnewengland.org"
+    },
+    {
+      "name": "Keeler Tavern Museum",
+      "city": "Ridgefield",
+      "state": "Connecticut",
+      "address": "132 Main St, Ridgefield, CT 06877",
+      "coordinates": {
+        "latitude": 41.2815,
+        "longitude": -73.4984
+      },
+      "phone": "(203) 438-5485",
+      "website": "https://www.keelertavernmuseum.org"
+    },
+    {
+      "name": "KidsPlay Children's Museum",
+      "city": "Torrington",
+      "state": "Connecticut",
+      "address": "61 Main St, Torrington, CT 06790",
+      "coordinates": {
+        "latitude": 41.8006,
+        "longitude": -73.1213
+      },
+      "phone": "(860) 618-7700",
+      "website": "https://kidsplaymuseum.org"
+    },
+    {
+      "name": "Lyman Allyn Art Museum",
+      "city": "New London",
+      "state": "Connecticut",
+      "address": "625 Williams St, New London, CT 06320",
+      "coordinates": {
+        "latitude": 41.3755,
+        "longitude": -72.1085
+      },
+      "phone": "(860) 443-2545",
+      "website": "https://www.lymanallyn.org"
+    },
+    {
+      "name": "Mattatuck Museum",
+      "city": "Waterbury",
+      "state": "Connecticut",
+      "address": "144 W Main St, Waterbury, CT 06702",
+      "coordinates": {
+        "latitude": 41.5562,
+        "longitude": -73.0431
+      },
+      "phone": "(203) 753-0381",
+      "website": "https://www.mattmuseum.org"
+    },
+    {
+      "name": "MoCA Westport",
+      "city": "Westport",
+      "state": "Connecticut",
+      "address": "19 Newtown Turnpike, Westport, CT 06880",
+      "coordinates": {
+        "latitude": 41.1419,
+        "longitude": -73.3572
+      },
+      "phone": "(203) 222-7070",
+      "website": "https://www.mocawestport.org"
+    },
+    {
+      "name": "Mystic Seaport Museum",
+      "city": "Mystic",
+      "state": "Connecticut",
+      "address": "75 Greenmanville Ave, Mystic, CT 06355",
+      "coordinates": {
+        "latitude": 41.3619,
+        "longitude": -71.9634
+      },
+      "phone": "(860) 572-0711",
+      "website": "https://www.mysticseaport.org"
+    },
+    {
+      "name": "New Britain Museum of American Art",
+      "city": "New Britain",
+      "state": "Connecticut",
+      "address": "56 Lexington St, New Britain, CT 06052",
+      "coordinates": {
+        "latitude": 41.6679,
+        "longitude": -72.7825
+      },
+      "phone": "(860) 229-0257",
+      "website": "https://www.nbmaa.org"
+    },
+    {
+      "name": "New London Maritime Society - Custom House Maritime Museum",
+      "city": "New London",
+      "state": "Connecticut",
+      "address": "150 Bank St, New London, CT 06320",
+      "coordinates": {
+        "latitude": 41.3538,
+        "longitude": -72.0969
+      },
+      "phone": "(860) 447-2501",
+      "website": "https://www.nlmaritimesociety.org"
+    },
+    {
+      "name": "Niantic Children's Museum",
+      "city": "Niantic",
+      "state": "Connecticut",
+      "address": "409 Main St, Niantic, CT 06357",
+      "coordinates": {
+        "latitude": 41.3253,
+        "longitude": -72.1931
+      },
+      "phone": "(860) 691-1111",
+      "website": "https://www.childrensmuseumniantic.org"
+    },
+    {
+      "name": "Nowashe Village",
+      "city": "South Windsor",
+      "state": "Connecticut",
+      "address": "787 Main St, South Windsor, CT 06074",
+      "coordinates": {
+        "latitude": 41.8275,
+        "longitude": -72.5712
+      },
+      "phone": "(860) 289-1783",
+      "website": "https://www.nowashe.org"
+    },
+    {
+      "name": "Stamford Museum & Nature Center",
+      "city": "Stamford",
+      "state": "Connecticut",
+      "address": "39 Scofieldtown Rd, Stamford, CT 06903",
+      "coordinates": {
+        "latitude": 41.1247,
+        "longitude": -73.5677
+      },
+      "phone": "(203) 322-1646",
+      "website": "https://www.stamfordmuseum.org"
+    },
+    {
+      "name": "Stanley-Whitman House",
+      "city": "Farmington",
+      "state": "Connecticut",
+      "address": "37 High St, Farmington, CT 06032",
+      "coordinates": {
+        "latitude": 41.7187,
+        "longitude": -72.8375
+      },
+      "phone": "(860) 677-9222",
+      "website": "https://www.stanleywhitman.org"
+    },
+    {
+      "name": "Stepping Stones Museum for Children",
+      "city": "Norwalk",
+      "state": "Connecticut",
+      "address": "303 West Ave, Norwalk, CT 06850",
+      "coordinates": {
+        "latitude": 41.1182,
+        "longitude": -73.4272
+      },
+      "phone": "(203) 899-0606",
+      "website": "https://www.steppingstonesmuseum.org"
+    },
+    {
+      "name": "Stowe Center for Literary Activism",
+      "city": "Hartford",
+      "state": "Connecticut",
+      "address": "77 Forest St, Hartford, CT 06105",
+      "coordinates": {
+        "latitude": 41.7681,
+        "longitude": -72.7007
+      },
+      "phone": "(860) 522-9258",
+      "website": "https://www.harrietbeecherstowecenter.org"
+    },
+    {
+      "name": "The Aldrich Contemporary Art Museum",
+      "city": "Ridgefield",
+      "state": "Connecticut",
+      "address": "258 Main St, Ridgefield, CT 06877",
+      "coordinates": {
+        "latitude": 41.2814,
+        "longitude": -73.4979
+      },
+      "phone": "(203) 438-4519",
+      "website": "https://aldrichart.org"
+    },
+    {
+      "name": "The Captain Nathaniel B. Palmer House Museum",
+      "city": "Stonington",
+      "state": "Connecticut",
+      "address": "40 Palmer St, Stonington, CT 06378",
+      "coordinates": {
+        "latitude": 41.3354,
+        "longitude": -71.9063
+      },
+      "phone": "(860) 535-8445",
+      "website": "https://www.palmerhouse.org"
+    },
+    {
+      "name": "The Lighthouse Museum",
+      "city": "Stonington",
+      "state": "Connecticut",
+      "address": "7 Water St, Stonington, CT 06378",
+      "coordinates": {
+        "latitude": 41.3346,
+        "longitude": -71.9063
+      },
+      "phone": "(860) 535-1440",
+      "website": "https://www.lighthousemuseum.org"
+    },
+    {
+      "name": "The Maritime Aquarium",
+      "city": "Norwalk",
+      "state": "Connecticut",
+      "address": "10 N Water St, Norwalk, CT 06854",
+      "coordinates": {
+        "latitude": 41.1015,
+        "longitude": -73.4092
+      },
+      "phone": "(203) 852-0700",
+      "website": "https://www.maritimeaquarium.org"
+    },
+    {
+      "name": "The Mark Twain House & Museum",
+      "city": "Hartford",
+      "state": "Connecticut",
+      "address": "351 Farmington Ave, Hartford, CT 06105",
+      "coordinates": {
+        "latitude": 41.7669,
+        "longitude": -72.7014
+      },
+      "phone": "(860) 247-0998",
+      "website": "https://marktwainhouse.org"
+    },
+    {
+      "name": "The Shore Line Trolley Museum",
+      "city": "East Haven",
+      "state": "Connecticut",
+      "address": "17 River St, East Haven, CT 06512",
+      "coordinates": {
+        "latitude": 41.2778,
+        "longitude": -72.8694
+      },
+      "phone": "(203) 467-6927",
+      "website": "https://www.shorelinetrolley.org"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "institutions": [
+    {
+      "name": "Butterfly Pavilion",
+      "city": "Westminster",
+      "state": "Colorado",
+      "address": "6252 W 104th Ave, Westminster, CO 80020",
+      "coordinates": {
+        "latitude": 39.8854,
+        "longitude": -105.0648
+      },
+      "phone": "(303) 469-5441",
+      "website": "https://www.butterflies.org"
+    },
+    {
+      "name": "Children's Museum of Denver",
+      "city": "Denver",
+      "state": "Colorado",
+      "address": "2121 Children's Museum Dr, Denver, CO 80211",
+      "coordinates": {
+        "latitude": 39.7636,
+        "longitude": -105.0094
+      },
+      "phone": "(303) 433-7444",
+      "website": "https://www.cmdenver.org"
+    },
+    {
+      "name": "City of Greeley Museums",
+      "city": "Greeley",
+      "state": "Colorado",
+      "address": "714 8th St, Greeley, CO 80631",
+      "coordinates": {
+        "latitude": 40.4239,
+        "longitude": -104.6943
+      },
+      "phone": "(970) 350-9220",
+      "website": "https://greeleymuseums.com"
+    },
+    {
+      "name": "Clyfford Still Museum",
+      "city": "Denver",
+      "state": "Colorado",
+      "address": "1250 Bannock St, Denver, CO 80204",
+      "coordinates": {
+        "latitude": 39.7334,
+        "longitude": -104.9884
+      },
+      "phone": "(720) 354-4880",
+      "website": "https://clyffordstillmuseum.org"
+    },
+    {
+      "name": "Denver Museum of Nature & Science",
+      "city": "Denver",
+      "state": "Colorado",
+      "address": "2001 Colorado Blvd, Denver, CO 80205",
+      "coordinates": {
+        "latitude": 39.7473,
+        "longitude": -104.9428
+      },
+      "phone": "(303) 370-6000",
+      "website": "https://www.dmns.org"
+    },
+    {
+      "name": "Dinosaur Journey Museum",
+      "city": "Fruita",
+      "state": "Colorado",
+      "address": "550 Jurassic Ct, Fruita, CO 81521",
+      "coordinates": {
+        "latitude": 39.1560,
+        "longitude": -108.7286
+      },
+      "phone": "(970) 858-7282",
+      "website": "https://www.museumofwesternco.com/dinosaur-journey"
+    },
+    {
+      "name": "Fiske Planetarium at University of Colorado Boulder",
+      "city": "Boulder",
+      "state": "Colorado",
+      "address": "2414 Regent Dr, Boulder, CO 80309",
+      "coordinates": {
+        "latitude": 40.0076,
+        "longitude": -105.2659
+      },
+      "phone": "(303) 492-5002",
+      "website": "https://www.colorado.edu/fiske"
+    },
+    {
+      "name": "Garden of the Gods Visitor & Nature Center",
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "address": "1805 N 30th St, Colorado Springs, CO 80904",
+      "coordinates": {
+        "latitude": 38.8817,
+        "longitude": -104.8727
+      },
+      "phone": "(719) 634-6666",
+      "website": "https://www.gardenofgods.com"
+    },
+    {
+      "name": "Global Village Museum of Arts and Cultures",
+      "city": "Fort Collins",
+      "state": "Colorado",
+      "address": "200 W Mountain Ave, Fort Collins, CO 80521",
+      "coordinates": {
+        "latitude": 40.5872,
+        "longitude": -105.0765
+      },
+      "phone": "(970) 221-4600",
+      "website": "https://www.globalvillagemuseum.org"
+    },
+    {
+      "name": "Hamill House Museum",
+      "city": "Georgetown",
+      "state": "Colorado",
+      "address": "305 Argentine St, Georgetown, CO 80444",
+      "coordinates": {
+        "latitude": 39.7063,
+        "longitude": -105.6969
+      },
+      "phone": "(303) 569-2840",
+      "website": "https://www.historicgeorgetown.org/hamill-house"
+    },
+    {
+      "name": "History Colorado Center",
+      "city": "Denver",
+      "state": "Colorado",
+      "address": "1200 Broadway, Denver, CO 80203",
+      "coordinates": {
+        "latitude": 39.7350,
+        "longitude": -104.9863
+      },
+      "phone": "(303) 447-8679",
+      "website": "https://www.historycolorado.org"
+    },
+    {
+      "name": "Longmont Museum",
+      "city": "Longmont",
+      "state": "Colorado",
+      "address": "400 Quail Rd, Longmont, CO 80501",
+      "coordinates": {
+        "latitude": 40.1658,
+        "longitude": -105.1023
+      },
+      "phone": "(303) 651-8374",
+      "website": "https://www.longmontmuseum.org"
+    },
+    {
+      "name": "Louisville Historical Museum",
+      "city": "Louisville",
+      "state": "Colorado",
+      "address": "1001 Main St, Louisville, CO 80027",
+      "coordinates": {
+        "latitude": 39.9773,
+        "longitude": -105.1314
+      },
+      "phone": "(303) 666-7400",
+      "website": "https://www.louisvilleco.gov/government/departments/museum"
+    },
+    {
+      "name": "Loveland Museum",
+      "city": "Loveland",
+      "state": "Colorado",
+      "address": "503 N Lincoln Ave, Loveland, CO 80537",
+      "coordinates": {
+        "latitude": 40.3986,
+        "longitude": -105.0749
+      },
+      "phone": "(970) 962-2410",
+      "website": "https://www.lovelandmuseumgallery.org"
+    },
+    {
+      "name": "MCA Denver",
+      "city": "Denver",
+      "state": "Colorado",
+      "address": "1485 Delgany St, Denver, CO 80202",
+      "coordinates": {
+        "latitude": 39.7539,
+        "longitude": -104.9967
+      },
+      "phone": "(303) 298-7554",
+      "website": "https://mcadenver.org"
+    },
+    {
+      "name": "Molly Brown House Museum",
+      "city": "Denver",
+      "state": "Colorado",
+      "address": "1340 Pennsylvania St, Denver, CO 80203",
+      "coordinates": {
+        "latitude": 39.7370,
+        "longitude": -104.9806
+      },
+      "phone": "(303) 832-4092",
+      "website": "https://www.mollybrown.org"
+    },
+    {
+      "name": "Montrose Children's Museum",
+      "city": "Montrose",
+      "state": "Colorado",
+      "address": "2465 S Townsend Ave, Montrose, CO 81401",
+      "coordinates": {
+        "latitude": 38.4591,
+        "longitude": -107.8743
+      },
+      "phone": "(970) 240-3730",
+      "website": "https://www.montrosechildrensmuseum.org"
+    },
+    {
+      "name": "Mountain Top Explorium",
+      "city": "Breckenridge",
+      "state": "Colorado",
+      "address": "605 S Park Ave, Breckenridge, CO 80424",
+      "coordinates": {
+        "latitude": 39.4802,
+        "longitude": -106.0464
+      },
+      "phone": "(970) 453-7878",
+      "website": "https://www.mountainexplorium.org"
+    },
+    {
+      "name": "Museum of Art Fort Collins",
+      "city": "Fort Collins",
+      "state": "Colorado",
+      "address": "201 S College Ave, Fort Collins, CO 80524",
+      "coordinates": {
+        "latitude": 40.5847,
+        "longitude": -105.0761
+      },
+      "phone": "(970) 482-2787",
+      "website": "https://moafc.org"
+    },
+    {
+      "name": "Museum of Boulder",
+      "city": "Boulder",
+      "state": "Colorado",
+      "address": "2205 Broadway, Boulder, CO 80302",
+      "coordinates": {
+        "latitude": 40.0175,
+        "longitude": -105.2798
+      },
+      "phone": "(303) 449-3464",
+      "website": "https://museumofboulder.org"
+    },
+    {
+      "name": "Museum of the West",
+      "city": "Grand Junction",
+      "state": "Colorado",
+      "address": "462 Ute Ave, Grand Junction, CO 81501",
+      "coordinates": {
+        "latitude": 39.0693,
+        "longitude": -108.5672
+      },
+      "phone": "(970) 242-0971",
+      "website": "https://www.museumofwesternco.com"
+    },
+    {
+      "name": "Pikes Peak Children's Museum",
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "address": "2565 Airport Rd, Colorado Springs, CO 80910",
+      "coordinates": {
+        "latitude": 38.8234,
+        "longitude": -104.7008
+      },
+      "phone": "(719) 635-9555",
+      "website": "https://www.pikespeakchildrensmuseum.org"
+    },
+    {
+      "name": "Pueblo Heritage Museum",
+      "city": "Pueblo",
+      "state": "Colorado",
+      "address": "201 W B St, Pueblo, CO 81003",
+      "coordinates": {
+        "latitude": 38.2695,
+        "longitude": -104.6108
+      },
+      "phone": "(719) 543-2422",
+      "website": "https://www.pueblohistory.org"
+    },
+    {
+      "name": "Pueblo Zoo",
+      "city": "Pueblo",
+      "state": "Colorado",
+      "address": "3455 Nuckolls Ave, Pueblo, CO 81005",
+      "coordinates": {
+        "latitude": 38.2874,
+        "longitude": -104.6128
+      },
+      "phone": "(719) 561-1452",
+      "website": "https://www.pueblozoo.org"
+    },
+    {
+      "name": "Rock Ledge Ranch Historic Site at Garden of the Gods",
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "address": "3105 Gateway Rd, Colorado Springs, CO 80904",
+      "coordinates": {
+        "latitude": 38.8782,
+        "longitude": -104.8694
+      },
+      "phone": "(719) 578-6777",
+      "website": "https://rockledgeranch.com"
+    },
+    {
+      "name": "Rosemount Museum",
+      "city": "Pueblo",
+      "state": "Colorado",
+      "address": "419 W 14th St, Pueblo, CO 81003",
+      "coordinates": {
+        "latitude": 38.2682,
+        "longitude": -104.6161
+      },
+      "phone": "(719) 545-5290",
+      "website": "https://www.rosemount.org"
+    },
+    {
+      "name": "Sangre de Cristo Arts and Conference Center",
+      "city": "Pueblo",
+      "state": "Colorado",
+      "address": "210 N Santa Fe Ave, Pueblo, CO 81003",
+      "coordinates": {
+        "latitude": 38.2708,
+        "longitude": -104.6090
+      },
+      "phone": "(719) 295-7200",
+      "website": "https://www.sdc-arts.org"
+    },
+    {
+      "name": "Space Foundation Discovery Center",
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "address": "4425 Arrowswest Dr, Colorado Springs, CO 80907",
+      "coordinates": {
+        "latitude": 38.8837,
+        "longitude": -104.8312
+      },
+      "phone": "(719) 576-8000",
+      "website": "https://www.discoverspace.org"
+    },
+    {
+      "name": "Steelworks Center of the West",
+      "city": "Pueblo",
+      "state": "Colorado",
+      "address": "215 Canal St, Pueblo, CO 81004",
+      "coordinates": {
+        "latitude": 38.2642,
+        "longitude": -104.6188
+      },
+      "phone": "(719) 564-9086",
+      "website": "https://www.steelworks.org"
+    },
+    {
+      "name": "The Powerhouse",
+      "city": "Durango",
+      "state": "Colorado",
+      "address": "1415 Camino del Rio, Durango, CO 81301",
+      "coordinates": {
+        "latitude": 37.2751,
+        "longitude": -107.8798
+      },
+      "phone": "(970) 259-9234",
+      "website": "https://www.powerhousesciencecenter.org"
+    },
+    {
+      "name": "Trailhead Children's Museum",
+      "city": "Crested Butte",
+      "state": "Colorado",
+      "address": "611 6th St, Crested Butte, CO 81224",
+      "coordinates": {
+        "latitude": 38.8695,
+        "longitude": -106.9878
+      },
+      "phone": "(970) 349-7160",
+      "website": "https://www.trailheadkids.org"
+    },
+    {
+      "name": "WOW! Children's Museum",
+      "city": "Lafayette",
+      "state": "Colorado",
+      "address": "110 N Harrison Ave, Lafayette, CO 80026",
+      "coordinates": {
+        "latitude": 39.9979,
+        "longitude": -105.1004
+      },
+      "phone": "(303) 604-2424",
+      "website": "https://www.wowchildrensmuseum.org"
+    }
+  ]
+}

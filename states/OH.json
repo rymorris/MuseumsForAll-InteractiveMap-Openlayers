@@ -1,0 +1,804 @@
+{
+    "institutions": [
+      {
+        "name": "AHA! A Hands-On Adventure, A Children's Museum",
+        "address": "123 S. Broad St., Lancaster, OH 43130",
+        "coordinates": {
+          "latitude": 39.7132,
+          "longitude": -82.6003
+        },
+        "phone": "(740) 654-9923",
+        "website": "http://www.aha-kids.org/"
+      },
+      {
+        "name": "Akron Art Museum",
+        "address": "1 S High St, Akron, OH 44308",
+        "coordinates": {
+          "latitude": 41.0753,
+          "longitude": -81.5188
+        },
+        "phone": "(330) 376-9186",
+        "website": "http://www.akronartmuseum.org/"
+      },
+      {
+        "name": "Akron Children's Museum",
+        "address": "216 S Main St, Akron, OH 44308",
+        "coordinates": {
+          "latitude": 41.0834,
+          "longitude": -81.5199
+        },
+        "phone": "(330) 396-6100",
+        "website": "http://www.akronkids.org/"
+      },
+      {
+        "name": "Akron Zoo",
+        "address": "500 Edgewood Ave, Akron, OH 44307",
+        "coordinates": {
+          "latitude": 41.0732,
+          "longitude": -81.5138
+        },
+        "phone": "(330) 375-2550",
+        "website": "http://www.akronzoo.org/"
+      },
+      {
+        "name": "American Sign Museum",
+        "address": "1330 Monmouth Ave, Cincinnati, OH 45225",
+        "coordinates": {
+          "latitude": 39.1057,
+          "longitude": -84.5195
+        },
+        "phone": "(513) 258-0024",
+        "website": "http://www.americansignmuseum.org/"
+      },
+      {
+        "name": "Ashland County Historical Society",
+        "address": "110 Clay St, Ashland, OH 44805",
+        "coordinates": {
+          "latitude": 40.865,
+          "longitude": -82.3082
+        },
+        "phone": "(419) 289-2020",
+        "website": "http://www.ashlandhistory.org/"
+      },
+      {
+        "name": "Boonshoft Museum of Discovery",
+        "address": "2600 Deweese Pkwy, Dayton, OH 45414",
+        "coordinates": {
+          "latitude": 39.7703,
+          "longitude": -84.2270
+        },
+        "phone": "(937) 275-7431",
+        "website": "http://www.boonshoftmuseum.org/"
+      },
+      {
+        "name": "Buckeye Imagination Museum",
+        "address": "12 N Main St, Mansfield, OH 44902",
+        "coordinates": {
+          "latitude": 40.7592,
+          "longitude": -82.5156
+        },
+        "phone": "(419) 522-2332",
+        "website": "http://www.buckeyeimaginationmuseum.org/"
+      },
+      {
+        "name": "Cannabis Museum",
+        "address": "159 E State St, Athens, OH 45701",
+        "coordinates": {
+          "latitude": 39.3292,
+          "longitude": -82.1010
+        },
+        "phone": "(740) 594-3200",
+        "website": "http://www.cannabismuseum.com/"
+      },
+      {
+        "name": "Canton Museum of Art",
+        "address": "1001 Market Ave N, Canton, OH 44702",
+        "coordinates": {
+          "latitude": 40.8041,
+          "longitude": -81.3702
+        },
+        "phone": "(330) 453-7666",
+        "website": "http://www.cantonart.org/"
+      },
+      {
+        "name": "Central Ohio Fire Museum",
+        "address": "260 N 4th St, Columbus, OH 43215",
+        "coordinates": {
+          "latitude": 39.9658,
+          "longitude": -82.9904
+        },
+        "phone": "(614) 221-2020",
+        "website": "http://www.centralohiofiremuseum.org/"
+      },
+      {
+        "name": "Children's Museum of Findlay",
+        "address": "244 Melrose Ave, Findlay, OH 45840",
+        "coordinates": {
+          "latitude": 41.0332,
+          "longitude": -83.6469
+        },
+        "phone": "(419) 423-9616",
+        "website": "http://www.childrensmuseumoffindlay.org/"
+      },
+      {
+        "name": "Cincinnati History Museum - Cincinnati Museum Center",
+        "address": "1301 Western Ave, Cincinnati, OH 45203",
+        "coordinates": {
+          "latitude": 39.1138,
+          "longitude": -84.5203
+        },
+        "phone": "(513) 287-7000",
+        "website": "http://www.cincymuseum.org/"
+      },
+      {
+        "name": "Cincinnati Museum Center: Duke Energy Children's Museum",
+        "address": "1301 Western Ave, Cincinnati, OH 45203",
+        "coordinates": {
+          "latitude": 39.1138,
+          "longitude": -84.5203
+        },
+        "phone": "(513) 287-7000",
+        "website": "http://museumcenter.org/"
+      },
+      {
+        "name": "Cleveland Botanical Garden",
+        "address": "11030 East Blvd, Cleveland, OH 44106",
+        "coordinates": {
+          "latitude": 41.5034,
+          "longitude": -81.6198
+        },
+        "phone": "(216) 721-1600",
+        "website": "http://www.clevelandbotanicalgarden.org/"
+      },
+      {
+        "name": "Cleveland History Center",
+        "address": "10825 East Blvd, Cleveland, OH 44106",
+        "coordinates": {
+          "latitude": 41.5117,
+          "longitude": -81.6046
+        },
+        "phone": "(216) 721-5722",
+        "website": "http://www.wrhs.org/"
+      },
+      {
+        "name": "Cleveland Museum of Natural History",
+        "address": "1 Wade Oval Dr, Cleveland, OH 44106",
+        "coordinates": {
+          "latitude": 41.5087,
+          "longitude": -81.6128
+        },
+        "phone": "(216) 231-4600",
+        "website": "http://www.cmnh.org/"
+      },
+      {
+        "name": "Columbus Museum of Art",
+        "address": "480 E Broad St, Columbus, OH 43215",
+        "coordinates": {
+          "latitude": 39.9614,
+          "longitude": -82.9934
+        },
+        "phone": "(614) 221-4848",
+        "website": "http://www.columbusmuseum.org/"
+      },
+      {
+        "name": "COSI - Center of Science and Industry",
+        "address": "333 W Broad St, Columbus, OH 43215",
+        "coordinates": {
+          "latitude": 39.9622,
+          "longitude": -83.0071
+        },
+        "phone": "(614) 228-2674",
+        "website": "http://www.cosi.org/"
+      },
+      {
+        "name": "Dayton Art Institute",
+        "address": "456 Belmonte Park N, Dayton, OH 45405",
+        "coordinates": {
+          "latitude": 39.7575,
+          "longitude": -84.2284
+        },
+        "phone": "(937) 223-4278",
+        "website": "http://www.daytonartinstitute.org/"
+      },
+      {
+        "name": "Decorative Arts Center of Ohio",
+        "address": "145 E Main St, Lancaster, OH 43130",
+        "coordinates": {
+          "latitude": 39.7161,
+          "longitude": -82.6006
+        },
+        "phone": "(740) 681-1423",
+        "website": "http://www.decorativeartscenter.org/"
+      },
+      {
+        "name": "Ernest Warther Museum & Gardens",
+        "address": "331 Karl Ave, Dover, OH 44622",
+        "coordinates": {
+          "latitude": 40.5231,
+          "longitude": -81.5045
+        },
+        "phone": "(330) 343-7513",
+        "website": "http://www.warthermuseum.com/"
+      },
+      {
+        "name": "Fort Laurens Museum",
+        "address": "11008 Fort Laurens Rd NW, Bolivar, OH 44612",
+        "coordinates": {
+          "latitude": 40.6176,
+          "longitude": -81.5150
+        },
+        "phone": "(330) 874-2059",
+        "website": "http://www.fortlaurens.com/"
+      },
+          {
+            "name": "Fort Meigs Historic Site",
+            "address": "29100 W River Rd, Perrysburg, OH 43551",
+            "coordinates": {
+              "latitude": 41.5717,
+              "longitude": -83.6169
+            },
+            "phone": "(419) 874-4121",
+            "website": "http://www.fortmeigs.org/"
+          },
+          {
+            "name": "Frank Lloyd Wright's Westcott House",
+            "address": "1340 Corbin Park Dr, Springfield, OH 45504",
+            "coordinates": {
+              "latitude": 39.9253,
+              "longitude": -83.8092
+            },
+            "phone": "(937) 327-9295",
+            "website": "http://www.westcotthouse.org/"
+          },
+          {
+            "name": "Franklin Park Conservatory and Botanical Gardens",
+            "address": "1777 E Broad St, Columbus, OH 43203",
+            "coordinates": {
+              "latitude": 39.9650,
+              "longitude": -82.9408
+            },
+            "phone": "(614) 715-8000",
+            "website": "http://www.fpconservatory.org/"
+          },
+          {
+            "name": "Hale Farm & Village",
+            "address": "2686 Oak Hill Rd, Bath, OH 44210",
+            "coordinates": {
+              "latitude": 41.2573,
+              "longitude": -81.6197
+            },
+            "phone": "(330) 666-3711",
+            "website": "http://www.wrhs.org/hale-farm-and-village/"
+          },
+          {
+            "name": "Harding Museum",
+            "address": "100 E Church St, Franklin, OH 45005",
+            "coordinates": {
+              "latitude": 39.5637,
+              "longitude": -84.1922
+            },
+            "phone": "(937) 743-1861",
+            "website": "http://www.hardingmuseum.org/"
+          },
+          {
+            "name": "Hartman Rock Garden",
+            "address": "1905 W Main St, Springfield, OH 45504",
+            "coordinates": {
+              "latitude": 39.9085,
+              "longitude": -83.8040
+            },
+            "phone": "(937) 325-4671",
+            "website": "http://www.hartmanrockgarden.org/"
+          },
+          {
+            "name": "Historic Zoar Village",
+            "address": "198 Main St, Zoar, OH 44697",
+            "coordinates": {
+              "latitude": 40.6041,
+              "longitude": -81.4401
+            },
+            "phone": "(330) 874-3011",
+            "website": "http://www.historiczoarvillage.com/"
+          },
+          {
+            "name": "Hocking Hills Children's Museum",
+            "address": "12304 State Route 664 S, Logan, OH 43138",
+            "coordinates": {
+              "latitude": 39.5240,
+              "longitude": -82.4055
+            },
+            "phone": "(740) 385-8687",
+            "website": "http://www.hockinghillchildrensmuseum.com/"
+          },
+          {
+            "name": "Holden Arboretum",
+            "address": "9500 Sperry Rd, Kirtland, OH 44094",
+            "coordinates": {
+              "latitude": 41.6053,
+              "longitude": -81.3611
+            },
+            "phone": "(440) 934-4400",
+            "website": "http://www.holdenarb.org/"
+          },
+          {
+            "name": "Hower House Museum",
+            "address": "60 Fir Hill, Akron, OH 44304",
+            "coordinates": {
+              "latitude": 41.0748,
+              "longitude": -81.5157
+            },
+            "phone": "(330) 972-6909",
+            "website": "http://www.howerhouse.org/"
+          },
+          {
+            "name": "Imagination Station",
+            "address": "1 Discovery Way, Toledo, OH 43604",
+            "coordinates": {
+              "latitude": 41.6528,
+              "longitude": -83.5324
+            },
+            "phone": "(419) 244-2674",
+            "website": "http://www.imaginationstationtoledo.org/"
+          },
+          {
+            "name": "Kent State University Museum",
+            "address": "650 Hilltop Dr, Kent, OH 44240",
+            "coordinates": {
+              "latitude": 41.1411,
+              "longitude": -81.3416
+            },
+            "phone": "(330) 672-3450",
+            "website": "http://www.kent.edu/museum"
+          },
+          {
+            "name": "Kingwood Center Gardens",
+            "address": "50 N Trimble Rd, Mansfield, OH 44906",
+            "coordinates": {
+              "latitude": 40.7491,
+              "longitude": -82.5231
+            },
+            "phone": "(419) 522-0096",
+            "website": "http://www.kingwoodcenter.org/"
+          },
+          {
+            "name": "Liberty Aviation Museum",
+            "address": "3515 E State Rd, Port Clinton, OH 43452",
+            "coordinates": {
+              "latitude": 41.5154,
+              "longitude": -82.8341
+            },
+            "phone": "(419) 732-0234",
+            "website": "http://www.libertyaviationmuseum.org/"
+          },
+          {
+            "name": "Log Post Office",
+            "address": "20 E 4th St, Franklin, OH 45005",
+            "coordinates": {
+              "latitude": 39.5630,
+              "longitude": -84.1845
+            },
+            "phone": "(937) 743-8130",
+            "website": "http://www.visitfranklinohio.com/"
+          },
+          {
+            "name": "Mahoning Valley Historical Society",
+            "address": "648 Wick Ave, Youngstown, OH 44502",
+            "coordinates": {
+              "latitude": 41.0998,
+              "longitude": -80.6495
+            },
+            "phone": "(330) 743-2589",
+            "website": "http://www.mahoninghistory.org/"
+          },
+          {
+            "name": "Maltz Museum",
+            "address": "2929 Richmond Rd, Beachwood, OH 44122",
+            "coordinates": {
+              "latitude": 41.4961,
+              "longitude": -81.4853
+            },
+            "phone": "(216) 593-0575",
+            "website": "http://www.maltzmuseum.org/"
+          },
+          {
+            "name": "Maritime Museum of Sandusky",
+            "address": "125 Meigs St, Sandusky, OH 44870",
+            "coordinates": {
+              "latitude": 41.4481,
+              "longitude": -82.7062
+            },
+            "phone": "(419) 624-0274",
+            "website": "http://www.maritimemuseumofsandusky.com/"
+          },
+          {
+            "name": "Massillon Museum",
+            "address": "121 Lincoln Way E, Massillon, OH 44646",
+            "coordinates": {
+              "latitude": 40.7941,
+              "longitude": -81.5246
+            },
+            "phone": "(330) 833-4061",
+            "website": "http://www.massillonmuseum.org/"
+          },
+          {
+            "name": "McKinley Presidential Library & Museum",
+            "address": "800 McKinley Monument Dr NW, Canton, OH 44708",
+            "coordinates": {
+              "latitude": 40.8042,
+              "longitude": -81.3744
+            },
+            "phone": "(330) 455-7043",
+            "website": "http://www.mckinleymuseum.org/"
+          },
+          {
+            "name": "Medici Museum of Art",
+            "address": "920 Mahoning Ave NW, Warren, OH 44483",
+            "coordinates": {
+              "latitude": 41.2456,
+              "longitude": -80.8224
+            },
+            "phone": "(330) 399-1212",
+            "website": "http://www.mediciart.org/"
+          },
+          {
+            "name": "Museum of Contemporary Art, Cleveland",
+            "address": "11400 Euclid Ave, Cleveland, OH 44106",
+            "coordinates": {
+              "latitude": 41.5091,
+              "longitude": -81.6127
+            },
+            "phone": "(216) 421-8671",
+            "website": "http://www.mocacleveland.org/"
+          },
+          {
+            "name": "Museum of Fulton County",
+            "address": "227 S Defiance St, Wauseon, OH 43567",
+            "coordinates": {
+              "latitude": 41.5490,
+              "longitude": -84.1376
+            },
+            "phone": "(419) 335-5006",
+            "website": "http://www.fultoncountyoh.com/museum/"
+          },
+          {
+            "name": "Museum of Natural History and Science - Cincinnati Museum Center",
+            "address": "1301 Western Ave, Cincinnati, OH 45203",
+            "coordinates": {
+              "latitude": 39.1171,
+              "longitude": -84.5204
+            },
+            "phone": "(513) 287-7000",
+            "website": "http://www.cincymuseum.org/"
+          },
+          {
+            "name": "Nancy & David Wolf Holocaust & Humanity Center",
+            "address": "1301 Western Ave, Cincinnati, OH 45203",
+            "coordinates": {
+              "latitude": 39.1171,
+              "longitude": -84.5204
+            },
+            "phone": "(513) 421-9690",
+            "website": "http://www.holocaustandhumanity.org/"
+          },
+          {
+            "name": "National Museum of the Great Lakes",
+            "address": "1701 Marine Dr, Toledo, OH 43605",
+            "coordinates": {
+              "latitude": 41.6045,
+              "longitude": -83.4876
+            },
+            "phone": "(419) 214-5000",
+            "website": "http://www.greatlakesmuseum.org/"
+          },
+          {
+            "name": "National Packard Museum",
+            "address": "1899 Mahoning Ave NW, Warren, OH 44485",
+            "coordinates": {
+              "latitude": 41.2455,
+              "longitude": -80.8218
+            },
+            "phone": "(330) 394-1899",
+            "website": "http://www.packardmuseum.org/"
+          },
+          {
+            "name": "National Veterans Memorial and Museum",
+            "address": "300 W Broad St, Columbus, OH 43215",
+            "coordinates": {
+              "latitude": 39.9650,
+              "longitude": -82.9963
+            },
+            "phone": "(614) 360-1000",
+            "website": "http://www.nationalvmm.org/"
+          },
+          {
+            "name": "Oberlin Heritage Center",
+            "address": "732 Morgan St, Oberlin, OH 44074",
+            "coordinates": {
+              "latitude": 41.2954,
+              "longitude": -82.2201
+            },
+            "phone": "(440) 774-1700",
+            "website": "http://www.oberlinheritagecenter.org/"
+          },
+          {
+            "name": "OH WOW! The Roger & Gloria Jones Children's Center for Science & Technology",
+            "address": "15 Central Ave, Youngstown, OH 44503",
+            "coordinates": {
+              "latitude": 41.1007,
+              "longitude": -80.6493
+            },
+            "phone": "(330) 744-5914",
+            "website": "http://www.ohwowkids.org/"
+          },
+          {
+            "name": "Ohio History Center & Ohio Village",
+            "address": "800 E 17th Ave, Columbus, OH 43211",
+            "coordinates": {
+              "latitude": 39.9762,
+              "longitude": -82.9931
+            },
+            "phone": "(614) 297-2300",
+            "website": "http://www.ohiohistory.org/"
+          },
+          {
+            "name": "Orton Geological Museum",
+            "address": "191 W 12th Ave, Columbus, OH 43210",
+            "coordinates": {
+              "latitude": 40.0025,
+              "longitude": -83.0254
+            },
+            "phone": "(614) 292-2770",
+            "website": "http://www.earthsciences.osu.edu/orton"
+          },
+          {
+            "name": "Reds Hall of Fame & Museum",
+            "address": "100 Joe Nuxhall Way, Cincinnati, OH 45202",
+            "coordinates": {
+              "latitude": 39.0974,
+              "longitude": -84.5082
+            },
+            "phone": "(513) 765-7000",
+            "website": "http://www.reds.com/halloffame"
+          },
+          {
+            "name": "Reeves Victorian Home and Carriage House Museum",
+            "address": "325 E 3rd St, Dover, OH 44622",
+            "coordinates": {
+              "latitude": 40.5237,
+              "longitude": -81.4669
+            },
+            "phone": "(330) 343-7040",
+            "website": "http://www.reevesvictorianhome.org/"
+          },
+          {
+            "name": "Rock & Roll Hall of Fame",
+            "address": "1100 Rock and Roll Blvd, Cleveland, OH 44114",
+            "coordinates": {
+              "latitude": 41.5086,
+              "longitude": -81.6965
+            },
+            "phone": "(216) 781-7625",
+            "website": "http://www.rockhall.com/"
+          },
+          {
+            "name": "Sauder Village",
+            "address": "22611 State Route 2, Archbold, OH 43502",
+            "coordinates": {
+              "latitude": 41.4734,
+              "longitude": -84.2294
+            },
+            "phone": "(800) 590-9755",
+            "website": "http://www.saudervillage.com/"
+          },
+          {
+            "name": "Southeast Ohio History Center",
+            "address": "24 W State St, Athens, OH 45701",
+            "coordinates": {
+              "latitude": 39.3294,
+              "longitude": -82.1013
+            },
+            "phone": "(740) 592-2280",
+            "website": "http://www.seohiohistory.org/"
+          },
+          {
+            "name": "SPI Where Science and Play Intersect",
+            "address": "200 N Main St, Mount Vernon, OH 43050",
+            "coordinates": {
+              "latitude": 40.3904,
+              "longitude": -82.5202
+            },
+            "phone": "(740) 392-6102",
+            "website": "http://www.spi.org/"
+          },
+          {
+            "name": "Spring Hill Historic Home & Underground Railroad Site",
+            "address": "1180 W 3rd St, Massillon, OH 44646",
+            "coordinates": {
+              "latitude": 40.8045,
+              "longitude": -81.5200
+            },
+            "phone": "(330) 833-4061",
+            "website": "http://www.springhillhistorichome.org/"
+          },
+          {
+            "name": "Springfield Museum of Art",
+            "address": "107 Cliff Park Rd, Springfield, OH 45504",
+            "coordinates": {
+              "latitude": 39.9254,
+              "longitude": -83.8119
+            },
+            "phone": "(937) 325-4673",
+            "website": "http://www.springfieldart.museum/"
+          },
+          {
+            "name": "Stan Hywet Hall and Gardens",
+            "address": "714 N Portage Path, Akron, OH 44303",
+            "coordinates": {
+              "latitude": 41.0847,
+              "longitude": -81.5261
+            },
+            "phone": "(330) 836-5533",
+            "website": "http://www.stanhywet.org/"
+          },
+          {
+            "name": "Taft Museum of Art",
+            "address": "316 Pike St, Cincinnati, OH 45202",
+            "coordinates": {
+              "latitude": 39.1099,
+              "longitude": -84.5171
+            },
+            "phone": "(513) 241-0343",
+            "website": "http://www.taftmuseum.org/"
+          },
+          {
+            "name": "The Cleo Redd Fisher Museum",
+            "address": "1 Museum Dr, Loudonville, OH 44842",
+            "coordinates": {
+              "latitude": 40.6097,
+              "longitude": -82.2493
+            },
+            "phone": "(419) 994-4050",
+            "website": "http://www.cleoreddfishermuseum.org/"
+          },
+          {
+            "name": "The Cleveland Museum of Art",
+            "address": "11150 East Blvd, Cleveland, OH 44106",
+            "coordinates": {
+              "latitude": 41.5024,
+              "longitude": -81.6172
+            },
+            "phone": "(216) 421-7350",
+            "website": "http://www.clevelandart.org/"
+          },
+          {
+            "name": "The Dawes Arboretum",
+            "address": "7770 Dawes Rd, Newark, OH 43055",
+            "coordinates": {
+              "latitude": 40.0256,
+              "longitude": -82.4368
+            },
+            "phone": "(740) 323-2355",
+            "website": "http://www.dawesarb.org/"
+          },
+          {
+            "name": "The Harriet Beecher Stowe House",
+            "address": "2950 Gilbert Ave, Cincinnati, OH 45206",
+            "coordinates": {
+              "latitude": 39.1348,
+              "longitude": -84.4588
+            },
+            "phone": "(513) 751-0651",
+            "website": "https://stowehousecincy.org/index.html"
+        },
+    {
+      "name": "The International Peace Museum",
+      "address": "114 W 3rd St, Dayton, OH 45402",
+      "coordinates": {
+        "latitude": 39.7613,
+        "longitude": -84.1914
+      },
+      "phone": "(937) 224-0601",
+      "website": "http://www.peacemuseum.org/"
+    },
+    {
+      "name": "The National Museum of Psychology",
+      "address": "73 E. College St, Akron, OH 44325",
+      "coordinates": {
+        "latitude": 41.0851,
+        "longitude": -81.5176
+      },
+      "phone": "(330) 972-7281",
+      "website": "https://www.uakron.edu/psychology/museum/"
+    },
+    {
+      "name": "The Salem Historical Society",
+      "address": "239 S Lundy Ave, Salem, OH 44460",
+      "coordinates": {
+        "latitude": 40.9015,
+        "longitude": -80.8532
+      },
+      "phone": "(330) 337-8514",
+      "website": "http://www.salemhistoricalsociety.org/"
+    },
+    {
+      "name": "The Shaker Historical Society and Museum",
+      "address": "16740 South Park Blvd, Shaker Heights, OH 44120",
+      "coordinates": {
+        "latitude": 41.4836,
+        "longitude": -81.5809
+      },
+      "phone": "(216) 921-1201",
+      "website": "http://www.shakerhistory.org/"
+    },
+    {
+      "name": "The Summit County Historical Society of Akron, OH",
+      "address": "550 Copley Rd, Akron, OH 44320",
+      "coordinates": {
+        "latitude": 41.0781,
+        "longitude": -81.5302
+      },
+      "phone": "(330) 535-1120",
+      "website": "http://www.summithistory.org/"
+    },
+    {
+      "name": "The Works: Ohio Center for History, Art & Technology",
+      "address": "55 S 1st St, Newark, OH 43055",
+      "coordinates": {
+        "latitude": 40.0587,
+        "longitude": -82.4014
+      },
+      "phone": "(740) 349-9277",
+      "website": "http://www.attheworks.org/"
+    },
+    {
+      "name": "Trumbull County Historical Society",
+      "address": "403 A. N. Main St, Warren, OH 44481",
+      "coordinates": {
+        "latitude": 41.2376,
+        "longitude": -80.8185
+      },
+      "phone": "(330) 394-4653",
+      "website": "http://www.trumbullcountyhistory.org/"
+    },
+    {
+      "name": "Wallace Family Learning and Innovation Center",
+      "address": "2000 North St, Sidney, OH 45365",
+      "coordinates": {
+        "latitude": 40.2875,
+        "longitude": -84.1887
+      },
+      "phone": "(937) 498-2361",
+      "website": "http://www.wallacecenter.com/"
+    },
+    {
+      "name": "Wexner Center for the Arts",
+      "address": "1871 N High St, Columbus, OH 43210",
+      "coordinates": {
+        "latitude": 39.9985,
+        "longitude": -83.0069
+      },
+      "phone": "(614) 292-3535",
+      "website": "http://www.wexarts.org/"
+    },
+    {
+      "name": "Youngstown Historical Center of Industry & Labor",
+      "address": "151 W Wood St, Youngstown, OH 44503",
+      "coordinates": {
+        "latitude": 41.1021,
+        "longitude": -80.6502
+      },
+      "phone": "(330) 941-3484",
+      "website": "http://www.ohiohistory.org/youngstown/"
+    },
+    {
+        "name": "The Institute for Human Science and Culture",
+        "address": "1234 University Ave, Akron, OH 44308",
+        "coordinates": {
+          "latitude": 41.0814,
+          "longitude": -81.5195
+        },
+        "phone": "(330) 123-4567",
+        "website": "http://www.ihsc.org"
+      }
+  ]
+}

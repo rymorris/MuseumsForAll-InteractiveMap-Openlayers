@@ -1,0 +1,942 @@
+[
+  {
+    "name": "Albin Polasek Museum & Sculpture Gardens",
+    "address": "633 Osceola Ave, Winter Park, FL 32789",
+    "coordinates": {
+      "latitude": 28.5985,
+      "longitude": -81.3552
+    },
+    "phone": "(407) 647-6294",
+    "website": "https://www.polasek.org"
+  },
+  {
+    "name": "Ann Norton Sculpture Gardens",
+    "address": "2051 S Flagler Dr, West Palm Beach, FL 33401",
+    "coordinates": {
+      "latitude": 26.7009,
+      "longitude": -80.0484
+    },
+    "phone": "(561) 832-5328",
+    "website": "https://www.ansg.org"
+  },
+  {
+    "name": "Art & History Museums - Maitland",
+    "address": "231 W Packwood Ave, Maitland, FL 32751",
+    "coordinates": {
+      "latitude": 28.6287,
+      "longitude": -81.3639
+    },
+    "phone": "(407) 539-2181",
+    "website": "https://www.artandhistory.org"
+  },
+  {
+    "name": "Art and Culture Center / Hollywood",
+    "address": "1650 Harrison St, Hollywood, FL 33020",
+    "coordinates": {
+      "latitude": 26.0112,
+      "longitude": -80.1489
+    },
+    "phone": "(954) 921-3274",
+    "website": "https://www.artandculturecenter.org"
+  },
+  {
+    "name": "Black Police Precinct & Courthouse Museum",
+    "address": "480 NW 11th St, Miami, FL 33136",
+    "coordinates": {
+      "latitude": 25.7916,
+      "longitude": -80.1994
+    },
+    "phone": "(305) 329-2513",
+    "website": "https://www.blackpoliceprecinct.org"
+  },
+  {
+    "name": "Bok Tower Gardens",
+    "address": "1151 Tower Blvd, Lake Wales, FL 33853",
+    "coordinates": {
+      "latitude": 27.9344,
+      "longitude": -81.5865
+    },
+    "phone": "(863) 676-1408",
+    "website": "https://www.boktowergardens.org"
+  },
+  {
+    "name": "Bonnet House Museum & Gardens",
+    "address": "900 N Birch Rd, Fort Lauderdale, FL 33304",
+    "coordinates": {
+      "latitude": 26.1384,
+      "longitude": -80.1065
+    },
+    "phone": "(954) 563-5393",
+    "website": "https://www.bonnethouse.org"
+  },
+  {
+    "name": "Cade Museum for Creativity & Invention",
+    "address": "811 S Main St, Gainesville, FL 32601",
+    "coordinates": {
+      "latitude": 29.6436,
+      "longitude": -82.3247
+    },
+    "phone": "(352) 371-8001",
+    "website": "https://www.cademuseum.org"
+  },
+  {
+    "name": "Calusa Nature Center & Planetarium",
+    "address": "3450 Ortiz Ave, Fort Myers, FL 33905",
+    "coordinates": {
+      "latitude": 26.6628,
+      "longitude": -81.8212
+    },
+    "phone": "(239) 275-3435",
+    "website": "https://calusanature.org"
+  },
+  {
+    "name": "Children's Museum of the Treasure Coast",
+    "address": "1707 NE Indian River Dr, Jensen Beach, FL 34957",
+    "coordinates": {
+      "latitude": 27.2544,
+      "longitude": -80.2296
+    },
+    "phone": "(772) 225-7575",
+    "website": "https://www.childrensmuseumtc.org"
+  },
+  {
+    "name": "Coral Springs Museum of Art",
+    "address": "2855 Coral Springs Dr, Coral Springs, FL 33065",
+    "coordinates": {
+      "latitude": 26.2712,
+      "longitude": -80.2546
+    },
+    "phone": "(954) 340-5000",
+    "website": "https://www.coralspringsmuseum.org"
+  },
+  {
+    "name": "Cox Science Center and Aquarium",
+    "address": "4801 Dreher Trail N, West Palm Beach, FL 33405",
+    "coordinates": {
+      "latitude": 26.6667,
+      "longitude": -80.0625
+    },
+    "phone": "(561) 832-1988",
+    "website": "https://www.coxsciencecenter.org"
+  },
+  {
+    "name": "Cummer Museum of Art & Gardens",
+    "address": "829 Riverside Ave, Jacksonville, FL 32204",
+    "coordinates": {
+      "latitude": 30.3182,
+      "longitude": -81.6764
+    },
+    "phone": "(904) 356-6857",
+    "website": "https://www.cummermuseum.org"
+  },
+  {
+    "name": "David L. Mason Children's Art Museum at the Dunedin Fine Art Center",
+    "address": "1143 Michigan Blvd, Dunedin, FL 34698",
+    "coordinates": {
+      "latitude": 28.0197,
+      "longitude": -82.7786
+    },
+    "phone": "(727) 298-3322",
+    "website": "https://www.dfac.org"
+  },
+  {
+    "name": "Discovery Center",
+    "address": "701 NE Sanchez Ave, Ocala, FL 34470",
+    "coordinates": {
+      "latitude": 29.1919,
+      "longitude": -82.1314
+    },
+    "phone": "(352) 401-3900",
+    "website": "https://www.mydiscoverycenter.org"
+  },
+  {
+    "name": "Edison and Ford Winter Estates",
+    "address": "2350 McGregor Blvd, Fort Myers, FL 33901",
+    "coordinates": {
+      "latitude": 26.6356,
+      "longitude": -81.8799
+    },
+    "phone": "(239) 334-7419",
+    "website": "https://www.edisonfordwinterestates.org"
+  },
+  {
+    "name": "Elliott Museum",
+    "address": "825 NE Ocean Blvd, Stuart, FL 34996",
+    "coordinates": {
+      "latitude": 27.2167,
+      "longitude": -80.1867
+    },
+    "phone": "(772) 225-1961",
+    "website": "https://www.elliottmuseum.org"
+  },
+  {
+    "name": "Emerald Coast Science Center",
+    "address": "31 SW Memorial Pkwy, Fort Walton Beach, FL 32548",
+    "coordinates": {
+      "latitude": 30.4064,
+      "longitude": -86.6133
+    },
+    "phone": "(850) 664-1261",
+    "website": "https://www.ecscience.org"
+  },
+  {
+    "name": "Fairchild Tropical Botanic Garden",
+    "address": "10901 Old Cutler Rd, Coral Gables, FL 33156",
+    "coordinates": {
+      "latitude": 25.6789,
+      "longitude": -80.2722
+    },
+    "phone": "(305) 667-1651",
+    "website": "https://www.fairchildgarden.org"
+  },
+  {
+    "name": "Flamingo Gardens",
+    "address": "3750 S Flamingo Rd, Davie, FL 33330",
+    "coordinates": {
+      "latitude": 26.0622,
+      "longitude": -80.3411
+    },
+    "phone": "(954) 473-2955",
+    "website": "https://www.flamingogardens.org"
+  },
+  {
+    "name": "Florida Air Museum",
+    "address": "4175 Medulla Rd, Lakeland, FL 33811",
+    "coordinates": {
+      "latitude": 28.0439,
+      "longitude": -81.9547
+    },
+    "phone": "(863) 644-2431",
+    "website": "https://www.floridaairmuseum.org"
+  },
+  {
+    "name": "Florida Children's Museum",
+    "address": "215 W Lime St, Lakeland, FL 33815",
+    "coordinates": {
+      "latitude": 28.0447,
+      "longitude": -81.9549
+    },
+    "phone": "(863) 687-3869",
+    "website": "https://www.explorechildrensmuseum.org"
+  },
+  {
+    "name": "Florida Keys History & Discovery Center",
+    "address": "82100 Overseas Hwy, Islamorada, FL 33036",
+    "coordinates": {
+      "latitude": 24.9231,
+      "longitude": -80.6296
+    },
+    "phone": "(305) 922-2237",
+    "website": "https://www.keysdiscovery.com"
+  },
+  {
+    "name": "Florida Museum of Natural History",
+    "address": "3215 Hull Rd, Gainesville, FL 32611",
+    "coordinates": {
+      "latitude": 29.6383,
+      "longitude": -82.3714
+    },
+    "phone": "(352) 846-2000",
+    "website": "https://www.floridamuseum.ufl.edu"
+  },
+  {
+    "name": "Florida Museum of Photographic Arts",
+    "address": "400 N Ashley Dr, Tampa, FL 33602",
+    "coordinates": {
+      "latitude": 27.9478,
+      "longitude": -82.4589
+    },
+    "phone": "(813) 221-2222",
+    "website": "https://www.fmopa.org"
+  },
+  {
+    "name": "Fort East Martello Museum",
+    "address": "3501 S Roosevelt Blvd, Key West, FL 33040",
+    "coordinates": {
+      "latitude": 24.5522,
+      "longitude": -81.7558
+    },
+    "phone": "(305) 296-3913",
+    "website": "https://www.kwahs.org/museums/fort-east-martello"
+  },
+  {
+    "name": "Gadsden Arts Center & Museum",
+    "address": "13 N Madison St, Quincy, FL 32351",
+    "coordinates": {
+      "latitude": 30.5875,
+      "longitude": -84.5833
+    },
+    "phone": "(850) 875-4866",
+    "website": "https://www.gadsdenarts.org"
+  },
+  {
+    "name": "Gillespie Museum",
+    "address": "234 E Michigan Ave, DeLand, FL 32724",
+    "coordinates": {
+      "latitude": 29.0264,
+      "longitude": -81.3036
+    },
+    "phone": "(386) 822-7330",
+    "website": "https://www.stetson.edu/gillespie"
+  },
+  {
+    "name": "Glazer Children's Museum",
+    "address": "110 W Gasparilla Plaza, Tampa, FL 33602",
+    "coordinates": {
+      "latitude": 27.9472,
+      "longitude": -82.4614
+    },
+    "phone": "(813) 443-3861",
+    "website": "https://www.glazermuseum.org"
+  },
+  {
+    "name": "Gold Coast Railroad Museum",
+    "address": "12450 SW 152nd St, Miami, FL 33177",
+    "coordinates": {
+      "latitude": 25.6019,
+      "longitude": -80.4778
+    },
+    "phone": "(305) 253-0063",
+    "website": "https://www.gcrm.org"
+  },
+  {
+    "name": "Golisano Children's Museum of Naples (CMON)",
+    "address": "15080 Livingston Rd, Naples, FL 34109",
+    "coordinates": {
+      "latitude": 26.2394,
+      "longitude": -81.7622
+    },
+    "phone": "(239) 514-0084",
+    "website": "https://www.cmon.org"
+  },
+  {
+    "name": "Great Explorations Children's Museum",
+    "address": "1925 4th St N, St. Petersburg, FL 33704",
+    "coordinates": {
+      "latitude": 27.7906,
+      "longitude": -82.6314
+    },
+    "phone": "(727) 821-8992",
+    "website": "https://www.greatex.org"
+  },
+  {
+    "name": "Halifax Historical Museum",
+    "address": "252 S Beach St, Daytona Beach, FL 32114",
+    "coordinates": {
+      "latitude": 29.2078,
+      "longitude": -81.0175
+    },
+    "phone": "(386) 255-6976",
+    "website": "https://www.halifaxhistorical.org"
+  },
+  {
+    "name": "Harry P. Leu Gardens",
+    "address": "1920 N Forest Ave, Orlando, FL 32803",
+    "coordinates": {
+      "latitude": 28.5686,
+      "longitude": -81.3536
+    },
+    "phone": "(407) 246-2620",
+    "website": "https://www.leugardens.org"
+  },
+  {
+    "name": "Hellings Curry Museum",
+    "address": "319 Duval Street, Key West, FL 33040",
+    "coordinates": {
+      "latitude": 24.5574,
+      "longitude": -81.8041
+    },
+    "phone": "(305) 294-2039",
+    "website": "https://www.hellingscurrymuseum.org"
+  },
+  {
+    "name": "Historic Stranahan House Museum",
+    "address": "335 SE 6th Ave, Fort Lauderdale, FL 33301",
+    "coordinates": {
+      "latitude": 26.1189,
+      "longitude": -80.1403
+    },
+    "phone": "(954) 524-4736",
+    "website": "https://www.stranahanhouse.org"
+  },
+  {
+    "name": "History Fort Lauderdale",
+    "address": "231 SW 2nd Ave, Fort Lauderdale, FL 33301",
+    "coordinates": {
+      "latitude": 26.1203,
+      "longitude": -80.1444
+    },
+    "phone": "(954) 463-4431",
+    "website": "https://www.historyfortlauderdale.org"
+  },
+  {
+    "name": "History of Diving Museum",
+    "address": "82990 Overseas Hwy, Islamorada, FL 33036",
+    "coordinates": {
+      "latitude": 24.9236,
+      "longitude": -80.6289
+    },
+    "phone": "(305) 664-9737",
+    "website": "https://www.divingmuseum.org"
+  },
+  {
+    "name": "HistoryMiami Museum",
+    "address": "101 W Flagler St, Miami, FL 33130",
+    "coordinates": {
+      "latitude": 25.7742,
+      "longitude": -80.1936
+    },
+    "phone": "(305) 375-1492",
+    "website": "https://www.historymiami.org"
+  },
+  {
+    "name": "Holocaust Memorial Resource & Education Center of Florida",
+    "address": "851 N Maitland Ave, Maitland, FL 32751",
+    "coordinates": {
+      "latitude": 28.6292,
+      "longitude": -81.3636
+    },
+    "phone": "(407) 628-0555",
+    "website": "https://www.holocaustedu.org"
+  },
+  {
+    "name": "Holocaust Museum & Cohen Education Center",
+    "address": "975 Imperial Golf Course Blvd, Naples, FL 34110",
+    "coordinates": {
+      "latitude": 26.2397,
+      "longitude": -81.7625
+    },
+    "phone": "(239) 263-9200",
+    "website": "https://www.hmcec.org"
+  },
+  {
+    "name": "House of Refuge",
+    "address": "301 SE MacArthur Blvd, Stuart, FL 34996",
+    "coordinates": {
+      "latitude": 27.1997,
+      "longitude": -80.1789
+    },
+    "phone": "(772) 225-1875",
+    "website": "https://www.houseofrefugefl.org"
+  },
+  {
+    "name": "Imagine Museum",
+    "address": "1901 Central Ave, St. Petersburg, FL 33713",
+    "coordinates": {
+      "latitude": 27.7681,
+      "longitude": -82.6403
+    },
+    "phone": "(727) 300-1700",
+    "website": "https://www.imaginemuseum.com"
+  },
+  {
+    "name": "Jacksonville Naval Museum",
+    "address": "1 USS Adams Pl, Jacksonville, FL 32202",
+    "coordinates": {
+      "latitude": 30.3264,
+      "longitude": -81.6597
+    },
+    "phone": "(904) 356-3267",
+    "website": "https://www.navaljaxmuseum.org"
+  },
+  {
+    "name": "Key West Lighthouse & Keeper's Quarters",
+    "address": "938 Whitehead St, Key West, FL 33040",
+    "coordinates": {
+      "latitude": 24.5522,
+      "longitude": -81.8019
+    },
+    "phone": "(305) 294-0012",
+    "website": "https://www.kwahs.org/museums/lighthouse-keepers-quarters"
+  },
+  {
+    "name": "Key West Museum of Art & History at the Custom House",
+    "address": "281 Front St, Key West, FL 33040",
+    "coordinates": {
+      "latitude": 24.5594,
+      "longitude": -81.8075
+    },
+    "phone": "(305) 295-6616",
+    "website": "https://www.kwahs.org"
+  },
+  {
+    "name": "Key West Tropical Forest & Botanical Garden",
+    "address": "5210 College Rd, Key West, FL 33040",
+    "coordinates": {
+      "latitude": 24.5681,
+      "longitude": -81.7536
+    },
+    "phone": "(305) 296-1504",
+    "website": "https://www.keywestbotanicalgarden.org"
+  },
+  {
+    "name": "Lightner Museum",
+    "address": "75 King St, St. Augustine, FL 32084",
+    "coordinates": {
+      "latitude": 29.8925,
+      "longitude": -81.3136
+    },
+    "phone": "(904) 824-2874",
+    "website": "https://www.lightnermuseum.org"
+  },
+  {
+    "name": "Loggerhead Marinelife Center",
+    "address": "14200 US-1, Juno Beach, FL 33408",
+    "coordinates": {
+      "latitude": 26.8797,
+      "longitude": -80.0536
+    },
+    "phone": "(561) 627-8280",
+    "website": "https://www.marinelife.org"
+  },
+  {
+    "name": "Lowe Art Museum",
+    "address": "1301 Stanford Dr, Coral Gables, FL 33146",
+    "coordinates": {
+      "latitude": 25.7219,
+      "longitude": -80.2778
+    },
+    "phone": "(305) 284-3535",
+    "website": "https://www.lowe.miami.edu"
+  },
+  {
+    "name": "Morean Arts Center",
+    "address": "719 Central Ave, St. Petersburg, FL 33701",
+    "coordinates": {
+      "latitude": 27.7708,
+      "longitude": -82.6422
+    },
+    "phone": "(727) 822-7872",
+    "website": "https://www.moreanartscenter.org"
+  },
+  {
+    "name": "Mound House",
+    "address": "451 Connecticut St, Fort Myers Beach, FL 33931",
+    "coordinates": {
+      "latitude": 26.4486,
+      "longitude": -81.9497
+    },
+    "phone": "(239) 765-0865",
+    "website": "https://www.moundhouse.org"
+  },
+  {
+    "name": "Museum of Art - DeLand",
+    "address": "600 N Woodland Blvd, DeLand, FL 32720",
+    "coordinates": {
+      "latitude": 29.0297,
+      "longitude": -81.3031
+    },
+    "phone": "(386) 734-4371",
+    "website": "https://www.moartdeland.org"
+  },
+  {
+    "name": "Museum of Arts and Sciences",
+    "address": "352 S Nova Rd, Daytona Beach, FL 32114",
+    "coordinates": {
+      "latitude": 29.1919,
+      "longitude": -81.0347
+    },
+    "phone": "(386) 255-0285",
+    "website": "https://www.moas.org"
+  },
+  {
+    "name": "Museum of Discovery and Science",
+    "address": "401 SW 2nd St, Fort Lauderdale, FL 33312",
+    "coordinates": {
+      "latitude": 26.1208,
+      "longitude": -80.1467
+    },
+    "phone": "(954) 467-6637",
+    "website": "https://www.mods.org"
+  },
+  {
+    "name": "Museum of Fine Arts, St. Petersburg",
+    "address": "255 Beach Dr NE, St. Petersburg, FL 33701",
+    "coordinates": {
+      "latitude": 27.7731,
+      "longitude": -82.6308
+    },
+    "phone": "(727) 896-2667",
+    "website": "https://www.mfastpete.org"
+  },
+  {
+    "name": "Museum of Motherhood",
+    "address": "538 28th St N, St. Petersburg, FL 33713",
+    "coordinates": {
+      "latitude": 27.7681,
+      "longitude": -82.6403
+    },
+    "phone": "(727) 537-0754",
+    "website": "https://www.mommuseum.org"
+  },
+  {
+    "name": "Museum of Science & History (MOSH)",
+    "address": "1025 Museum Cir, Jacksonville, FL 32207",
+    "coordinates": {
+      "latitude": 30.3175,
+      "longitude": -81.6597
+    },
+    "phone": "(904) 396-6674",
+    "website": "https://www.themosh.org"
+  },
+  {
+    "name": "Museum of Science & Industry (MOSI)",
+    "address": "4801 E Fowler Ave, Tampa, FL 33617",
+    "coordinates": {
+      "latitude": 28.0697,
+      "longitude": -82.4097
+    },
+    "phone": "(813) 987-6000",
+    "website": "https://www.mosi.org"
+  },
+  {
+    "name": "Naples Botanical Garden",
+    "address": "4820 Bayshore Dr, Naples, FL 34112",
+    "coordinates": {
+      "latitude": 26.1158,
+      "longitude": -81.8058
+    },
+    "phone": "(239) 643-7275",
+    "website": "https://www.naplesgarden.org"
+  },
+  {
+    "name": "NSU Art Museum Fort Lauderdale",
+    "address": "1 E Las Olas Blvd, Fort Lauderdale, FL 33301",
+    "coordinates": {
+      "latitude": 26.1197,
+      "longitude": -80.1419
+    },
+    "phone": "(954) 525-5500",
+    "website": "https://www.nsuartmuseum.org"
+  },
+  {
+    "name": "Old Davie School Historical Museum",
+    "address": "6650 Griffin Rd, Davie, FL 33314",
+    "coordinates": {
+      "latitude": 26.0622,
+      "longitude": -80.3411
+    },
+    "phone": "(954) 797-1044",
+    "website": "https://www.olddavieschool.org"
+  },
+  {
+    "name": "Orange County Regional History Center",
+    "address": "65 E Central Blvd, Orlando, FL 32801",
+    "coordinates": {
+      "latitude": 28.5419,
+      "longitude": -81.3792
+    },
+    "phone": "(407) 836-8500",
+    "website": "https://www.thehistorycenter.org"
+  },
+  {
+    "name": "Orlando Museum of Art",
+    "address": "2416 N Mills Ave, Orlando, FL 32803",
+    "coordinates": {
+      "latitude": 28.5686,
+      "longitude": -81.3636
+    },
+    "phone": "(407) 896-4231",
+    "website": "https://www.omart.org"
+  },
+  {
+    "name": "Orlando Science Center",
+    "address": "777 E Princeton St, Orlando, FL 32803",
+    "coordinates": {
+      "latitude": 28.5686,
+      "longitude": -81.3636
+    },
+    "phone": "(407) 514-2000",
+    "website": "https://www.osc.org"
+  },
+  {
+    "name": "Ormond Memorial Art Museum & Gardens",
+    "address": "78 E Granada Blvd, Ormond Beach, FL 32176",
+    "coordinates": {
+      "latitude": 29.2858,
+      "longitude": -81.0556
+    },
+    "phone": "(386) 676-3347",
+    "website": "https://www.ormondartmuseum.org"
+  },
+  {
+    "name": "Peace River Botanical & Sculpture Gardens",
+    "address": "5800 Riverside Dr, Punta Gorda, FL 33982",
+    "coordinates": {
+      "latitude": 26.9158,
+      "longitude": -82.0458
+    },
+    "phone": "(941) 621-8299",
+    "website": "https://www.peacerivergardens.org"
+  },
+  {
+    "name": "Pensacola Children's Museum",
+    "address": "115 E Zaragoza St, Pensacola, FL 32502",
+    "coordinates": {
+      "latitude": 30.4103,
+      "longitude": -87.2175
+    },
+    "phone": "(850) 595-5985",
+    "website": "https://www.historicpensacola.org"
+  },
+  {
+    "name": "Pensacola Lighthouse and Museum",
+    "address": "2081 Radford Blvd, Pensacola, FL 32508",
+    "coordinates": {
+      "latitude": 30.3467,
+      "longitude": -87.3147
+    },
+    "phone": "(850) 393-1561",
+    "website": "https://www.pensacolalighthouse.org"
+  },
+  {
+    "name": "Pensacola Museum of Art",
+    "address": "407 S Jefferson St, Pensacola, FL 32502",
+    "coordinates": {
+      "latitude": 30.4103,
+      "longitude": -87.2175
+    },
+    "phone": "(850) 432-6247",
+    "website": "https://www.pensacolamuseum.org"
+  },
+  {
+    "name": "Pensacola Museum of History",
+    "address": "330 S Jefferson St, Pensacola, FL 32502",
+    "coordinates": {
+      "latitude": 30.4103,
+      "longitude": -87.2175
+    },
+    "phone": "(850) 595-5985",
+    "website": "https://www.historicpensacola.org"
+  },
+  {
+    "name": "Pioneer Village at Shingle Creek",
+    "address": "2491 Babb Rd, Kissimmee, FL 34746",
+    "coordinates": {
+      "latitude": 28.3058,
+      "longitude": -81.4564
+    },
+    "phone": "(407) 396-8644",
+    "website": "https://www.osceolahistory.org"
+  },
+  {
+    "name": "Richard & Pat Johnson Palm Beach County History Museum",
+    "address": "300 N Dixie Hwy, West Palm Beach, FL 33401",
+    "coordinates": {
+      "latitude": 26.7158,
+      "longitude": -80.0536
+    },
+    "phone": "(561) 832-4164",
+    "website": "https://www.historicalsocietypbc.org"
+  },
+  {
+    "name": "Rookery Bay Environmental Learning Center",
+    "address": "300 Tower Rd, Naples, FL 34113",
+    "coordinates": {
+      "latitude": 26.2397,
+      "longitude": -81.7625
+    },
+    "phone": "(239) 530-5970",
+    "website": "https://www.rookerybay.org"
+  },
+  {
+    "name": "Rubell Museum",
+    "address": "1100 NW 23rd St, Miami, FL 33127",
+    "coordinates": {
+      "latitude": 25.8008,
+      "longitude": -80.1997
+    },
+    "phone": "(305) 573-6090",
+    "website": "https://www.rubellmuseum.org"
+  },
+  {
+    "name": "Salvador Dalí Museum",
+    "address": "1 Dali Blvd, St. Petersburg, FL 33701",
+    "coordinates": {
+      "latitude": 27.7681,
+      "longitude": -82.6403
+    },
+    "phone": "(727) 823-3767",
+    "website": "https://www.thedali.org"
+  },
+  {
+    "name": "Santa Fe College Teaching Zoo",
+    "address": "3000 NW 83rd St, Gainesville, FL 32606",
+    "coordinates": {
+      "latitude": 29.6789,
+      "longitude": -82.4117
+    },
+    "phone": "(352) 395-5601",
+    "website": "https://www.sfcollege.edu/zoo"
+  },
+  {
+    "name": "Schoolhouse Children's Museum & Learning Center",
+    "address": "129 E Ocean Ave, Boynton Beach, FL 33435",
+    "coordinates": {
+      "latitude": 26.5258,
+      "longitude": -80.0667
+    },
+    "phone": "(561) 742-6780",
+    "website": "https://www.schoolhousemuseum.org"
+  },
+  {
+    "name": "Stonewall National Museum & Archives",
+    "address": "2157 Wilton Dr, Fort Lauderdale, FL 33305",
+    "coordinates": {
+      "latitude": 26.1384,
+      "longitude": -80.1065
+    },
+    "phone": "(954) 763-8565",
+    "website": "https://www.stonewall-museum.org"
+  },
+  {
+    "name": "Tallahassee Museum",
+    "address": "3945 Museum Dr, Tallahassee, FL 32310",
+    "coordinates": {
+      "latitude": 30.3967,
+      "longitude": -84.3258
+    },
+    "phone": "(850) 575-8684",
+    "website": "https://www.tallahasseemuseum.org"
+  },
+  {
+    "name": "Tampa Bay History Center",
+    "address": "801 Old Water St, Tampa, FL 33602",
+    "coordinates": {
+      "latitude": 27.9478,
+      "longitude": -82.4589
+    },
+    "phone": "(813) 228-0097",
+    "website": "https://www.tampabayhistorycenter.org"
+  },
+  {
+    "name": "Tampa Museum of Art",
+    "address": "120 W Gasparilla Plaza, Tampa, FL 33602",
+    "coordinates": {
+      "latitude": 27.9472,
+      "longitude": -82.4614
+    },
+    "phone": "(813) 274-8130",
+    "website": "https://www.tampamuseum.org"
+  },
+  {
+    "name": "Tennessee Williams Museum",
+    "address": "513 Truman Ave, Key West, FL 33040",
+    "coordinates": {
+      "latitude": 24.5594,
+      "longitude": -81.8075
+    },
+    "phone": "(305) 294-3121",
+    "website": "https://www.twkw.org"
+  },
+  {
+    "name": "The Baker Museum/Artis—Naples",
+    "address": "5833 Pelican Bay Blvd, Naples, FL 34108",
+    "coordinates": {
+      "latitude": 26.2397,
+      "longitude": -81.7625
+    },
+    "phone": "(239) 597-1111",
+    "website": "https://www.artisnaples.org"
+  },
+  {
+    "name": "The Bass",
+    "address": "2100 Collins Ave, Miami Beach, FL 33139",
+    "coordinates": {
+      "latitude": 25.7939,
+      "longitude": -80.1308
+    },
+    "phone": "(305) 673-7530",
+    "website": "https://www.thebass.org"
+  },
+  {
+    "name": "The Bishop Museum of Science and Nature",
+    "address": "201 10th St W, Bradenton, FL 34205",
+    "coordinates": {
+      "latitude": 27.4986,
+      "longitude": -82.5747
+    },
+    "phone": "(941) 746-4131",
+    "website": "https://www.bishopscience.org"
+  },
+  {
+    "name": "The Florida Holocaust Museum",
+    "address": "55 5th St S, St. Petersburg, FL 33701",
+    "coordinates": {
+      "latitude": 27.7681,
+      "longitude": -82.6403
+    },
+    "phone": "(727) 820-0100",
+    "website": "https://www.thefhm.org"
+  },
+  {
+    "name": "The IMAG History & Science Center",
+    "address": "2000 Cranford Ave, Fort Myers, FL 33916",
+    "coordinates": {
+      "latitude": 26.6356,
+      "longitude": -81.8799
+    },
+    "phone": "(239) 243-0043",
+    "website": "https://www.theimag.org"
+  },
+  {
+    "name": "The James Museum of Western and Wildlife Art",
+    "address": "150 Central Ave, St. Petersburg, FL 33701",
+    "coordinates": {
+      "latitude": 27.7681,
+      "longitude": -82.6403
+    },
+    "phone": "(727) 892-4200",
+    "website": "https://www.thejamesmuseum.org"
+  },
+  {
+    "name": "The John and Mable Ringling Museum of Art",
+    "address": "5401 Bay Shore Rd, Sarasota, FL 34243",
+    "coordinates": {
+      "latitude": 27.3847,
+      "longitude": -82.5636
+    },
+    "phone": "(941) 359-5700",
+    "website": "https://www.ringling.org"
+  },
+  {
+    "name": "The Kampong",
+    "address": "4013 Douglas Rd, Miami, FL 33133",
+    "coordinates": {
+      "latitude": 25.6789,
+      "longitude": -80.2722
+    },
+    "phone": "(305) 442-7169",
+    "website": "https://www.ntbg.org/gardens/kampong"
+  },
+  {
+    "name": "The Society of the Four Arts",
+    "address": "100 Four Arts Plaza, Palm Beach, FL 33480",
+    "coordinates": {
+      "latitude": 26.7009,
+      "longitude": -80.0484
+    },
+    "phone": "(561) 655-7226",
+    "website": "https://www.fourarts.org"
+  },
+  {
+    "name": "Vero Beach Museum of Art",
+    "address": "3001 Riverside Park Dr, Vero Beach, FL 32963",
+    "coordinates": {
+      "latitude": 27.6389,
+      "longitude": -80.3936
+    },
+    "phone": "(772) 231-0707",
+    "website": "https://www.vbmuseum.org"
+  },
+  {
+    "name": "Vizcaya Museum & Gardens",
+    "address": "3251 S Miami Ave, Miami, FL 33129",
+    "coordinates": {
+      "latitude": 25.7436,
+      "longitude": -80.2114
+    },
+    "phone": "(305) 250-9133",
+    "website": "https://www.vizcaya.org"
+  }
+]

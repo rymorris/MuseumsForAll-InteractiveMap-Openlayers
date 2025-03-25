@@ -1,0 +1,164 @@
+{
+  "institutions": [
+    {
+      "name": "Blithewold",
+      "address": "101 Ferry Rd, Bristol, RI 02809",
+      "coordinates": {
+        "latitude": 41.6293,
+        "longitude": -71.2845
+      },
+      "phone": "(401) 253-2707",
+      "website": "https://www.blithewold.org/"
+    },
+    {
+      "name": "Cape Verdean Museum",
+      "address": "1000 E Main St, Pawtucket, RI 02860",
+      "coordinates": {
+        "latitude": 41.8784,
+        "longitude": -71.3443
+      },
+      "phone": "(401) 728-0500",
+      "website": "http://www.capeverdeanmuseum.org/"
+    },
+    {
+      "name": "Coggeshall Farm Museum",
+      "address": "1 Coggeshall Farm Ln, Bristol, RI 02809",
+      "coordinates": {
+        "latitude": 41.6219,
+        "longitude": -71.2834
+      },
+      "phone": "(401) 253-9062",
+      "website": "https://www.coggeshallfarm.org/"
+    },
+    {
+      "name": "Historic New England - Arnold House",
+      "address": "487 Great Rd, Lincoln, RI 02865",
+      "coordinates": {
+        "latitude": 41.8851,
+        "longitude": -71.4634
+      },
+      "phone": "(401) 726-0597",
+      "website": "https://www.historicnewengland.org/"
+    },
+    {
+      "name": "Historic New England - Casey Farm",
+      "address": "2325 Boston Neck Rd, Saunderstown, RI 02874",
+      "coordinates": {
+        "latitude": 41.5810,
+        "longitude": -71.4670
+      },
+      "phone": "(401) 295-1030",
+      "website": "https://www.historicnewengland.org/"
+    },
+    {
+      "name": "Historic New England - Clemence-Irons House",
+      "address": "44 Irons Ave, Johnston, RI 02919",
+      "coordinates": {
+        "latitude": 41.8267,
+        "longitude": -71.5377
+      },
+      "phone": "(401) 231-7363",
+      "website": "https://www.historicnewengland.org/"
+    },
+    {
+      "name": "Historic New England - Watson Farm",
+      "address": "455 North Rd, Jamestown, RI 02835",
+      "coordinates": {
+        "latitude": 41.4813,
+        "longitude": -71.3731
+      },
+      "phone": "(401) 423-0005",
+      "website": "https://www.historicnewengland.org/"
+    },
+    {
+      "name": "John Brown House Museum - Rhode Island Historical Society",
+      "address": "52 Power St, Providence, RI 02906",
+      "coordinates": {
+        "latitude": 41.8267,
+        "longitude": -71.3956
+      },
+      "phone": "(401) 273-7507",
+      "website": "http://www.rihs.org/"
+    },
+    {
+      "name": "Lippitt House Museum",
+      "address": "199 Hope St, Providence, RI 02906",
+      "coordinates": {
+        "latitude": 41.8263,
+        "longitude": -71.3969
+      },
+      "phone": "(401) 453-0688",
+      "website": "http://www.rihs.org/"
+    },
+    {
+      "name": "Museum of Work & Culture - Rhode Island Historical Society",
+      "address": "42 S Main St, Woonsocket, RI 02895",
+      "coordinates": {
+        "latitude": 42.0025,
+        "longitude": -71.5080
+      },
+      "phone": "(401) 769-9675",
+      "website": "http://www.rihs.org/"
+    },
+    {
+      "name": "Newport Art Museum",
+      "address": "76 Bellevue Ave, Newport, RI 02840",
+      "coordinates": {
+        "latitude": 41.4702,
+        "longitude": -71.3184
+      },
+      "phone": "(401) 848-8200",
+      "website": "http://www.newportartmuseum.org/"
+    },
+    {
+      "name": "Newport Mansions | The Preservation Society of Newport County",
+      "address": "424 Bellevue Ave, Newport, RI 02840",
+      "coordinates": {
+        "latitude": 41.4795,
+        "longitude": -71.3157
+      },
+      "phone": "(401) 847-1000",
+      "website": "http://www.newportmansions.org/"
+    },
+    {
+      "name": "Providence Children's Museum",
+      "address": "100 South St, Providence, RI 02903",
+      "coordinates": {
+        "latitude": 41.8162,
+        "longitude": -71.4147
+      },
+      "phone": "(401) 273-5437",
+      "website": "http://www.providencechildrensmuseum.org/"
+    },
+    {
+      "name": "RISD Museum",
+      "address": "20 N Main St, Providence, RI 02903",
+      "coordinates": {
+        "latitude": 41.8230,
+        "longitude": -71.4139
+      },
+      "phone": "(401) 454-6500",
+      "website": "http://www.risdmuseum.org/"
+    },
+    {
+      "name": "Save the Bay's Hamilton Family Aquarium",
+      "address": "1 Save The Bay Dr, Newport, RI 02840",
+      "coordinates": {
+        "latitude": 41.4785,
+        "longitude": -71.3210
+      },
+      "phone": "(401) 324-6020",
+      "website": "http://www.savebay.org/"
+    },
+    {
+      "name": "The Sailing Museum",
+      "address": "1 Bannister's Wharf, Newport, RI 02840",
+      "coordinates": {
+        "latitude": 41.4907,
+        "longitude": -71.3173
+      },
+      "phone": "(401) 846-1983",
+      "website": "http://www.thesailingmuseum.org/"
+    }
+  ]
+}

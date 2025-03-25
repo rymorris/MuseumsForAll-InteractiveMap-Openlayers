@@ -1,0 +1,214 @@
+{
+  "institutions": [
+    {
+      "name": "Bean Life Science Museum",
+      "address": "645 E 1430 N, Provo, UT 84602",
+      "coordinates": {
+        "latitude": 40.2460,
+        "longitude": -111.6490
+      },
+      "phone": "(801) 422-5058",
+      "website": "https://www.byui.edu/bean-life-science-museum"
+    },
+    {
+      "name": "Box Elder Museum of Natural History",
+      "address": "2105 S 400 W, Brigham City, UT 84302",
+      "coordinates": {
+        "latitude": 41.5234,
+        "longitude": -112.0192
+      },
+      "phone": "(435) 226-1987",
+      "website": "http://www.boxeldermuseum.org/"
+    },
+    {
+      "name": "Brigham City Museum of Art & History",
+      "address": "24 N 300 W, Brigham City, UT 84302",
+      "coordinates": {
+        "latitude": 41.5232,
+        "longitude": -112.0199
+      },
+      "phone": "(435) 226-1439",
+      "website": "http://brighamcitymuseum.org/"
+    },
+    {
+      "name": "Canyon Country Discovery Center",
+      "address": "798 E 100 N, Monticello, UT 84535",
+      "coordinates": {
+        "latitude": 37.8838,
+        "longitude": -109.3644
+      },
+      "phone": "(435) 587-2156",
+      "website": "http://www.ccdiscovery.org/"
+    },
+    {
+      "name": "Discovery Gateway Children's Museum",
+      "address": "444 W 100 S, Salt Lake City, UT 84101",
+      "coordinates": {
+        "latitude": 40.7603,
+        "longitude": -111.8968
+      },
+      "phone": "(801) 456-5437",
+      "website": "http://www.discoverygateway.org/"
+    },
+    {
+      "name": "John Wesley Powell River History Museum",
+      "address": "1765 E Main St, Green River, UT 84525",
+      "coordinates": {
+        "latitude": 38.9951,
+        "longitude": -110.1591
+      },
+      "phone": "(435) 564-3332",
+      "website": "http://www.powellmuseum.org/"
+    },
+    {
+      "name": "Loveland Living Planet Aquarium",
+      "address": "725 E 10600 S, Draper, UT 84020",
+      "coordinates": {
+        "latitude": 40.5734,
+        "longitude": -111.8595
+      },
+      "phone": "(385) 355-1100",
+      "website": "https://www.livingplanet Aquarium.org/"
+    },
+    {
+      "name": "Moab Museum",
+      "address": "118 E Center St, Moab, UT 84532",
+      "coordinates": {
+        "latitude": 38.5732,
+        "longitude": -109.5490
+      },
+      "phone": "(435) 259-7989",
+      "website": "https://moabmuseum.org/"
+    },
+    {
+      "name": "Natural History Museum of Utah",
+      "address": "301 Wakara Way, Salt Lake City, UT 84108",
+      "coordinates": {
+        "latitude": 40.7491,
+        "longitude": -111.8324
+      },
+      "phone": "(801) 581-6927",
+      "website": "http://nhmu.utah.edu/"
+    },
+    {
+      "name": "Nora Eccles Harrison Museum of Art",
+      "address": "650 N 1100 E, Logan, UT 84322",
+      "coordinates": {
+        "latitude": 41.7331,
+        "longitude": -111.8234
+      },
+      "phone": "(435) 797-0163",
+      "website": "https://www.usu.edu/museumart/"
+    },
+    {
+      "name": "Red Butte Garden",
+      "address": "300 Wakara Way, Salt Lake City, UT 84108",
+      "coordinates": {
+        "latitude": 40.7485,
+        "longitude": -111.8378
+      },
+      "phone": "(801) 587-9400",
+      "website": "https://www.redbuttegarden.org/"
+    },
+    {
+      "name": "Salt Lake County Clark Planetarium",
+      "address": "110 S 400 W, Salt Lake City, UT 84101",
+      "coordinates": {
+        "latitude": 40.7610,
+        "longitude": -111.9066
+      },
+      "phone": "(385) 468-7827",
+      "website": "http://www.clarkplanetarium.org/"
+    },
+    {
+      "name": "St. George Children's Museum",
+      "address": "86 S Main St, St. George, UT 84770",
+      "coordinates": {
+        "latitude": 37.1065,
+        "longitude": -113.5774
+      },
+      "phone": "(435) 574-3450",
+      "website": "http://www.sgchildrensmuseum.org/"
+    },
+    {
+      "name": "St. George Dinosaur Discovery Site at Johnson Farm",
+      "address": "2180 E Riverside Dr, St. George, UT 84790",
+      "coordinates": {
+        "latitude": 37.0869,
+        "longitude": -113.5902
+      },
+      "phone": "(435) 574-3466",
+      "website": "http://www.dinosaurdiscovery.org/"
+    },
+    {
+      "name": "Thanksgiving Point",
+      "address": "3003 N Thanksgiving Way, Lehi, UT 84043",
+      "coordinates": {
+        "latitude": 40.4429,
+        "longitude": -111.8534
+      },
+      "phone": "(801) 768-2300",
+      "website": "https://www.thanksgivingpoint.org/"
+    },
+    {
+      "name": "The Leonardo Museum of Creativity and Innovation",
+      "address": "209 E 500 S, Salt Lake City, UT 84111",
+      "coordinates": {
+        "latitude": 40.7590,
+        "longitude": -111.8830
+      },
+      "phone": "(801) 531-9800",
+      "website": "https://www.leonardo.org/"
+    },
+    {
+      "name": "Tracy Aviary",
+      "address": "589 E 1300 S, Salt Lake City, UT 84105",
+      "coordinates": {
+        "latitude": 40.7408,
+        "longitude": -111.8610
+      },
+      "phone": "(801) 596-8500",
+      "website": "https://tracyaviary.org/"
+    },
+    {
+      "name": "Tracy Aviary & Botanical Garden in Liberty Park",
+      "address": "589 E 1300 S, Salt Lake City, UT 84105",
+      "coordinates": {
+        "latitude": 40.7408,
+        "longitude": -111.8610
+      },
+      "phone": "(801) 596-8500",
+      "website": "https://tracyaviary.org/"
+    },
+    {
+      "name": "Treehouse Museum",
+      "address": "347 W 1000 N, Ogden, UT 84404",
+      "coordinates": {
+        "latitude": 41.2250,
+        "longitude": -111.9779
+      },
+      "phone": "(801) 394-9663",
+      "website": "http://www.treehousemuseum.org/"
+    },
+    {
+      "name": "USU Eastern Prehistoric Museum",
+      "address": "155 E Main St, Price, UT 84501",
+      "coordinates": {
+        "latitude": 39.6059,
+        "longitude": -110.8036
+      },
+      "phone": "(435) 613-5000",
+      "website": "http://eastern.usu.edu/prehistoric/"
+    },
+    {
+      "name": "Utah Museum of Fine Arts",
+      "address": "410 Campus Center Dr, Salt Lake City, UT 84112",
+      "coordinates": {
+        "latitude": 40.7653,
+        "longitude": -111.8441
+      },
+      "phone": "(801) 581-7332",
+      "website": "https://umfa.utah.edu/"
+    }
+  ]
+}

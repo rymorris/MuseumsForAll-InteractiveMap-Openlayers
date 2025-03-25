@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Dale and Martha Hawk Museum",
+    "address": "4839 78th St NE, Wolford, ND 58385",
+    "coordinates": {"latitude": 48.5264, "longitude": -99.5086},
+    "phone": "(701) 583-2381",
+    "website": "https://www.hawkmuseum.org/"
+  },
+  {
+    "name": "Gateway to Science",
+    "address": "1600 Canary Ave, Bismarck, ND 58501",
+    "coordinates": {"latitude": 46.8297, "longitude": -100.8195},
+    "phone": "(701) 258-1975",
+    "website": "https://gatewaytoscience.org/"
+  },
+  {
+    "name": "Magic City Discovery Center",
+    "address": "1545 1st St NW, Minot, ND 58703",
+    "coordinates": {"latitude": 48.2453, "longitude": -101.2950},
+    "phone": "(701) 858-7529",
+    "website": "https://www.magiccitydiscoverycenter.com/"
+  },
+  {
+    "name": "North American Bison Discovery Center",
+    "address": "500 17th St SE, Jamestown, ND 58401",
+    "coordinates": {"latitude": 46.8965, "longitude": -98.6942},
+    "phone": "(701) 252-8648",
+    "website": "https://www.ndtourism.com/jamestown/attractions-entertainment/arts-attractions/north-american-bison-discovery-center"
+  },
+  {
+    "name": "Pioneer Trails Regional Museum",
+    "address": "12 1st Ave NE, Bowman, ND 58623",
+    "coordinates": {"latitude": 46.1833, "longitude": -103.3949},
+    "phone": "(701) 523-3600",
+    "website": "https://ptrm.org/"
+  },
+  {
+    "name": "Plains Art Museum",
+    "address": "704 1st Ave N, Fargo, ND 58102",
+    "coordinates": {"latitude": 46.8772, "longitude": -96.7898},
+    "phone": "(701) 551-6100",
+    "website": "https://plainsart.org/"
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "institutions": [
+    {
+      "name": "Hillwood Estate, Museum & Gardens",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "address": "4155 Linnean Ave NW, Washington, DC 20008",
+      "coordinates": {
+        "latitude": 38.9416,
+        "longitude": -77.0594
+      },
+      "phone": "(202) 686-5807",
+      "website": "https://www.hillwoodmuseum.org"
+    },
+    {
+      "name": "International Spy Museum",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "address": "700 L'Enfant Plaza SW, Washington, DC 20024",
+      "coordinates": {
+        "latitude": 38.8845,
+        "longitude": -77.0246
+      },
+      "phone": "(202) 393-7798",
+      "website": "https://www.spymuseum.org"
+    },
+    {
+      "name": "Museum of the Bible",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "address": "400 4th St SW, Washington, DC 20024",
+      "coordinates": {
+        "latitude": 38.8867,
+        "longitude": -77.0189
+      },
+      "phone": "(866) 430-6682",
+      "website": "https://www.museumofthebible.org"
+    },
+    {
+      "name": "National Building Museum",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "address": "401 F St NW, Washington, DC 20001",
+      "coordinates": {
+        "latitude": 38.8980,
+        "longitude": -77.0179
+      },
+      "phone": "(202) 272-2448",
+      "website": "https://www.nbm.org"
+    },
+    {
+      "name": "National Children's Museum",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "address": "1300 Pennsylvania Ave NW, Washington, DC 20004",
+      "coordinates": {
+        "latitude": 38.8953,
+        "longitude": -77.0317
+      },
+      "phone": "(202) 844-2486",
+      "website": "https://www.nationalchildrensmuseum.org"
+    },
+    {
+      "name": "President Lincoln's Cottage",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "address": "140 Rock Creek Church Rd NW, Washington, DC 20011",
+      "coordinates": {
+        "latitude": 38.9417,
+        "longitude": -77.0120
+      },
+      "phone": "(202) 829-0436",
+      "website": "https://www.lincolncottage.org"
+    },
+    {
+      "name": "Tudor Place",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "address": "1644 31st St NW, Washington, DC 20007",
+      "coordinates": {
+        "latitude": 38.9137,
+        "longitude": -77.0638
+      },
+      "phone": "(202) 965-0400",
+      "website": "https://www.tudorplace.org"
+    }
+  ]
+}

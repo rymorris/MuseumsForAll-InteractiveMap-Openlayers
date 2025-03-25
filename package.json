@@ -1,0 +1,23 @@
+{
+  "name": "open-layers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "ol": "^5.3.3",
+    "parcel-bundler": "^1.12.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1",
+    "sass": "^1.22.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build --public-url . index.html"
+  },
+  "author": "Grace-Amondi",
+  "license": "ISC"
+}

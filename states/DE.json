@@ -1,0 +1,112 @@
+{
+  "institutions": [
+    {
+      "name": "Biggs Museum of American Art",
+      "city": "Dover",
+      "state": "Delaware",
+      "address": "406 Federal St, Dover, DE 19901",
+      "coordinates": {
+        "latitude": 39.1578,
+        "longitude": -75.5247
+      },
+      "phone": "(302) 674-2111",
+      "website": "https://www.biggsmuseum.org"
+    },
+    {
+      "name": "Delaware History Museum and Mitchell Center for African American Heritage",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "address": "504 N Market St, Wilmington, DE 19801",
+      "coordinates": {
+        "latitude": 39.7429,
+        "longitude": -75.5509
+      },
+      "phone": "(302) 655-7161",
+      "website": "https://dehistory.org"
+    },
+    {
+      "name": "Delaware Museum of Nature & Science",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "address": "4840 Kennett Pike, Wilmington, DE 19807",
+      "coordinates": {
+        "latitude": 39.8037,
+        "longitude": -75.6239
+      },
+      "phone": "(302) 658-9111",
+      "website": "https://www.delmns.org"
+    },
+    {
+      "name": "Hagley Museum and Library",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "address": "200 Hagley Creek Rd, Wilmington, DE 19807",
+      "coordinates": {
+        "latitude": 39.7824,
+        "longitude": -75.5793
+      },
+      "phone": "(302) 658-2400",
+      "website": "https://www.hagley.org"
+    },
+    {
+      "name": "Historic Odessa Foundation",
+      "city": "Odessa",
+      "state": "Delaware",
+      "address": "201 Main St, Odessa, DE 19730",
+      "coordinates": {
+        "latitude": 39.4533,
+        "longitude": -75.6619
+      },
+      "phone": "(302) 378-4119",
+      "website": "https://www.historicodessa.org"
+    },
+    {
+      "name": "Mt. Cuba Center",
+      "city": "Hockessin",
+      "state": "Delaware",
+      "address": "3120 Barley Mill Rd, Hockessin, DE 19707",
+      "coordinates": {
+        "latitude": 39.8039,
+        "longitude": -75.6558
+      },
+      "phone": "(302) 239-4244",
+      "website": "https://mtcubacenter.org"
+    },
+    {
+      "name": "Nemours Estate",
+      "city": "Wilmington",
+      "state": "Delaware",
+      "address": "1600 Rockland Rd, Wilmington, DE 19803",
+      "coordinates": {
+        "latitude": 39.7714,
+        "longitude": -75.5413
+      },
+      "phone": "(302) 651-6912",
+      "website": "https://www.nemoursestate.org"
+    },
+    {
+      "name": "Read House & Gardens",
+      "city": "New Castle",
+      "state": "Delaware",
+      "address": "42 The Strand, New Castle, DE 19720",
+      "coordinates": {
+        "latitude": 39.6599,
+        "longitude": -75.5633
+      },
+      "phone": "(302) 322-8411",
+      "website": "https://dehistory.org/read-house-gardens"
+    },
+    {
+      "name": "Winterthur Museum, Garden & Library",
+      "city": "Winterthur",
+      "state": "Delaware",
+      "address": "5105 Kennett Pike, Winterthur, DE 19735",
+      "coordinates": {
+        "latitude": 39.8066,
+        "longitude": -75.6072
+      },
+      "phone": "(800) 448-3883",
+      "website": "https://www.winterthur.org"
+    }
+  ]
+}

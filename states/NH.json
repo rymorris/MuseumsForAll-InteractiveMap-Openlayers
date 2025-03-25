@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Children's Museum of New Hampshire",
+    "address": "6 Washington Street, Dover, NH 03820",
+    "coordinates": {"latitude": 43.1945, "longitude": -70.8736},
+    "phone": "(603) 742-2002",
+    "website": "https://childrens-museum.org/"
+  },
+  {
+    "name": "Historic New England - Barrett House",
+    "address": "79 Main Street, New Ipswich, NH 03071",
+    "coordinates": {"latitude": 42.7515, "longitude": -71.8512},
+    "phone": "(617) 994-6675",
+    "website": "https://www.historicnewengland.org/property/barrett-house/"
+  },
+  {
+    "name": "Historic New England - Gilman Garrison House",
+    "address": "12 Water Street, Exeter, NH 03833",
+    "coordinates": {"latitude": 42.9827, "longitude": -70.9495},
+    "phone": "(617) 994-6660",
+    "website": "https://www.historicnewengland.org/property/gilman-garrison-house/"
+  },
+  {
+    "name": "Historic New England - Governor John Langdon House",
+    "address": "143 Pleasant Street, Portsmouth, NH 03801",
+    "coordinates": {"latitude": 43.0757, "longitude": -70.7586},
+    "phone": "(617) 994-6670",
+    "website": "https://www.historicnewengland.org/property/governor-john-langdon-house/"
+  },
+  {
+    "name": "Historic New England - Jackson House",
+    "address": "76 Northwest Street, Portsmouth, NH 03801",
+    "coordinates": {"latitude": 43.0836, "longitude": -70.7679},
+    "phone": "(617) 994-6670",
+    "website": "https://www.historicnewengland.org/property/jackson-house/"
+  },
+  {
+    "name": "Historic New England - Rundlet-May House",
+    "address": "364 Middle Street, Portsmouth, NH 03801",
+    "coordinates": {"latitude": 43.0743, "longitude": -70.7621},
+    "phone": "(617) 994-6670",
+    "website": "https://www.historicnewengland.org/property/rundlet-may-house/"
+  },
+  {
+    "name": "John Paul Jones Historic House Museum - Portsmouth Historical Society",
+    "address": "43 Middle Street, Portsmouth, NH 03801",
+    "coordinates": {"latitude": 43.0754, "longitude": -70.7595},
+    "phone": "(603) 436-8420",
+    "website": "https://portsmouthhistory.org/john-paul-jones-house/"
+  },
+  {
+    "name": "Manchester Historic Association's Millyard Museum",
+    "address": "200 Bedford Street, Manchester, NH 03101",
+    "coordinates": {"latitude": 42.9906, "longitude": -71.4662},
+    "phone": "(603) 622-7531",
+    "website": "https://www.manchesterhistoric.org/millyard-museum"
+  },
+  {
+    "name": "McAuliffe-Shepard Discovery Center",
+    "address": "2 Institute Drive, Concord, NH 03301",
+    "coordinates": {"latitude": 43.2132, "longitude": -71.5386},
+    "phone": "(603) 271-7827",
+    "website": "https://www.starhop.com/"
+  },
+  {
+    "name": "New Hampshire Boat Museum",
+    "address": "399 Center Street, Wolfeboro Falls, NH 03896",
+    "coordinates": {"latitude": 43.6031, "longitude": -71.2091},
+    "phone": "(603) 569-4554",
+    "website": "https://www.nhbm.org/"
+  },
+  {
+    "name": "New Hampshire Telephone Museum",
+    "address": "1 Depot Street, Warner, NH 03278",
+    "coordinates": {"latitude": 43.2837, "longitude": -71.8153},
+    "phone": "(603) 456-2234",
+    "website": "https://www.nhtelephonemuseum.org/"
+  },
+  {
+    "name": "Portsmouth Historical Society",
+    "address": "10 Middle Street, Portsmouth, NH 03801",
+    "coordinates": {"latitude": 43.0750, "longitude": -70.7593},
+    "phone": "(603) 436-8433",
+    "website": "https://portsmouthhistory.org/"
+  },
+  {
+    "name": "Seacoast Science Center",
+    "address": "570 Ocean Boulevard, Rye, NH 03870",
+    "coordinates": {"latitude": 43.0455, "longitude": -70.7130},
+    "phone": "(603) 436-8043",
+    "website": "https://www.seacoastsciencecenter.org/"
+  },
+  {
+    "name": "SEE Science Center",
+    "address": "200 Bedford Street, Manchester, NH 03101",
+    "coordinates": {"latitude": 42.9906, "longitude": -71.4662},
+    "phone": "(603) 669-0400",
+    "website": "https://see-sciencecenter.org/"
+  },
+  {
+    "name": "Squam Lakes Natural Science Center",
+    "address": "23 Science Center Road, Holderness, NH 03245",
+    "coordinates": {"latitude": 43.7312, "longitude": -71.5906},
+    "phone": "(603) 968-7194",
+    "website": "https://www.nhnature.org/"
+  },
+  {
+    "name": "Strawbery Banke Museum",
+    "address": "14 Hancock Street, Portsmouth, NH 03801",
+    "coordinates": {"latitude": 43.0759, "longitude": -70.7516},
+    "phone": "(603) 433-1100",
+    "website": "https://www.strawberybanke.org/"
+  },
+  {
+    "name": "Warner House",
+    "address": "150 Daniel Street, Portsmouth, NH 03801",
+    "coordinates": {"latitude": 43.0781, "longitude": -70.7572},
+    "phone": "(603) 436-5909",
+    "website": "https://warnerhouse.org/"
+  },
+  {
+    "name": "Woodman Museum",
+    "address": "182 Central Avenue, Dover, NH 03820",
+    "coordinates": {"latitude": 43.1939, "longitude": -70.8731},
+    "phone": "(603) 742-1038",
+    "website": "https://woodmanmuseum.org/"
+  }
+]

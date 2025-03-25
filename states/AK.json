@@ -1,0 +1,28 @@
+{
+  "institutions": [
+    {
+      "name": "Fairbanks Children's Museum",
+      "city": "Fairbanks",
+      "state": "Alaska",
+      "address": "302 Cushman St, Fairbanks, AK 99701",
+      "coordinates": {
+        "latitude": 64.8436,
+        "longitude": -147.7235
+      },
+      "phone": "(907) 374-3171",
+      "website": "https://www.fairbankschildrensmuseum.com"
+    },
+    {
+      "name": "University of Alaska Museum of the North",
+      "city": "Fairbanks",
+      "state": "Alaska",
+      "address": "1962 Yukon Dr, Fairbanks, AK 99775",
+      "coordinates": {
+        "latitude": 64.8584,
+        "longitude": -147.8414
+      },
+      "phone": "(907) 474-7505",
+      "website": "https://www.uaf.edu/museum/"
+    }
+  ]
+}

@@ -1,0 +1,882 @@
+[
+  {
+    "name": "Allentown Art Museum",
+    "address": "31 N 5th St, Allentown, PA 18101",
+    "coordinates": {
+      "latitude": 40.6028,
+      "longitude": -75.4653
+    },
+    "phone": "(610) 432-4333",
+    "website": "https://www.allentownartmuseum.org"
+  },
+  {
+    "name": "America On Wheels",
+    "address": "5 N Front St, Allentown, PA 18102",
+    "coordinates": {
+      "latitude": 40.6042,
+      "longitude": -75.4689
+    },
+    "phone": "(610) 432-4200",
+    "website": "https://www.americaonwheels.org"
+  },
+  {
+    "name": "ArtLife Studio",
+    "address": "300 Centre St, Freeland, PA 18224",
+    "coordinates": {
+      "latitude": 41.0169,
+      "longitude": -75.8969
+    },
+    "phone": "(570) 636-2787",
+    "website": "https://www.artlifestudio.org"
+  },
+  {
+    "name": "Arts + Education at the Hoyt",
+    "address": "124 E Leasure Ave, New Castle, PA 16101",
+    "coordinates": {
+      "latitude": 40.9969,
+      "longitude": -80.3419
+    },
+    "phone": "(724) 652-2882",
+    "website": "https://www.hoytartcenter.org"
+  },
+  {
+    "name": "Bloomsburg Children's Museum",
+    "address": "2 W 7th St, Bloomsburg, PA 17815",
+    "coordinates": {
+      "latitude": 41.0008,
+      "longitude": -76.4547
+    },
+    "phone": "(570) 389-9206",
+    "website": "https://www.the-childrens-museum.org"
+  },
+  {
+    "name": "Bowman's Hill Wildflower Preserve",
+    "address": "1635 River Rd, New Hope, PA 18938",
+    "coordinates": {
+      "latitude": 40.3569,
+      "longitude": -74.9558
+    },
+    "phone": "(215) 862-2924",
+    "website": "https://www.bhwp.org"
+  },
+  {
+    "name": "Braddock's Battlefield History Center",
+    "address": "609 Sixth St, North Braddock, PA 15104",
+    "coordinates": {
+      "latitude": 40.4036,
+      "longitude": -79.8647
+    },
+    "phone": "(412) 271-0266",
+    "website": "https://www.braddocksbattlefield.com"
+  },
+  {
+    "name": "Brandywine Battlefield Park",
+    "address": "1491 Baltimore Pike, Chadds Ford, PA 19317",
+    "coordinates": {
+      "latitude": 39.8722,
+      "longitude": -75.5786
+    },
+    "phone": "(610) 459-3342",
+    "website": "https://www.brandywinebattlefield.org"
+  },
+  {
+    "name": "Brandywine River Museum of Art",
+    "address": "1 Hoffmans Mill Rd, Chadds Ford, PA 19317",
+    "coordinates": {
+      "latitude": 39.8708,
+      "longitude": -75.5914
+    },
+    "phone": "(610) 388-2700",
+    "website": "https://www.brandywine.org/museum"
+  },
+  {
+    "name": "Bucks County Children's Museum",
+    "address": "500 Union Square Dr, New Hope, PA 18938",
+    "coordinates": {
+      "latitude": 40.3625,
+      "longitude": -74.9519
+    },
+    "phone": "(215) 693-1290",
+    "website": "https://www.buckskids.org"
+  },
+  {
+    "name": "Bushy Run Battlefield",
+    "address": "1253 Bushy Run Rd, Jeannette, PA 15644",
+    "coordinates": {
+      "latitude": 40.3536,
+      "longitude": -79.6247
+    },
+    "phone": "(724) 527-5584",
+    "website": "https://www.bushyrunbattlefield.com"
+  },
+  {
+    "name": "Carnegie Museum of Art",
+    "address": "4400 Forbes Ave, Pittsburgh, PA 15213",
+    "coordinates": {
+      "latitude": 40.4439,
+      "longitude": -79.9508
+    },
+    "phone": "(412) 622-3131",
+    "website": "https://cmoa.org"
+  },
+  {
+    "name": "Carnegie Museum of Natural History",
+    "address": "4400 Forbes Ave, Pittsburgh, PA 15213",
+    "coordinates": {
+      "latitude": 40.4439,
+      "longitude": -79.9508
+    },
+    "phone": "(412) 622-3131",
+    "website": "https://carnegiemnh.org"
+  },
+  {
+    "name": "Carnegie Science Center",
+    "address": "1 Allegheny Ave, Pittsburgh, PA 15212",
+    "coordinates": {
+      "latitude": 40.4469,
+      "longitude": -80.0189
+    },
+    "phone": "(412) 237-3400",
+    "website": "https://www.carnegiesciencecenter.org"
+  },
+  {
+    "name": "Chanticleer",
+    "address": "786 Church Rd, Wayne, PA 19087",
+    "coordinates": {
+      "latitude": 40.0436,
+      "longitude": -75.4558
+    },
+    "phone": "(610) 687-4163",
+    "website": "https://www.chanticleergarden.org"
+  },
+  {
+    "name": "Children's Museum of Pittsburgh",
+    "address": "10 Children's Way, Pittsburgh, PA 15212",
+    "coordinates": {
+      "latitude": 40.4489,
+      "longitude": -80.0189
+    },
+    "phone": "(412) 322-5058",
+    "website": "https://pittsburghkids.org"
+  },
+  {
+    "name": "Colonial Pennsylvania Farmstead",
+    "address": "3900 N Providence Rd, Newtown Square, PA 19073",
+    "coordinates": {
+      "latitude": 39.9878,
+      "longitude": -75.4158
+    },
+    "phone": "(610) 566-1725",
+    "website": "https://www.colonialplantation.org"
+  },
+  {
+    "name": "Conrad Weiser Homestead",
+    "address": "28 Weiser Ln, Womelsdorf, PA 19567",
+    "coordinates": {
+      "latitude": 40.3619,
+      "longitude": -76.1839
+    },
+    "phone": "(610) 589-2934",
+    "website": "https://www.conradweiserhomestead.org"
+  },
+  {
+    "name": "Cornwall Iron Furnace",
+    "address": "94 Rexmont Rd, Lebanon, PA 17042",
+    "coordinates": {
+      "latitude": 40.2719,
+      "longitude": -76.4069
+    },
+    "phone": "(717) 272-9711",
+    "website": "https://www.cornwallironfurnace.org"
+  },
+  {
+    "name": "Daniel Boone Homestead",
+    "address": "400 Daniel Boone Rd, Birdsboro, PA 19508",
+    "coordinates": {
+      "latitude": 40.2708,
+      "longitude": -75.8158
+    },
+    "phone": "(610) 582-4900",
+    "website": "https://www.thedanielboonehomestead.org"
+  },
+  {
+    "name": "Discovery Space",
+    "address": "1224 N Atherton St, State College, PA 16803",
+    "coordinates": {
+      "latitude": 40.8089,
+      "longitude": -77.8519
+    },
+    "phone": "(814) 234-0200",
+    "website": "https://www.discoveryspace.org"
+  },
+  {
+    "name": "Drake Well Museum and Park",
+    "address": "202 Museum Ln, Titusville, PA 16354",
+    "coordinates": {
+      "latitude": 41.6158,
+      "longitude": -79.6589
+    },
+    "phone": "(814) 827-2797",
+    "website": "https://www.drakewell.org"
+  },
+  {
+    "name": "Eastern State Penitentiary Historic Site",
+    "address": "2027 Fairmount Ave, Philadelphia, PA 19130",
+    "coordinates": {
+      "latitude": 39.9686,
+      "longitude": -75.1728
+    },
+    "phone": "(215) 236-3300",
+    "website": "https://www.easternstate.org"
+  },
+  {
+    "name": "Eckley Miners' Village",
+    "address": "2 Eckley Main St, Weatherly, PA 18255",
+    "coordinates": {
+      "latitude": 40.9969,
+      "longitude": -75.8269
+    },
+    "phone": "(570) 636-2070",
+    "website": "https://www.eckleyminers.org"
+  },
+  {
+    "name": "Electric City Trolley Museum",
+    "address": "300 Cliff St, Scranton, PA 18503",
+    "coordinates": {
+      "latitude": 41.4089,
+      "longitude": -75.6589
+    },
+    "phone": "(570) 963-6590",
+    "website": "https://www.ectma.org"
+  },
+  {
+    "name": "Ephrata Cloister",
+    "address": "632 W Main St, Ephrata, PA 17522",
+    "coordinates": {
+      "latitude": 40.1789,
+      "longitude": -76.1839
+    },
+    "phone": "(717) 733-6600",
+    "website": "https://www.ephratacloister.org"
+  },
+  {
+    "name": "Erie Art Museum",
+    "address": "20 E 5th St, Erie, PA 16507",
+    "coordinates": {
+      "latitude": 42.1297,
+      "longitude": -80.0858
+    },
+    "phone": "(814) 459-5477",
+    "website": "https://www.erieartmuseum.org"
+  },
+  {
+    "name": "Erie Maritime Museum and U.S. Brig Niagara",
+    "address": "150 E Front St, Erie, PA 16507",
+    "coordinates": {
+      "latitude": 42.1369,
+      "longitude": -80.0858
+    },
+    "phone": "(814) 452-2744",
+    "website": "https://www.eriemaritimemuseum.org"
+  },
+  {
+    "name": "Everhart Museum",
+    "address": "1901 Mulberry St, Scranton, PA 18510",
+    "coordinates": {
+      "latitude": 41.4089,
+      "longitude": -75.6589
+    },
+    "phone": "(570) 346-7186",
+    "website": "https://www.everhart-museum.org"
+  },
+  {
+    "name": "ExpERIEnce Children's Museum",
+    "address": "420 French St, Erie, PA 16507",
+    "coordinates": {
+      "latitude": 42.1297,
+      "longitude": -80.0858
+    },
+    "phone": "(814) 453-3743",
+    "website": "https://www.eriechildrensmuseum.org"
+  },
+  {
+    "name": "Fort Ligonier",
+    "address": "200 S Market St, Ligonier, PA 15658",
+    "coordinates": {
+      "latitude": 40.2419,
+      "longitude": -79.2389
+    },
+    "phone": "(724) 238-9701",
+    "website": "https://www.fortligonier.org"
+  },
+  {
+    "name": "Gettysburg Foundation",
+    "address": "1195 Baltimore Pike, Gettysburg, PA 17325",
+    "coordinates": {
+      "latitude": 39.8119,
+      "longitude": -77.2319
+    },
+    "phone": "(717) 338-1243",
+    "website": "https://www.gettysburgfoundation.org"
+  },
+  {
+    "name": "Glencairn Museum",
+    "address": "1001 Cathedral Rd, Bryn Athyn, PA 19009",
+    "coordinates": {
+      "latitude": 40.1319,
+      "longitude": -75.0639
+    },
+    "phone": "(267) 502-2990",
+    "website": "https://www.glencairnmuseum.org"
+  },
+  {
+    "name": "Graeme Park",
+    "address": "859 County Line Rd, Horsham, PA 19044",
+    "coordinates": {
+      "latitude": 40.1789,
+      "longitude": -75.1319
+    },
+    "phone": "(215) 343-0965",
+    "website": "https://www.graemepark.org"
+  },
+  {
+    "name": "Hagen History Center",
+    "address": "356 W 6th St, Erie, PA 16507",
+    "coordinates": {
+      "latitude": 42.1297,
+      "longitude": -80.0858
+    },
+    "phone": "(814) 454-1813",
+    "website": "https://www.eriehistory.org"
+  },
+  {
+    "name": "Hands-On House, Children's Museum of Lancaster",
+    "address": "721 Landis Valley Rd, Lancaster, PA 17601",
+    "coordinates": {
+      "latitude": 40.0789,
+      "longitude": -76.3039
+    },
+    "phone": "(717) 569-5437",
+    "website": "https://www.handsonhouse.org"
+  },
+  {
+    "name": "Heritage Discovery Center",
+    "address": "201 6th Ave, Johnstown, PA 15906",
+    "coordinates": {
+      "latitude": 40.3269,
+      "longitude": -78.9189
+    },
+    "phone": "(814) 539-1889",
+    "website": "https://www.jaha.org"
+  },
+  {
+    "name": "Hershey Gardens",
+    "address": "170 Hotel Rd, Hershey, PA 17033",
+    "coordinates": {
+      "latitude": 40.2919,
+      "longitude": -76.6519
+    },
+    "phone": "(717) 534-3492",
+    "website": "https://www.hersheygardens.org"
+  },
+  {
+    "name": "Johnstown Children's Museum",
+    "address": "201 6th Ave, Johnstown, PA 15906",
+    "coordinates": {
+      "latitude": 40.3269,
+      "longitude": -78.9189
+    },
+    "phone": "(814) 539-1889",
+    "website": "https://www.jaha.org"
+  },
+  {
+    "name": "Johnstown Flood Museum",
+    "address": "304 Washington St, Johnstown, PA 15901",
+    "coordinates": {
+      "latitude": 40.3269,
+      "longitude": -78.9189
+    },
+    "phone": "(814) 539-1889",
+    "website": "https://www.jaha.org"
+  },
+  {
+    "name": "Joseph Priestley House Museum",
+    "address": "472 Priestley Ave, Northumberland, PA 17857",
+    "coordinates": {
+      "latitude": 40.8919,
+      "longitude": -76.7939
+    },
+    "phone": "(570) 473-9474",
+    "website": "https://www.priestleyhouse.org"
+  },
+  {
+    "name": "Keystone Kidspace",
+    "address": "200 W Philadelphia St, York, PA 17401",
+    "coordinates": {
+      "latitude": 39.9619,
+      "longitude": -76.7319
+    },
+    "phone": "(717) 843-1478",
+    "website": "https://www.keystonekidspace.org"
+  },
+  {
+    "name": "LancasterHistory",
+    "address": "230 N President Ave, Lancaster, PA 17603",
+    "coordinates": {
+      "latitude": 40.0389,
+      "longitude": -76.3039
+    },
+    "phone": "(717) 392-4633",
+    "website": "https://www.lancasterhistory.org"
+  },
+  {
+    "name": "Landis Valley Village and Farm Museum",
+    "address": "2451 Kissel Hill Rd, Lancaster, PA 17601",
+    "coordinates": {
+      "latitude": 40.0789,
+      "longitude": -76.3039
+    },
+    "phone": "(717) 569-0401",
+    "website": "https://www.landisvalleymuseum.org"
+  },
+  {
+    "name": "Lehigh Valley Zoo",
+    "address": "5150 Game Preserve Rd, Schnecksville, PA 18078",
+    "coordinates": {
+      "latitude": 40.6789,
+      "longitude": -75.6158
+    },
+    "phone": "(610) 799-4171",
+    "website": "https://www.lvzoo.org"
+  },
+  {
+    "name": "Lewisburg Children's Museum",
+    "address": "815 Market St, Lewisburg, PA 17837",
+    "coordinates": {
+      "latitude": 40.9619,
+      "longitude": -76.8919
+    },
+    "phone": "(570) 768-4914",
+    "website": "https://www.lewisburgchildrensmuseum.org"
+  },
+  {
+    "name": "Longwood Gardens",
+    "address": "1001 Longwood Rd, Kennett Square, PA 19348",
+    "coordinates": {
+      "latitude": 39.8708,
+      "longitude": -75.6719
+    },
+    "phone": "(610) 388-1000",
+    "website": "https://www.longwoodgardens.org"
+  },
+  {
+    "name": "Mattress Factory",
+    "address": "500 Sampsonia Way, Pittsburgh, PA 15212",
+    "coordinates": {
+      "latitude": 40.4589,
+      "longitude": -79.9839
+    },
+    "phone": "(412) 231-3169",
+    "website": "https://www.mattress.org"
+  },
+  {
+    "name": "Moonshot Museum",
+    "address": "1016 N Lincoln Ave, Pittsburgh, PA 15233",
+    "coordinates": {
+      "latitude": 40.4589,
+      "longitude": -79.9839
+    },
+    "phone": "(412) 682-4500",
+    "website": "https://www.moonshotmuseum.org"
+  },
+  {
+    "name": "Moravian Historical Society",
+    "address": "214 E Center St, Nazareth, PA 18064",
+    "coordinates": {
+      "latitude": 40.7389,
+      "longitude": -75.3119
+    },
+    "phone": "(610) 759-5070",
+    "website": "https://www.moravianhistoricalsociety.org"
+  },
+  {
+    "name": "Museum of the American Revolution",
+    "address": "101 S 3rd St, Philadelphia, PA 19106",
+    "coordinates": {
+      "latitude": 39.9489,
+      "longitude": -75.1458
+    },
+    "phone": "(215) 253-6731",
+    "website": "https://www.amrevmuseum.org"
+  },
+  {
+    "name": "National Canal Museum",
+    "address": "2750 Hugh Moore Park Rd, Easton, PA 18042",
+    "coordinates": {
+      "latitude": 40.6889,
+      "longitude": -75.2119
+    },
+    "phone": "(610) 923-3548",
+    "website": "https://www.canals.org"
+  },
+  {
+    "name": "National Museum of Industrial History",
+    "address": "602 E 2nd St, Bethlehem, PA 18015",
+    "coordinates": {
+      "latitude": 40.6189,
+      "longitude": -75.3819
+    },
+    "phone": "(610) 694-6644",
+    "website": "https://www.nmih.org"
+  },
+  {
+    "name": "National Watch and Clock Museum",
+    "address": "514 Poplar St, Columbia, PA 17512",
+    "coordinates": {
+      "latitude": 40.0339,
+      "longitude": -76.5039
+    },
+    "phone": "(717) 684-8261",
+    "website": "https://www.nawcc.org"
+  },
+  {
+    "name": "North Museum of Nature and Science",
+    "address": "400 College Ave, Lancaster, PA 17603",
+    "coordinates": {
+      "latitude": 40.0389,
+      "longitude": -76.3039
+    },
+    "phone": "(717) 291-3941",
+    "website": "https://www.northmuseum.org"
+  },
+  {
+    "name": "Old Economy Village",
+    "address": "270 16th St, Ambridge, PA 15003",
+    "coordinates": {
+      "latitude": 40.5939,
+      "longitude": -80.2319
+    },
+    "phone": "(724) 266-4500",
+    "website": "https://www.oldeconomyvillage.org"
+  },
+  {
+    "name": "Penn Museum (University of Pennsylvania Museum of Archaeology and Anthropology)",
+    "address": "3260 South St, Philadelphia, PA 19104",
+    "coordinates": {
+      "latitude": 39.9489,
+      "longitude": -75.1919
+    },
+    "phone": "(215) 898-4000",
+    "website": "https://www.penn.museum"
+  },
+  {
+    "name": "Pennsbury Manor",
+    "address": "400 Pennsbury Memorial Rd, Morrisville, PA 19067",
+    "coordinates": {
+      "latitude": 40.2019,
+      "longitude": -74.7819
+    },
+    "phone": "(215) 946-0400",
+    "website": "https://www.pennsburymanor.org"
+  },
+  {
+    "name": "Pennsylvania Anthracite Heritage Museum (PHMC)",
+    "address": "22 Bald Mountain Rd, Scranton, PA 18504",
+    "coordinates": {
+      "latitude": 41.4089,
+      "longitude": -75.6589
+    },
+    "phone": "(570) 963-4804",
+    "website": "https://www.anthracitemuseum.org"
+  },
+  {
+    "name": "Pennsylvania Lumber Museum",
+    "address": "5660 US-6, Ulysses, PA 16948",
+    "coordinates": {
+      "latitude": 41.8919,
+      "longitude": -77.7839
+    },
+    "phone": "(814) 435-2652",
+    "website": "https://www.lumbermuseum.org"
+  },
+  {
+    "name": "Pennsylvania Military Museum",
+    "address": "51 Boal Ave, Boalsburg, PA 16827",
+    "coordinates": {
+      "latitude": 40.7789,
+      "longitude": -77.7919
+    },
+    "phone": "(814) 466-6263",
+    "website": "https://www.pamilmuseum.org"
+  },
+  {
+    "name": "Philadelphia Museum of Art",
+    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130",
+    "coordinates": {
+      "latitude": 39.9656,
+      "longitude": -75.1808
+    },
+    "phone": "(215) 763-8100",
+    "website": "https://www.philamuseum.org"
+  },
+  {
+    "name": "Phillips Museum of Art",
+    "address": "700 College Ave, Lancaster, PA 17603",
+    "coordinates": {
+      "latitude": 40.0389,
+      "longitude": -76.3039
+    },
+    "phone": "(717) 291-3879",
+    "website": "https://www.fandm.edu/phillips-museum"
+  },
+  {
+    "name": "Phipps Conservatory and Botanical Gardens",
+    "address": "1 Schenley Park, Pittsburgh, PA 15213",
+    "coordinates": {
+      "latitude": 40.4389,
+      "longitude": -79.9489
+    },
+    "phone": "(412) 622-6914",
+    "website": "https://www.phipps.conservatory.org"
+  },
+  {
+    "name": "Pittsburgh Botanic Gardens",
+    "address": "799 Pinkerton Run Rd, Oakdale, PA 15071",
+    "coordinates": {
+      "latitude": 40.3969,
+      "longitude": -80.1839
+    },
+    "phone": "(412) 444-4464",
+    "website": "https://www.pittsburghbotanicgarden.org"
+  },
+  {
+    "name": "Pittsburgh Zoo & Aquarium",
+    "address": "7370 Baker St, Pittsburgh, PA 15206",
+    "coordinates": {
+      "latitude": 40.4839,
+      "longitude": -79.9189
+    },
+    "phone": "(412) 665-3640",
+    "website": "https://www.pittsburghzoo.org"
+  },
+  {
+    "name": "Please Touch Museum",
+    "address": "4231 Avenue of the Republic, Philadelphia, PA 19131",
+    "coordinates": {
+      "latitude": 39.9789,
+      "longitude": -75.2119
+    },
+    "phone": "(215) 581-3181",
+    "website": "https://www.pleasetouchmuseum.org"
+  },
+  {
+    "name": "Pottstown Children's Discovery Center",
+    "address": "30 W King St, Pottstown, PA 19464",
+    "coordinates": {
+      "latitude": 40.2469,
+      "longitude": -75.6519
+    },
+    "phone": "(610) 326-8226",
+    "website": "https://www.pottstownchildrensdiscoverycenter.org"
+  },
+  {
+    "name": "Railroad Museum of Pennsylvania",
+    "address": "300 Gap Rd, Ronks, PA 17572",
+    "coordinates": {
+      "latitude": 39.9839,
+      "longitude": -76.1619
+    },
+    "phone": "(717) 687-8628",
+    "website": "https://www.rrmuseumpa.org"
+  },
+  {
+    "name": "Reading Science Center",
+    "address": "645 Penn St, Reading, PA 19601",
+    "coordinates": {
+      "latitude": 40.3369,
+      "longitude": -75.9269
+    },
+    "phone": "(484) 931-9084",
+    "website": "https://www.readingsciencecenter.org"
+  },
+  {
+    "name": "Seminary Ridge Museum & Education Center",
+    "address": "111 Seminary Ridge, Gettysburg, PA 17325",
+    "coordinates": {
+      "latitude": 39.8319,
+      "longitude": -77.2469
+    },
+    "phone": "(717) 339-1300",
+    "website": "https://www.seminaryridgemuseum.org"
+  },
+  {
+    "name": "Shofuso Japanese Cultural Center",
+    "address": "Lansdowne Dr & Horticultural Dr, Philadelphia, PA 19131",
+    "coordinates": {
+      "latitude": 39.9789,
+      "longitude": -75.2119
+    },
+    "phone": "(215) 878-5097",
+    "website": "https://www.shofuso.com"
+  },
+  {
+    "name": "Sigal Museum",
+    "address": "342 Northampton St, Easton, PA 18042",
+    "coordinates": {
+      "latitude": 40.6889,
+      "longitude": -75.2119
+    },
+    "phone": "(610) 253-1222",
+    "website": "https://www.sigalmuseum.org"
+  },
+  {
+    "name": "Simeone Foundation Automotive Museum",
+    "address": "6825 Norwitch Dr, Philadelphia, PA 19153",
+    "coordinates": {
+      "latitude": 39.9089,
+      "longitude": -75.2419
+    },
+    "phone": "(215) 365-7233",
+    "website": "https://www.simeonemuseum.org"
+  },
+  {
+    "name": "Soldiers & Sailors Memorial Hall & Museum",
+    "address": "4141 Fifth Ave, Pittsburgh, PA 15213",
+    "coordinates": {
+      "latitude": 40.4439,
+      "longitude": -79.9508
+    },
+    "phone": "(412) 621-4253",
+    "website": "https://www.soldiersandsailorshall.org"
+  },
+  {
+    "name": "Somerset Historical Center",
+    "address": "10649 Somerset Pike, Somerset, PA 15501",
+    "coordinates": {
+      "latitude": 40.0089,
+      "longitude": -79.0839
+    },
+    "phone": "(814) 445-6077",
+    "website": "https://www.somersethistoricalcenter.org"
+  },
+  {
+    "name": "State Museum of Pennsylvania",
+    "address": "300 North St, Harrisburg, PA 17120",
+    "coordinates": {
+      "latitude": 40.2639,
+      "longitude": -76.8839
+    },
+    "phone": "(717) 787-4980",
+    "website": "https://www.statemuseumpa.org"
+  },
+  {
+    "name": "Susquehanna Art Museum",
+    "address": "1401 N 3rd St, Harrisburg, PA 17102",
+    "coordinates": {
+      "latitude": 40.2639,
+      "longitude": -76.8839
+    },
+    "phone": "(717) 233-8668",
+    "website": "https://www.sqart.org"
+  },
+  {
+    "name": "The Academy of Natural Sciences of Drexel University",
+    "address": "1900 Benjamin Franklin Pkwy, Philadelphia, PA 19103",
+    "coordinates": {
+      "latitude": 39.9589,
+      "longitude": -75.1719
+    },
+    "phone": "(215) 299-1000",
+    "website": "https://www.ansp.org"
+  },
+  {
+    "name": "The Andy Warhol Museum",
+    "address": "117 Sandusky St, Pittsburgh, PA 15212",
+    "coordinates": {
+      "latitude": 40.4489,
+      "longitude": -80.0019
+    },
+    "phone": "(412) 237-8300",
+    "website": "https://www.warhol.org"
+  },
+  {
+    "name": "The Frick Pittsburgh",
+    "address": "7227 Reynolds St, Pittsburgh, PA 15208",
+    "coordinates": {
+      "latitude": 40.4389,
+      "longitude": -79.9189
+    },
+    "phone": "(412) 371-0600",
+    "website": "https://www.thefrickpittsburgh.org"
+  },
+  {
+    "name": "The Hershey Story: The Museum on Chocolate Avenue",
+    "address": "63 W Chocolate Ave, Hershey, PA 17033",
+    "coordinates": {
+      "latitude": 40.2839,
+      "longitude": -76.6519
+    },
+    "phone": "(717) 534-3439",
+    "website": "https://www.hersheystory.org"
+  },
+  {
+    "name": "The Kemerer Museum of Decorative Arts and Moravian Museum of Bethlehem",
+    "address": "427 N New St, Bethlehem, PA 18018",
+    "coordinates": {
+      "latitude": 40.6189,
+      "longitude": -75.3819
+    },
+    "phone": "(610) 882-0450",
+    "website": "https://www.historicbethlehem.org"
+  },
+  {
+    "name": "The National Civil War Museum",
+    "address": "1 Lincoln Cir, Harrisburg, PA 17103",
+    "coordinates": {
+      "latitude": 40.2639,
+      "longitude": -76.8839
+    },
+    "phone": "(717) 260-1861",
+    "website": "https://www.nationalcivilwarmuseum.org"
+  },
+  {
+    "name": "West Overton Village",
+    "address": "109 W Overton Rd, Scottdale, PA 15683",
+    "coordinates": {
+      "latitude": 40.1039,
+      "longitude": -79.5919
+    },
+    "phone": "(724) 887-7910",
+    "website": "https://www.westovertonvillage.org"
+  },
+  {
+    "name": "Winters Heritage House Museum & The Siebert Genealogy Research Library",
+    "address": "47 E High St, Elizabethtown, PA 17022",
+    "coordinates": {
+      "latitude": 40.1519,
+      "longitude": -76.6039
+    },
+    "phone": "(717) 367-4672",
+    "website": "https://www.wintersheritage.org"
+  },
+  {
+    "name": "World of Little League Museum",
+    "address": "525 US-15, South Williamsport, PA 17702",
+    "coordinates": {
+      "latitude": 41.2339,
+      "longitude": -76.9919
+    },
+    "phone": "(570) 326-3607",
+    "website": "https://www.littleleague.org/world-of-little-league-museum"
+  },
+  {
+    "name": "York County History Center",
+    "address": "250 E Market St, York, PA 17403",
+    "coordinates": {
+      "latitude": 39.9619,
+      "longitude": -76.7319
+    },
+    "phone": "(717) 848-1587",
+    "website": "https://www.yorkhistorycenter.org"
+  }
+]

@@ -1,0 +1,742 @@
+[
+  {
+    "name": "A.E. Seaman Mineral Museum at Michigan Tech",
+    "address": "1404 E Sharon Ave, Houghton, MI 49931",
+    "coordinates": {
+      "latitude": 47.1199,
+      "longitude": -88.5469
+    },
+    "phone": "(906) 487-2572",
+    "website": "https://www.museum.mtu.edu"
+  },
+  {
+    "name": "Abrams Planetarium",
+    "address": "755 Science Rd, East Lansing, MI 48824",
+    "coordinates": {
+      "latitude": 42.7286,
+      "longitude": -84.4825
+    },
+    "phone": "(517) 355-4676",
+    "website": "https://abramsplanetarium.org"
+  },
+  {
+    "name": "Air Zoo",
+    "address": "6151 Portage Rd, Portage, MI 49002",
+    "coordinates": {
+      "latitude": 42.2206,
+      "longitude": -85.5897
+    },
+    "phone": "(269) 382-6555",
+    "website": "https://www.airzoo.org"
+  },
+  {
+    "name": "Alden B. Dow Museum",
+    "address": "1801 W St Andrews Rd, Midland, MI 48640",
+    "coordinates": {
+      "latitude": 43.6236,
+      "longitude": -84.2478
+    },
+    "phone": "(989) 631-5930",
+    "website": "https://www.mcfta.org"
+  },
+  {
+    "name": "Ann Arbor Hands-On Museum",
+    "address": "220 E Ann St, Ann Arbor, MI 48104",
+    "coordinates": {
+      "latitude": 42.2808,
+      "longitude": -83.7486
+    },
+    "phone": "(734) 995-5439",
+    "website": "https://www.aahom.org"
+  },
+  {
+    "name": "Arab American National Museum",
+    "address": "13624 Michigan Ave, Dearborn, MI 48126",
+    "coordinates": {
+      "latitude": 42.3225,
+      "longitude": -83.1764
+    },
+    "phone": "(313) 582-2266",
+    "website": "https://www.arabamericanmuseum.org"
+  },
+  {
+    "name": "Beaver Island Historical Society: Marine Museum",
+    "address": "26275 Main St, Beaver Island, MI 49782",
+    "coordinates": {
+      "latitude": 45.7497,
+      "longitude": -85.5139
+    },
+    "phone": "(231) 448-2254",
+    "website": "https://www.beaverisland.net"
+  },
+  {
+    "name": "Beaver Island Historical Society: The Old Mormon Print Shop Museum",
+    "address": "26275 Main St, Beaver Island, MI 49782",
+    "coordinates": {
+      "latitude": 45.7497,
+      "longitude": -85.5139
+    },
+    "phone": "(231) 448-2254",
+    "website": "https://www.beaverisland.net"
+  },
+  {
+    "name": "Belle Isle Aquarium",
+    "address": "3 Inselruhe Ave, Detroit, MI 48207",
+    "coordinates": {
+      "latitude": 42.3389,
+      "longitude": -82.9836
+    },
+    "phone": "(313) 402-0466",
+    "website": "https://www.belleisleconservancy.org"
+  },
+  {
+    "name": "Canton Historical Museum",
+    "address": "1022 S Canton Center Rd, Canton, MI 48188",
+    "coordinates": {
+      "latitude": 42.3086,
+      "longitude": -83.4822
+    },
+    "phone": "(734) 397-0088",
+    "website": "https://www.cantonhistoricalsociety.org"
+  },
+  {
+    "name": "Cappon House - Holland Museum",
+    "address": "228 W 9th St, Holland, MI 49423",
+    "coordinates": {
+      "latitude": 42.7875,
+      "longitude": -86.1089
+    },
+    "phone": "(616) 796-3329",
+    "website": "https://www.hollandmuseum.org"
+  },
+  {
+    "name": "Children's Museum of Branch County",
+    "address": "27 S Jefferson St, Coldwater, MI 49036",
+    "coordinates": {
+      "latitude": 41.9403,
+      "longitude": -85.0008
+    },
+    "phone": "(517) 278-5986",
+    "website": "https://www.cmbc4kids.org"
+  },
+  {
+    "name": "Cognition Science & Discovery Center",
+    "address": "6051 Frankfort Hwy, Beulah, MI 49617",
+    "coordinates": {
+      "latitude": 44.6319,
+      "longitude": -86.0908
+    },
+    "phone": "(231) 383-0015",
+    "website": "https://www.cognitionscience.org"
+  },
+  {
+    "name": "Cranbrook Art Museum",
+    "address": "39221 Woodward Ave, Bloomfield Hills, MI 48304",
+    "coordinates": {
+      "latitude": 42.5706,
+      "longitude": -83.2458
+    },
+    "phone": "(248) 645-3323",
+    "website": "https://cranbrookartmuseum.org"
+  },
+  {
+    "name": "Cranbrook House & Gardens",
+    "address": "380 Lone Pine Rd, Bloomfield Hills, MI 48304",
+    "coordinates": {
+      "latitude": 42.5714,
+      "longitude": -83.2483
+    },
+    "phone": "(248) 645-3147",
+    "website": "https://cranbrookgardens.org"
+  },
+  {
+    "name": "Cranbrook Institute of Science",
+    "address": "39221 Woodward Ave, Bloomfield Hills, MI 48304",
+    "coordinates": {
+      "latitude": 42.5706,
+      "longitude": -83.2458
+    },
+    "phone": "(248) 645-3200",
+    "website": "https://science.cranbrook.edu"
+  },
+  {
+    "name": "Discovery City Children's Museum",
+    "address": "1115 6th St, Port Huron, MI 48060",
+    "coordinates": {
+      "latitude": 42.9753,
+      "longitude": -82.4264
+    },
+    "phone": "(810) 985-5115",
+    "website": "https://www.discoverycityph.org"
+  },
+  {
+    "name": "Ella Sharp Museum",
+    "address": "3225 4th St, Jackson, MI 49203",
+    "coordinates": {
+      "latitude": 42.2464,
+      "longitude": -84.4039
+    },
+    "phone": "(517) 787-2320",
+    "website": "https://ellasharpmuseum.org"
+  },
+  {
+    "name": "Fallasburg Historical Society",
+    "address": "13225 Covered Bridge Rd, Lowell, MI 49331",
+    "coordinates": {
+      "latitude": 42.9872,
+      "longitude": -85.3497
+    },
+    "phone": "(616) 897-9018",
+    "website": "https://www.fallasburg.org"
+  },
+  {
+    "name": "Fire Barn Museum",
+    "address": "510 W Clay Ave, Muskegon, MI 49440",
+    "coordinates": {
+      "latitude": 43.2342,
+      "longitude": -86.2514
+    },
+    "phone": "(231) 722-0278",
+    "website": "https://www.muskegonfirebarnmuseum.org"
+  },
+  {
+    "name": "Flint Children's Museum",
+    "address": "1602 W University Ave, Flint, MI 48504",
+    "coordinates": {
+      "latitude": 43.0186,
+      "longitude": -83.7058
+    },
+    "phone": "(810) 767-5437",
+    "website": "https://www.flintchildrensmuseum.org"
+  },
+  {
+    "name": "Flint Institute of Arts",
+    "address": "1120 E Kearsley St, Flint, MI 48503",
+    "coordinates": {
+      "latitude": 43.0183,
+      "longitude": -83.6825
+    },
+    "phone": "(810) 234-1695",
+    "website": "https://www.flintarts.org"
+  },
+  {
+    "name": "Ford House",
+    "address": "1100 Lake Shore Rd, Grosse Pointe Shores, MI 48236",
+    "coordinates": {
+      "latitude": 42.4358,
+      "longitude": -82.8769
+    },
+    "phone": "(313) 884-4222",
+    "website": "https://www.fordhouse.org"
+  },
+  {
+    "name": "Ford Piquette Avenue Plant",
+    "address": "461 Piquette St, Detroit, MI 48202",
+    "coordinates": {
+      "latitude": 42.3708,
+      "longitude": -83.0747
+    },
+    "phone": "(313) 872-8759",
+    "website": "https://www.fordpiquetteplant.org"
+  },
+  {
+    "name": "Ford Rouge Factory Tour",
+    "address": "20900 Oakwood Blvd, Dearborn, MI 48124",
+    "coordinates": {
+      "latitude": 42.3106,
+      "longitude": -83.2247
+    },
+    "phone": "(313) 982-6001",
+    "website": "https://www.thehenryford.org"
+  },
+  {
+    "name": "Frederik Meijer Gardens & Sculpture Park",
+    "address": "1000 E Beltline Ave NE, Grand Rapids, MI 49525",
+    "coordinates": {
+      "latitude": 42.9664,
+      "longitude": -85.5858
+    },
+    "phone": "(616) 957-1580",
+    "website": "https://www.meijergardens.org"
+  },
+  {
+    "name": "Grand Rapids Art Museum",
+    "address": "101 Monroe Center St NW, Grand Rapids, MI 49503",
+    "coordinates": {
+      "latitude": 42.9669,
+      "longitude": -85.6714
+    },
+    "phone": "(616) 831-1000",
+    "website": "https://www.artmuseumgr.org"
+  },
+  {
+    "name": "Grand Rapids Children's Museum",
+    "address": "11 Sheldon Ave NE, Grand Rapids, MI 49503",
+    "coordinates": {
+      "latitude": 42.9667,
+      "longitude": -85.6697
+    },
+    "phone": "(616) 235-4726",
+    "website": "https://www.grcm.org"
+  },
+  {
+    "name": "Grand Rapids Public Museum",
+    "address": "272 Pearl St NW, Grand Rapids, MI 49504",
+    "coordinates": {
+      "latitude": 42.9661,
+      "longitude": -85.6742
+    },
+    "phone": "(616) 929-1700",
+    "website": "https://www.grpm.org"
+  },
+  {
+    "name": "Great Lakes Children's Museum",
+    "address": "13240 S West Bay Shore Dr, Traverse City, MI 49684",
+    "coordinates": {
+      "latitude": 44.7625,
+      "longitude": -85.6236
+    },
+    "phone": "(231) 932-4526",
+    "website": "https://www.greatlakeskids.org"
+  },
+  {
+    "name": "Greenfield Village",
+    "address": "20900 Oakwood Blvd, Dearborn, MI 48124",
+    "coordinates": {
+      "latitude": 42.3036,
+      "longitude": -83.2328
+    },
+    "phone": "(313) 982-6001",
+    "website": "https://www.thehenryford.org"
+  },
+  {
+    "name": "Hackley & Hume Historic Site",
+    "address": "484 W Webster Ave, Muskegon, MI 49440",
+    "coordinates": {
+      "latitude": 43.2342,
+      "longitude": -86.2514
+    },
+    "phone": "(231) 722-7578",
+    "website": "https://www.muskegon.org"
+  },
+  {
+    "name": "Henry Ford Museum of American Innovation",
+    "address": "20900 Oakwood Blvd, Dearborn, MI 48124",
+    "coordinates": {
+      "latitude": 42.3036,
+      "longitude": -83.2328
+    },
+    "phone": "(313) 982-6001",
+    "website": "https://www.thehenryford.org"
+  },
+  {
+    "name": "Holland Museum",
+    "address": "31 W 10th St, Holland, MI 49423",
+    "coordinates": {
+      "latitude": 42.7878,
+      "longitude": -86.1086
+    },
+    "phone": "(616) 796-3329",
+    "website": "https://www.hollandmuseum.org"
+  },
+  {
+    "name": "Impression 5 Science Center",
+    "address": "200 Museum Dr, Lansing, MI 48933",
+    "coordinates": {
+      "latitude": 42.7358,
+      "longitude": -84.5536
+    },
+    "phone": "(517) 485-8116",
+    "website": "https://www.impression5.org"
+  },
+  {
+    "name": "Iron County Historical & Museum Society",
+    "address": "100 Brady Ave, Caspian, MI 49915",
+    "coordinates": {
+      "latitude": 46.0647,
+      "longitude": -88.6314
+    },
+    "phone": "(906) 265-2617",
+    "website": "https://www.ironcountyhistoricalmuseum.org"
+  },
+  {
+    "name": "John Ball Zoo",
+    "address": "1300 Fulton St W, Grand Rapids, MI 49504",
+    "coordinates": {
+      "latitude": 42.9661,
+      "longitude": -85.7364
+    },
+    "phone": "(616) 336-4300",
+    "website": "https://www.jbzoo.org"
+  },
+  {
+    "name": "Kalamazoo Institute of Arts",
+    "address": "314 S Park St, Kalamazoo, MI 49007",
+    "coordinates": {
+      "latitude": 42.2908,
+      "longitude": -85.5872
+    },
+    "phone": "(269) 349-7775",
+    "website": "https://www.kiarts.org"
+  },
+  {
+    "name": "Kelsey Museum of Archaeology",
+    "address": "434 S State St, Ann Arbor, MI 48109",
+    "coordinates": {
+      "latitude": 42.2764,
+      "longitude": -83.7397
+    },
+    "phone": "(734) 764-9304",
+    "website": "https://www.lsa.umich.edu/kelsey"
+  },
+  {
+    "name": "Kids 'N' Stuff Children's Museum",
+    "address": "301 S Superior St, Albion, MI 49224",
+    "coordinates": {
+      "latitude": 42.2442,
+      "longitude": -84.7531
+    },
+    "phone": "(517) 629-8023",
+    "website": "https://www.kidsnstuff.org"
+  },
+  {
+    "name": "Lakeshore Museum Center",
+    "address": "430 W Clay Ave, Muskegon, MI 49440",
+    "coordinates": {
+      "latitude": 43.2342,
+      "longitude": -86.2514
+    },
+    "phone": "(231) 722-0278",
+    "website": "https://www.lakeshoremuseum.org"
+  },
+  {
+    "name": "Marquette Maritime Museum",
+    "address": "300 Lakeshore Blvd, Marquette, MI 49855",
+    "coordinates": {
+      "latitude": 46.5456,
+      "longitude": -87.3925
+    },
+    "phone": "(906) 226-2006",
+    "website": "https://www.mqtmaritimemuseum.com"
+  },
+  {
+    "name": "Marshall M. Fredericks Sculpture Museum",
+    "address": "7400 Bay Rd, Saginaw, MI 48604",
+    "coordinates": {
+      "latitude": 43.5108,
+      "longitude": -83.9639
+    },
+    "phone": "(989) 964-7125",
+    "website": "https://www.marshallfredericks.org"
+  },
+  {
+    "name": "Matthaei Botanical Gardens and Nichols Arboretum",
+    "address": "1800 N Dixboro Rd, Ann Arbor, MI 48105",
+    "coordinates": {
+      "latitude": 42.3006,
+      "longitude": -83.6839
+    },
+    "phone": "(734) 647-7600",
+    "website": "https://mbgna.umich.edu"
+  },
+  {
+    "name": "Meadow Brook Hall",
+    "address": "350 Estate Dr, Rochester, MI 48309",
+    "coordinates": {
+      "latitude": 42.6658,
+      "longitude": -83.1508
+    },
+    "phone": "(248) 364-6200",
+    "website": "https://www.meadowbrookhall.org"
+  },
+  {
+    "name": "Michigan History Museum",
+    "address": "702 W Kalamazoo St, Lansing, MI 48915",
+    "coordinates": {
+      "latitude": 42.7358,
+      "longitude": -84.5536
+    },
+    "phone": "(517) 335-2573",
+    "website": "https://www.michigan.gov/mhc"
+  },
+  {
+    "name": "Michigan Maritime Museum",
+    "address": "260 Dyckman Ave, South Haven, MI 49090",
+    "coordinates": {
+      "latitude": 42.4036,
+      "longitude": -86.2739
+    },
+    "phone": "(269) 637-8078",
+    "website": "https://www.michiganmaritimemuseum.org"
+  },
+  {
+    "name": "Michigan Science Center",
+    "address": "5020 John R St, Detroit, MI 48202",
+    "coordinates": {
+      "latitude": 42.3583,
+      "longitude": -83.0614
+    },
+    "phone": "(313) 577-8400",
+    "website": "https://www.mi-sci.org"
+  },
+  {
+    "name": "Mid-Michigan Children’s Museum",
+    "address": "315 W Genesee Ave, Saginaw, MI 48602",
+    "coordinates": {
+      "latitude": 43.4325,
+      "longitude": -83.9392
+    },
+    "phone": "(989) 399-6626",
+    "website": "https://www.midmicm.org"
+  },
+  {
+    "name": "Midwest Miniatures Museum",
+    "address": "225 E Exchange St, Grand Haven, MI 49417",
+    "coordinates": {
+      "latitude": 43.0631,
+      "longitude": -86.2283
+    },
+    "phone": "(616) 842-2300",
+    "website": "https://www.midwestminiaturesmuseum.org"
+  },
+  {
+    "name": "Mt. Pleasant Discovery Museum",
+    "address": "5093 E Remus Rd, Mt. Pleasant, MI 48858",
+    "coordinates": {
+      "latitude": 43.5972,
+      "longitude": -84.7675
+    },
+    "phone": "(989) 317-3221",
+    "website": "https://www.mtdiscoverymuseum.org"
+  },
+  {
+    "name": "Museum of Contemporary Art Detroit (MOCAD)",
+    "address": "4454 Woodward Ave, Detroit, MI 48201",
+    "coordinates": {
+      "latitude": 42.3514,
+      "longitude": -83.0608
+    },
+    "phone": "(313) 832-6622",
+    "website": "https://www.mocadetroit.org"
+  },
+  {
+    "name": "Muskegon Heritage Museum",
+    "address": "561 W Western Ave, Muskegon, MI 49440",
+    "coordinates": {
+      "latitude": 43.2342,
+      "longitude": -86.2514
+    },
+    "phone": "(231) 722-1363",
+    "website": "https://www.muskegonheritage.org"
+  },
+  {
+    "name": "Muskegon Museum of Art",
+    "address": "296 W Webster Ave, Muskegon, MI 49440",
+    "coordinates": {
+      "latitude": 43.2342,
+      "longitude": -86.2514
+    },
+    "phone": "(231) 720-2570",
+    "website": "https://www.muskegonartmuseum.org"
+  },
+  {
+    "name": "Outdoor Adventure Center",
+    "address": "1801 Atwater St, Detroit, MI 48207",
+    "coordinates": {
+      "latitude": 42.3389,
+      "longitude": -83.0278
+    },
+    "phone": "(313) 396-0216",
+    "website": "https://www.michigan.gov/oac"
+  },
+  {
+    "name": "Port Huron Museums - Carnegie Center",
+    "address": "1115 6th St, Port Huron, MI 48060",
+    "coordinates": {
+      "latitude": 42.9753,
+      "longitude": -82.4264
+    },
+    "phone": "(810) 982-0891",
+    "website": "https://www.phmuseum.org"
+  },
+  {
+    "name": "Port Huron Museums - Fort Gratiot Lighthouse",
+    "address": "2802 Omar St, Port Huron, MI 48060",
+    "coordinates": {
+      "latitude": 43.0069,
+      "longitude": -82.4225
+    },
+    "phone": "(810) 982-0891",
+    "website": "https://www.phmuseum.org"
+  },
+  {
+    "name": "Port Huron Museums - The HURON Lightship",
+    "address": "1115 6th St, Port Huron, MI 48060",
+    "coordinates": {
+      "latitude": 42.9753,
+      "longitude": -82.4264
+    },
+    "phone": "(810) 982-0891",
+    "website": "https://www.phmuseum.org"
+  },
+  {
+    "name": "Port Huron Museums - Thomas Edison Depot Museum",
+    "address": "510 Edison Pkwy, Port Huron, MI 48060",
+    "coordinates": {
+      "latitude": 42.9753,
+      "longitude": -82.4264
+    },
+    "phone": "(810) 982-0891",
+    "website": "https://www.phmuseum.org"
+  },
+  {
+    "name": "Rochester Hills Museum at Van Hoosen Farm",
+    "address": "1005 Van Hoosen Rd, Rochester Hills, MI 48306",
+    "coordinates": {
+      "latitude": 42.6658,
+      "longitude": -83.1508
+    },
+    "phone": "(248) 656-4663",
+    "website": "https://www.rochesterhills.org"
+  },
+  {
+    "name": "Saginaw Art Museum",
+    "address": "1126 N Michigan Ave, Saginaw, MI 48602",
+    "coordinates": {
+      "latitude": 43.4325,
+      "longitude": -83.9392
+    },
+    "phone": "(989) 754-2491",
+    "website": "https://www.saginawartmuseum.org"
+  },
+  {
+    "name": "Scolnick House",
+    "address": "510 W Clay Ave, Muskegon, MI 49440",
+    "coordinates": {
+      "latitude": 43.2342,
+      "longitude": -86.2514
+    },
+    "phone": "(231) 722-0278",
+    "website": "https://www.muskegon.org"
+  },
+  {
+    "name": "Settlers House - Holland Museum",
+    "address": "190 W 9th St, Holland, MI 49423",
+    "coordinates": {
+      "latitude": 42.7875,
+      "longitude": -86.1089
+    },
+    "phone": "(616) 796-3329",
+    "website": "https://www.hollandmuseum.org"
+  },
+  {
+    "name": "Sloan Museum of Discovery",
+    "address": "1221 E Kearsley St, Flint, MI 48503",
+    "coordinates": {
+      "latitude": 43.0183,
+      "longitude": -83.6825
+    },
+    "phone": "(810) 237-3450",
+    "website": "https://www.sloanlongway.org"
+  },
+  {
+    "name": "The Armory - Holland Museum",
+    "address": "16 E 10th St, Holland, MI 49423",
+    "coordinates": {
+      "latitude": 42.7878,
+      "longitude": -86.1086
+    },
+    "phone": "(616) 796-3329",
+    "website": "https://www.hollandmuseum.org"
+  },
+  {
+    "name": "The Dennos Museum Center",
+    "address": "1701 E Front St, Traverse City, MI 49686",
+    "coordinates": {
+      "latitude": 44.7625,
+      "longitude": -85.6236
+    },
+    "phone": "(231) 995-1055",
+    "website": "https://www.dennosmuseum.org"
+  },
+  {
+    "name": "The Mitten Children's Museum",
+    "address": "300 Broadway St, South Haven, MI 49090",
+    "coordinates": {
+      "latitude": 42.4036,
+      "longitude": -86.2739
+    },
+    "phone": "(269) 637-4728",
+    "website": "https://www.mittencm.org"
+  },
+  {
+    "name": "The Zekelman Holocaust Center",
+    "address": "28123 Orchard Lake Rd, Farmington Hills, MI 48334",
+    "coordinates": {
+      "latitude": 42.5186,
+      "longitude": -83.3772
+    },
+    "phone": "(248) 553-2400",
+    "website": "https://www.holocaustcenter.org"
+  },
+  {
+    "name": "Tri-Cities Historical Museum",
+    "address": "200 Washington Ave, Grand Haven, MI 49417",
+    "coordinates": {
+      "latitude": 43.0631,
+      "longitude": -86.2283
+    },
+    "phone": "(616) 842-0700",
+    "website": "https://www.tri-citiesmuseum.org"
+  },
+  {
+    "name": "University of Michigan Museum of Art",
+    "address": "525 S State St, Ann Arbor, MI 48109",
+    "coordinates": {
+      "latitude": 42.2764,
+      "longitude": -83.7397
+    },
+    "phone": "(734) 764-0395",
+    "website": "https://www.umma.umich.edu"
+  },
+  {
+    "name": "University of Michigan Museum of Natural History",
+    "address": "1105 N University Ave, Ann Arbor, MI 48109",
+    "coordinates": {
+      "latitude": 42.2783,
+      "longitude": -83.7364
+    },
+    "phone": "(734) 764-0478",
+    "website": "https://www.lsa.umich.edu/ummnh"
+  },
+  {
+    "name": "Upper Peninsula Children's Museum",
+    "address": "123 W Spring St, Marquette, MI 49855",
+    "coordinates": {
+      "latitude": 46.5456,
+      "longitude": -87.3925
+    },
+    "phone": "(906) 226-3911",
+    "website": "https://www.upchildrensmuseum.org"
+  },
+  {
+    "name": "Yankee Air Museum",
+    "address": "47884 D St, Belleville, MI 48111",
+    "coordinates": {
+      "latitude": 42.2228,
+      "longitude": -83.4819
+    },
+    "phone": "(734) 483-4030",
+    "website": "https://www.yankeeairmuseum.org"
+  },
+  {
+    "name": "Ziibiwing Center of Anishinabe Culture & Lifeways",
+    "address": "6650 E Broadway, Mt. Pleasant, MI 48858",
+    "coordinates": {
+      "latitude": 43.5972,
+      "longitude": -84.7675
+    },
+    "phone": "(989) 775-4750",
+    "website": "https://www.sagchip.org/ziibiwing"
+  }
+]

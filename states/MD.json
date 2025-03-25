@@ -1,0 +1,362 @@
+[
+  {
+    "name": "American Visionary Art Museum",
+    "address": "800 Key Hwy, Baltimore, MD 21230",
+    "coordinates": {
+      "latitude": 39.2783,
+      "longitude": -76.6064
+    },
+    "phone": "(410) 244-1900",
+    "website": "https://www.avam.org"
+  },
+  {
+    "name": "Annapolis Maritime Museum & Park",
+    "address": "723 2nd St, Annapolis, MD 21403",
+    "coordinates": {
+      "latitude": 38.9708,
+      "longitude": -76.4908
+    },
+    "phone": "(410) 295-0104",
+    "website": "https://www.amaritime.org"
+  },
+  {
+    "name": "Annmarie Sculpture Garden & Arts Center",
+    "address": "13480 Dowell Rd, Solomons, MD 20688",
+    "coordinates": {
+      "latitude": 38.3319,
+      "longitude": -76.4619
+    },
+    "phone": "(410) 326-4640",
+    "website": "https://www.annmariegarden.org"
+  },
+  {
+    "name": "B&O Railroad Museum",
+    "address": "901 W Pratt St, Baltimore, MD 21223",
+    "coordinates": {
+      "latitude": 39.2853,
+      "longitude": -76.6325
+    },
+    "phone": "(410) 752-2490",
+    "website": "https://www.borail.org"
+  },
+  {
+    "name": "Baltimore Museum of Industry",
+    "address": "1415 Key Hwy, Baltimore, MD 21230",
+    "coordinates": {
+      "latitude": 39.2758,
+      "longitude": -76.6086
+    },
+    "phone": "(410) 727-4808",
+    "website": "https://www.thebmi.org"
+  },
+  {
+    "name": "Calvert Marine Museum",
+    "address": "14200 Solomons Island Rd, Solomons, MD 20688",
+    "coordinates": {
+      "latitude": 38.3322,
+      "longitude": -76.4639
+    },
+    "phone": "(410) 326-2042",
+    "website": "https://www.calvertmarinemuseum.com"
+  },
+  {
+    "name": "Chesapeake Bay Maritime Museum",
+    "address": "213 N Talbot St, St. Michaels, MD 21663",
+    "coordinates": {
+      "latitude": 38.7858,
+      "longitude": -76.2239
+    },
+    "phone": "(410) 745-2916",
+    "website": "https://www.cbmm.org"
+  },
+  {
+    "name": "Chesapeake Children's Museum",
+    "address": "25 Silopanna Rd, Annapolis, MD 21403",
+    "coordinates": {
+      "latitude": 38.9700,
+      "longitude": -76.4933
+    },
+    "phone": "(410) 266-0677",
+    "website": "https://www.theccm.org"
+  },
+  {
+    "name": "Computer Museum @ System Source",
+    "address": "10221 Wincopin Cir, Hunt Valley, MD 21030",
+    "coordinates": {
+      "latitude": 39.5000,
+      "longitude": -76.6417
+    },
+    "phone": "(410) 584-1970",
+    "website": "https://www.computermuseum.org"
+  },
+  {
+    "name": "Discovery Station",
+    "address": "101 W Washington St, Hagerstown, MD 21740",
+    "coordinates": {
+      "latitude": 39.6425,
+      "longitude": -77.7219
+    },
+    "phone": "(301) 790-0076",
+    "website": "https://www.discoverystation.org"
+  },
+  {
+    "name": "Furnace Town Historic Site",
+    "address": "3816 Old Furnace Rd, Snow Hill, MD 21863",
+    "coordinates": {
+      "latitude": 38.1758,
+      "longitude": -75.3900
+    },
+    "phone": "(410) 632-2032",
+    "website": "https://www.furnacetown.com"
+  },
+  {
+    "name": "Greenbelt Museum",
+    "address": "10B Crescent Rd, Greenbelt, MD 20770",
+    "coordinates": {
+      "latitude": 39.0000,
+      "longitude": -76.8800
+    },
+    "phone": "(301) 507-6582",
+    "website": "https://www.greenbeltmuseum.org"
+  },
+  {
+    "name": "Hammond-Harwood House",
+    "address": "19 Maryland Ave, Annapolis, MD 21401",
+    "coordinates": {
+      "latitude": 38.9847,
+      "longitude": -76.4897
+    },
+    "phone": "(410) 263-4683",
+    "website": "https://www.hammondharwoodhouse.org"
+  },
+  {
+    "name": "Historic London Town & Gardens",
+    "address": "839 Londontown Rd, Edgewater, MD 21037",
+    "coordinates": {
+      "latitude": 38.9333,
+      "longitude": -76.5417
+    },
+    "phone": "(410) 222-1919",
+    "website": "https://www.historiclondontown.org"
+  },
+  {
+    "name": "Historic Rich Hill",
+    "address": "12050 Bel Alton Newtown Rd, Bel Alton, MD 20611",
+    "coordinates": {
+      "latitude": 38.4739,
+      "longitude": -77.0069
+    },
+    "phone": "(301) 934-8848",
+    "website": "https://www.historichomes.org"
+  },
+  {
+    "name": "Historic Sotterley",
+    "address": "44300 Sotterley Ln, Hollywood, MD 20636",
+    "coordinates": {
+      "latitude": 38.3778,
+      "longitude": -76.5389
+    },
+    "phone": "(301) 373-2280",
+    "website": "https://www.sotterley.org"
+  },
+  {
+    "name": "Historic St. Mary's City",
+    "address": "18751 Hogaboom Ln, St. Marys City, MD 20686",
+    "coordinates": {
+      "latitude": 38.1867,
+      "longitude": -76.4347
+    },
+    "phone": "(240) 895-4990",
+    "website": "https://www.hsmcdigshistory.org"
+  },
+  {
+    "name": "Irvine Nature Center",
+    "address": "11201 Garrison Forest Rd, Owings Mills, MD 21117",
+    "coordinates": {
+      "latitude": 39.4167,
+      "longitude": -76.7917
+    },
+    "phone": "(443) 738-9200",
+    "website": "https://www.explorenature.org"
+  },
+  {
+    "name": "Jewish Museum of Maryland",
+    "address": "15 Lloyd St, Baltimore, MD 21202",
+    "coordinates": {
+      "latitude": 39.2894,
+      "longitude": -76.6075
+    },
+    "phone": "(410) 732-6400",
+    "website": "https://www.jewishmuseummd.org"
+  },
+  {
+    "name": "KID Museum",
+    "address": "3 Metro Center, Bethesda, MD 20814",
+    "coordinates": {
+      "latitude": 38.9800,
+      "longitude": -77.0950
+    },
+    "phone": "(301) 941-4905",
+    "website": "https://www.kid-museum.org"
+  },
+  {
+    "name": "Ladew Topiary Gardens",
+    "address": "3535 Jarrettsville Pike, Monkton, MD 21111",
+    "coordinates": {
+      "latitude": 39.5750,
+      "longitude": -76.5917
+    },
+    "phone": "(410) 557-9466",
+    "website": "https://www.ladewgardens.com"
+  },
+  {
+    "name": "Maryland Center for History and Culture",
+    "address": "610 Park Ave, Baltimore, MD 21201",
+    "coordinates": {
+      "latitude": 39.3000,
+      "longitude": -76.6150
+    },
+    "phone": "(410) 685-3750",
+    "website": "https://www.mdhistory.org"
+  },
+  {
+    "name": "Miller House Museum",
+    "address": "135 W Washington St, Hagerstown, MD 21740",
+    "coordinates": {
+      "latitude": 39.6425,
+      "longitude": -77.7219
+    },
+    "phone": "(301) 797-8782",
+    "website": "https://www.washcohistory.org"
+  },
+  {
+    "name": "Museum of Historic Annapolis",
+    "address": "99 Main St, Annapolis, MD 21401",
+    "coordinates": {
+      "latitude": 38.9789,
+      "longitude": -76.4908
+    },
+    "phone": "(410) 267-6656",
+    "website": "https://www.annapolis.org"
+  },
+  {
+    "name": "NASA Goddard Visitor Center",
+    "address": "8800 Greenbelt Rd, Greenbelt, MD 20771",
+    "coordinates": {
+      "latitude": 38.9917,
+      "longitude": -76.8528
+    },
+    "phone": "(301) 286-3978",
+    "website": "https://www.nasa.gov/goddard/visitor"
+  },
+  {
+    "name": "National Electronics Museum",
+    "address": "1745 W Nursery Rd, Linthicum, MD 21090",
+    "coordinates": {
+      "latitude": 39.2000,
+      "longitude": -76.6700
+    },
+    "phone": "(410) 765-0230",
+    "website": "https://www.nationalelectronicsmuseum.org"
+  },
+  {
+    "name": "Natural History Society of Maryland",
+    "address": "6908 Belair Rd, Baltimore, MD 21206",
+    "coordinates": {
+      "latitude": 39.3500,
+      "longitude": -76.5300
+    },
+    "phone": "(410) 882-5960",
+    "website": "https://www.marylandnature.org"
+  },
+  {
+    "name": "Patuxent River Naval Air Museum",
+    "address": "22156 Three Notch Rd, Lexington Park, MD 20653",
+    "coordinates": {
+      "latitude": 38.2750,
+      "longitude": -76.4400
+    },
+    "phone": "(301) 863-7418",
+    "website": "https://www.paxmuseum.org"
+  },
+  {
+    "name": "Piney Point Lighthouse Museum",
+    "address": "44720 Lighthouse Rd, Piney Point, MD 20674",
+    "coordinates": {
+      "latitude": 38.1333,
+      "longitude": -76.5333
+    },
+    "phone": "(301) 994-1471",
+    "website": "https://www.stmarysmd.com/recreate/museums"
+  },
+  {
+    "name": "Reginald F. Lewis Museum of Maryland African American History & Culture",
+    "address": "830 E Pratt St, Baltimore, MD 21202",
+    "coordinates": {
+      "latitude": 39.2900,
+      "longitude": -76.6050
+    },
+    "phone": "(443) 263-1800",
+    "website": "https://www.lewismuseum.org"
+  },
+  {
+    "name": "Robinson Nature Center",
+    "address": "6692 Cedar Ln, Columbia, MD 21044",
+    "coordinates": {
+      "latitude": 39.2000,
+      "longitude": -76.8800
+    },
+    "phone": "(410) 313-0400",
+    "website": "https://www.howardcountymd.gov/robinson"
+  },
+  {
+    "name": "St. Clement's Island Museum",
+    "address": "38370 Point Breeze Rd, Coltons Point, MD 20626",
+    "coordinates": {
+      "latitude": 38.2333,
+      "longitude": -76.7500
+    },
+    "phone": "(301) 769-2222",
+    "website": "https://www.stmarysmd.com/recreate/museums"
+  },
+  {
+    "name": "Star-Spangled Banner Flag House",
+    "address": "844 E Pratt St, Baltimore, MD 21202",
+    "coordinates": {
+      "latitude": 39.2900,
+      "longitude": -76.6050
+    },
+    "phone": "(410) 837-1793",
+    "website": "https://www.flaghouse.org"
+  },
+  {
+    "name": "Stop Drop and Play Children's Museum",
+    "address": "10201 Lewis Dr, Damascus, MD 20872",
+    "coordinates": {
+      "latitude": 39.2800,
+      "longitude": -77.2000
+    },
+    "phone": "(301) 482-6003",
+    "website": "https://www.stopdropandplay.org"
+  },
+  {
+    "name": "The Laurel Museum",
+    "address": "817 Main St, Laurel, MD 20707",
+    "coordinates": {
+      "latitude": 39.1000,
+      "longitude": -76.8500
+    },
+    "phone": "(301) 725-7975",
+    "website": "https://www.laurelhistoricalsociety.org"
+  },
+  {
+    "name": "William Paca House and Garden",
+    "address": "186 Prince George St, Annapolis, MD 21401",
+    "coordinates": {
+      "latitude": 38.9789,
+      "longitude": -76.4908
+    },
+    "phone": "(410) 267-7619",
+    "website": "https://www.annapolis.org"
+  }
+]

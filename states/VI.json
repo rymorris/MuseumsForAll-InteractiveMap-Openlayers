@@ -1,0 +1,24 @@
+{
+  "institutions": [
+    {
+  "name": "The Virgin Islands Children's Museum",
+  "address": "6100 Estate Smith Bay, St. Thomas, VI 00802",
+  "coordinates": {
+    "latitude": 18.3500,
+    "longitude": -64.8800
+  },
+  "phone": "(340) 643-0367",
+  "website": "https://www.vichildrensmuseum.org"
+},
+{
+  "name": "The Children's Museum of St. Croix",
+  "address": "52 Company Street, Christiansted, St. Croix, VI 00820",
+  "coordinates": {
+    "latitude": 17.7465,
+    "longitude": -64.7034
+  },
+  "phone": "(340) 773-5250",
+  "website": "https://www.childrenmuseumstx.org",
+  "description": "An interactive learning space for children featuring hands-on exhibits focused on Caribbean culture, marine ecology, and creative play. The museum offers educational programs and activities designed specifically for young visitors in the St. Croix community."
+}
+  ]}

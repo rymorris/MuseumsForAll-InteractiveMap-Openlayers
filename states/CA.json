@@ -1,0 +1,2092 @@
+{
+  "institutions": [
+    {
+      "name": "Agape Children's Museum",
+      "city": "Long Beach",
+      "state": "California",
+      "address": "1105 E Artesia Blvd, Long Beach, CA 90805",
+      "coordinates": {
+        "latitude": 33.8651,
+        "longitude": -118.1812
+      },
+      "phone": "(562) 988-0616",
+      "website": "https://www.agapechildrensmuseum.org"
+    },
+    {
+      "name": "American Bookbinders Museum",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "355 Clementina St, San Francisco, CA 94103",
+      "coordinates": {
+        "latitude": 37.7823,
+        "longitude": -122.4076
+      },
+      "phone": "(415) 824-9750",
+      "website": "https://www.bookbindersmuseum.org"
+    },
+    {
+      "name": "American Museum of Ceramic Art",
+      "city": "Pomona",
+      "state": "California",
+      "address": "399 N Garey Ave, Pomona, CA 91767",
+      "coordinates": {
+        "latitude": 34.0589,
+        "longitude": -117.7512
+      },
+      "phone": "(909) 865-3146",
+      "website": "https://www.amoca.org"
+    },
+    {
+      "name": "Aquarium of the Bay",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "PIER 39, The Embarcadero & Beach St, San Francisco, CA 94133",
+      "coordinates": {
+        "latitude": 37.8087,
+        "longitude": -122.4099
+      },
+      "phone": "(415) 623-5300",
+      "website": "https://www.aquariumofthebay.org"
+    },
+    {
+      "name": "Art, Design & Architecture Museum",
+      "city": "Santa Barbara",
+      "state": "California",
+      "address": "552 University Rd, Santa Barbara, CA 93106",
+      "coordinates": {
+        "latitude": 34.4130,
+        "longitude": -119.8489
+      },
+      "phone": "(805) 893-2951",
+      "website": "https://www.museum.ucsb.edu"
+    },
+    {
+      "name": "Asian Art Museum",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "200 Larkin St, San Francisco, CA 94102",
+      "coordinates": {
+        "latitude": 37.7803,
+        "longitude": -122.4168
+      },
+      "phone": "(415) 581-3500",
+      "website": "https://asianart.org"
+    },
+    {
+      "name": "Bakersfield Museum of Art",
+      "city": "Bakersfield",
+      "state": "California",
+      "address": "1930 R St, Bakersfield, CA 93301",
+      "coordinates": {
+        "latitude": 35.3794,
+        "longitude": -119.0187
+      },
+      "phone": "(661) 323-7219",
+      "website": "https://www.bmoa.org"
+    },
+    {
+      "name": "Barona Cultural Center & Museum",
+      "city": "Lakeside",
+      "state": "California",
+      "address": "1095 Barona Rd, Lakeside, CA 92040",
+      "coordinates": {
+        "latitude": 32.9047,
+        "longitude": -116.9167
+      },
+      "phone": "(619) 443-1003",
+      "website": "https://www.baronamuseum.com"
+    },
+    {
+      "name": "Bay Area Discovery Museum",
+      "city": "Sausalito",
+      "state": "California",
+      "address": "557 McReynolds Rd, Sausalito, CA 94965",
+      "coordinates": {
+        "latitude": 37.8614,
+        "longitude": -122.4856
+      },
+      "phone": "(415) 339-3900",
+      "website": "https://www.bayareadiscoverymuseum.org"
+    },
+    {
+      "name": "Berkeley Art Museum & Pacific Film Archive (BAMPFA)",
+      "city": "Berkeley",
+      "state": "California",
+      "address": "2155 Center St, Berkeley, CA 94704",
+      "coordinates": {
+        "latitude": 37.8699,
+        "longitude": -122.2685
+      },
+      "phone": "(510) 642-0808",
+      "website": "https://bampfa.org"
+    },
+    {
+      "name": "Birch Aquarium at Scripps Institution of Oceanography",
+      "city": "La Jolla",
+      "state": "California",
+      "address": "2300 Expedition Way, La Jolla, CA 92037",
+      "coordinates": {
+        "latitude": 32.8659,
+        "longitude": -117.2513
+      },
+      "phone": "(858) 534-3474",
+      "website": "https://aquarium.ucsd.edu"
+    },
+    {
+      "name": "Brea Gallery",
+      "city": "Brea",
+      "state": "California",
+      "address": "1 Civic Center Cir, Brea, CA 92821",
+      "coordinates": {
+        "latitude": 33.9165,
+        "longitude": -117.8991
+      },
+      "phone": "(714) 990-7730",
+      "website": "https://www.breagallery.org"
+    },
+    {
+      "name": "Buena Vista Museum of Natural History & Science",
+      "city": "Bakersfield",
+      "state": "California",
+      "address": "2018 Chester Ave, Bakersfield, CA 93301",
+      "coordinates": {
+        "latitude": 35.3742,
+        "longitude": -119.0183
+      },
+      "phone": "(661) 324-6350",
+      "website": "https://www.buenavistamuseum.org"
+    },
+    {
+      "name": "California Academy of Sciences",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "55 Music Concourse Dr, San Francisco, CA 94118",
+      "coordinates": {
+        "latitude": 37.7699,
+        "longitude": -122.4661
+      },
+      "phone": "(415) 379-8000",
+      "website": "https://www.calacademy.org"
+    },
+    {
+      "name": "California Botanic Garden",
+      "city": "Claremont",
+      "state": "California",
+      "address": "1500 N College Ave, Claremont, CA 91711",
+      "coordinates": {
+        "latitude": 34.1186,
+        "longitude": -117.7128
+      },
+      "phone": "(909) 625-8767",
+      "website": "https://www.calbg.org"
+    },
+    {
+      "name": "California Center for the Arts, Escondido",
+      "city": "Escondido",
+      "state": "California",
+      "address": "340 N Escondido Blvd, Escondido, CA 92025",
+      "coordinates": {
+        "latitude": 33.1256,
+        "longitude": -117.0864
+      },
+      "phone": "(760) 839-4138",
+      "website": "https://artcenter.org"
+    },
+    {
+      "name": "California Museum",
+      "city": "Sacramento",
+      "state": "California",
+      "address": "1020 O St, Sacramento, CA 95814",
+      "coordinates": {
+        "latitude": 38.5765,
+        "longitude": -121.4934
+      },
+      "phone": "(916) 653-7524",
+      "website": "https://www.californiamuseum.org"
+    },
+    {
+      "name": "California Nature Art Museum",
+      "city": "Solvang",
+      "state": "California",
+      "address": "1511-B Mission Dr, Solvang, CA 93463",
+      "coordinates": {
+        "latitude": 34.5949,
+        "longitude": -120.1384
+      },
+      "phone": "(805) 686-8311",
+      "website": "https://www.wildlingmuseum.org"
+    },
+    {
+      "name": "Camron-Stanford House",
+      "city": "Oakland",
+      "state": "California",
+      "address": "1418 Lakeside Dr, Oakland, CA 94612",
+      "coordinates": {
+        "latitude": 37.8037,
+        "longitude": -122.2628
+      },
+      "phone": "(510) 874-7802",
+      "website": "https://www.cshouse.org"
+    },
+    {
+      "name": "Carnegie Arts Center",
+      "city": "Turlock",
+      "state": "California",
+      "address": "250 N Broadway, Turlock, CA 95380",
+      "coordinates": {
+        "latitude": 37.4965,
+        "longitude": -120.8486
+      },
+      "phone": "(209) 632-5761",
+      "website": "https://www.carnegieartsturlock.org"
+    },
+    {
+      "name": "Casa de la Guerra",
+      "city": "Santa Barbara",
+      "state": "California",
+      "address": "15 E De La Guerra St, Santa Barbara, CA 93101",
+      "coordinates": {
+        "latitude": 34.4208,
+        "longitude": -119.6983
+      },
+      "phone": "(805) 965-0093",
+      "website": "https://www.sbthp.org/casa-de-la-guerra"
+    },
+    {
+      "name": "Casa del Herrero",
+      "city": "Montecito",
+      "state": "California",
+      "address": "1387 E Valley Rd, Montecito, CA 93108",
+      "coordinates": {
+        "latitude": 34.4361,
+        "longitude": -119.6325
+      },
+      "phone": "(805) 565-5653",
+      "website": "https://www.casadelherrero.com"
+    },
+    {
+      "name": "Cayton Children's Museum",
+      "city": "Santa Monica",
+      "state": "California",
+      "address": "395 Santa Monica Pl, Santa Monica, CA 90401",
+      "coordinates": {
+        "latitude": 34.0163,
+        "longitude": -118.4965
+      },
+      "phone": "(310) 546-0634",
+      "website": "https://www.caytonmuseum.org"
+    },
+    {
+      "name": "Chabot Space & Science Center",
+      "city": "Oakland",
+      "state": "California",
+      "address": "10000 Skyline Blvd, Oakland, CA 94619",
+      "coordinates": {
+        "latitude": 37.8140,
+        "longitude": -122.1794
+      },
+      "phone": "(510) 336-7300",
+      "website": "https://chabotspace.org"
+    },
+    {
+      "name": "Channel Islands Maritime Museum",
+      "city": "Oxnard",
+      "state": "California",
+      "address": "3900 Bluefin Cir, Oxnard, CA 93035",
+      "coordinates": {
+        "latitude": 34.1633,
+        "longitude": -119.2256
+      },
+      "phone": "(805) 984-6260",
+      "website": "https://www.cimmvc.org"
+    },
+    {
+      "name": "Charles M. Schulz Museum and Research Center",
+      "city": "Santa Rosa",
+      "state": "California",
+      "address": "2301 Hardies Ln, Santa Rosa, CA 95403",
+      "coordinates": {
+        "latitude": 38.4622,
+        "longitude": -122.7144
+      },
+      "phone": "(707) 579-4452",
+      "website": "https://www.schulzmuseum.org"
+    },
+    {
+      "name": "Chico Children's Museum",
+      "city": "Chico",
+      "state": "California",
+      "address": "325 Main St, Chico, CA 95928",
+      "coordinates": {
+        "latitude": 39.7285,
+        "longitude": -121.8374
+      },
+      "phone": "(530) 809-1492",
+      "website": "https://www.chicochildrensmuseum.org"
+    },
+    {
+      "name": "Children's Creativity Museum",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "221 4th St, San Francisco, CA 94103",
+      "coordinates": {
+        "latitude": 37.7849,
+        "longitude": -122.4037
+      },
+      "phone": "(415) 820-3320",
+      "website": "https://creativity.org"
+    },
+    {
+      "name": "Children's Discovery Museum of San Jose",
+      "city": "San Jose",
+      "state": "California",
+      "address": "180 Woz Way, San Jose, CA 95110",
+      "coordinates": {
+        "latitude": 37.3315,
+        "longitude": -121.8932
+      },
+      "phone": "(408) 298-5437",
+      "website": "https://www.cdm.org"
+    },
+    {
+      "name": "Children's Discovery Museum of the Desert",
+      "city": "Rancho Mirage",
+      "state": "California",
+      "address": "71701 Gerald Ford Dr, Rancho Mirage, CA 92270",
+      "coordinates": {
+        "latitude": 33.7646,
+        "longitude": -116.4125
+      },
+      "phone": "(760) 321-0602",
+      "website": "https://www.cdmod.org"
+    },
+    {
+      "name": "Children's Museum of Sonoma County",
+      "city": "Santa Rosa",
+      "state": "California",
+      "address": "1835 W Steele Ln, Santa Rosa, CA 95403",
+      "coordinates": {
+        "latitude": 38.4628,
+        "longitude": -122.7401
+      },
+      "phone": "(707) 546-4069",
+      "website": "https://www.cmosc.org"
+    },
+    {
+      "name": "Chrisman California Islands Center",
+      "city": "Carpinteria",
+      "state": "California",
+      "address": "4994 Carpinteria Ave, Carpinteria, CA 93013",
+      "coordinates": {
+        "latitude": 34.3989,
+        "longitude": -119.5183
+      },
+      "phone": "(805) 684-6386",
+      "website": "https://www.islandsfoundation.org"
+    },
+    {
+      "name": "Clarke Historical Museum",
+      "city": "Eureka",
+      "state": "California",
+      "address": "240 E St, Eureka, CA 95501",
+      "coordinates": {
+        "latitude": 40.8024,
+        "longitude": -124.1636
+      },
+      "phone": "(707) 443-1947",
+      "website": "https://www.clarkemuseum.org"
+    },
+    {
+      "name": "Computer History Museum",
+      "city": "Mountain View",
+      "state": "California",
+      "address": "1401 N Shoreline Blvd, Mountain View, CA 94043",
+      "coordinates": {
+        "latitude": 37.4144,
+        "longitude": -122.0769
+      },
+      "phone": "(650) 810-1010",
+      "website": "https://computerhistory.org"
+    },
+    {
+      "name": "Conservatory of Flowers",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "100 John F Kennedy Dr, San Francisco, CA 94118",
+      "coordinates": {
+        "latitude": 37.7702,
+        "longitude": -122.4612
+      },
+      "phone": "(415) 831-2090",
+      "website": "https://conservatoryofflowers.org"
+    },
+    {
+      "name": "Crocker Art Museum",
+      "city": "Sacramento",
+      "state": "California",
+      "address": "216 O St, Sacramento, CA 95814",
+      "coordinates": {
+        "latitude": 38.5766,
+        "longitude": -121.5041
+      },
+      "phone": "(916) 808-7000",
+      "website": "https://www.crockerart.org"
+    },
+    {
+      "name": "Cupertino Historical Society + Museum",
+      "city": "Cupertino",
+      "state": "California",
+      "address": "10185 N Stelling Rd, Cupertino, CA 95014",
+      "coordinates": {
+        "latitude": 37.3235,
+        "longitude": -122.0412
+      },
+      "phone": "(408) 973-1495",
+      "website": "https://www.cupertinohistoricalsociety.org"
+    },
+    {
+      "name": "CuriOdyssey",
+      "city": "San Mateo",
+      "state": "California",
+      "address": "1651 Coyote Point Dr, San Mateo, CA 94401",
+      "coordinates": {
+        "latitude": 37.5905,
+        "longitude": -122.3210
+      },
+      "phone": "(650) 342-7755",
+      "website": "https://curiodyssey.org"
+    },
+    {
+      "name": "de Young Museum",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "50 Hagiwara Tea Garden Dr, San Francisco, CA 94118",
+      "coordinates": {
+        "latitude": 37.7713,
+        "longitude": -122.4686
+      },
+      "phone": "(415) 750-3600",
+      "website": "https://deyoung.famsf.org"
+    },
+    {
+      "name": "El Presidio de Santa Bárbara State Historic Park",
+      "city": "Santa Barbara",
+      "state": "California",
+      "address": "123 E Canon Perdido St, Santa Barbara, CA 93101",
+      "coordinates": {
+        "latitude": 34.4214,
+        "longitude": -119.6972
+      },
+      "phone": "(805) 965-0093",
+      "website": "https://www.sbthp.org/presidio"
+    },
+    {
+      "name": "Elverhøj Museum of History & Art",
+      "city": "Solvang",
+      "state": "California",
+      "address": "1624 Elverhoy Way, Solvang, CA 93463",
+      "coordinates": {
+        "latitude": 34.5958,
+        "longitude": -120.1364
+      },
+      "phone": "(805) 686-1211",
+      "website": "https://www.elverhoj.org"
+    },
+    {
+      "name": "Exploratorium",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "Pier 15, The Embarcadero, San Francisco, CA 94111",
+      "coordinates": {
+        "latitude": 37.8017,
+        "longitude": -122.3973
+      },
+      "phone": "(415) 528-4444",
+      "website": "https://www.exploratorium.edu"
+    },
+    {
+      "name": "Filoli Historic House & Garden",
+      "city": "Woodside",
+      "state": "California",
+      "address": "86 Cañada Rd, Woodside, CA 94062",
+      "coordinates": {
+        "latitude": 37.4583,
+        "longitude": -122.2569
+      },
+      "phone": "(650) 364-8300",
+      "website": "https://filoli.org"
+    },
+    {
+      "name": "Fleet Science Center",
+      "city": "San Diego",
+      "state": "California",
+      "address": "1875 El Prado, San Diego, CA 92101",
+      "coordinates": {
+        "latitude": 32.7313,
+        "longitude": -117.1504
+      },
+      "phone": "(619) 238-1233",
+      "website": "https://www.fleetscience.org"
+    },
+    {
+      "name": "Folsom History Museum",
+      "city": "Folsom",
+      "state": "California",
+      "address": "823 Sutter St, Folsom, CA 95630",
+      "coordinates": {
+        "latitude": 38.6779,
+        "longitude": -121.1761
+      },
+      "phone": "(916) 985-2707",
+      "website": "https://www.folsomhistorymuseum.org"
+    },
+    {
+      "name": "Ganna Walska Lotusland",
+      "city": "Santa Barbara",
+      "state": "California",
+      "address": "695 Ashley Rd, Santa Barbara, CA 93108",
+      "coordinates": {
+        "latitude": 34.4442,
+        "longitude": -119.6642
+      },
+      "phone": "(805) 969-9990",
+      "website": "https://www.lotusland.org"
+    },
+    {
+      "name": "Gateway Science Museum",
+      "city": "Chico",
+      "state": "California",
+      "address": "625 Esplanade, Chico, CA 95926",
+      "coordinates": {
+        "latitude": 39.7288,
+        "longitude": -121.8406
+      },
+      "phone": "(530) 898-4121",
+      "website": "https://www.csuchico.edu/gateway"
+    },
+    {
+      "name": "GLBT Historical Society Museum",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "4127 18th St, San Francisco, CA 94114",
+      "coordinates": {
+        "latitude": 37.7609,
+        "longitude": -122.4350
+      },
+      "phone": "(415) 777-5455",
+      "website": "https://www.glbthistory.org/museum"
+    },
+    {
+      "name": "Goleta Valley Historical Society, Stewards of Rancho La Patera & Stow House",
+      "city": "Goleta",
+      "state": "California",
+      "address": "304 N Los Carneros Rd, Goleta, CA 93117",
+      "coordinates": {
+        "latitude": 34.4433,
+        "longitude": -119.8442
+      },
+      "phone": "(805) 681-7216",
+      "website": "https://www.goletahistory.org"
+    },
+    {
+      "name": "Habitot Children's Museum",
+      "city": "Berkeley",
+      "state": "California",
+      "address": "2065 Kittredge St, Berkeley, CA 94704",
+      "coordinates": {
+        "latitude": 37.8696,
+        "longitude": -122.2688
+      },
+      "phone": "(510) 647-1111",
+      "website": "https://www.habitot.org"
+    },
+    {
+      "name": "Heritage Square Museum",
+      "city": "Los Angeles",
+      "state": "California",
+      "address": "3800 Homer St, Los Angeles, CA 90031",
+      "coordinates": {
+        "latitude": 34.0789,
+        "longitude": -118.2139
+      },
+      "phone": "(323) 225-2700",
+      "website": "https://www.heritagesquare.org"
+    },
+    {
+      "name": "Hermosa Beach Historical Society & Museum",
+      "city": "Hermosa Beach",
+      "state": "California",
+      "address": "710 Pier Ave, Hermosa Beach, CA 90254",
+      "coordinates": {
+        "latitude": 33.8622,
+        "longitude": -118.3995
+      },
+      "phone": "(310) 318-9421",
+      "website": "https://www.hermosabeachhistoricalsociety.org"
+    },
+    {
+      "name": "Holocaust Museum LA",
+      "city": "Los Angeles",
+      "state": "California",
+      "address": "100 The Grove Dr, Los Angeles, CA 90036",
+      "coordinates": {
+        "latitude": 34.0729,
+        "longitude": -118.3576
+      },
+      "phone": "(323) 651-3704",
+      "website": "https://www.holocaustmuseumla.org"
+    },
+    {
+      "name": "Institute of Contemporary Art San Diego Central",
+      "city": "San Diego",
+      "state": "California",
+      "address": "1439 El Prado, San Diego, CA 92101",
+      "coordinates": {
+        "latitude": 32.7317,
+        "longitude": -117.1506
+      },
+      "phone": "(619) 236-0011",
+      "website": "https://www.icasandiego.org"
+    },
+    {
+      "name": "Institute of Contemporary Art San Diego North",
+      "city": "Encinitas",
+      "state": "California",
+      "address": "1550 S El Camino Real, Encinitas, CA 92024",
+      "coordinates": {
+        "latitude": 33.0202,
+        "longitude": -117.2748
+      },
+      "phone": "(760) 436-6611",
+      "website": "https://www.icasandiego.org"
+    },
+    {
+      "name": "International Art Museum of America",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "1025 Market St, San Francisco, CA 94103",
+      "coordinates": {
+        "latitude": 37.7819,
+        "longitude": -122.4104
+      },
+      "phone": "(415) 376-6344",
+      "website": "https://www.iamasf.org"
+    },
+    {
+      "name": "Japanese American National Museum",
+      "city": "Los Angeles",
+      "state": "California",
+      "address": "100 N Central Ave, Los Angeles, CA 90012",
+      "coordinates": {
+        "latitude": 34.0497,
+        "longitude": -118.2388
+      },
+      "phone": "(213) 625-0414",
+      "website": "https://www.janm.org"
+    },
+    {
+      "name": "Japanese Friendship Garden & Museum",
+      "city": "San Diego",
+      "state": "California",
+      "address": "2215 Pan American Rd E, San Diego, CA 92101",
+      "coordinates": {
+        "latitude": 32.7303,
+        "longitude": -117.1486
+      },
+      "phone": "(619) 232-2721",
+      "website": "https://www.niwa.org"
+    },
+    {
+      "name": "Japanese Tea Garden",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "75 Hagiwara Tea Garden Dr, San Francisco, CA 94118",
+      "coordinates": {
+        "latitude": 37.7704,
+        "longitude": -122.4702
+      },
+      "phone": "(415) 752-4227",
+      "website": "https://japaneseteagardensf.com"
+    },
+    {
+      "name": "Jurupa Mountains Discovery Center",
+      "city": "Jurupa Valley",
+      "state": "California",
+      "address": "7621 Granite Hill Dr, Jurupa Valley, CA 92509",
+      "coordinates": {
+        "latitude": 33.9981,
+        "longitude": -117.4856
+      },
+      "phone": "(951) 685-5818",
+      "website": "https://www.jmdc.org"
+    },
+    {
+      "name": "Kids Discovery Station",
+      "city": "Merced",
+      "state": "California",
+      "address": "356 W Main St, Merced, CA 95340",
+      "coordinates": {
+        "latitude": 37.3029,
+        "longitude": -120.4856
+      },
+      "phone": "(209) 724-6732",
+      "website": "https://www.kidsdiscoverystation.org"
+    },
+    {
+      "name": "Kidspace Children's Museum",
+      "city": "Pasadena",
+      "state": "California",
+      "address": "480 N Arroyo Blvd, Pasadena, CA 91103",
+      "coordinates": {
+        "latitude": 34.1566,
+        "longitude": -118.1652
+      },
+      "phone": "(626) 449-9144",
+      "website": "https://www.kidspacemuseum.org"
+    },
+    {
+      "name": "Kimberly Crest House & Gardens",
+      "city": "Redlands",
+      "state": "California",
+      "address": "1325 Prospect Dr, Redlands, CA 92373",
+      "coordinates": {
+        "latitude": 34.0611,
+        "longitude": -117.1702
+      },
+      "phone": "(909) 792-2111",
+      "website": "https://www.kimberlycrest.org"
+    },
+    {
+      "name": "La Brea Tar Pits and Museum",
+      "city": "Los Angeles",
+      "state": "California",
+      "address": "5801 Wilshire Blvd, Los Angeles, CA 90036",
+      "coordinates": {
+        "latitude": 34.0638,
+        "longitude": -118.3554
+      },
+      "phone": "(213) 763-3499",
+      "website": "https://tarpits.org"
+    },
+    {
+      "name": "Lawrence Hall of Science",
+      "city": "Berkeley",
+      "state": "California",
+      "address": "1 Centennial Dr, Berkeley, CA 94720",
+      "coordinates": {
+        "latitude": 37.8756,
+        "longitude": -122.2417
+      },
+      "phone": "(510) 642-5132",
+      "website": "https://www.lawrencehallofscience.org"
+    },
+    {
+      "name": "LEAP Children's Museum",
+      "city": "Santa Clarita",
+      "state": "California",
+      "address": "21515 Centre Pointe Pkwy, Santa Clarita, CA 91350",
+      "coordinates": {
+        "latitude": 34.4268,
+        "longitude": -118.5704
+      },
+      "phone": "(661) 260-2287",
+      "website": "https://www.leapmuseum.org"
+    },
+    {
+      "name": "Legacy Center",
+      "city": "San Diego",
+      "state": "California",
+      "address": "200 W Island Ave, San Diego, CA 92101",
+      "coordinates": {
+        "latitude": 32.7109,
+        "longitude": -117.1604
+      },
+      "phone": "(619) 232-3103",
+      "website": "https://www.thelegacycentersd.org"
+    },
+    {
+      "name": "Legion of Honor",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "100 34th Ave, San Francisco, CA 94121",
+      "coordinates": {
+        "latitude": 37.7849,
+        "longitude": -122.5008
+      },
+      "phone": "(415) 750-3600",
+      "website": "https://legionofhonor.famsf.org"
+    },
+    {
+      "name": "Letterform Archive",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "2325 3rd St #100, San Francisco, CA 94107",
+      "coordinates": {
+        "latitude": 37.7609,
+        "longitude": -122.3887
+      },
+      "phone": "(415) 802-7485",
+      "website": "https://letterformarchive.org"
+    },
+    {
+      "name": "Lindsay Wildlife Experience",
+      "city": "Walnut Creek",
+      "state": "California",
+      "address": "1931 1st Ave, Walnut Creek, CA 94597",
+      "coordinates": {
+        "latitude": 37.9015,
+        "longitude": -122.0463
+      },
+      "phone": "(925) 935-1978",
+      "website": "https://www.lindsaywildlife.org"
+    },
+    {
+      "name": "Living Coast Discovery Center",
+      "city": "Chula Vista",
+      "state": "California",
+      "address": "1000 Gunpowder Point Dr, Chula Vista, CA 91910",
+      "coordinates": {
+        "latitude": 32.6289,
+        "longitude": -117.1124
+      },
+      "phone": "(619) 409-5900",
+      "website": "https://www.thelivingcoast.org"
+    },
+    {
+      "name": "Lompoc Museum",
+      "city": "Lompoc",
+      "state": "California",
+      "address": "200 S H St, Lompoc, CA 93436",
+      "coordinates": {
+        "latitude": 34.6392,
+        "longitude": -120.4578
+      },
+      "phone": "(805) 736-3888",
+      "website": "https://www.lompocmuseum.org"
+    },
+    {
+      "name": "Maritime Museum of San Diego",
+      "city": "San Diego",
+      "state": "California",
+      "address": "1492 N Harbor Dr, San Diego, CA 92101",
+      "coordinates": {
+        "latitude": 32.7219,
+        "longitude": -117.1735
+      },
+      "phone": "(619) 234-9153",
+      "website": "https://sdmaritime.org"
+    },
+    {
+      "name": "Marston House Museum & Gardens",
+      "city": "San Diego",
+      "state": "California",
+      "address": "3525 Seventh Ave, San Diego, CA 92103",
+      "coordinates": {
+        "latitude": 32.7472,
+        "longitude": -117.1653
+      },
+      "phone": "(619) 297-9327",
+      "website": "https://www.sandiegohistory.org/marston"
+    },
+    {
+      "name": "Mendocino Coast Botanical Gardens",
+      "city": "Fort Bragg",
+      "state": "California",
+      "address": "18220 CA-1, Fort Bragg, CA 95437",
+      "coordinates": {
+        "latitude": 39.4244,
+        "longitude": -123.8059
+      },
+      "phone": "(707) 964-4352",
+      "website": "https://www.gardenbythesea.org"
+    },
+    {
+      "name": "Mingei International Museum",
+      "city": "San Diego",
+      "state": "California",
+      "address": "1439 El Prado, San Diego, CA 92101",
+      "coordinates": {
+        "latitude": 32.7317,
+        "longitude": -117.1506
+      },
+      "phone": "(619) 239-0003",
+      "website": "https://mingei.org"
+    },
+    {
+      "name": "Modesto Children's Museum",
+      "city": "Modesto",
+      "state": "California",
+      "address": "1601 K St, Modesto, CA 95354",
+      "coordinates": {
+        "latitude": 37.6373,
+        "longitude": -120.9991
+      },
+      "phone": "(209) 577-9200",
+      "website": "https://www.modestochildrensmuseum.org"
+    },
+    {
+      "name": "Monterey Bay Aquarium",
+      "city": "Monterey",
+      "state": "California",
+      "address": "886 Cannery Row, Monterey, CA 93940",
+      "coordinates": {
+        "latitude": 36.6182,
+        "longitude": -121.9015
+      },
+      "phone": "(831) 648-4800",
+      "website": "https://www.montereybayaquarium.org"
+    },
+    {
+      "name": "Monterey County Youth Museum (MY Museum)",
+      "city": "Monterey",
+      "state": "California",
+      "address": "425 Washington St, Monterey, CA 93940",
+      "coordinates": {
+        "latitude": 36.5992,
+        "longitude": -121.8935
+      },
+      "phone": "(831) 649-6444",
+      "website": "https://www.mymuseum.org"
+    },
+    {
+      "name": "Monterey History and Art at Stanton Center",
+      "city": "Monterey",
+      "state": "California",
+      "address": "5 Custom House Plaza, Monterey, CA 93940",
+      "coordinates": {
+        "latitude": 36.6005,
+        "longitude": -121.8927
+      },
+      "phone": "(831) 372-2608",
+      "website": "https://www.montereyhistory.org"
+    },
+    {
+      "name": "Monterey Museum of Art - La Mirada",
+      "city": "Monterey",
+      "state": "California",
+      "address": "720 Via Mirada, Monterey, CA 93940",
+      "coordinates": {
+        "latitude": 36.5944,
+        "longitude": -121.8942
+      },
+      "phone": "(831) 372-5477",
+      "website": "https://www.montereyart.org"
+    },
+    {
+      "name": "Monterey Museum of Art - Pacific Street",
+      "city": "Monterey",
+      "state": "California",
+      "address": "559 Pacific St, Monterey, CA 93940",
+      "coordinates": {
+        "latitude": 36.5997,
+        "longitude": -121.8943
+      },
+      "phone": "(831) 372-5477",
+      "website": "https://www.montereyart.org"
+    },
+    {
+      "name": "Morris Graves Museum of Art",
+      "city": "Eureka",
+      "state": "California",
+      "address": "636 F St, Eureka, CA 95501",
+      "coordinates": {
+        "latitude": 40.8027,
+        "longitude": -124.1633
+      },
+      "phone": "(707) 442-0278",
+      "website": "https://www.humboldtarts.org"
+    },
+    {
+      "name": "MOXI, The Wolf Museum of Exploration + Innovation",
+      "city": "Santa Barbara",
+      "state": "California",
+      "address": "125 State St, Santa Barbara, CA 93101",
+      "coordinates": {
+        "latitude": 34.4174,
+        "longitude": -119.6972
+      },
+      "phone": "(805) 770-5000",
+      "website": "https://www.moxi.org"
+    },
+    {
+      "name": "Museum of Children's Arts",
+      "city": "Oakland",
+      "state": "California",
+      "address": "538 9th St, Oakland, CA 94607",
+      "coordinates": {
+        "latitude": 37.7978,
+        "longitude": -122.2765
+      },
+      "phone": "(510) 465-8770",
+      "website": "https://www.mocha.org"
+    },
+    {
+      "name": "Museum of Contemporary Art San Diego Downtown",
+      "city": "San Diego",
+      "state": "California",
+      "address": "1100 Kettner Blvd, San Diego, CA 92101",
+      "coordinates": {
+        "latitude": 32.7183,
+        "longitude": -117.1694
+      },
+      "phone": "(858) 454-3541",
+      "website": "https://www.mcasd.org"
+    },
+    {
+      "name": "Museum of Contemporary Art San Diego La Jolla",
+      "city": "San Diego",
+      "state": "California",
+      "address": "700 Prospect St, La Jolla, CA 92037",
+      "coordinates": {
+        "latitude": 32.8486,
+        "longitude": -117.2750
+      },
+      "phone": "(858) 454-3541",
+      "website": "https://www.mcasd.org"
+    },
+    {
+      "name": "Museum of Contemporary Art Santa Barbara",
+      "city": "Santa Barbara",
+      "state": "California",
+      "address": "653 Paseo Nuevo, Santa Barbara, CA 93101",
+      "coordinates": {
+        "latitude": 34.4211,
+        "longitude": -119.6996
+      },
+      "phone": "(805) 966-5373",
+      "website": "https://www.mcasantabarbara.org"
+    },
+    {
+      "name": "Museum of Craft and Design",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "2569 3rd St, San Francisco, CA 94107",
+      "coordinates": {
+        "latitude": 37.7614,
+        "longitude": -122.3882
+      },
+      "phone": "(415) 773-0303",
+      "website": "https://www.sfmcd.org"
+    },
+    {
+      "name": "Museum of History Benicia - Arsenal Galleries",
+      "city": "Benicia",
+      "state": "California",
+      "address": "2060 Camel Rd, Benicia, CA 94510",
+      "coordinates": {
+        "latitude": 38.0558,
+        "longitude": -122.1408
+      },
+      "phone": "(707) 745-5435",
+      "website": "https://www.beniciahistoricalmuseum.org"
+    },
+    {
+      "name": "Museum of History Benicia - Downtown Gallery",
+      "city": "Benicia",
+      "state": "California",
+      "address": "900 East 2nd St, Benicia, CA 94510",
+      "coordinates": {
+        "latitude": 38.0497,
+        "longitude": -122.1581
+      },
+      "phone": "(707) 745-5435",
+      "website": "https://www.beniciahistoricalmuseum.org"
+    },
+    {
+      "name": "Museum of Latin American Art",
+      "city": "Long Beach",
+      "state": "California",
+      "address": "628 Alamitos Ave, Long Beach, CA 90802",
+      "coordinates": {
+        "latitude": 33.7778,
+        "longitude": -118.1831
+      },
+      "phone": "(562) 437-1689",
+      "website": "https://www.molaa.org"
+    },
+    {
+      "name": "Museum of Making Music",
+      "city": "Carlsbad",
+      "state": "California",
+      "address": "5790 Armada Dr, Carlsbad, CA 92008",
+      "coordinates": {
+        "latitude": 33.1234,
+        "longitude": -117.3115
+      },
+      "phone": "(760) 438-5996",
+      "website": "https://www.museumofmakingmusic.org"
+    },
+    {
+      "name": "Museum of Neon Art",
+      "city": "Glendale",
+      "state": "California",
+      "address": "216 S Brand Blvd, Glendale, CA 91204",
+      "coordinates": {
+        "latitude": 34.1422,
+        "longitude": -118.2540
+      },
+      "phone": "(818) 696-2149",
+      "website": "https://www.neonmona.org"
+    },
+    {
+      "name": "Museum of Photographic Arts at The San Diego Museum of Art",
+      "city": "San Diego",
+      "state": "California",
+      "address": "1450 El Prado, San Diego, CA 92101",
+      "coordinates": {
+        "latitude": 32.7319,
+        "longitude": -117.1503
+      },
+      "phone": "(619) 238-7559",
+      "website": "https://www.sdmart.org"
+    },
+    {
+      "name": "Museum of Sensory & Movement Experiences",
+      "city": "Santa Barbara",
+      "state": "California",
+      "address": "Paseo Nuevo Upper Arts Terrace, Santa Barbara, CA 93101",
+      "coordinates": {
+        "latitude": 34.4210,
+        "longitude": -119.6995
+      },
+      "phone": "(805) 884-6656",
+      "website": "https://www.museumsb.org"
+    },
+    {
+      "name": "Museum of Sonoma County",
+      "city": "Santa Rosa",
+      "state": "California",
+      "address": "425 7th St, Santa Rosa, CA 95401",
+      "coordinates": {
+        "latitude": 38.4405,
+        "longitude": -122.7143
+      },
+      "phone": "(707) 579-1500",
+      "website": "https://www.museumsc.org"
+    },
+    {
+      "name": "Museum of the African Diaspora",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "685 Mission St, San Francisco, CA 94105",
+      "coordinates": {
+        "latitude": 37.7856,
+        "longitude": -122.4013
+      },
+      "phone": "(415) 358-7200",
+      "website": "https://www.moadsf.org"
+    },
+    {
+      "name": "Museum of Ventura County",
+      "city": "Ventura",
+      "state": "California",
+      "address": "100 E Main St, Ventura, CA 93001",
+      "coordinates": {
+        "latitude": 34.2809,
+        "longitude": -119.2936
+      },
+      "phone": "(805) 653-0323",
+      "website": "https://www.venturamuseum.org"
+    },
+    {
+      "name": "Muzeo Museum and Cultural Center",
+      "city": "Anaheim",
+      "state": "California",
+      "address": "241 S Anaheim Blvd, Anaheim, CA 92805",
+      "coordinates": {
+        "latitude": 33.8338,
+        "longitude": -117.9145
+      },
+      "phone": "(714) 956-8936",
+      "website": "https://www.muzeo.org"
+    },
+    {
+      "name": "Natural History Museum of Los Angeles County",
+      "city": "Los Angeles",
+      "state": "California",
+      "address": "900 Exposition Blvd, Los Angeles, CA 90007",
+      "coordinates": {
+        "latitude": 34.0169,
+        "longitude": -118.2888
+      },
+      "phone": "(213) 763-3466",
+      "website": "https://nhm.org"
+    },
+    {
+      "name": "New Museum Los Gatos",
+      "city": "Los Gatos",
+      "state": "California",
+      "address": "106 E Main St, Los Gatos, CA 95030",
+      "coordinates": {
+        "latitude": 37.2265,
+        "longitude": -121.9820
+      },
+      "phone": "(408) 354-2646",
+      "website": "https://www.numulosgatos.org"
+    },
+    {
+      "name": "Oakland Museum of California",
+      "city": "Oakland",
+      "state": "California",
+      "address": "1000 Oak St, Oakland, CA 94607",
+      "coordinates": {
+        "latitude": 37.7986,
+        "longitude": -122.2658
+      },
+      "phone": "(510) 318-8400",
+      "website": "https://museumca.org"
+    },
+    {
+      "name": "Old Mission Santa Barbara",
+      "city": "Santa Barbara",
+      "state": "California",
+      "address": "2201 Laguna St, Santa Barbara, CA 93105",
+      "coordinates": {
+        "latitude": 34.4382,
+        "longitude": -119.7135
+      },
+      "phone": "(805) 682-4713",
+      "website": "https://www.santabarbaramission.org"
+    },
+    {
+      "name": "Orange County Children's Museum",
+      "city": "Fountain Valley",
+      "state": "California",
+      "address": "18040 Newhope St, Fountain Valley, CA 92708",
+      "coordinates": {
+        "latitude": 33.7175,
+        "longitude": -117.9467
+      },
+      "phone": "(714) 418-7194",
+      "website": "https://www.occhildrensmuseum.org"
+    },
+    {
+      "name": "Pacific Grove Museum of Natural History",
+      "city": "Pacific Grove",
+      "state": "California",
+      "address": "165 Forest Ave, Pacific Grove, CA 93950",
+      "coordinates": {
+        "latitude": 36.6187,
+        "longitude": -121.9164
+      },
+      "phone": "(831) 648-5716",
+      "website": "https://www.pgmuseum.org"
+    },
+    {
+      "name": "Palm Springs Air Museum",
+      "city": "Palm Springs",
+      "state": "California",
+      "address": "745 N Gene Autry Trail, Palm Springs, CA 92262",
+      "coordinates": {
+        "latitude": 33.8306,
+        "longitude": -116.5044
+      },
+      "phone": "(760) 778-6262",
+      "website": "https://palmspringsairmuseum.org"
+    },
+    {
+      "name": "Palo Alto Art Center",
+      "city": "Palo Alto",
+      "state": "California",
+      "address": "1313 Newell Rd, Palo Alto, CA 94303",
+      "coordinates": {
+        "latitude": 37.4436,
+        "longitude": -122.1499
+      },
+      "phone": "(650) 329-2366",
+      "website": "https://www.cityofpaloalto.org/artcenter"
+    },
+    {
+      "name": "Playzeum Yuba-Sutter",
+      "city": "Yuba City",
+      "state": "California",
+      "address": "950 Tharp Rd, Yuba City, CA 95993",
+      "coordinates": {
+        "latitude": 39.1357,
+        "longitude": -121.6262
+      },
+      "phone": "(530) 300-5437",
+      "website": "https://www.playzeum.org"
+    },
+    {
+      "name": "Pretend City Children's Museum",
+      "city": "Irvine",
+      "state": "California",
+      "address": "29 Hubble, Irvine, CA 92618",
+      "coordinates": {
+        "latitude": 33.6756,
+        "longitude": -117.7459
+      },
+      "phone": "(949) 428-3900",
+      "website": "https://www.pretendcity.org"
+    },
+    {
+      "name": "Raymond M. Alf Museum of Paleontology",
+      "city": "Claremont",
+      "state": "California",
+      "address": "1175 W Baseline Rd, Claremont, CA 91711",
+      "coordinates": {
+        "latitude": 34.1028,
+        "longitude": -117.7218
+      },
+      "phone": "(909) 624-2798",
+      "website": "https://www.alfmuseum.org"
+    },
+    {
+      "name": "Richmond Museum of History",
+      "city": "Richmond",
+      "state": "California",
+      "address": "400 Nevin Ave, Richmond, CA 94801",
+      "coordinates": {
+        "latitude": 37.9362,
+        "longitude": -122.3489
+      },
+      "phone": "(510) 235-7387",
+      "website": "https://www.richmondmuseum.org"
+    },
+    {
+      "name": "Riverside Art Museum",
+      "city": "Riverside",
+      "state": "California",
+      "address": "3425 Mission Inn Ave, Riverside, CA 92501",
+      "coordinates": {
+        "latitude": 33.9833,
+        "longitude": -117.3734
+      },
+      "phone": "(951) 684-7111",
+      "website": "https://www.riversideartmuseum.org"
+    },
+    {
+      "name": "Robert Ferguson Observatory",
+      "city": "Kenwood",
+      "state": "California",
+      "address": "2605 Adobe Canyon Rd, Kenwood, CA 95452",
+      "coordinates": {
+        "latitude": 38.4132,
+        "longitude": -122.5469
+      },
+      "phone": "(707) 833-6979",
+      "website": "https://rfo.org"
+    },
+    {
+      "name": "Ruth Bancroft Garden & Nursery",
+      "city": "Walnut Creek",
+      "state": "California",
+      "address": "1552 Bancroft Rd, Walnut Creek, CA 94598",
+      "coordinates": {
+        "latitude": 37.9100,
+        "longitude": -122.0428
+      },
+      "phone": "(925) 944-9352",
+      "website": "https://www.ruthbancroftgarden.org"
+    },
+    {
+      "name": "Sacramento Children's Museum",
+      "city": "Rancho Cordova",
+      "state": "California",
+      "address": "2701 Prospect Park Dr, Rancho Cordova, CA 95670",
+      "coordinates": {
+        "latitude": 38.5892,
+        "longitude": -121.3028
+      },
+      "phone": "(916) 638-7225",
+      "website": "https://www.sackids.org"
+    },
+    {
+      "name": "Sacramento History Museum",
+      "city": "Old Sacramento",
+      "state": "California",
+      "address": "101 I St, Sacramento, CA 95814",
+      "coordinates": {
+        "latitude": 38.5827,
+        "longitude": -121.5042
+      },
+      "phone": "(916) 808-7059",
+      "website": "https://www.sachistorymuseum.org"
+    },
+    {
+      "name": "San Bernardino County Museum",
+      "city": "Redlands",
+      "state": "California",
+      "address": "2024 Orange Tree Ln, Redlands, CA 92374",
+      "coordinates": {
+        "latitude": 34.0556,
+        "longitude": -117.1681
+      },
+      "phone": "(909) 798-8608",
+      "website": "https://www.sbcounty.gov/museum"
+    },
+    {
+      "name": "San Diego Archaeological Center",
+      "city": "Escondido",
+      "state": "California",
+      "address": "16666 San Pasqual Valley Rd, Escondido, CA 92027",
+      "coordinates": {
+        "latitude": 33.0919,
+        "longitude": -117.0807
+      },
+      "phone": "(760) 291-0370",
+      "website": "https://www.sandiegoarchaeology.org"
+    },
+    {
+      "name": "San Diego Automotive Museum",
+      "city": "San Diego",
+      "state": "California",
+      "address": "2080 Pan American Plaza, San Diego, CA 92101",
+      "coordinates": {
+        "latitude": 32.7316,
+        "longitude": -117.1496
+      },
+      "phone": "(619) 231-2886",
+      "website": "https://www.sdautomuseum.org"
+    },
+    {
+      "name": "San Diego Botanic Garden",
+      "city": "Encinitas",
+      "state": "California",
+      "address": "230 Quail Gardens Dr, Encinitas, CA 92024",
+      "coordinates": {
+        "latitude": 33.0456,
+        "longitude": -117.2655
+      },
+      "phone": "(760) 436-3036",
+      "website": "https://www.sdbgarden.org"
+    },
+    {
+      "name": "San Diego Children's Discovery Museum",
+      "city": "Escondido",
+      "state": "California",
+      "address": "320 N Broadway, Escondido, CA 92025",
+      "coordinates": {
+        "latitude": 33.1256,
+        "longitude": -117.0864
+      },
+      "phone": "(760) 233-7755",
+      "website": "https://www.sdcdm.org"
+    },
+    {
+      "name": "San Diego History Center",
+      "city": "San Diego",
+      "state": "California",
+      "address": "1649 El Prado, San Diego, CA 92101",
+      "coordinates": {
+        "latitude": 32.7323,
+        "longitude": -117.1501
+      },
+      "phone": "(619) 232-6203",
+      "website": "https://www.sandiegohistory.org"
+    },
+    {
+      "name": "San Diego Model Railroad Museum",
+      "city": "San Diego",
+      "state": "California",
+      "address": "1649 El Prado, San Diego, CA 92101",
+      "coordinates": {
+        "latitude": 32.7323,
+        "longitude": -117.1501
+      },
+      "phone": "(619) 696-0199",
+      "website": "https://www.sdmrm.org"
+    },
+    {
+      "name": "San Diego Museum of Art",
+      "city": "San Diego",
+      "state": "California",
+      "address": "1450 El Prado, San Diego, CA 92101",
+      "coordinates": {
+        "latitude": 32.7319,
+        "longitude": -117.1503
+      },
+      "phone": "(619) 232-7931",
+      "website": "https://www.sdmart.org"
+    },
+    {
+      "name": "San Diego Natural History Museum (The Nat)",
+      "city": "San Diego",
+      "state": "California",
+      "address": "1788 El Prado, San Diego, CA 92101",
+      "coordinates": {
+        "latitude": 32.7320,
+        "longitude": -117.1495
+      },
+      "phone": "(619) 232-3821",
+      "website": "https://www.sdnhm.org"
+    },
+    {
+      "name": "San Francisco Botanical Garden at Strybing Arboretum",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "1199 9th Ave, San Francisco, CA 94122",
+      "coordinates": {
+        "latitude": 37.7664,
+        "longitude": -122.4666
+      },
+      "phone": "(415) 661-1316",
+      "website": "https://www.sfbotanicalgarden.org"
+    },
+    {
+      "name": "San Jose Museum of Art",
+      "city": "San Jose",
+      "state": "California",
+      "address": "110 S Market St, San Jose, CA 95113",
+      "coordinates": {
+        "latitude": 37.3329,
+        "longitude": -121.8894
+      },
+      "phone": "(408) 271-6840",
+      "website": "https://www.sjmusart.org"
+    },
+    {
+      "name": "San Jose Museum of Quilts & Textiles",
+      "city": "San Jose",
+      "state": "California",
+      "address": "520 S 1st St, San Jose, CA 95113",
+      "coordinates": {
+        "latitude": 37.3313,
+        "longitude": -121.8882
+      },
+      "phone": "(408) 971-0323",
+      "website": "https://www.sjquiltmuseum.org"
+    },
+    {
+      "name": "San Lorenzo Valley Museum - Faye G. Belardi Memorial Gallery",
+      "city": "Felton",
+      "state": "California",
+      "address": "12547 CA-9, Felton, CA 95018",
+      "coordinates": {
+        "latitude": 37.0514,
+        "longitude": -122.0734
+      },
+      "phone": "(831) 338-8382",
+      "website": "https://www.slvmuseum.com"
+    },
+    {
+      "name": "San Lorenzo Valley Museum - Grace Episcopal Gallery",
+      "city": "Boulder Creek",
+      "state": "California",
+      "address": "13040 CA-9, Boulder Creek, CA 95006",
+      "coordinates": {
+        "latitude": 37.1261,
+        "longitude": -122.1223
+      },
+      "phone": "(831) 338-8382",
+      "website": "https://www.slvmuseum.com"
+    },
+    {
+      "name": "San Luis Obispo Children's Museum",
+      "city": "San Luis Obispo",
+      "state": "California",
+      "address": "1010 Nipomo St, San Luis Obispo, CA 93401",
+      "coordinates": {
+        "latitude": 35.2828,
+        "longitude": -120.6599
+      },
+      "phone": "(805) 544-5437",
+      "website": "https://www.slocc.org"
+    },
+    {
+      "name": "Santa Ana Zoo at Prentice Park",
+      "city": "Santa Ana",
+      "state": "California",
+      "address": "1801 E Chestnut Ave, Santa Ana, CA 92701",
+      "coordinates": {
+        "latitude": 33.7473,
+        "longitude": -117.8418
+      },
+      "phone": "(714) 836-4000",
+      "website": "https://www.santaanazoo.org"
+    },
+    {
+      "name": "Santa Barbara Historical Museum",
+      "city": "Santa Barbara",
+      "state": "California",
+      "address": "136 E De La Guerra St, Santa Barbara, CA 93101",
+      "coordinates": {
+        "latitude": 34.4208,
+        "longitude": -119.6983
+      },
+      "phone": "(805) 966-1601",
+      "website": "https://www.santabarbaramuseum.com"
+    },
+    {
+      "name": "Santa Barbara Maritime Museum",
+      "city": "Santa Barbara",
+      "state": "California",
+      "address": "113 Harbor Way, Santa Barbara, CA 93109",
+      "coordinates": {
+        "latitude": 34.4086,
+        "longitude": -119.6917
+      },
+      "phone": "(805) 962-8404",
+      "website": "https://www.sbmm.org"
+    },
+    {
+      "name": "Santa Barbara Museum of Art",
+      "city": "Santa Barbara",
+      "state": "California",
+      "address": "1130 State St, Santa Barbara, CA 93101",
+      "coordinates": {
+        "latitude": 34.4228,
+        "longitude": -119.7036
+      },
+      "phone": "(805) 963-4364",
+      "website": "https://www.sbma.net"
+    },
+    {
+      "name": "Santa Barbara Museum of Natural History",
+      "city": "Santa Barbara",
+      "state": "California",
+      "address": "2559 Puesta del Sol, Santa Barbara, CA 93105",
+      "coordinates": {
+        "latitude": 34.4206,
+        "longitude": -119.7069
+      },
+      "phone": "(805) 682-4711",
+      "website": "https://www.sbnature.org"
+    },
+    {
+      "name": "Santa Barbara Zoo",
+      "city": "Santa Barbara",
+      "state": "California",
+      "address": "500 Ninos Dr, Santa Barbara, CA 93103",
+      "coordinates": {
+        "latitude": 34.4183,
+        "longitude": -119.6582
+      },
+      "phone": "(805) 962-5339",
+      "website": "https://www.sbzoo.org"
+    },
+    {
+      "name": "Santa Cruz Children's Museum of Discovery",
+      "city": "Capitola",
+      "state": "California",
+      "address": "1855 41st Ave #10, Capitola, CA 95010",
+      "coordinates": {
+        "latitude": 36.9772,
+        "longitude": -121.9534
+      },
+      "phone": "(831) 466-5437",
+      "website": "https://www.sccmod.org"
+    },
+    {
+      "name": "Santa Cruz Museum of Natural History",
+      "city": "Santa Cruz",
+      "state": "California",
+      "address": "1305 East Cliff Dr, Santa Cruz, CA 95062",
+      "coordinates": {
+        "latitude": 36.9712,
+        "longitude": -122.0264
+      },
+      "phone": "(831) 420-6115",
+      "website": "https://www.santacruzmuseum.org"
+    },
+    {
+      "name": "Santa Maria Valley Discovery Museum",
+      "city": "Santa Maria",
+      "state": "California",
+      "address": "705 S McClelland St, Santa Maria, CA 93454",
+      "coordinates": {
+        "latitude": 34.9405,
+        "longitude": -120.4362
+      },
+      "phone": "(805) 928-8414",
+      "website": "https://www.smvdiscoverymuseum.org"
+    },
+    {
+      "name": "Santa Monica History Museum",
+      "city": "Santa Monica",
+      "state": "California",
+      "address": "1350 7th St, Santa Monica, CA 90401",
+      "coordinates": {
+        "latitude": 34.0174,
+        "longitude": -118.4918
+      },
+      "phone": "(310) 395-2290",
+      "website": "https://www.santamonicahistory.org"
+    },
+    {
+      "name": "Santa Paula Art Museum",
+      "city": "Santa Paula",
+      "state": "California",
+      "address": "117 N 10th St, Santa Paula, CA 93060",
+      "coordinates": {
+        "latitude": 34.3542,
+        "longitude": -119.0678
+      },
+      "phone": "(805) 525-5554",
+      "website": "https://www.santapaulaartmuseum.org"
+    },
+    {
+      "name": "Santa Ynez Valley Historical Museum & Parks-Janeway Carriage House",
+      "city": "Santa Ynez",
+      "state": "California",
+      "address": "3596 Sagunto St, Santa Ynez, CA 93460",
+      "coordinates": {
+        "latitude": 34.6144,
+        "longitude": -120.0797
+      },
+      "phone": "(805) 688-7889",
+      "website": "https://www.syvmuseum.org"
+    },
+    {
+      "name": "Sequoia Park Zoo",
+      "city": "Eureka",
+      "state": "California",
+      "address": "3414 W St, Eureka, CA 95503",
+      "coordinates": {
+        "latitude": 40.7802,
+        "longitude": -124.1559
+      },
+      "phone": "(707) 441-4263",
+      "website": "https://www.sequoiaparkzoo.net"
+    },
+    {
+      "name": "Sherman Library & Gardens",
+      "city": "Corona Del Mar",
+      "state": "California",
+      "address": "2647 East Coast Hwy, Corona Del Mar, CA 92625",
+      "coordinates": {
+        "latitude": 33.6063,
+        "longitude": -117.8689
+      },
+      "phone": "(949) 673-2261",
+      "website": "https://www.thesherman.org"
+    },
+    {
+      "name": "Skirball Cultural Center",
+      "city": "Los Angeles",
+      "state": "California",
+      "address": "2701 N Sepulveda Blvd, Los Angeles, CA 90049",
+      "coordinates": {
+        "latitude": 34.1189,
+        "longitude": -118.4714
+      },
+      "phone": "(310) 440-4500",
+      "website": "https://www.skirball.org"
+    },
+    {
+      "name": "SMUD Museum of Science and Curiosity",
+      "city": "Sacramento",
+      "state": "California",
+      "address": "400 Jibboom St, Sacramento, CA 95811",
+      "coordinates": {
+        "latitude": 38.5867,
+        "longitude": -121.4932
+      },
+      "phone": "(916) 674-5000",
+      "website": "https://www.visitmosac.org"
+    },
+    {
+      "name": "Sonoma Botanical Garden",
+      "city": "Glen Ellen",
+      "state": "California",
+      "address": "12841 CA-12, Glen Ellen, CA 95442",
+      "coordinates": {
+        "latitude": 38.3642,
+        "longitude": -122.5225
+      },
+      "phone": "(707) 996-3166",
+      "website": "https://www.sonomabg.org"
+    },
+    {
+      "name": "Southern California Children's Museum",
+      "city": "Pasadena",
+      "state": "California",
+      "address": "459 E Colorado Blvd, Pasadena, CA 91101",
+      "coordinates": {
+        "latitude": 34.1466,
+        "longitude": -118.1390
+      },
+      "phone": "(626) 657-0357",
+      "website": "https://www.socalkids.org"
+    },
+    {
+      "name": "SSVMS Museum of Medical History",
+      "city": "Sacramento",
+      "state": "California",
+      "address": "5380 Elvas Ave, Sacramento, CA 95819",
+      "coordinates": {
+        "latitude": 38.5514,
+        "longitude": -121.4350
+      },
+      "phone": "(916) 452-2671",
+      "website": "https://www.ssvms.org/museum"
+    },
+    {
+      "name": "Tenderloin Museum",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "398 Eddy St, San Francisco, CA 94102",
+      "coordinates": {
+        "latitude": 37.7836,
+        "longitude": -122.4139
+      },
+      "phone": "(415) 351-1912",
+      "website": "https://www.tenderloinmuseum.org"
+    },
+    {
+      "name": "The African American Firefighter Museum",
+      "city": "Los Angeles",
+      "state": "California",
+      "address": "1401 S Central Ave, Los Angeles, CA 90021",
+      "coordinates": {
+        "latitude": 34.0252,
+        "longitude": -118.2435
+      },
+      "phone": "(213) 744-1730",
+      "website": "https://www.aaffmuseum.org"
+    },
+    {
+      "name": "The California Indian Museum and Cultural Center",
+      "city": "Santa Rosa",
+      "state": "California",
+      "address": "5250 Aero Dr, Santa Rosa, CA 95403",
+      "coordinates": {
+        "latitude": 38.5012,
+        "longitude": -122.7803
+      },
+      "phone": "(707) 579-3004",
+      "website": "https://www.cimcc.org"
+    },
+    {
+      "name": "The Children's Museum at La Habra",
+      "city": "La Habra",
+      "state": "California",
+      "address": "301 S Euclid St, La Habra, CA 90631",
+      "coordinates": {
+        "latitude": 33.9319,
+        "longitude": -117.9442
+      },
+      "phone": "(562) 383-4236",
+      "website": "https://www.lhcm.org"
+    },
+    {
+      "name": "The Children's Museum at the Paso Robles Volunteer Firehouse",
+      "city": "Paso Robles",
+      "state": "California",
+      "address": "623 13th St, Paso Robles, CA 93446",
+      "coordinates": {
+        "latitude": 35.6261,
+        "longitude": -120.6914
+      },
+      "phone": "(805) 238-7432",
+      "website": "https://www.pasokids.org"
+    },
+    {
+      "name": "The Gamble House",
+      "city": "Pasadena",
+      "state": "California",
+      "address": "4 Westmoreland Pl, Pasadena, CA 91103",
+      "coordinates": {
+        "latitude": 34.1533,
+        "longitude": -118.1592
+      },
+      "phone": "(626) 793-3334",
+      "website": "https://www.gamblehouse.org"
+    },
+    {
+      "name": "The Guadalupe-Nipomo Dunes Center",
+      "city": "Guadalupe",
+      "state": "California",
+      "address": "1055 Guadalupe St, Guadalupe, CA 93434",
+      "coordinates": {
+        "latitude": 34.9658,
+        "longitude": -120.5721
+      },
+      "phone": "(805) 343-2455",
+      "website": "https://www.dunescenter.org"
+    },
+    {
+      "name": "The Huntington",
+      "city": "San Marino",
+      "state": "California",
+      "address": "1151 Oxford Rd, San Marino, CA 91108",
+      "coordinates": {
+        "latitude": 34.1297,
+        "longitude": -118.1146
+      },
+      "phone": "(626) 405-2100",
+      "website": "https://www.huntington.org"
+    },
+    {
+      "name": "The Living Desert Zoo and Gardens",
+      "city": "Palm Desert",
+      "state": "California",
+      "address": "47900 Portola Ave, Palm Desert, CA 92260",
+      "coordinates": {
+        "latitude": 33.7236,
+        "longitude": -116.3745
+      },
+      "phone": "(760) 346-5694",
+      "website": "https://www.livingdesert.org"
+    },
+    {
+      "name": "The Magnes Collection of Jewish Art and Life",
+      "city": "Berkeley",
+      "state": "California",
+      "address": "2121 Allston Way, Berkeley, CA 94720",
+      "coordinates": {
+        "latitude": 37.8699,
+        "longitude": -122.2685
+      },
+      "phone": "(510) 643-2526",
+      "website": "https://magnes.berkeley.edu"
+    },
+    {
+      "name": "The Marine Mammal Center",
+      "city": "Sausalito",
+      "state": "California",
+      "address": "2000 Bunker Rd, Sausalito, CA 94965",
+      "coordinates": {
+        "latitude": 37.8325,
+        "longitude": -122.5372
+      },
+      "phone": "(415) 289-7325",
+      "website": "https://www.marinemammalcenter.org"
+    },
+    {
+      "name": "The New Children's Museum",
+      "city": "San Diego",
+      "state": "California",
+      "address": "200 W Island Ave, San Diego, CA 92101",
+      "coordinates": {
+        "latitude": 32.7109,
+        "longitude": -117.1604
+      },
+      "phone": "(619) 233-8792",
+      "website": "https://thinkplaycreate.org"
+    },
+    {
+      "name": "The Santa Barbara Botanic Garden",
+      "city": "Santa Barbara",
+      "state": "California",
+      "address": "1212 Mission Canyon Rd, Santa Barbara, CA 93105",
+      "coordinates": {
+        "latitude": 34.4481,
+        "longitude": -119.7149
+      },
+      "phone": "(805) 682-4726",
+      "website": "https://www.sbbg.org"
+    },
+    {
+      "name": "The Tech Interactive",
+      "city": "San Jose",
+      "state": "California",
+      "address": "201 S Market St, San Jose, CA 95113",
+      "coordinates": {
+        "latitude": 37.3318,
+        "longitude": -121.8893
+      },
+      "phone": "(408) 294-8324",
+      "website": "https://www.thetech.org"
+    },
+    {
+      "name": "The Warner-Carrillo Ranch House",
+      "city": "Warner Springs",
+      "state": "California",
+      "address": "29181 San Felipe Rd, Warner Springs, CA 92086",
+      "coordinates": {
+        "latitude": 33.2828,
+        "longitude": -116.6344
+      },
+      "phone": "(760) 782-7450",
+      "website": "https://www.sandiegohistory.org/rancho"
+    },
+    {
+      "name": "Timken Museum of Art",
+      "city": "San Diego",
+      "state": "California",
+      "address": "1500 El Prado, San Diego, CA 92101",
+      "coordinates": {
+        "latitude": 32.7318,
+        "longitude": -117.1500
+      },
+      "phone": "(619) 239-5548",
+      "website": "https://www.timkenmuseum.org"
+    },
+    {
+      "name": "Turtle Bay Exploration Park",
+      "city": "Redding",
+      "state": "California",
+      "address": "844 Sundial Bridge Dr, Redding, CA 96001",
+      "coordinates": {
+        "latitude": 40.5875,
+        "longitude": -122.3914
+      },
+      "phone": "(530) 243-8850",
+      "website": "https://www.turtlebay.org"
+    },
+    {
+      "name": "University of California Botanical Garden at Berkeley",
+      "city": "Berkeley",
+      "state": "California",
+      "address": "200 Centennial Dr, Berkeley, CA 94720",
+      "coordinates": {
+        "latitude": 37.8759,
+        "longitude": -122.2408
+      },
+      "phone": "(510) 643-2755",
+      "website": "https://botanicalgarden.berkeley.edu"
+    },
+    {
+      "name": "USS Hornet Sea, Air & Space Museum",
+      "city": "Alameda",
+      "state": "California",
+      "address": "707 W Hornet Ave, Alameda, CA 94501",
+      "coordinates": {
+        "latitude": 37.7727,
+        "longitude": -122.3029
+      },
+      "phone": "(510) 521-8448",
+      "website": "https://www.uss-hornet.org"
+    },
+    {
+      "name": "USS Midway Museum",
+      "city": "San Diego",
+      "state": "California",
+      "address": "910 N Harbor Dr, San Diego, CA 92101",
+      "coordinates": {
+        "latitude": 32.7139,
+        "longitude": -117.1751
+      },
+      "phone": "(619) 544-9600",
+      "website": "https://www.midway.org"
+    },
+    {
+      "name": "Vacaville Museum",
+      "city": "Vacaville",
+      "state": "California",
+      "address": "213 Buck Ave, Vacaville, CA 95688",
+      "coordinates": {
+        "latitude": 38.3564,
+        "longitude": -121.9922
+      },
+      "phone": "(707) 447-4513",
+      "website": "https://www.vacavillemuseum.org"
+    },
+    {
+      "name": "Victor Valley Museum",
+      "city": "Apple Valley",
+      "state": "California",
+      "address": "11873 Apple Valley Rd, Apple Valley, CA 92308",
+      "coordinates": {
+        "latitude": 34.5008,
+        "longitude": -117.1856
+      },
+      "phone": "(760) 240-2111",
+      "website": "https://www.sbcounty.gov/museum"
+    },
+    {
+      "name": "Yerba Buena Center For The Arts",
+      "city": "San Francisco",
+      "state": "California",
+      "address": "701 Mission St, San Francisco, CA 94103",
+      "coordinates": {
+        "latitude": 37.7852,
+        "longitude": -122.4008
+      },
+      "phone": "(415) 978-2700",
+      "website": "https://www.ybca.org"
+    }
+  ]
+}

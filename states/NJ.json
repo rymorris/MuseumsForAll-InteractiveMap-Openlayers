@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Alice Paul Institute",
+    "address": "128 Hooton Rd, Mount Laurel, NJ 08054",
+    "coordinates": {
+      "latitude": 39.9475,
+      "longitude": -74.9133
+    },
+    "phone": "(856) 231-1885",
+    "website": "https://www.alicepaul.org"
+  },
+  {
+    "name": "Battleship New Jersey",
+    "address": "100 Clinton St, Camden, NJ 08103",
+    "coordinates": {
+      "latitude": 39.9369,
+      "longitude": -75.1325
+    },
+    "phone": "(856) 966-1652",
+    "website": "https://www.battleshipnewjersey.org"
+  },
+  {
+    "name": "Cornelius Low House",
+    "address": "1225 River Rd, Piscataway, NJ 08854",
+    "coordinates": {
+      "latitude": 40.5308,
+      "longitude": -74.4858
+    },
+    "phone": "(732) 745-4177",
+    "website": "https://www.middlesexcountynj.gov/LowHouse"
+  },
+  {
+    "name": "Duke Farms",
+    "address": "1112 Dukes Pkwy W, Hillsborough, NJ 08844",
+    "coordinates": {
+      "latitude": 40.5186,
+      "longitude": -74.6458
+    },
+    "phone": "(908) 722-3700",
+    "website": "https://www.dukefarms.org"
+  },
+  {
+    "name": "East Jersey Old Town Village",
+    "address": "1050 River Rd, Piscataway, NJ 08854",
+    "coordinates": {
+      "latitude": 40.5253,
+      "longitude": -74.4836
+    },
+    "phone": "(732) 745-3030",
+    "website": "https://www.middlesexcountynj.gov/OldTown"
+  },
+  {
+    "name": "Hoboken Historical Museum",
+    "address": "1301 Hudson St, Hoboken, NJ 07030",
+    "coordinates": {
+      "latitude": 40.7458,
+      "longitude": -74.0289
+    },
+    "phone": "(201) 656-2240",
+    "website": "https://www.hobokenmuseum.org"
+  },
+  {
+    "name": "Macculloch Hall Historical Museum",
+    "address": "45 Macculloch Ave, Morristown, NJ 07960",
+    "coordinates": {
+      "latitude": 40.7944,
+      "longitude": -74.4819
+    },
+    "phone": "(973) 538-2404",
+    "website": "https://www.maccullochhall.org"
+  },
+  {
+    "name": "Montclair Art Museum",
+    "address": "3 S Mountain Ave, Montclair, NJ 07042",
+    "coordinates": {
+      "latitude": 40.8125,
+      "longitude": -74.2186
+    },
+    "phone": "(973) 746-5555",
+    "website": "https://www.montclairartmuseum.org"
+  },
+  {
+    "name": "Morven Museum & Garden",
+    "address": "55 Stockton St, Princeton, NJ 08540",
+    "coordinates": {
+      "latitude": 40.3519,
+      "longitude": -74.6669
+    },
+    "phone": "(609) 924-8144",
+    "website": "https://www.morven.org"
+  },
+  {
+    "name": "Museum of Early Trades & Crafts",
+    "address": "9 Main St, Madison, NJ 07940",
+    "coordinates": {
+      "latitude": 40.7586,
+      "longitude": -74.4169
+    },
+    "phone": "(973) 377-2982",
+    "website": "https://www.metc.org"
+  },
+  {
+    "name": "Roebling Museum",
+    "address": "100 2nd Ave, Roebling, NJ 08554",
+    "coordinates": {
+      "latitude": 40.1158,
+      "longitude": -74.7797
+    },
+    "phone": "(609) 499-7200",
+    "website": "https://www.roeblingmuseum.org"
+  },
+  {
+    "name": "Woodford Cedar Run Wildlife Refuge",
+    "address": "4 Sawmill Rd, Medford, NJ 08055",
+    "coordinates": {
+      "latitude": 39.8542,
+      "longitude": -74.8114
+    },
+    "phone": "(856) 983-3329",
+    "website": "https://www.cedarrun.org"
+  }
+]

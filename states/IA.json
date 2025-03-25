@@ -1,0 +1,252 @@
+[
+  {
+    "name": "African American Museum of Iowa",
+    "address": "55 12th Ave SE, Cedar Rapids, IA 52401",
+    "coordinates": {
+      "latitude": 41.9775,
+      "longitude": -91.6578
+    },
+    "phone": "(319) 862-2101",
+    "website": "https://www.blackiowa.org"
+  },
+  {
+    "name": "Carroll Children's Museum",
+    "address": "418 W 6th St, Carroll, IA 51401",
+    "coordinates": {
+      "latitude": 42.0636,
+      "longitude": -94.8692
+    },
+    "phone": "(712) 792-5900",
+    "website": "https://www.carrollchildrensmuseum.org"
+  },
+  {
+    "name": "Cedar Valley Arboretum & Botanic Gardens",
+    "address": "1927 Arboretum Dr, Waterloo, IA 50701",
+    "coordinates": {
+      "latitude": 42.4925,
+      "longitude": -92.3478
+    },
+    "phone": "(319) 226-4966",
+    "website": "https://www.cedarvalleyarboretum.org"
+  },
+  {
+    "name": "Des Moines Children's Museum",
+    "address":  "1235 8th St, West Des Moines, IA 50265",
+    "coordinates": {
+      "latitude": 41.5869,
+      "longitude": -93.7292
+    },
+    "phone": "(515) 224-9088",
+    "website": "https://www.dmchildrensmuseum.org"
+  },
+  {
+    "name": "Des Moines County Historical Society",
+    "address": "501 N 4th St, Burlington, IA 52601",
+    "coordinates": {
+      "latitude": 40.8092,
+      "longitude": -91.1025
+    },
+    "phone": "(319) 752-7449",
+    "website": "https://www.dmchs.org"
+  },
+  {
+    "name": "Dubuque Museum of Art",
+    "address": "701 Locust St, Dubuque, IA 52001",
+    "coordinates": {
+      "latitude": 42.5006,
+      "longitude": -90.6647
+    },
+    "phone": "(563) 557-1851",
+    "website": "https://www.dbqart.org"
+  },
+  {
+    "name": "Family Museum",
+    "address": "2900 Learning Campus Dr, Bettendorf, IA 52722",
+    "coordinates": {
+      "latitude": 41.5458,
+      "longitude": -90.4767
+    },
+    "phone": "(563) 344-4106",
+    "website": "https://www.familymuseum.org"
+  },
+  {
+    "name": "Figge Art Museum",
+    "address": "225 W 2nd St, Davenport, IA 52801",
+    "coordinates": {
+      "latitude": 41.5219,
+      "longitude": -90.5744
+    },
+    "phone": "(563) 326-7804",
+    "website": "https://www.figgeartmuseum.org"
+  },
+  {
+    "name": "German American Heritage Center & Museum",
+    "address": "712 W 2nd St, Davenport, IA 52802",
+    "coordinates": {
+      "latitude": 41.5211,
+      "longitude": -90.5797
+    },
+    "phone": "(563) 322-8844",
+    "website": "https://www.gahc.org"
+  },
+  {
+    "name": "Grandma Jane's Playhouse",
+    "address": "520 Rocksylvania Ave, Iowa Falls, IA 50126",
+    "coordinates": {
+      "latitude": 42.5228,
+      "longitude": -93.2658
+    },
+    "phone": "(641) 648-7070",
+    "website": "https://www.grandmajanesplayhouse.org"
+  },
+  {
+    "name": "Greater Des Moines Botanical Garden",
+    "address": "909 Robert D. Ray Dr, Des Moines, IA 50309",
+    "coordinates": {
+      "latitude": 41.5911,
+      "longitude": -93.6119
+    },
+    "phone": "(515) 323-6290",
+    "website": "https://www.dmbotanicalgarden.com"
+  },
+  {
+    "name": "Grout Museum District",
+    "address": "503 South St, Waterloo, IA 50701",
+    "coordinates": {
+      "latitude": 42.4922,
+      "longitude": -92.3433
+    },
+    "phone": "(319) 234-6357",
+    "website": "https://www.groutmuseumdistrict.org"
+  },
+  {
+    "name": "Johnson County Historical Society",
+    "address": "860 Quarry Rd, Coralville, IA 52241",
+    "coordinates": {
+      "latitude": 41.6936,
+      "longitude": -91.5908
+    },
+    "phone": "(319) 351-5738",
+    "website": "https://www.johnsoncountyhistory.org"
+  },
+  {
+    "name": "LaunchPAD Children's Museum",
+    "address": "623 Pearl St, Sioux City, IA 51101",
+    "coordinates": {
+      "latitude": 42.4958,
+      "longitude": -96.4042
+    },
+    "phone": "(712) 224-2222",
+    "website": "https://www.launchpadmuseum.com"
+  },
+  {
+    "name": "Museum of Danish America",
+    "address": "2212 Washington St, Elk Horn, IA 51531",
+    "coordinates": {
+      "latitude": 41.5919,
+      "longitude": -95.0597
+    },
+    "phone": "(712) 764-7001",
+    "website": "https://www.danishmuseum.org"
+  },
+  {
+    "name": "National Czech & Slovak Museum & Library",
+    "address": "1400 Inspiration Pl SW, Cedar Rapids, IA 52404",
+    "coordinates": {
+      "latitude": 41.9717,
+      "longitude": -91.6789
+    },
+    "phone": "(319) 362-8500",
+    "website": "https://www.ncsml.org"
+  },
+  {
+    "name": "National Mississippi River Museum & Aquarium",
+    "address": "350 E 3rd St, Dubuque, IA 52001",
+    "coordinates": {
+      "latitude": 42.4964,
+      "longitude": -90.6617
+    },
+    "phone": "(563) 557-9545",
+    "website": "https://www.rivermuseum.com"
+  },
+  {
+    "name": "National Wrestling Hall of Fame Dan Gable Museum",
+    "address": "303 Jefferson St, Waterloo, IA 50701",
+    "coordinates": {
+      "latitude": 42.4928,
+      "longitude": -92.3419
+    },
+    "phone": "(319) 233-0745",
+    "website": "https://www.nwhof.org"
+  },
+  {
+    "name": "Phelps Youth Pavilion at Waterloo Center for the Arts",
+    "address": "225 Commercial St, Waterloo, IA 50701",
+    "coordinates": {
+      "latitude": 42.4922,
+      "longitude": -92.3433
+    },
+    "phone": "(319) 291-4490",
+    "website": "https://www.waterlooarts.org/phelps"
+  },
+  {
+    "name": "Reiman Gardens",
+    "address": "1407 University Blvd, Ames, IA 50011",
+    "coordinates": {
+      "latitude": 42.0194,
+      "longitude": -93.6389
+    },
+    "phone": "(515) 294-2710",
+    "website": "https://www.reimangardens.com"
+  },
+  {
+    "name": "Science Center of Iowa",
+    "address": "401 W Martin Luther King Jr Pkwy, Des Moines, IA 50309",
+    "coordinates": {
+      "latitude": 41.5917,
+      "longitude": -93.6119
+    },
+    "phone": "(515) 274-6868",
+    "website": "https://www.sciowa.org"
+  },
+  {
+    "name": "State Historical Museum of Iowa",
+    "address": "600 E Locust St, Des Moines, IA 50319",
+    "coordinates": {
+      "latitude": 41.5911,
+      "longitude": -93.6083
+    },
+    "phone": "(515) 281-5111",
+    "website": "https://www.historyiowa.org"
+  },
+  {
+    "name": "The Iowa Children's Museum",
+    "address": "1451 Coral Ridge Ave, Coralville, IA 52241",
+    "coordinates": {
+      "latitude": 41.6936,
+      "longitude": -91.5908
+    },
+    "phone": "(319) 625-6255",
+    "website": "https://www.theicm.org"
+  },
+  {
+    "name": "The Putnam Museum & Science Center",
+    "address": "1717 W 12th St, Davenport, IA 52804",
+    "coordinates": {
+      "latitude": 41.5311,
+      "longitude": -90.6087
+    },
+    "phone": "(563) 324-1933",
+    "website": "https://www.putnam.org"
+  },
+  {
+    "name": "Vesterheim",
+    "address": "502 W Water St, Decorah, IA 52101",
+    "coordinates": {
+      "latitude": 43.3036,
+      "longitude": -91.7903
+    },
+    "phone": "(563) 382-9681",
+    "website": "https://www.vesterheim.org"
+  }
+]

@@ -1,0 +1,344 @@
+{
+  "institutions": [
+    {
+      "name": "Above & Beyond Children’s Museum",
+      "address": "902 N 8th St, Sheboygan, WI 53081",
+      "coordinates": {
+        "latitude": 43.7487,
+        "longitude": -87.7464
+      },
+      "phone": "(920) 458-4263",
+      "website": "http://www.aboveandbeyondmuseum.org/"
+    },
+    {
+      "name": "Atlas Science Center",
+      "address": "1000 W Wisconsin Ave, Appleton, WI 54914",
+      "coordinates": {
+        "latitude": 44.2595,
+        "longitude": -88.4055
+      },
+      "phone": "(920) 733-7837",
+      "website": "https://www.atlasscience.org/"
+    },
+    {
+      "name": "Betty Brinn Children's Museum",
+      "address": "929 E Wisconsin Ave, Milwaukee, WI 53202",
+      "coordinates": {
+        "latitude": 43.0421,
+        "longitude": -87.8984
+      },
+      "phone": "(414) 390-5437",
+      "website": "https://www.bbcmkids.org/"
+    },
+    {
+      "name": "Central Wisconsin Children's Museum",
+      "address": "1100 Main St, Stevens Point, WI 54481",
+      "coordinates": {
+        "latitude": 44.5235,
+        "longitude": -89.5771
+      },
+      "phone": "(715) 344-2003",
+      "website": "http://www.cwcmuseum.org/"
+    },
+    {
+      "name": "Charles Allis Art Museum",
+      "address": "1801 N Prospect Ave, Milwaukee, WI 53202",
+      "coordinates": {
+        "latitude": 43.0691,
+        "longitude": -87.8860
+      },
+      "phone": "(414) 278-8295",
+      "website": "http://charlesallis.org/"
+    },
+    {
+      "name": "Children's Museum of Eau Claire",
+      "address": "220 S Barstow St, Eau Claire, WI 54701",
+      "coordinates": {
+        "latitude": 44.8122,
+        "longitude": -91.5000
+      },
+      "phone": "(715) 834-3877",
+      "website": "http://www.cmecwi.org/"
+    },
+    {
+      "name": "Children's Museum of Fond du Lac",
+      "address": "75 W Scott St, Fond du Lac, WI 54935",
+      "coordinates": {
+        "latitude": 43.7754,
+        "longitude": -88.4402
+      },
+      "phone": "(920) 929-0707",
+      "website": "http://www.cmfdl.com/"
+    },
+    {
+      "name": "Children's Museum of La Crosse",
+      "address": "207 5th Ave N, La Crosse, WI 54601",
+      "coordinates": {
+        "latitude": 43.8065,
+        "longitude": -91.2394
+      },
+      "phone": "(608) 784-2652",
+      "website": "https://www.childrensmuseumoflacrosse.com/"
+    },
+    {
+      "name": "Chippewa Valley Museum",
+      "address": "1204 E Half Moon Dr, Eau Claire, WI 54703",
+      "coordinates": {
+        "latitude": 44.8130,
+        "longitude": -91.4873
+      },
+      "phone": "(715) 834-7871",
+      "website": "http://www.chippewavalleyhistoricalsociety.org/"
+    },
+    {
+      "name": "Door County Maritime Museum - Death's Door Maritime Museum",
+      "address": "200 N Madison Ave, Ellison Bay, WI 54210",
+      "coordinates": {
+        "latitude": 45.1783,
+        "longitude": -87.1716
+      },
+      "phone": "(920) 854-9700",
+      "website": "https://dcmm.org/deaths-door-maritime-museum/"
+    },
+    {
+      "name": "Door County Maritime Museum - Sturgeon Bay Museum",
+      "address": "120 N Madison Ave, Sturgeon Bay, WI 54235",
+      "coordinates": {
+        "latitude": 44.8150,
+        "longitude": -87.3715
+      },
+      "phone": "(920) 743-5958",
+      "website": "https://dcmm.org/"
+    },
+    {
+      "name": "Ephraim Historical Foundation",
+      "address": "2020 Main St, Ephraim, WI 54211",
+      "coordinates": {
+        "latitude": 45.1468,
+        "longitude": -87.1679
+      },
+      "phone": "(920) 854-9680",
+      "website": "https://ephraimhistoricalsociety.org/"
+    },
+    {
+      "name": "Explore Children's Museum of Sun Prairie",
+      "address": "103 S Street, Sun Prairie, WI 53590",
+      "coordinates": {
+        "latitude": 43.1832,
+        "longitude": -89.2004
+      },
+      "phone": "(608) 837-2610",
+      "website": "http://www.explorechildrensmuseum.org/"
+    },
+    {
+      "name": "Food + Farm Exploration Center",
+      "address": "3900 E Plover Rd, Plover, WI 54467",
+      "coordinates": {
+        "latitude": 44.4476,
+        "longitude": -89.5365
+      },
+      "phone": "(715) 345-9401",
+      "website": "http://www.foodandfarmexplorationcenter.org/"
+    },
+    {
+      "name": "Green Bay Botanical Garden",
+      "address": "2600 Larsen Rd, Green Bay, WI 54303",
+      "coordinates": {
+        "latitude": 44.5138,
+        "longitude": -88.0425
+      },
+      "phone": "(920) 490-9457",
+      "website": "https://gbbg.org/"
+    },
+    {
+      "name": "Hearthstone Historic House Museum",
+      "address": "625 W Prospect Ave, Appleton, WI 54911",
+      "coordinates": {
+        "latitude": 44.2600,
+        "longitude": -88.4148
+      },
+      "phone": "(920) 730-8204",
+      "website": "http://hearthstonemuseum.org/"
+    },
+    {
+      "name": "History Museum at the Castle",
+      "address": "330 E College Ave, Appleton, WI 54911",
+      "coordinates": {
+        "latitude": 44.2612,
+        "longitude": -88.4080
+      },
+      "phone": "(920) 735-9370",
+      "website": "http://www.foxcitiesmuseum.org/"
+    },
+    {
+      "name": "Huey's Hideaway Children's Museum",
+      "address": "Research 600 N 8th St, Medford, WI 54451",
+      "coordinates": {
+        "latitude": 45.1995,
+        "longitude": -90.3140
+      },
+      "phone": "(715) 748-6005",
+      "website": "http://www.hueyshideaway.com/"
+    },
+    {
+      "name": "Madison Children's Museum",
+      "address": "100 N Hamilton St, Madison, WI 53703",
+      "coordinates": {
+        "latitude": 43.0756,
+        "longitude": -89.3842
+      },
+      "phone": "(608) 256-6445",
+      "website": "https://madisonchildrensmuseum.org/"
+    },
+    {
+      "name": "Manitowoc County Historical Society",
+      "address": "924 16th St, Manitowoc, WI 54220",
+      "coordinates": {
+        "latitude": 44.0891,
+        "longitude": -87.6534
+      },
+      "phone": "(920) 684-4445",
+      "website": "https://www.manitowoccountyhistory.org/"
+    },
+    {
+      "name": "Milwaukee County Historical Society",
+      "address": "910 N Old World 3rd St, Milwaukee, WI 53203",
+      "coordinates": {
+        "latitude": 43.0373,
+        "longitude": -87.9120
+      },
+      "phone": "(414) 273-8288",
+      "website": "https://mchsmuseum.com/"
+    },
+    {
+      "name": "Milwaukee Public Museum",
+      "address": "800 W Wells St, Milwaukee, WI 53233",
+      "coordinates": {
+        "latitude": 43.0391,
+        "longitude": -87.9202
+      },
+      "phone": "(414) 278-2728",
+      "website": "https://www.mpm.edu/"
+    },
+    {
+      "name": "Mulva Cultural Center",
+      "address": "210 E Walnut St, De Pere, WI 54115",
+      "coordinates": {
+        "latitude": 44.4451,
+        "longitude": -88.0737
+      },
+      "phone": "(920) 614-1600",
+      "website": "https://mulvaculturalcenter.org/"
+    },
+    {
+      "name": "Northwoods Children's Museum",
+      "address": "1 W. Sherwood Dr, Eagle River, WI 54521",
+      "coordinates": {
+        "latitude": 45.9212,
+        "longitude": -88.6088
+      },
+      "phone": "(715) 479-7055",
+      "website": "http://www.northwoodschildrensmuseum.com/"
+    },
+    {
+      "name": "Olbrich Botanical Gardens",
+      "address": "3330 Atwood Ave, Madison, WI 53704",
+      "coordinates": {
+        "latitude": 43.0797,
+        "longitude": -89.2962
+      },
+      "phone": "(608) 246-4545",
+      "website": "https://www.olbrich.org/"
+    },
+    {
+      "name": "Pioneer Village Museum",
+      "address": "1044 Pine St, Cameron, WI 54822",
+      "coordinates": {
+        "latitude": 45.3878,
+        "longitude": -91.7378
+      },
+      "phone": "(715) 458-3442",
+      "website": "http://barroncountyhistoricalsociety.org/"
+    },
+    {
+      "name": "Rotary Botanical Gardens",
+      "address": "1455 Palmer Dr, Janesville, WI 53545",
+      "coordinates": {
+        "latitude": 42.5880,
+        "longitude": -88.9694
+      },
+      "phone": "(608) 752-3885",
+      "website": "https://rotarybotanicalgardens.org/"
+    },
+    {
+      "name": "The Building for Kids Children's Museum",
+      "address": "100 W College Ave, Appleton, WI 54911",
+      "coordinates": {
+        "latitude": 44.2625,
+        "longitude": -88.4154
+      },
+      "phone": "(920) 734-3226",
+      "website": "https://www.buildingforkids.org/"
+    },
+    {
+      "name": "The Children's Museum of Green Bay",
+      "address": "1234 Lea St, Green Bay, WI 54302",
+      "coordinates": {
+        "latitude": 44.5179,
+        "longitude": -87.9767
+      },
+      "phone": "(920) 432-4397",
+      "website": "https://www.gbkids.org/"
+    },
+    {
+      "name": "The Mining & Rollo Jamison Museums",
+      "address": "405 E Main St, Platteville, WI 53818",
+      "coordinates": {
+        "latitude": 42.7326,
+        "longitude": -90.4861
+      },
+      "phone": "(608) 348-3301",
+      "website": "http://www.platteville.org/museum/"
+    },
+    {
+      "name": "Trout Museum of Art",
+      "address": "111 W College Ave, Appleton, WI 54911",
+      "coordinates": {
+        "latitude": 44.2614,
+        "longitude": -88.4158
+      },
+      "phone": "(920) 733-4089",
+      "website": "https://www.troutmuseum.org/"
+    },
+    {
+      "name": "Walworth County Historical Society",
+      "address": "103 E Walworth St, Elkhorn, WI 53121",
+      "coordinates": {
+        "latitude": 42.6707,
+        "longitude": -88.6507
+      },
+      "phone": "(262) 723-7888",
+      "website": "http://www.walworthcountyhistory.org/"
+    },
+    {
+      "name": "Wausau Children's Museum",
+      "address": "1230 Morrow St, Wausau, WI 54403",
+      "coordinates": {
+        "latitude": 44.9566,
+        "longitude": -89.6403
+      },
+      "phone": "(715) 261-1230",
+      "website": "http://www.wausauchildrensmuseum.org/"
+    },
+    {
+      "name": "Wisconsin Maritime Museum",
+      "address": "75 Maritime Dr, Manitowoc, WI 54220",
+      "coordinates": {
+        "latitude": 44.0895,
+        "longitude": -87.6513
+      },
+      "phone": "(920) 684-0218",
+      "website": "https://www.wisconsinmaritime.org/"
+    }
+  ]
+}

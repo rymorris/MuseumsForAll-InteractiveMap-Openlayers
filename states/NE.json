@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Chimney Rock Museum - Nebraska State Historical Society",
+    "address": "9822 County Rd 75, Bayard, NE 69334",
+    "coordinates": {"latitude": 41.7165, "longitude": -103.3496},
+    "phone": "(308) 586-2581",
+    "website": "https://history.nebraska.gov/rock/"
+  },
+  {
+    "name": "Columbus Area Children's Museum",
+    "address": "2500 14th St., Suite #1, Columbus, NE 68601",
+    "coordinates": {"latitude": 41.4303, "longitude": -97.3594},
+    "phone": "(531) 230-8091",
+    "website": "https://columbuslearnandplay.org/"
+  },
+  {
+    "name": "Elkhorn Valley Museum",
+    "address": "515 Queen City Blvd., Norfolk, NE 68701",
+    "coordinates": {"latitude": 42.0325, "longitude": -97.4170},
+    "phone": "(402) 371-3886",
+    "website": "https://elkhornvalleymuseum.org/"
+  },
+  {
+    "name": "Fort Robinson History Center - Nebraska State Historical Society",
+    "address": "3200 West Highway 20, Crawford, NE 69339",
+    "coordinates": {"latitude": 42.6664, "longitude": -103.4605},
+    "phone": "(308) 665-2919",
+    "website": "https://history.nebraska.gov/fort-robinson-history-center/"
+  },
+  {
+    "name": "Hastings Museum",
+    "address": "1330 N Burlington Ave, Hastings, NE 68901",
+    "coordinates": {"latitude": 40.5920, "longitude": -98.3885},
+    "phone": "(402) 461-2399",
+    "website": "https://hastingsmuseum.org/"
+  },
+  {
+    "name": "International Quilt Museum",
+    "address": "1523 N. 33rd St., Lincoln, NE 68583",
+    "coordinates": {"latitude": 40.8304, "longitude": -96.6753},
+    "phone": "402-472-6549",
+    "website": "https://www.internationalquiltmuseum.org/"
+  },
+  {
+    "name": "Kiewit Luminarium",
+    "address": "345 Riverfront Drive, Omaha, NE 68102",
+    "coordinates": {"latitude": 41.2625, "longitude": -95.9241},
+    "phone": "402-502-3366",
+    "website": "https://kiewitluminarium.org/"
+  },
+  {
+    "name": "Kregel Windmill Factory Museum",
+    "address": "1416 Central Avenue, Nebraska City, NE 68410",
+    "coordinates": {"latitude": 40.6764, "longitude": -95.8594},
+    "phone": "(402) 873-1078",
+    "website": "https://www.kregelwindmillfactorymuseum.org/"
+  },
+  {
+    "name": "Lauritzen Gardens",
+    "address": "100 Bancroft Street, Omaha, NE 68108",
+    "coordinates": {"latitude": 41.2404, "longitude": -95.9233},
+    "phone": "(402) 346-4002",
+    "website": "https://www.lauritzengardens.org/"
+  },
+  {
+    "name": "Lincoln Children's Museum",
+    "address": "1420 P Street, Lincoln, NE 68508",
+    "coordinates": {"latitude": 40.8136, "longitude": -96.7005},
+    "phone": "(402) 477-4000",
+    "website": "https://lincolnchildrensmuseum.org/"
+  },
+  {
+    "name": "Nebraska History Museum - Nebraska State Historical Society",
+    "address": "131 Centennial Mall N, Lincoln, NE 68508",
+    "coordinates": {"latitude": 40.8142, "longitude": -96.6999},
+    "phone": "402-471-3270",
+    "website": "https://history.nebraska.gov/museum/"
+  },
+  {
+    "name": "Omaha Children’s Museum",
+    "address": "500 South 20th Street, Omaha, NE 68102",
+    "coordinates": {"latitude": 41.2565, "longitude": -95.9404},
+    "phone": "402-342-6164",
+    "website": "https://ocm.org/"
+  },
+  {
+    "name": "Stuhr Museum of the Prairie Pioneer",
+    "address": "3133 W US Hwy 34, Grand Island, NE 68801",
+    "coordinates": {"latitude": 40.9160, "longitude": -98.3885},
+    "phone": "(308) 385-5316",
+    "website": "https://stuhrmuseum.org/"
+  },
+  {
+    "name": "University of Nebraska State Museum",
+    "address": "645 North 14th Street, Lincoln, NE 68588-0338",
+    "coordinates": {"latitude": 40.8198, "longitude": -96.7005},
+    "phone": "402-472-2637",
+    "website": "https://museum.unl.edu/"
+  }
+]

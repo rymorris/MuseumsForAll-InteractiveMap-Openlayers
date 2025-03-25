@@ -1,0 +1,142 @@
+[
+    {
+      "name": "American Banjo Museum",
+      "address": "9 E Sheridan Ave, Oklahoma City, OK 73104",
+      "coordinates": {
+        "latitude": 35.4675,
+        "longitude": -97.5153
+      },
+      "phone": "(405) 604-2793",
+      "website": "https://www.americanbanjomuseum.com"
+    },
+    {
+      "name": "Chisholm Trail Heritage Center",
+      "address": "1000 Chisholm Trail Pkwy, Duncan, OK 73533",
+      "coordinates": {
+        "latitude": 34.5189,
+        "longitude": -97.9578
+      },
+      "phone": "(580) 252-6692",
+      "website": "https://www.onthechisholmtrail.com"
+    },
+    {
+      "name": "Edmond Historical Society",
+      "address": "431 S Boulevard, Edmond, OK 73034",
+      "coordinates": {
+        "latitude": 35.6522,
+        "longitude": -97.4781
+      },
+      "phone": "(405) 340-0078",
+      "website": "https://www.edmondhistory.org"
+    },
+    {
+      "name": "Fred Jones Jr. Museum of Art",
+      "address": "555 Elm Ave, Norman, OK 73019",
+      "coordinates": {
+        "latitude": 35.2081,
+        "longitude": -97.4467
+      },
+      "phone": "(405) 325-4938",
+      "website": "https://www.ou.edu/fjjma"
+    },
+    {
+      "name": "Jasmine Moran Children's Museum",
+      "address": "1714 Highway 9 W, Seminole, OK 74868",
+      "coordinates": {
+        "latitude": 35.2428,
+        "longitude": -96.7039
+      },
+      "phone": "(405) 382-0950",
+      "website": "https://www.jasminemoran.com"
+    },
+    {
+      "name": "Leonardo's Children's Museum",
+      "address": "200 E Maple Ave, Enid, OK 73701",
+      "coordinates": {
+        "latitude": 36.3956,
+        "longitude": -97.8767
+      },
+      "phone": "(580) 233-2787",
+      "website": "https://www.leonardos.org"
+    },
+    {
+      "name": "Mabee-Gerrer Museum of Art",
+      "address": "1900 W MacArthur Dr, Shawnee, OK 74804",
+      "coordinates": {
+        "latitude": 35.3417,
+        "longitude": -96.9450
+      },
+      "phone": "(405) 878-5300",
+      "website": "https://www.mgmoa.org"
+    },
+    {
+      "name": "Oklahoma Hall of Fame | Gaylord-Pickens Museum",
+      "address": "1400 Classen Dr, Oklahoma City, OK 73106",
+      "coordinates": {
+        "latitude": 35.4911,
+        "longitude": -97.5292
+      },
+      "phone": "(405) 235-4458",
+      "website": "https://www.oklahomahof.com"
+    },
+    {
+      "name": "Oklahoma History Center Museum",
+      "address": "800 Nazih Zuhdi Dr, Oklahoma City, OK 73105",
+      "coordinates": {
+        "latitude": 35.4978,
+        "longitude": -97.5036
+      },
+      "phone": "(405) 522-5248",
+      "website": "https://www.okhistory.org/historycenter"
+    },
+    {
+      "name": "Philbrook Museum of Art",
+      "address": "2727 S Rockford Rd, Tulsa, OK 74114",
+      "coordinates": {
+        "latitude": 36.1269,
+        "longitude": -95.9658
+      },
+      "phone": "(918) 749-7941",
+      "website": "https://philbrook.org"
+    },
+    {
+      "name": "Tulsa Air & Space Museum",
+      "address": "3624 N 74th E Ave, Tulsa, OK 74115",
+      "coordinates": {
+        "latitude": 36.1681,
+        "longitude": -95.8181
+      },
+      "phone": "(918) 834-9900",
+      "website": "https://www.tulsaairandspacemuseum.org"
+    },
+    {
+      "name": "Tulsa Botanic Garden",
+      "address": "3900 Tulsa Botanic Dr, Tulsa, OK 74127",
+      "coordinates": {
+        "latitude": 36.2342,
+        "longitude": -96.0394
+      },
+      "phone": "(918) 289-0330",
+      "website": "https://www.tulsabotanic.org"
+    },
+    {
+      "name": "Tulsa Historical Society & Museum",
+      "address": "2445 S Peoria Ave, Tulsa, OK 74114",
+      "coordinates": {
+        "latitude": 36.1269,
+        "longitude": -95.9758
+      },
+      "phone": "(918) 712-9484",
+      "website": "https://www.tulsahistory.org"
+    },
+    {
+      "name": "Tulsa Zoo",
+      "address": "6421 E 36th St N, Tulsa, OK 74115",
+      "coordinates": {
+        "latitude": 36.2042,
+        "longitude": -95.8875
+      },
+      "phone": "(918) 669-6600",
+      "website": "https://tulsazoo.org"
+    }
+  ]

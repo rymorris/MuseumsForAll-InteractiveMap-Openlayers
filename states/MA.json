@@ -1,0 +1,582 @@
+[
+  {
+    "name": "Amesbury Carriage Museum",
+    "address": "5 Main St, Amesbury, MA 01913",
+    "coordinates": {
+      "latitude": 42.8583,
+      "longitude": -70.9300
+    },
+    "phone": "(978) 388-4521",
+    "website": "https://www.amesburycarriagemuseum.com"
+  },
+  {
+    "name": "Battleship Cove",
+    "address": "5 Water St, Fall River, MA 02721",
+    "coordinates": {
+      "latitude": 41.7036,
+      "longitude": -71.1639
+    },
+    "phone": "(508) 678-1100",
+    "website": "https://www.battleshipcove.org"
+  },
+  {
+    "name": "Beneski Museum of Natural History",
+    "address": "11 Barrett Hill Dr, Amherst, MA 01002",
+    "coordinates": {
+      "latitude": 42.3700,
+      "longitude": -72.5167
+    },
+    "phone": "(413) 542-2165",
+    "website": "https://www.amherst.edu/museums/naturalhistory"
+  },
+  {
+    "name": "Berkshire County Historical Society at Herman Melville's Arrowhead",
+    "address": "780 Holmes Rd, Pittsfield, MA 01201",
+    "coordinates": {
+      "latitude": 42.4264,
+      "longitude": -73.2983
+    },
+    "phone": "(413) 442-1793",
+    "website": "https://www.mobydick.org"
+  },
+  {
+    "name": "Berkshire Museum",
+    "address": "39 South St, Pittsfield, MA 01201",
+    "coordinates": {
+      "latitude": 42.4483,
+      "longitude": -73.2536
+    },
+    "phone": "(413) 443-7171",
+    "website": "https://www.berkshiremuseum.org"
+  },
+  {
+    "name": "Boston Children's Museum",
+    "address": "308 Congress St, Boston, MA 02210",
+    "coordinates": {
+      "latitude": 42.3519,
+      "longitude": -71.0533
+    },
+    "phone": "(617) 426-6500",
+    "website": "https://www.bostonchildrensmuseum.org"
+  },
+  {
+    "name": "Cape Cod Children's Museum",
+    "address": "577 Great Neck Rd S, Mashpee, MA 02649",
+    "coordinates": {
+      "latitude": 41.6181,
+      "longitude": -70.4819
+    },
+    "phone": "(508) 539-8788",
+    "website": "https://www.capecodchildrensmuseum.org"
+  },
+  {
+    "name": "Cape Cod Maritime Museum",
+    "address": "135 South St, Hyannis, MA 02601",
+    "coordinates": {
+      "latitude": 41.6500,
+      "longitude": -70.2833
+    },
+    "phone": "(508) 775-1723",
+    "website": "https://www.capecodmaritimemuseum.org"
+  },
+  {
+    "name": "Children's Museum in Easton",
+    "address": "9 Sullivan Ave, North Easton, MA 02356",
+    "coordinates": {
+      "latitude": 42.0667,
+      "longitude": -71.1028
+    },
+    "phone": "(508) 230-3789",
+    "website": "https://www.childrensmuseumineaston.org"
+  },
+  {
+    "name": "Cultural Center of Cape Cod",
+    "address": "307 Old Main St, South Yarmouth, MA 02664",
+    "coordinates": {
+      "latitude": 41.6667,
+      "longitude": -70.2000
+    },
+    "phone": "(508) 394-7100",
+    "website": "https://www.cultural-center.org"
+  },
+  {
+    "name": "Danforth Art Museum",
+    "address": "14 Vernon St, Framingham, MA 01701",
+    "coordinates": {
+      "latitude": 42.2833,
+      "longitude": -71.4167
+    },
+    "phone": "(508) 620-0050",
+    "website": "https://www.danforth.framingham.edu"
+  },
+  {
+    "name": "EcoTarium",
+    "address": "222 Harrington Way, Worcester, MA 01604",
+    "coordinates": {
+      "latitude": 42.2750,
+      "longitude": -71.7900
+    },
+    "phone": "(508) 929-2700",
+    "website": "https://www.ecotarium.org"
+  },
+  {
+    "name": "Education Earth Museum",
+    "address": "1250 Main St, Athol, MA 01331",
+    "coordinates": {
+      "latitude": 42.5958,
+      "longitude": -72.2267
+    },
+    "phone": "(978) 249-7600",
+    "website": "https://www.educationearth.org"
+  },
+  {
+    "name": "Edward M. Kennedy Institute for the United States Senate",
+    "address": "210 Morrissey Blvd, Boston, MA 02125",
+    "coordinates": {
+      "latitude": 42.3167,
+      "longitude": -71.0333
+    },
+    "phone": "(617) 740-7000",
+    "website": "https://www.emkinstitute.org"
+  },
+  {
+    "name": "Heritage Museums & Gardens",
+    "address": "67 Grove St, Sandwich, MA 02563",
+    "coordinates": {
+      "latitude": 41.7583,
+      "longitude": -70.5083
+    },
+    "phone": "(508) 888-3300",
+    "website": "https://www.heritagemuseumsandgardens.org"
+  },
+  {
+    "name": "Historic Beverly - Balch House",
+    "address": "448 Cabot St, Beverly, MA 01915",
+    "coordinates": {
+      "latitude": 42.5583,
+      "longitude": -70.8833
+    },
+    "phone": "(978) 922-1186",
+    "website": "https://www.historicbeverly.net"
+  },
+  {
+    "name": "Historic Beverly - Cabot House",
+    "address": "117 Cabot St, Beverly, MA 01915",
+    "coordinates": {
+      "latitude": 42.5583,
+      "longitude": -70.8833
+    },
+    "phone": "(978) 922-1186",
+    "website": "https://www.historicbeverly.net"
+  },
+  {
+    "name": "Historic Beverly - Hale Farm",
+    "address": "39 Hale St, Beverly, MA 01915",
+    "coordinates": {
+      "latitude": 42.5583,
+      "longitude": -70.8833
+    },
+    "phone": "(978) 922-1186",
+    "website": "https://www.historicbeverly.net"
+  },
+  {
+    "name": "Historic New England - Beauport, the Sleeper-McCann House",
+    "address": "75 Eastern Point Blvd, Gloucester, MA 01930",
+    "coordinates": {
+      "latitude": 42.6083,
+      "longitude": -70.6667
+    },
+    "phone": "(978) 283-0800",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Codman Estate",
+    "address": "34 Codman Rd, Lincoln, MA 01773",
+    "coordinates": {
+      "latitude": 42.4167,
+      "longitude": -71.3167
+    },
+    "phone": "(781) 259-8098",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Coffin House",
+    "address": "14 High Rd, Newbury, MA 01951",
+    "coordinates": {
+      "latitude": 42.7833,
+      "longitude": -70.9333
+    },
+    "phone": "(978) 462-2634",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Cogswell's Grant",
+    "address": "60 Spring St, Essex, MA 01929",
+    "coordinates": {
+      "latitude": 42.6333,
+      "longitude": -70.7833
+    },
+    "phone": "(978) 768-3632",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Eustis Estate Museum",
+    "address": "1424 Canton Ave, Milton, MA 02186",
+    "coordinates": {
+      "latitude": 42.2167,
+      "longitude": -71.0667
+    },
+    "phone": "(617) 994-6600",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Gedney House",
+    "address": "21 High St, Salem, MA 01970",
+    "coordinates": {
+      "latitude": 42.5167,
+      "longitude": -70.9000
+    },
+    "phone": "(978) 744-0440",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Gropius House",
+    "address": "68 Baker Bridge Rd, Lincoln, MA 01773",
+    "coordinates": {
+      "latitude": 42.4167,
+      "longitude": -71.3167
+    },
+    "phone": "(781) 259-8098",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Lyman Estate",
+    "address": "185 Lyman St, Waltham, MA 02452",
+    "coordinates": {
+      "latitude": 42.3833,
+      "longitude": -71.2333
+    },
+    "phone": "(781) 891-4882",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Lyman Estate Greenhouses",
+    "address": "185 Lyman St, Waltham, MA 02452",
+    "coordinates": {
+      "latitude": 42.3833,
+      "longitude": -71.2333
+    },
+    "phone": "(781) 891-4882",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Otis House",
+    "address": "141 Cambridge St, Boston, MA 02114",
+    "coordinates": {
+      "latitude": 42.3667,
+      "longitude": -71.0667
+    },
+    "phone": "(617) 227-3956",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Phillips House",
+    "address": "34 Chestnut St, Salem, MA 01970",
+    "coordinates": {
+      "latitude": 42.5167,
+      "longitude": -70.9000
+    },
+    "phone": "(978) 744-0440",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Quincy House",
+    "address": "34 Butler Rd, Quincy, MA 02169",
+    "coordinates": {
+      "latitude": 42.2500,
+      "longitude": -71.0000
+    },
+    "phone": "(617) 994-6660",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Spencer-Peirce-Little Farm",
+    "address": "5 Little's Lane, Newbury, MA 01951",
+    "coordinates": {
+      "latitude": 42.7833,
+      "longitude": -70.9333
+    },
+    "phone": "(978) 462-2634",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Swett-Ilsley House",
+    "address": "4 High Rd, Newbury, MA 01951",
+    "coordinates": {
+      "latitude": 42.7833,
+      "longitude": -70.9333
+    },
+    "phone": "(978) 462-2634",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Winslow Crocker House",
+    "address": "250 Route 6A, Yarmouth Port, MA 02675",
+    "coordinates": {
+      "latitude": 41.7000,
+      "longitude": -70.2333
+    },
+    "phone": "(508) 362-4385",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Industrial History Center",
+    "address": "3 Water St, Amesbury, MA 01913",
+    "coordinates": {
+      "latitude": 42.8583,
+      "longitude": -70.9300
+    },
+    "phone": "(978) 388-4521",
+    "website": "https://www.amesburycarriagemuseum.com"
+  },
+  {
+    "name": "John F. Kennedy Hyannis Museum",
+    "address": "397 Main St, Hyannis, MA 02601",
+    "coordinates": {
+      "latitude": 41.6500,
+      "longitude": -70.2833
+    },
+    "phone": "(508) 790-3077",
+    "website": "https://www.jfkhyannismuseum.org"
+  },
+  {
+    "name": "Larz Anderson Auto Museum",
+    "address": "15 Newton St, Brookline, MA 02445",
+    "coordinates": {
+      "latitude": 42.3167,
+      "longitude": -71.1333
+    },
+    "phone": "(617) 522-6547",
+    "website": "https://www.larzanderson.org"
+  },
+  {
+    "name": "Louisa May Alcott's Orchard House",
+    "address": "399 Lexington Rd, Concord, MA 01742",
+    "coordinates": {
+      "latitude": 42.4583,
+      "longitude": -71.3417
+    },
+    "phone": "(978) 369-4118",
+    "website": "https://www.louisamayalcott.org"
+  },
+  {
+    "name": "Martha's Vineyard Museum",
+    "address": "151 Lagoon Pond Rd, Vineyard Haven, MA 02568",
+    "coordinates": {
+      "latitude": 41.4500,
+      "longitude": -70.6000
+    },
+    "phone": "(508) 627-4441",
+    "website": "https://www.mvmuseum.org"
+  },
+  {
+    "name": "Museum of Science",
+    "address": "1 Science Park, Boston, MA 02114",
+    "coordinates": {
+      "latitude": 42.3683,
+      "longitude": -71.0708
+    },
+    "phone": "(617) 723-2500",
+    "website": "https://www.mos.org"
+  },
+  {
+    "name": "Nantucket Lightship/LV-112",
+    "address": "256 Marginal St, East Boston, MA 02128",
+    "coordinates": {
+      "latitude": 42.3667,
+      "longitude": -71.0333
+    },
+    "phone": "(617) 259-8646",
+    "website": "https://www.lightshipoverfalls.org"
+  },
+  {
+    "name": "New Bedford Art Museum/ArtWorks!",
+    "address": "608 Pleasant St, New Bedford, MA 02740",
+    "coordinates": {
+      "latitude": 41.6333,
+      "longitude": -70.9333
+    },
+    "phone": "(508) 961-3072",
+    "website": "https://www.newbedfordart.org"
+  },
+  {
+    "name": "New Bedford Fishing Heritage Center",
+    "address": "38 Bethel St, New Bedford, MA 02740",
+    "coordinates": {
+      "latitude": 41.6333,
+      "longitude": -70.9333
+    },
+    "phone": "(508) 993-8894",
+    "website": "https://www.fishingheritagecenter.org"
+  },
+  {
+    "name": "New Bedford Whaling Museum",
+    "address": "18 Johnny Cake Hill, New Bedford, MA 02740",
+    "coordinates": {
+      "latitude": 41.6333,
+      "longitude": -70.9250
+    },
+    "phone": "(508) 997-0046",
+    "website": "https://www.whalingmuseum.org"
+  },
+  {
+    "name": "Norman Rockwell Museum",
+    "address": "9 Glendale Rd, Stockbridge, MA 01262",
+    "coordinates": {
+      "latitude": 42.2833,
+      "longitude": -73.3167
+    },
+    "phone": "(413) 298-4100",
+    "website": "https://www.nrm.org"
+  },
+  {
+    "name": "North Shore Children's Museum",
+    "address": "10 Main St, Peabody, MA 01960",
+    "coordinates": {
+      "latitude": 42.5250,
+      "longitude": -70.9250
+    },
+    "phone": "(978) 538-5761",
+    "website": "https://www.northshorechildrensmuseum.org"
+  },
+  {
+    "name": "Old Sturbridge Village",
+    "address": "1 Old Sturbridge Village Rd, Sturbridge, MA 01566",
+    "coordinates": {
+      "latitude": 42.1083,
+      "longitude": -72.1000
+    },
+    "phone": "(800) 733-1830",
+    "website": "https://www.osv.org"
+  },
+  {
+    "name": "Peabody Essex Museum",
+    "address": "161 Essex St, Salem, MA 01970",
+    "coordinates": {
+      "latitude": 42.5214,
+      "longitude": -70.8917
+    },
+    "phone": "(978) 745-9500",
+    "website": "https://www.pem.org"
+  },
+  {
+    "name": "Plymouth Center for the Arts",
+    "address": "11 North St, Plymouth, MA 02360",
+    "coordinates": {
+      "latitude": 41.9583,
+      "longitude": -70.6667
+    },
+    "phone": "(508) 746-7222",
+    "website": "https://www.plymouthguild.org"
+  },
+  {
+    "name": "Provincetown Art Association and Museum",
+    "address": "460 Commercial St, Provincetown, MA 02657",
+    "coordinates": {
+      "latitude": 42.0500,
+      "longitude": -70.1833
+    },
+    "phone": "(508) 487-1750",
+    "website": "https://www.paam.org"
+  },
+  {
+    "name": "Rotch-Jones-Duff House & Garden Museum",
+    "address": "396 County St, New Bedford, MA 02740",
+    "coordinates": {
+      "latitude": 41.6333,
+      "longitude": -70.9333
+    },
+    "phone": "(508) 997-1401",
+    "website": "https://www.rjdmuseum.org"
+  },
+  {
+    "name": "Sandwich Glass Museum",
+    "address": "129 Main St, Sandwich, MA 02563",
+    "coordinates": {
+      "latitude": 41.7583,
+      "longitude": -70.5000
+    },
+    "phone": "(508) 888-0251",
+    "website": "https://www.sandwichglassmuseum.org"
+  },
+  {
+    "name": "Shirley-Eustis House Association",
+    "address": "33 Shirley St, Boston, MA 02125",
+    "coordinates": {
+      "latitude": 42.3167,
+      "longitude": -71.0667
+    },
+    "phone": "(617) 442-2275",
+    "website": "https://www.shirleyeustishouse.org"
+  },
+  {
+    "name": "Sterling and Francine Clark Art Institute",
+    "address": "225 South St, Williamstown, MA 01267",
+    "coordinates": {
+      "latitude": 42.7083,
+      "longitude": -73.2083
+    },
+    "phone": "(413) 458-2303",
+    "website": "https://www.clarkart.edu"
+  },
+  {
+    "name": "The Children's Museum of Greater Fall River",
+    "address": "441 N Main St, Fall River, MA 02720",
+    "coordinates": {
+      "latitude": 41.7000,
+      "longitude": -71.1500
+    },
+    "phone": "(508) 672-0033",
+    "website": "https://www.cmofallriver.org"
+  },
+  {
+    "name": "The Eric Carle Museum of Picture Book Art",
+    "address": "125 W Bay Rd, Amherst, MA 01002",
+    "coordinates": {
+      "latitude": 42.3700,
+      "longitude": -72.5167
+    },
+    "phone": "(413) 559-6300",
+    "website": "https://www.carlemuseum.org"
+  },
+  {
+    "name": "The Icon Museum and Study Center",
+    "address": "203 Union St, Clinton, MA 01510",
+    "coordinates": {
+      "latitude": 42.4167,
+      "longitude": -71.6833
+    },
+    "phone": "(978) 598-5000",
+    "website": "https://www.iconmuseum.org"
+  },
+  {
+    "name": "USS Constitution Museum",
+    "address": "Building 22, Charlestown Navy Yard, Charlestown, MA 02129",
+    "coordinates": {
+      "latitude": 42.3725,
+      "longitude": -71.0561
+    },
+    "phone": "(617) 426-1812",
+    "website": "https://www.ussconstitutionmuseum.org"
+  },
+  {
+    "name": "Wenham Museum",
+    "address": "132 Main St, Wenham, MA 01984",
+    "coordinates": {
+      "latitude": 42.6000,
+      "longitude": -70.8833
+    },
+    "phone": "(978) 468-2377",
+    "website": "https://www.wenhammuseum.org"
+  }
+]

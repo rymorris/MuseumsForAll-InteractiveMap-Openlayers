@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Children's Museum of Acadiana",
+    "address": "201 E Congress St, Lafayette, LA 70501",
+    "coordinates": {
+      "latitude": 30.2244,
+      "longitude": -92.0183
+    },
+    "phone": "(337) 232-8500",
+    "website": "https://www.childrensmuseumofacadiana.com"
+  },
+  {
+    "name": "Children's Museum of St. Tammany",
+    "address": "21404 Koop Dr, Mandeville, LA 70471",
+    "coordinates": {
+      "latitude": 30.4017,
+      "longitude": -90.0650
+    },
+    "phone": "(985) 888-4433",
+    "website": "https://www.cmstkids.org"
+  },
+  {
+    "name": "Contemporary Arts Center New Orleans",
+    "address": "900 Camp St, New Orleans, LA 70130",
+    "coordinates": {
+      "latitude": 29.9450,
+      "longitude": -90.0683
+    },
+    "phone": "(504) 528-3805",
+    "website": "https://www.cacno.org"
+  },
+  {
+    "name": "Knock Knock Children's Museum",
+    "address": "1900 Dalrymple Dr, Baton Rouge, LA 70808",
+    "coordinates": {
+      "latitude": 30.4269,
+      "longitude": -91.1789
+    },
+    "phone": "(225) 388-3090",
+    "website": "https://www.knockknockmuseum.org"
+  },
+  {
+    "name": "Longue Vue House and Gardens",
+    "address": "7 Bamboo Rd, New Orleans, LA 70124",
+    "coordinates": {
+      "latitude": 29.9833,
+      "longitude": -90.1125
+    },
+    "phone": "(504) 488-5488",
+    "website": "https://www.longuevue.com"
+  },
+  {
+    "name": "Louisiana Children's Museum",
+    "address": "15 Henry Thomas Dr, New Orleans, LA 70124",
+    "coordinates": {
+      "latitude": 30.0019,
+      "longitude": -90.0936
+    },
+    "phone": "(504) 523-1357",
+    "website": "https://www.lcm.org"
+  },
+  {
+    "name": "LSU Museum of Art",
+    "address": "100 Lafayette St, Baton Rouge, LA 70801",
+    "coordinates": {
+      "latitude": 30.4469,
+      "longitude": -91.1878
+    },
+    "phone": "(225) 389-7200",
+    "website": "https://www.lsumoa.org"
+  },
+  {
+    "name": "Maritime Museum Louisiana",
+    "address": "133 Mabel Dr, Madisonville, LA 70447",
+    "coordinates": {
+      "latitude": 30.4083,
+      "longitude": -90.1589
+    },
+    "phone": "(985) 845-9200",
+    "website": "https://www.maritimemuseumlouisiana.org"
+  },
+  {
+    "name": "Ogden Museum of Southern Art",
+    "address": "925 Camp St, New Orleans, LA 70130",
+    "coordinates": {
+      "latitude": 29.9444,
+      "longitude": -90.0686
+    },
+    "phone": "(504) 539-9650",
+    "website": "https://www.ogdenmuseum.org"
+  },
+  {
+    "name": "Sci-Port Discovery Center",
+    "address": "820 Clyde Fant Pkwy, Shreveport, LA 71101",
+    "coordinates": {
+      "latitude": 32.5136,
+      "longitude": -93.7503
+    },
+    "phone": "(318) 424-3466",
+    "website": "https://www.sciport.org"
+  },
+  {
+    "name": "T.R.E.E. House Children's Museum",
+    "address": "1403 3rd St, Alexandria, LA 71301",
+    "coordinates": {
+      "latitude": 31.3114,
+      "longitude": -92.4469
+    },
+    "phone": "(318) 619-9394",
+    "website": "https://www.treehousemuseum.org"
+  },
+  {
+    "name": "The Children's Museum",
+    "address": "323 Walnut St, Monroe, LA 71201",
+    "coordinates": {
+      "latitude": 32.5022,
+      "longitude": -92.1189
+    },
+    "phone": "(318) 361-9611",
+    "website": "https://www.monroechildrensmuseum.org"
+  },
+  {
+    "name": "THE ICONS MUSEUM",
+    "address": "517 N New Hampshire St, Covington, LA 70433",
+    "coordinates": {
+      "latitude": 30.4764,
+      "longitude": -90.1008
+    },
+    "phone": "(985) 888-4636",
+    "website": "https://www.theiconsmuseum.org"
+  }
+]

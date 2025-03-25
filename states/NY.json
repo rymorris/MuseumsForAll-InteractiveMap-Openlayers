@@ -1,0 +1,1112 @@
+[
+  {
+    "name": "Adirondack Carousel",
+    "address": "2 Depot St, Saranac Lake, NY 12983",
+    "coordinates": {
+      "latitude": 44.3294,
+      "longitude": -74.1319
+    },
+    "phone": "(518) 891-9521",
+    "website": "https://www.adirondackcarousel.org"
+  },
+  {
+    "name": "Albany Institute of History & Art",
+    "address": "125 Washington Ave, Albany, NY 12210",
+    "coordinates": {
+      "latitude": 42.6525,
+      "longitude": -73.7619
+    },
+    "phone": "(518) 463-4478",
+    "website": "https://www.albanyinstitute.org"
+  },
+  {
+    "name": "Alice Austen House",
+    "address": "2 Hylan Blvd, Staten Island, NY 10305",
+    "coordinates": {
+      "latitude": 40.6086,
+      "longitude": -74.0603
+    },
+    "phone": "(718) 816-4506",
+    "website": "https://aliceausten.org"
+  },
+  {
+    "name": "Alling Coverlet Museum and Gift Shop - Historic Palmyra Museums",
+    "address": "122 William St, Palmyra, NY 14522",
+    "coordinates": {
+      "latitude": 43.0636,
+      "longitude": -77.2336
+    },
+    "phone": "(315) 597-6981",
+    "website": "https://www.historicpalmyrany.com"
+  },
+  {
+    "name": "Aquarium of Niagara",
+    "address": "701 Whirlpool St, Niagara Falls, NY 14301",
+    "coordinates": {
+      "latitude": 43.0875,
+      "longitude": -79.0586
+    },
+    "phone": "(716) 285-3575",
+    "website": "https://www.aquariumofniagara.org"
+  },
+  {
+    "name": "Arnot Art Museum",
+    "address": "235 Lake St, Elmira, NY 14901",
+    "coordinates": {
+      "latitude": 42.0897,
+      "longitude": -76.8089
+    },
+    "phone": "(607) 734-3697",
+    "website": "https://www.arnotartmuseum.org"
+  },
+  {
+    "name": "Audubon Community Nature Center",
+    "address": "1600 Riverside Rd, Jamestown, NY 14701",
+    "coordinates": {
+      "latitude": 42.1089,
+      "longitude": -79.2486
+    },
+    "phone": "(716) 569-2345",
+    "website": "https://auduboncnc.org"
+  },
+  {
+    "name": "Bartow-Pell Mansion Museum",
+    "address": "895 Shore Rd, Bronx, NY 10464",
+    "coordinates": {
+      "latitude": 40.8719,
+      "longitude": -73.8053
+    },
+    "phone": "(718) 885-1461",
+    "website": "https://www.bartowpellmansionmuseum.org"
+  },
+  {
+    "name": "Bronx Children's Museum",
+    "address": "725 Exterior St, Bronx, NY 10451",
+    "coordinates": {
+      "latitude": 40.8119,
+      "longitude": -73.9275
+    },
+    "phone": "(718) 681-0813",
+    "website": "https://www.bronxchildrensmuseum.org"
+  },
+  {
+    "name": "Buffalo Museum of Science",
+    "address": "1020 Humboldt Pkwy, Buffalo, NY 14211",
+    "coordinates": {
+      "latitude": 42.9325,
+      "longitude": -78.8808
+    },
+    "phone": "(716) 896-5200",
+    "website": "https://www.sciencebuff.org"
+  },
+  {
+    "name": "Castellani Art Museum of Niagara University",
+    "address": "5795 Lewiston Rd, Niagara University, NY 14109",
+    "coordinates": {
+      "latitude": 43.1372,
+      "longitude": -79.0358
+    },
+    "phone": "(716) 286-8200",
+    "website": "https://www.castellaniartmuseum.org"
+  },
+  {
+    "name": "Chenango County Historical Society",
+    "address": "45 Rexford St, Norwich, NY 13815",
+    "coordinates": {
+      "latitude": 42.5369,
+      "longitude": -75.5236
+    },
+    "phone": "(607) 334-9227",
+    "website": "https://www.chenangohistorical.org"
+  },
+  {
+    "name": "Children's Museum of Manhattan",
+    "address": "212 W 83rd St, New York, NY 10024",
+    "coordinates": {
+      "latitude": 40.7858,
+      "longitude": -73.9764
+    },
+    "phone": "(212) 721-1223",
+    "website": "https://www.cmom.org"
+  },
+  {
+    "name": "Children's Museum of the East End",
+    "address": "376 Bridgehampton-Sag Harbor Tpke, Bridgehampton, NY 11932",
+    "coordinates": {
+      "latitude": 40.9336,
+      "longitude": -72.3008
+    },
+    "phone": "(631) 537-8250",
+    "website": "https://www.cmee.org"
+  },
+  {
+    "name": "Children's Museum of Oswego",
+    "address": "W 1st St, Oswego, NY 13126",
+    "coordinates": {
+      "latitude": 43.4586,
+      "longitude": -76.5119
+    },
+    "phone": "(315) 326-3850",
+    "website": "https://www.cmoswego.org"
+  },
+  {
+    "name": "Cooper Hewitt, Smithsonian Design Museum",
+    "address": "2 E 91st St, New York, NY 10128",
+    "coordinates": {
+      "latitude": 40.7847,
+      "longitude": -73.9586
+    },
+    "phone": "(212) 849-8400",
+    "website": "https://www.cooperhewitt.org"
+  },
+  {
+    "name": "Corning Museum of Glass",
+    "address": "1 Museum Way, Corning, NY 14830",
+    "coordinates": {
+      "latitude": 42.1494,
+      "longitude": -77.0547
+    },
+    "phone": "(607) 937-5371",
+    "website": "https://www.cmog.org"
+  },
+  {
+    "name": "Edward Hopper House Museum & Study Center",
+    "address": "82 N Broadway, Nyack, NY 10960",
+    "coordinates": {
+      "latitude": 41.0936,
+      "longitude": -73.9208
+    },
+    "phone": "(845) 358-0774",
+    "website": "https://www.edwardhopperhouse.org"
+  },
+  {
+    "name": "Erie Canal Depot - Historic Palmyra Museums",
+    "address": "136 Market St, Palmyra, NY 14522",
+    "coordinates": {
+      "latitude": 43.0636,
+      "longitude": -77.2336
+    },
+    "phone": "(315) 597-6981",
+    "website": "https://www.historicpalmyrany.com"
+  },
+  {
+    "name": "Fenimore Art Museum",
+    "address": "5798 NY-80, Cooperstown, NY 13326",
+    "coordinates": {
+      "latitude": 42.7119,
+      "longitude": -74.9258
+    },
+    "phone": "(607) 547-1400",
+    "website": "https://www.fenimoreartmuseum.org"
+  },
+  {
+    "name": "Finger Lakes Boating Museum",
+    "address": "8231 Pleasant Valley Rd, Hammondsport, NY 14840",
+    "coordinates": {
+      "latitude": 42.4086,
+      "longitude": -77.2236
+    },
+    "phone": "(607) 569-2222",
+    "website": "https://www.flbm.org"
+  },
+  {
+    "name": "Frances Lehman Loeb Art Center",
+    "address": "124 Raymond Ave, Poughkeepsie, NY 12604",
+    "coordinates": {
+      "latitude": 41.6869,
+      "longitude": -73.8969
+    },
+    "phone": "(845) 437-5237",
+    "website": "https://www.fllac.vassar.edu"
+  },
+  {
+    "name": "Frank Lloyd Wright's Graycliff",
+    "address": "6472 Old Lake Shore Rd, Derby, NY 14047",
+    "coordinates": {
+      "latitude": 42.5519,
+      "longitude": -79.0408
+    },
+    "phone": "(716) 947-9217",
+    "website": "https://www.graycliff.website"
+  },
+  {
+    "name": "Frank Lloyd Wright's Martin House",
+    "address": "125 Jewett Pkwy, Buffalo, NY 14214",
+    "coordinates": {
+      "latitude": 42.9336,
+      "longitude": -78.8528
+    },
+    "phone": "(716) 856-3858",
+    "website": "https://www.darwinmartinhouse.org"
+  },
+  {
+    "name": "Fraunces Tavern Museum",
+    "address": "54 Pearl St, New York, NY 10004",
+    "coordinates": {
+      "latitude": 40.7036,
+      "longitude": -74.0108
+    },
+    "phone": "(212) 425-1778",
+    "website": "https://www.frauncestavernmuseum.org"
+  },
+  {
+    "name": "Frick Madison",
+    "address": "945 Madison Ave, New York, NY 10021",
+    "coordinates": {
+      "latitude": 40.7714,
+      "longitude": -73.9669
+    },
+    "phone": "(212) 288-0700",
+    "website": "https://www.frick.org"
+  },
+  {
+    "name": "Genesee Country Village & Museum",
+    "address": "1410 Flint Hill Rd, Mumford, NY 14511",
+    "coordinates": {
+      "latitude": 42.9986,
+      "longitude": -77.8958
+    },
+    "phone": "(585) 538-6822",
+    "website": "https://www.gcv.org"
+  },
+  {
+    "name": "George Eastman Museum",
+    "address": "900 East Ave, Rochester, NY 14607",
+    "coordinates": {
+      "latitude": 43.1536,
+      "longitude": -77.5839
+    },
+    "phone": "(585) 271-3361",
+    "website": "https://www.eastman.org"
+  },
+  {
+    "name": "Hanford Mills Museum",
+    "address": "51 Co Hwy 12, East Meredith, NY 13757",
+    "coordinates": {
+      "latitude": 42.4125,
+      "longitude": -74.8919
+    },
+    "phone": "(607) 278-5744",
+    "website": "https://www.hanfordmills.org"
+  },
+  {
+    "name": "Heritage Village of the Southern Finger Lakes",
+    "address": "73 W Pulteney St, Corning, NY 14830",
+    "coordinates": {
+      "latitude": 42.1428,
+      "longitude": -77.0569
+    },
+    "phone": "(607) 937-5281",
+    "website": "https://www.heritagevillagesfl.org"
+  },
+  {
+    "name": "Herschell Carrousel Factory Museum",
+    "address": "180 Thompson St, North Tonawanda, NY 14120",
+    "coordinates": {
+      "latitude": 43.0336,
+      "longitude": -78.8769
+    },
+    "phone": "(716) 693-1885",
+    "website": "https://www.carrouselmuseum.org"
+  },
+  {
+    "name": "Historic Cherry Hill",
+    "address": "523 S Pearl St, Albany, NY 12202",
+    "coordinates": {
+      "latitude": 42.6425,
+      "longitude": -73.7589
+    },
+    "phone": "(518) 434-4791",
+    "website": "https://www.historiccherryhill.org"
+  },
+  {
+    "name": "Historic Richmond Town",
+    "address": "441 Clarke Ave, Staten Island, NY 10306",
+    "coordinates": {
+      "latitude": 40.5719,
+      "longitude": -74.1458
+    },
+    "phone": "(718) 351-1611",
+    "website": "https://www.historicrichmondtown.org"
+  },
+  {
+    "name": "Hudson River Museum",
+    "address": "511 Warburton Ave, Yonkers, NY 10701",
+    "coordinates": {
+      "latitude": 40.9519,
+      "longitude": -73.8989
+    },
+    "phone": "(914) 963-4550",
+    "website": "https://www.hrm.org"
+  },
+  {
+    "name": "International Center of Photography",
+    "address": "79 Essex St, New York, NY 10002",
+    "coordinates": {
+      "latitude": 40.7192,
+      "longitude": -73.9878
+    },
+    "phone": "(212) 857-0000",
+    "website": "https://www.icp.org"
+  },
+  {
+    "name": "Intrepid Sea, Air & Space Museum",
+    "address": "Pier 86, W 46th St, New York, NY 10036",
+    "coordinates": {
+      "latitude": 40.7647,
+      "longitude": -73.9997
+    },
+    "phone": "(212) 245-0072",
+    "website": "https://www.intrepidmuseum.org"
+  },
+  {
+    "name": "Iroquois Museum",
+    "address": "324 Caverns Rd, Howes Cave, NY 12092",
+    "coordinates": {
+      "latitude": 42.7008,
+      "longitude": -74.4089
+    },
+    "phone": "(518) 296-8949",
+    "website": "https://www.iroquoismuseum.org"
+  },
+  {
+    "name": "Japan Society",
+    "address": "333 E 47th St, New York, NY 10017",
+    "coordinates": {
+      "latitude": 40.7528,
+      "longitude": -73.9689
+    },
+    "phone": "(212) 832-1155",
+    "website": "https://www.japansociety.org"
+  },
+  {
+    "name": "Katonah Museum of Art",
+    "address": "134 Jay St, Katonah, NY 10536",
+    "coordinates": {
+      "latitude": 41.2586,
+      "longitude": -73.6858
+    },
+    "phone": "(914) 232-9555",
+    "website": "https://www.katonahmuseum.org"
+  },
+  {
+    "name": "King Manor",
+    "address": "150-03 Jamaica Ave, Jamaica, NY 11432",
+    "coordinates": {
+      "latitude": 40.7019,
+      "longitude": -73.8047
+    },
+    "phone": "(718) 206-0545",
+    "website": "https://www.kingmanor.org"
+  },
+  {
+    "name": "Long Island Children's Museum",
+    "address": "11 Davis Ave, Garden City, NY 11530",
+    "coordinates": {
+      "latitude": 40.7247,
+      "longitude": -73.6436
+    },
+    "phone": "(516) 224-5800",
+    "website": "https://www.licm.org"
+  },
+  {
+    "name": "Long Island Explorium Children's Museum of Science & Engineering",
+    "address": "101 E Broadway, Port Jefferson, NY 11777",
+    "coordinates": {
+      "latitude": 40.9469,
+      "longitude": -73.0658
+    },
+    "phone": "(631) 331-3277",
+    "website": "https://www.longislandexplorium.org"
+  },
+  {
+    "name": "Long Island Maritime Museum",
+    "address": "88 West Ave, West Sayville, NY 11796",
+    "coordinates": {
+      "latitude": 40.7286,
+      "longitude": -73.0989
+    },
+    "phone": "(631) 854-4974",
+    "website": "https://www.limaritime.org"
+  },
+  {
+    "name": "LongHouse Reserve",
+    "address": "133 Hands Creek Rd, East Hampton, NY 11937",
+    "coordinates": {
+      "latitude": 40.9636,
+      "longitude": -72.1869
+    },
+    "phone": "(631) 329-3568",
+    "website": "https://www.longhouse.org"
+  },
+  {
+    "name": "Lucille Ball Desi Arnaz Museum",
+    "address": "2 W 3rd St, Jamestown, NY 14701",
+    "coordinates": {
+      "latitude": 42.0958,
+      "longitude": -79.2389
+    },
+    "phone": "(716) 484-0800",
+    "website": "https://www.lucy-desi.com"
+  },
+  {
+    "name": "Mabee Farm Historic Site",
+    "address": "1080 Main St, Rotterdam Junction, NY 12150",
+    "coordinates": {
+      "latitude": 42.8786,
+      "longitude": -74.0389
+    },
+    "phone": "(518) 887-5073",
+    "website": "https://www.schist.org"
+  },
+  {
+    "name": "Magazzino Italian Art",
+    "address": "2700 US-9, Cold Spring, NY 10516",
+    "coordinates": {
+      "latitude": 41.4208,
+      "longitude": -73.9558
+    },
+    "phone": "(845) 666-7202",
+    "website": "https://www.magazzino.art"
+  },
+  {
+    "name": "Memorial Art Gallery of the University of Rochester",
+    "address": "500 University Ave, Rochester, NY 14607",
+    "coordinates": {
+      "latitude": 43.1569,
+      "longitude": -77.5939
+    },
+    "phone": "(585) 276-8900",
+    "website": "https://mag.rochester.edu"
+  },
+  {
+    "name": "Mid-Hudson Discovery Museum",
+    "address": "75 N Water St, Poughkeepsie, NY 12601",
+    "coordinates": {
+      "latitude": 41.7058,
+      "longitude": -73.9308
+    },
+    "phone": "(845) 471-0589",
+    "website": "https://www.mhdm.org"
+  },
+  {
+    "name": "Milton J. Rubenstein Museum of Science & Technology (MOST)",
+    "address": "500 S Franklin St, Syracuse, NY 13202",
+    "coordinates": {
+      "latitude": 43.0486,
+      "longitude": -76.1539
+    },
+    "phone": "(315) 425-9068",
+    "website": "https://www.most.org"
+  },
+  {
+    "name": "miSci|The Museum of Innovation & Science",
+    "address": "15 Nott Terrace Heights, Schenectady, NY 12308",
+    "coordinates": {
+      "latitude": 42.8186,
+      "longitude": -73.9469
+    },
+    "phone": "(518) 382-7890",
+    "website": "https://www.misci.org"
+  },
+  {
+    "name": "Munson-Williams-Proctor Arts Institute",
+    "address": "310 Genesee St, Utica, NY 13502",
+    "coordinates": {
+      "latitude": 43.0986,
+      "longitude": -75.2339
+    },
+    "phone": "(315) 797-0000",
+    "website": "https://www.mwpai.org"
+  },
+  {
+    "name": "Museum at Eldridge Street",
+    "address": "12 Eldridge St, New York, NY 10002",
+    "coordinates": {
+      "latitude": 40.7147,
+      "longitude": -73.9942
+    },
+    "phone": "(212) 219-0888",
+    "website": "https://www.eldridgestreet.org"
+  },
+  {
+    "name": "Museum of Arts and Design",
+    "address": "2 Columbus Circle, New York, NY 10019",
+    "coordinates": {
+      "latitude": 40.7686,
+      "longitude": -73.9819
+    },
+    "phone": "(212) 299-7777",
+    "website": "https://www.madmuseum.org"
+  },
+  {
+    "name": "Museum of Illustration at the Society of Illustrators",
+    "address": "128 E 63rd St, New York, NY 10065",
+    "coordinates": {
+      "latitude": 40.7647,
+      "longitude": -73.9678
+    },
+    "phone": "(212) 838-2560",
+    "website": "https://www.societyillustrators.org"
+  },
+  {
+    "name": "Museum of Modern Art",
+    "address": "11 W 53rd St, New York, NY 10019",
+    "coordinates": {
+      "latitude": 40.7614,
+      "longitude": -73.9778
+    },
+    "phone": "(212) 708-9400",
+    "website": "https://www.moma.org"
+  },
+  {
+    "name": "Museum of the Earth",
+    "address": "1259 Trumansburg Rd, Ithaca, NY 14850",
+    "coordinates": {
+      "latitude": 42.3919,
+      "longitude": -76.5219
+    },
+    "phone": "(607) 273-6623",
+    "website": "https://www.museumoftheearth.org"
+  },
+  {
+    "name": "National Baseball Hall of Fame and Museum",
+    "address": "25 Main St, Cooperstown, NY 13326",
+    "coordinates": {
+      "latitude": 42.7008,
+      "longitude": -74.9258
+    },
+    "phone": "(607) 547-7200",
+    "website": "https://baseballhall.org"
+  },
+  {
+    "name": "National Comedy Center",
+    "address": "203 W 2nd St, Jamestown, NY 14701",
+    "coordinates": {
+      "latitude": 42.0958,
+      "longitude": -79.2389
+    },
+    "phone": "(716) 484-2222",
+    "website": "https://www.comedycenter.org"
+  },
+  {
+    "name": "National Lighthouse Museum",
+    "address": "200 The Promenade at Lighthouse Point, Staten Island, NY 10301",
+    "coordinates": {
+      "latitude": 40.6408,
+      "longitude": -74.0769
+    },
+    "phone": "(718) 390-0040",
+    "website": "https://www.lighthousemuseum.org"
+  },
+  {
+    "name": "National Museum of Racing and Hall of Fame",
+    "address": "191 Union Ave, Saratoga Springs, NY 12866",
+    "coordinates": {
+      "latitude": 43.0808,
+      "longitude": -73.7839
+    },
+    "phone": "(518) 584-0400",
+    "website": "https://www.racingmuseum.org"
+  },
+  {
+    "name": "National September 11 Memorial & Museum",
+    "address": "180 Greenwich St, New York, NY 10007",
+    "coordinates": {
+      "latitude": 40.7114,
+      "longitude": -74.0128
+    },
+    "phone": "(212) 312-8800",
+    "website": "https://www.911memorial.org"
+  },
+  {
+    "name": "National Susan B. Anthony Museum & House",
+    "address": "17 Madison St, Rochester, NY 14608",
+    "coordinates": {
+      "latitude": 43.1525,
+      "longitude": -77.6289
+    },
+    "phone": "(585) 235-6124",
+    "website": "https://susanbanthonyhouse.org"
+  },
+  {
+    "name": "Neue Galerie New York",
+    "address": "1048 5th Ave, New York, NY 10028",
+    "coordinates": {
+      "latitude": 40.7819,
+      "longitude": -73.9619
+    },
+    "phone": "(212) 628-6200",
+    "website": "https://www.neuegalerie.org"
+  },
+  {
+    "name": "New Museum",
+    "address": "235 Bowery, New York, NY 10002",
+    "coordinates": {
+      "latitude": 40.7219,
+      "longitude": -73.9939
+    },
+    "phone": "(212) 219-1222",
+    "website": "https://www.newmuseum.org"
+  },
+  {
+    "name": "New York City Fire Museum",
+    "address": "278 Spring St, New York, NY 10013",
+    "coordinates": {
+      "latitude": 40.7258,
+      "longitude": -74.0069
+    },
+    "phone": "(212) 691-1303",
+    "website": "https://www.nycfiremuseum.org"
+  },
+  {
+    "name": "Niagara Falls Underground Railroad Heritage Center",
+    "address": "825 Depot Ave W, Niagara Falls, NY 14305",
+    "coordinates": {
+      "latitude": 43.0969,
+      "longitude": -79.0578
+    },
+    "phone": "(716) 300-8477",
+    "website": "https://www.niagarafallsundergroundrailroad.org"
+  },
+  {
+    "name": "North Country Children's Museum",
+    "address": "10 Raymond St, Potsdam, NY 13676",
+    "coordinates": {
+      "latitude": 44.6697,
+      "longitude": -74.9819
+    },
+    "phone": "(315) 274-9386",
+    "website": "https://www.northcountrychildrensmuseum.org"
+  },
+  {
+    "name": "Olana State Historic Site",
+    "address": "5720 NY-9G, Hudson, NY 12534",
+    "coordinates": {
+      "latitude": 42.2169,
+      "longitude": -73.8258
+    },
+    "phone": "(518) 828-0135",
+    "website": "https://www.olana.org"
+  },
+  {
+    "name": "Oneonta World of Learning",
+    "address": "30 Ford Ave, Oneonta, NY 13820",
+    "coordinates": {
+      "latitude": 42.4558,
+      "longitude": -75.0639
+    },
+    "phone": "(607) 431-5437",
+    "website": "https://www.oneontaworldoflearning.org"
+  },
+  {
+    "name": "Palmyra Historical Museum - Historic Palmyra Museums",
+    "address": "132 Market St, Palmyra, NY 14522",
+    "coordinates": {
+      "latitude": 43.0636,
+      "longitude": -77.2336
+    },
+    "phone": "(315) 597-6981",
+    "website": "https://www.historicpalmyrany.com"
+  },
+  {
+    "name": "Palmyra Print Shop - Historic Palmyra Museums",
+    "address": "140 Market St, Palmyra, NY 14522",
+    "coordinates": {
+      "latitude": 43.0636,
+      "longitude": -77.2336
+    },
+    "phone": "(315) 597-6981",
+    "website": "https://www.historicpalmyrany.com"
+  },
+  {
+    "name": "Phelps General Store - Historic Palmyra Museums",
+    "address": "140 Market St, Palmyra, NY 14522",
+    "coordinates": {
+      "latitude": 43.0636,
+      "longitude": -77.2336
+    },
+    "phone": "(315) 597-6981",
+    "website": "https://www.historicpalmyrany.com"
+  },
+  {
+    "name": "Phelps Mansion Museum",
+    "address": "191 Court St, Binghamton, NY 13901",
+    "coordinates": {
+      "latitude": 42.0986,
+      "longitude": -75.9169
+    },
+    "phone": "(607) 722-4873",
+    "website": "https://www.phelpsmansion.org"
+  },
+  {
+    "name": "Planting Fields Foundation",
+    "address": "1395 Planting Fields Rd, Oyster Bay, NY 11771",
+    "coordinates": {
+      "latitude": 40.8719,
+      "longitude": -73.5389
+    },
+    "phone": "(516) 922-9200",
+    "website": "https://www.plantingfields.org"
+  },
+  {
+    "name": "Poster House",
+    "address": "119 W 23rd St, New York, NY 10011",
+    "coordinates": {
+      "latitude": 40.7436,
+      "longitude": -73.9939
+    },
+    "phone": "(212) 219-8722",
+    "website": "https://www.posterhouse.org"
+  },
+  {
+    "name": "Preservation Long Island",
+    "address": "161 Main St, Cold Spring Harbor, NY 11724",
+    "coordinates": {
+      "latitude": 40.8719,
+      "longitude": -73.4569
+    },
+    "phone": "(631) 692-4664",
+    "website": "https://www.preservationlongisland.org"
+  },
+  {
+    "name": "Roberson Museum and Science Center",
+    "address": "30 Front St, Binghamton, NY 13905",
+    "coordinates": {
+      "latitude": 42.0986,
+      "longitude": -75.9169
+    },
+    "phone": "(607) 772-0660",
+    "website": "https://www.roberson.org"
+  },
+  {
+    "name": "Rochester Museum & Science Center",
+    "address": "657 East Ave, Rochester, NY 14607",
+    "coordinates": {
+      "latitude": 43.1536,
+      "longitude": -77.5839
+    },
+    "phone": "(585) 271-4320",
+    "website": "https://www.rmsc.org"
+  },
+  {
+    "name": "Roger Tory Peterson Institute",
+    "address": "311 Curtis St, Jamestown, NY 14701",
+    "coordinates": {
+      "latitude": 42.0958,
+      "longitude": -79.2389
+    },
+    "phone": "(716) 665-2473",
+    "website": "https://www.rtpi.org"
+  },
+  {
+    "name": "Ross Park Zoo",
+    "address": "60 Morgan Rd, Binghamton, NY 13903",
+    "coordinates": {
+      "latitude": 42.0986,
+      "longitude": -75.9169
+    },
+    "phone": "(607) 724-5461",
+    "website": "https://www.rossparkzoo.org"
+  },
+  {
+    "name": "Samuel Dorsky Museum of Art",
+    "address": "1 Hawk Dr, New Paltz, NY 12561",
+    "coordinates": {
+      "latitude": 41.7419,
+      "longitude": -74.0869
+    },
+    "phone": "(845) 257-3844",
+    "website": "https://www.newpaltz.edu/museum"
+  },
+  {
+    "name": "Saratoga Automobile Museum",
+    "address": "110 Avenue of the Pines, Saratoga Springs, NY 12866",
+    "coordinates": {
+      "latitude": 43.0808,
+      "longitude": -73.7839
+    },
+    "phone": "(518) 587-1935",
+    "website": "https://www.saratogaautomuseum.org"
+  },
+  {
+    "name": "Schenectady County Historical Society",
+    "address": "32 Washington Ave, Schenectady, NY 12305",
+    "coordinates": {
+      "latitude": 42.8186,
+      "longitude": -73.9469
+    },
+    "phone": "(518) 374-0263",
+    "website": "https://www.schenectadyhistorical.org"
+  },
+  {
+    "name": "Sciencenter",
+    "address": "601 1st St, Ithaca, NY 14850",
+    "coordinates": {
+      "latitude": 42.4419,
+      "longitude": -76.5019
+    },
+    "phone": "(607) 272-0600",
+    "website": "https://www.sciencenter.org"
+  },
+  {
+    "name": "Seneca Park Zoo",
+    "address": "2222 St Paul St, Rochester, NY 14621",
+    "coordinates": {
+      "latitude": 43.2086,
+      "longitude": -77.6189
+    },
+    "phone": "(585) 336-7200",
+    "website": "https://www.senecaparkzoo.org"
+  },
+  {
+    "name": "Seward House Museum",
+    "address": "33 South St, Auburn, NY 13021",
+    "coordinates": {
+      "latitude": 42.9286,
+      "longitude": -76.5669
+    },
+    "phone": "(315) 252-1283",
+    "website": "https://www.sewardhouse.org"
+  },
+  {
+    "name": "Staten Island Museum",
+    "address": "1000 Richmond Terrace, Staten Island, NY 10301",
+    "coordinates": {
+      "latitude": 40.6408,
+      "longitude": -74.0769
+    },
+    "phone": "(718) 727-1135",
+    "website": "https://www.statenislandmuseum.org"
+  },
+  {
+    "name": "Storm King Art Center",
+    "address": "1 Museum Rd, New Windsor, NY 12553",
+    "coordinates": {
+      "latitude": 41.4208,
+      "longitude": -74.0239
+    },
+    "phone": "(845) 534-3115",
+    "website": "https://www.stormking.org"
+  },
+  {
+    "name": "Sugar Hill Children's Museum of Art & Storytelling",
+    "address": "898 St Nicholas Ave, New York, NY 10032",
+    "coordinates": {
+      "latitude": 40.8336,
+      "longitude": -73.9439
+    },
+    "phone": "(212) 335-0004",
+    "website": "https://www.sugarhillmuseum.org"
+  },
+  {
+    "name": "The Arkell Museum",
+    "address": "2 Erie Blvd, Canajoharie, NY 13317",
+    "coordinates": {
+      "latitude": 42.9058,
+      "longitude": -74.5719
+    },
+    "phone": "(518) 673-2314",
+    "website": "https://www.arkellmuseum.org"
+  },
+  {
+    "name": "The Brant Foundation",
+    "address": "421 E 6th St, New York, NY 10009",
+    "coordinates": {
+      "latitude": 40.7247,
+      "longitude": -73.9789
+    },
+    "phone": "(212) 228-3008",
+    "website": "https://www.brantfoundation.org"
+  },
+  {
+    "name": "The Children's Museum at Saratoga",
+    "address": "65 S Broadway, Saratoga Springs, NY 12866",
+    "coordinates": {
+      "latitude": 43.0808,
+      "longitude": -73.7839
+    },
+    "phone": "(518) 584-5540",
+    "website": "https://www.cmssny.org"
+  },
+  {
+    "name": "The Discovery Center of the Southern Tier",
+    "address": "60 Morgan Rd, Binghamton, NY 13903",
+    "coordinates": {
+      "latitude": 42.0986,
+      "longitude": -75.9169
+    },
+    "phone": "(607) 773-8661",
+    "website": "https://www.thediscoverycenter.org"
+  },
+  {
+    "name": "The Farmers' Museum",
+    "address": "5775 NY-80, Cooperstown, NY 13326",
+    "coordinates": {
+      "latitude": 42.7119,
+      "longitude": -74.9258
+    },
+    "phone": "(607) 547-1450",
+    "website": "https://www.farmersmuseum.org"
+  },
+  {
+    "name": "The History Center in Tompkins County",
+    "address": "110 N Tioga St, Ithaca, NY 14850",
+    "coordinates": {
+      "latitude": 42.4419,
+      "longitude": -76.5019
+    },
+    "phone": "(607) 273-8284",
+    "website": "https://www.thehistorycenter.net"
+  },
+  {
+    "name": "The Hyde Collection",
+    "address": "161 Warren St, Glens Falls, NY 12801",
+    "coordinates": {
+      "latitude": 43.3119,
+      "longitude": -73.6458
+    },
+    "phone": "(518) 792-1761",
+    "website": "https://www.hydecollection.org"
+  },
+  {
+    "name": "The Jewish Museum",
+    "address": "1109 5th Ave, New York, NY 10128",
+    "coordinates": {
+      "latitude": 40.7847,
+      "longitude": -73.9586
+    },
+    "phone": "(212) 423-3200",
+    "website": "https://www.thejewishmuseum.org"
+  },
+  {
+    "name": "The Long Island Museum",
+    "address": "1200 NY-25A, Stony Brook, NY 11790",
+    "coordinates": {
+      "latitude": 40.9158,
+      "longitude": -73.1369
+    },
+    "phone": "(631) 751-0066",
+    "website": "https://www.longislandmuseum.org"
+  },
+  {
+    "name": "The Met Fifth Avenue",
+    "address": "1000 5th Ave, New York, NY 10028",
+    "coordinates": {
+      "latitude": 40.7794,
+      "longitude": -73.9633
+    },
+    "phone": "(212) 535-7710",
+    "website": "https://www.metmuseum.org"
+  },
+  {
+    "name": "The Morgan Library & Museum",
+    "address": "225 Madison Ave, New York, NY 10016",
+    "coordinates": {
+      "latitude": 40.7494,
+      "longitude": -73.9819
+    },
+    "phone": "(212) 685-0008",
+    "website": "https://www.themorgan.org"
+  },
+  {
+    "name": "The Noble Maritime Collection",
+    "address": "1000 Richmond Terrace, Staten Island, NY 10301",
+    "coordinates": {
+      "latitude": 40.6408,
+      "longitude": -74.0769
+    },
+    "phone": "(718) 447-6490",
+    "website": "https://www.noblemaritime.org"
+  },
+  {
+    "name": "The Noguchi Museum",
+    "address": "9-01 33rd Rd, Long Island City, NY 11106",
+    "coordinates": {
+      "latitude": 40.7697,
+      "longitude": -73.9247
+    },
+    "phone": "(718) 204-7088",
+    "website": "https://www.noguchi.org"
+  },
+  {
+    "name": "The Rockwell Museum",
+    "address": "111 Cedar St, Corning, NY 14830",
+    "coordinates": {
+      "latitude": 42.1428,
+      "longitude": -77.0569
+    },
+    "phone": "(607) 937-5386",
+    "website": "https://www.rockwellmuseum.org"
+  },
+  {
+    "name": "The Rubin Museum of Art",
+    "address": "150 W 17th St, New York, NY 10011",
+    "coordinates": {
+      "latitude": 40.7408,
+      "longitude": -73.9989
+    },
+    "phone": "(212) 620-5000",
+    "website": "https://www.rubinmuseum.org"
+  },
+  {
+    "name": "The Skyscraper Museum",
+    "address": "39 Battery Pl, New York, NY 10280",
+    "coordinates": {
+      "latitude": 40.7058,
+      "longitude": -74.0169
+    },
+    "phone": "(212) 968-1961",
+    "website": "https://www.skyscraper.org"
+  },
+  {
+    "name": "The South Fork Natural History Museum and Nature Center",
+    "address": "377 Bridgehampton-Sag Harbor Tpke, Bridgehampton, NY 11932",
+    "coordinates": {
+      "latitude": 40.9336,
+      "longitude": -72.3008
+    },
+    "phone": "(631) 537-9735",
+    "website": "https://www.sofo.org"
+  },
+  {
+    "name": "Utica Children's Museum",
+    "address": "311 Main St, Utica, NY 13501",
+    "coordinates": {
+      "latitude": 43.0986,
+      "longitude": -75.2339
+    },
+    "phone": "(315) 724-6129",
+    "website": "https://www.uticacm.org"
+  },
+  {
+    "name": "Van Cortlandt House Museum",
+    "address": "Broadway & W 246th St, Bronx, NY 10471",
+    "coordinates": {
+      "latitude": 40.8928,
+      "longitude": -73.9019
+    },
+    "phone": "(718) 543-3344",
+    "website": "https://www.vancortlandthouse.org"
+  },
+  {
+    "name": "Westchester Children's Museum",
+    "address": "100 Playland Pkwy, Rye, NY 10580",
+    "coordinates": {
+      "latitude": 40.9669,
+      "longitude": -73.6839
+    },
+    "phone": "(914) 421-5050",
+    "website": "https://www.discoverwcm.org"
+  },
+  {
+    "name": "World Awareness Children's Museum",
+    "address": "89 Warren St, Glens Falls, NY 12801",
+    "coordinates": {
+      "latitude": 43.3119,
+      "longitude": -73.6458
+    },
+    "phone": "(518) 793-2773",
+    "website": "https://www.worldchildrensmuseum.org"
+  }
+]

@@ -1,0 +1,344 @@
+{
+  "institutions": [
+    {
+      "name": "Bellevue Arts Museum",
+      "address": "510 Bellevue Way NE, Bellevue, WA 98004",
+      "coordinates": {
+        "latitude": 47.6104,
+        "longitude": -122.2028
+      },
+      "phone": "(425) 519-0770",
+      "website": "https://www.bellevuearts.org/"
+    },
+    {
+      "name": "Bloedel Reserve",
+      "address": "7571 NE Dolphin Dr, Bainbridge Island, WA 98110",
+      "coordinates": {
+        "latitude": 47.6738,
+        "longitude": -122.4957
+      },
+      "phone": "(206) 842-7631",
+      "website": "https://bloedelreserve.org/"
+    },
+    {
+      "name": "Burke Museum",
+      "address": "4300 Memorial Way NE, Seattle, WA 98195",
+      "coordinates": {
+        "latitude": 47.6555,
+        "longitude": -122.3032
+      },
+      "phone": "(206) 685-3849",
+      "website": "https://www.burkemuseum.org/"
+    },
+    {
+      "name": "Children's Museum of Skagit County",
+      "address": "3032 S Mount Vernon, Burlington, WA 98233",
+      "coordinates": {
+        "latitude": 48.4266,
+        "longitude": -122.3520
+      },
+      "phone": "(360) 757-8888",
+      "website": "http://www.skagitchildrensmuseum.net/"
+    },
+    {
+      "name": "Children's Museum of Tacoma",
+      "address": "1501 Pacific Ave, Tacoma, WA 98402",
+      "coordinates": {
+        "latitude": 47.2435,
+        "longitude": -122.4425
+      },
+      "phone": "(253) 627-6031",
+      "website": "https://www.playtacoma.org/"
+    },
+    {
+      "name": "Columbia Pacific Heritage Museum",
+      "address": "115 SE Lake St, Ilwaco, WA 98624",
+      "coordinates": {
+        "latitude": 46.3072,
+        "longitude": -124.0396
+      },
+      "phone": "(360) 642-3446",
+      "website": "http://columbiapacificheritage.org/"
+    },
+    {
+      "name": "Dino Discovery (Ellensburg)",
+      "address": "600 N Poplar St, Ellensburg, WA 98926",
+      "coordinates": {
+        "latitude": 46.9958,
+        "longitude": -120.5485
+      },
+      "phone": "(509) 963-1921",
+      "website": "https://www.cwu.edu/ce/dino-discovery"
+    },
+    {
+      "name": "Dino Discovery (Kennewick)",
+      "address": "735 N 4th Ave, Kennewick, WA 99336",
+      "coordinates": {
+        "latitude": 46.2040,
+        "longitude": -119.1095
+      },
+      "phone": "(509) 582-4050",
+      "website": "https://www.tricountywildlife.com/dinodiscovery"
+    },
+    {
+      "name": "Feiro Marine Life Center",
+      "address": "315 N Lincoln St, Port Angeles, WA 98362",
+      "coordinates": {
+        "latitude": 48.1183,
+        "longitude": -123.4335
+      },
+      "phone": "(360) 417-6254",
+      "website": "http://feiromarinelife.org/"
+    },
+    {
+      "name": "Fife History Museum and Cultural Center",
+      "address": "2820 54th Ave E, Fife, WA 98424",
+      "coordinates": {
+        "latitude": 47.2446,
+        "longitude": -122.4281
+      },
+      "phone": "(253) 922-0750",
+      "website": "https://www.cityoffife.org/museum"
+    },
+    {
+      "name": "Foss Waterway Seaport",
+      "address": "705 Dock St, Tacoma, WA 98402",
+      "coordinates": {
+        "latitude": 47.3774,
+        "longitude": -122.4386
+      },
+      "phone": "(253) 272-2750",
+      "website": "https://www.fosswaterwayseaport.org/"
+    },
+    {
+      "name": "Greater Kent Historical Society and Kent Museum",
+      "address": "855 E Smith St, Kent, WA 98030",
+      "coordinates": {
+        "latitude": 47.3856,
+        "longitude": -122.2277
+      },
+      "phone": "(253) 854-4330",
+      "website": "http://www.kenthistory.org/"
+    },
+    {
+      "name": "Hands On Children's Museum",
+      "address": "414 Jefferson St NE, Olympia, WA 98501",
+      "coordinates": {
+        "latitude": 47.0393,
+        "longitude": -122.8958
+      },
+      "phone": "(360) 956-0818",
+      "website": "https://www.hocm.org/"
+    },
+    {
+      "name": "Henry Art Gallery",
+      "address": "4100 15th Ave NE, Seattle, WA 98195",
+      "coordinates": {
+        "latitude": 47.6550,
+        "longitude": -122.3095
+      },
+      "phone": "(206) 543-2280",
+      "website": "https://henryart.org/"
+    },
+    {
+      "name": "Imagine Children's Museum",
+      "address": "1502 Wall St, Everett, WA 98201",
+      "coordinates": {
+        "latitude": 47.9784,
+        "longitude": -122.2011
+      },
+      "phone": "(425) 258-1006",
+      "website": "https://imaginecm.org/"
+    },
+    {
+      "name": "JCHS Museum of Art + History",
+      "address": "540 Water St, Port Townsend, WA 98368",
+      "coordinates": {
+        "latitude": 48.1179,
+        "longitude": -122.7545
+      },
+      "phone": "(360) 385-1003",
+      "website": "https://jchsmuseum.org/"
+    },
+    {
+      "name": "Kids Discovery Museum",
+      "address": "301 W 1st St, Bainbridge Island, WA 98110",
+      "coordinates": {
+        "latitude": 47.6240,
+        "longitude": -122.5147
+      },
+      "phone": "(206) 855-4650",
+      "website": "https://www.kiddiscoverymuseum.org/"
+    },
+    {
+      "name": "LeMay - America's Car Museum",
+      "address": "2702 East D St, Tacoma, WA 98421",
+      "coordinates": {
+        "latitude": 47.2430,
+        "longitude": -122.4333
+      },
+      "phone": "(253) 472-2490",
+      "website": "https://www.lemaymuseum.org/"
+    },
+    {
+      "name": "Maryhill Museum of Art",
+      "address": "35 Maryhill Museum Dr, Goldendale, WA 98620",
+      "coordinates": {
+        "latitude": 45.6512,
+        "longitude": -120.7070
+      },
+      "phone": "(509) 773-3733",
+      "website": "https://www.maryhillmuseum.org/"
+    },
+    {
+      "name": "Moses Lake Museum & Art Center",
+      "address": "401 S Balsam St, Moses Lake, WA 98837",
+      "coordinates": {
+        "latitude": 47.1439,
+        "longitude": -119.2595
+      },
+      "phone": "(509) 764-3830",
+      "website": "http://www.mlchamber.com/museum.html"
+    },
+    {
+      "name": "Museum of Glass",
+      "address": "1801 Dock St, Tacoma, WA 98402",
+      "coordinates": {
+        "latitude": 47.2238,
+        "longitude": -122.4420
+      },
+      "phone": "(253) 284-4750",
+      "website": "https://museumofglass.org/"
+    },
+    {
+      "name": "Museum of History and Industry (MOHAI)",
+      "address": "860 Terry Ave N, Seattle, WA 98109",
+      "coordinates": {
+        "latitude": 47.6205,
+        "longitude": -122.3444
+      },
+      "phone": "(206) 324-1126",
+      "website": "https://mohai.org/"
+    },
+    {
+      "name": "Museum of Pop Culture",
+      "address": "325 5th Ave N, Seattle, WA 98109",
+      "coordinates": {
+        "latitude": 47.6213,
+        "longitude": -122.3470
+      },
+      "phone": "(206) 770-2700",
+      "website": "https://www.mopop.org/"
+    },
+    {
+      "name": "National Nordic Museum",
+      "address": "2655 NW Market St, Seattle, WA 98107",
+      "coordinates": {
+        "latitude": 47.6675,
+        "longitude": -122.3900
+      },
+      "phone": "(206) 789-5707",
+      "website": "https://nordicmuseum.org/"
+    },
+    {
+      "name": "Northwest Railway Museum",
+      "address": "38625 SE King St, Snoqualmie, WA 98065",
+      "coordinates": {
+        "latitude": 47.5283,
+        "longitude": -121.8408
+      },
+      "phone": "(425) 888-3030",
+      "website": "http://www.nwrailwaymuseum.org/"
+    },
+    {
+      "name": "Palouse Discovery Science Center",
+      "address": "950 NE Nelson Ct, Pullman, WA 99163",
+      "coordinates": {
+        "latitude": 46.7267,
+        "longitude": -117.1684
+      },
+      "phone": "(509) 332-6869",
+      "website": "http://www.palousediscoverysciencecenter.org/"
+    },
+    {
+      "name": "REACH Museum",
+      "address": "1943 Columbia Park Trail, Richland, WA 99352",
+      "coordinates": {
+        "latitude": 46.2414,
+        "longitude": -119.1371
+      },
+      "phone": "(509) 943-4100",
+      "website": "http://www.reachmuseum.org/"
+    },
+    {
+      "name": "Seattle Art Museum",
+      "address": "1300 1st Ave, Seattle, WA 98101",
+      "coordinates": {
+        "latitude": 47.6087,
+        "longitude": -122.3380
+      },
+      "phone": "(206) 654-3100",
+      "website": "https://www.seattleartmuseum.org/"
+    },
+    {
+      "name": "Seattle Children's Museum",
+      "address": "305 Harrison St, Seattle, WA 98109",
+      "coordinates": {
+        "latitude": 47.6179,
+        "longitude": -122.3537
+      },
+      "phone": "(206) 441-4500",
+      "website": "https://www.thechildrensmuseum.org/"
+    },
+    {
+      "name": "Tacoma Historical Society",
+      "address": "919 Pacific Ave #306, Tacoma, WA 98402",
+      "coordinates": {
+        "latitude": 47.2534,
+        "longitude": -122.4380
+      },
+      "phone": "(253) 472-3511",
+      "website": "https://tacomahistory.org/"
+    },
+    {
+      "name": "The Center for Wooden Boats",
+      "address": "1010 Valley St, Seattle, WA 98109",
+      "coordinates": {
+        "latitude": 47.6315,
+        "longitude": -122.3573
+      },
+      "phone": "(206) 382-2628",
+      "website": "https://cwb.org/"
+    },
+    {
+      "name": "The Museum of Flight",
+      "address": "9404 E Marginal Way S, Seattle, WA 98108",
+      "coordinates": {
+        "latitude": 47.5112,
+        "longitude": -122.2952
+      },
+      "phone": "(206) 764-5700",
+      "website": "https://www.museumofflight.org/"
+    },
+    {
+      "name": "Washington State History Museum",
+      "address": "1911 Pacific Ave, Tacoma, WA 98402",
+      "coordinates": {
+        "latitude": 47.2472,
+        "longitude": -122.4321
+      },
+      "phone": "(253) 272-3500",
+      "website": "https://www.washingtonhistory.org/"
+    },
+    {
+      "name": "Wing Luke Museum of the Asian Pacific American Experience",
+      "address": "719 S King St, Seattle, WA 98104",
+      "coordinates": {
+        "latitude": 47.5980,
+        "longitude": -122.3206
+      },
+      "phone": "(206) 623-5124",
+      "website": "https://winglukemuseum.org/"
+    }
+  ]
+}

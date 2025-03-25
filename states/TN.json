@@ -1,0 +1,154 @@
+{
+  "institutions": [
+    {
+      "name": "Abraham Lincoln Library and Museum",
+      "address": "696 Adams St, Harrogate, TN 37752",
+      "coordinates": {
+        "latitude": 36.6050,
+        "longitude": -83.6760
+      },
+      "phone": "(423) 869-6235",
+      "website": "http://www.lmunet.edu/alibrary/index.shtml"
+    },
+    {
+      "name": "Adventure Science Center",
+      "address": "800 Fort Negley Blvd, Nashville, TN 37203",
+      "coordinates": {
+        "latitude": 36.1587,
+        "longitude": -86.7857
+      },
+      "phone": "(615) 862-5160",
+      "website": "https://www.adventuresci.com/"
+    },
+    {
+      "name": "aMuse’um, Columbia Children’s Museum",
+      "address": "117 Tulip Tree Dr, Columbia, TN 38401",
+      "coordinates": {
+        "latitude": 35.6156,
+        "longitude": -87.0426
+      },
+      "phone": "(931) 223-7006",
+      "website": "http://www.columbiamuseum.com/"
+    },
+    {
+      "name": "Cheekwood Estate & Gardens",
+      "address": "1200 Forrest Park Dr, Nashville, TN 37205",
+      "coordinates": {
+        "latitude": 36.1071,
+        "longitude": -86.8998
+      },
+      "phone": "(615) 356-8000",
+      "website": "https://cheekwood.org/"
+    },
+    {
+      "name": "Children's Museum of Oak Ridge",
+      "address": "461 W Broadway Ave, Oak Ridge, TN 37830",
+      "coordinates": {
+        "latitude": 36.0122,
+        "longitude": -84.2781
+      },
+      "phone": "(865) 482-1074",
+      "website": "http://www.childrenmuseumofoakridge.org/"
+    },
+    {
+      "name": "Creative Discovery Museum",
+      "address": "321 Chestnut St, Chattanooga, TN 37402",
+      "coordinates": {
+        "latitude": 35.0492,
+        "longitude": -85.3081
+      },
+      "phone": "(423) 648-6050",
+      "website": "https://www.cdmfun.org/"
+    },
+    {
+      "name": "Customs House Museum & Cultural Center",
+      "address": "200 S 2nd St, Clarksville, TN 37040",
+      "coordinates": {
+        "latitude": 36.5250,
+        "longitude": -87.3597
+      },
+      "phone": "(931) 648-5780",
+      "website": "https://www.customshousemuseum.org/"
+    },
+    {
+      "name": "Discovery Center at Murfree Spring",
+      "address": "502 SE Broad St, Murfreesboro, TN 37130",
+      "coordinates": {
+        "latitude": 35.8432,
+        "longitude": -86.4079
+      },
+      "phone": "(615) 890-2300",
+      "website": "https://www.discoverycentertn.org/"
+    },
+    {
+      "name": "Discovery Park of America",
+      "address": "830 Everett Blvd, Union City, TN 38261",
+      "coordinates": {
+        "latitude": 36.4224,
+        "longitude": -88.5737
+      },
+      "phone": "(731) 885-5455",
+      "website": "https://www.discoveryparkofamerica.com/"
+    },
+    {
+      "name": "Frist Art Museum",
+      "address": "919 Broadway, Nashville, TN 37203",
+      "coordinates": {
+        "latitude": 36.1585,
+        "longitude": -86.7843
+      },
+      "phone": "(615) 244-3340",
+      "website": "https://fristartmuseum.org/"
+    },
+    {
+      "name": "Hunter Museum of American Art",
+      "address": "10 Bluff View, Chattanooga, TN 37403",
+      "coordinates": {
+        "latitude": 35.0518,
+        "longitude": -85.3086
+      },
+      "phone": "(423) 267-0968",
+      "website": "https://huntermuseum.org/"
+    },
+    {
+      "name": "Museum of East Tennessee History",
+      "address": "601 S Gay St, Knoxville, TN 37901",
+      "coordinates": {
+        "latitude": 35.9580,
+        "longitude": -83.9183
+      },
+      "phone": "(865) 215-8824",
+      "website": "https://easttnhistory.org/"
+    },
+    {
+      "name": "Tennessee Aquarium",
+      "address": "1 Broad St, Chattanooga, TN 37402",
+      "coordinates": {
+        "latitude": 35.0526,
+        "longitude": -85.3085
+      },
+      "phone": "(800) 262-0695",
+      "website": "https://tnaqua.org/"
+    },
+    {
+      "name": "The Blues Foundation's Blues Hall of Fame Museum",
+      "address": "421 S Main St, Memphis, TN 38103",
+      "coordinates": {
+        "latitude": 35.1433,
+        "longitude": -90.0551
+      },
+      "phone": "(901) 527-2583",
+      "website": "https://blues.org/hall-of-fame/"
+    },
+    {
+      "name": "The Parthenon",
+      "address": "2500 West End Ave, Nashville, TN 37203",
+      "coordinates": {
+        "latitude": 36.1495,
+        "longitude": -86.8050
+      },
+      "phone": "(615) 862-8431",
+      "website": "https://www.nashville.gov/departments/parthenon"
+    }
+  ]
+}

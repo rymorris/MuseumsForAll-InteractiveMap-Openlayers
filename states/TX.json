@@ -1,0 +1,704 @@
+{
+  "institutions": [
+    {
+      "name": "1940 Air Terminal Museum",
+      "address": "8308, 8325 S Main St, Houston, TX 77061",
+      "coordinates": {
+        "latitude": 29.6618,
+        "longitude": -95.2747
+      },
+      "phone": "(713) 454-1940",
+      "website": "http://www.1940airterminal.org/"
+    },
+    {
+      "name": "Ace of Clubs House",
+      "address": "420 Pine St, Texarkana, TX 75501",
+      "coordinates": {
+        "latitude": 33.4263,
+        "longitude": -94.0373
+      },
+      "phone": "(903) 794-3839",
+      "website": "https://aceofclubs.org/"
+    },
+    {
+      "name": "Art Museum of South Texas",
+      "address": "1902 N Shoreline Blvd, Corpus Christi, TX 78401",
+      "coordinates": {
+        "latitude": 27.7959,
+        "longitude": -97.3962
+      },
+      "phone": "(361) 825-3500",
+      "website": "http://www.artmuseumofsouthtexas.org/"
+    },
+    {
+      "name": "Beaumont Children's Museum",
+      "address": "701 Main St, Beaumont, TX 77701",
+      "coordinates": {
+        "latitude": 30.0804,
+        "longitude": -94.1016
+      },
+      "phone": "(409) 832-3432",
+      "website": "https://www.beaumontchildrensmuseum.org/"
+    },
+    {
+      "name": "Blue Star Contemporary",
+      "address": "116 Blue Star, San Antonio, TX 78204",
+      "coordinates": {
+        "latitude": 29.4096,
+        "longitude": -98.5087
+      },
+      "phone": "(210) 227-6960",
+      "website": "https://bluestarart.org/"
+    },
+    {
+      "name": "Briscoe Western Art Museum",
+      "address": "210 W Market St, San Antonio, TX 78205",
+      "coordinates": {
+        "latitude": 29.4234,
+        "longitude": -98.4877
+      },
+      "phone": "(210) 299-4499",
+      "website": "https://www.briscoemuseum.org/"
+    },
+    {
+      "name": "Bullock Texas State History Museum",
+      "address": "1800 N Congress Ave, Austin, TX 78701",
+      "coordinates": {
+        "latitude": 30.2831,
+        "longitude": -97.7385
+      },
+      "phone": "(512) 936-8746",
+      "website": "https://www.thestoryoftexas.com/"
+    },
+    {
+      "name": "Chambers House Museum",
+      "address": "2240 Beverly Ave, Beaumont, TX 77706",
+      "coordinates": {
+        "latitude": 30.0733,
+        "longitude": -94.1414
+      },
+      "phone": "(409) 832-4010",
+      "website": "https://www.beaumont.com/chambers-house-museum/"
+    },
+    {
+      "name": "Chappell Hill Historical Society Museum",
+      "address": "9126 Main St, Chappell Hill, TX 77426",
+      "coordinates": {
+        "latitude": 30.1187,
+        "longitude": -96.2616
+      },
+      "phone": "(979) 836-6033",
+      "website": "https://chappellhillmuseum.org/"
+    },
+    {
+      "name": "Children's Museum Houston",
+      "address": "1500 Binz St, Houston, TX 77004",
+      "coordinates": {
+        "latitude": 29.7210,
+        "longitude": -95.3943
+      },
+      "phone": "(713) 522-1138",
+      "website": "https://www.cmhouston.org/"
+    },
+    {
+      "name": "Corpus Christi Museum of Science and History",
+      "address": "1900 N Shoreline Blvd, Corpus Christi, TX 78401",
+      "coordinates": {
+        "latitude": 27.7940,
+        "longitude": -97.3911
+      },
+      "phone": "(361) 826-4667",
+      "website": "http://www.ccmuseum.com/"
+    },
+    {
+      "name": "Dallas Arboretum and Botanical Garden",
+      "address": "8525 Garland Rd, Dallas, TX 75218",
+      "coordinates": {
+        "latitude": 32.8268,
+        "longitude": -96.6938
+      },
+      "phone": "(214) 515-6615",
+      "website": "https://www.dallasarboretum.org/"
+    },
+    {
+      "name": "Dallas Holocaust and Human Rights Museum",
+      "address": "211 N Record St, Dallas, TX 75202",
+      "coordinates": {
+        "latitude": 32.7781,
+        "longitude": -96.8060
+      },
+      "phone": "(214) 944-0051",
+      "website": "https://www.dhhrm.org/"
+    },
+    {
+      "name": "De Leon Area Historical Museum",
+      "address": "112 W Texas Ave, De Leon, TX 76444",
+      "coordinates": {
+        "latitude": 32.1040,
+        "longitude": -98.3259
+      },
+      "phone": "(254) 893-2013",
+      "website": "http://www.deleon.chambermaster.com/"
+    },
+    {
+      "name": "Discovery Science Place",
+      "address": "Texas 3150 N Large St, Tyler, TX 75702",
+      "coordinates": {
+        "latitude": 32.3516,
+        "longitude": -95.2962
+      },
+      "phone": "(903) 533-8011",
+      "website": "http://www.discoveryscienceplace.org/"
+    },
+    {
+      "name": "Don Harrington Discovery Center",
+      "address": "1200 Streit Dr, Amarillo, TX 79106",
+      "coordinates": {
+        "latitude": 35.2279,
+        "longitude": -101.9110
+      },
+      "phone": "(806) 355-9547",
+      "website": "https://www.dhdc.org/"
+    },
+    {
+      "name": "El Campo Museum of Natural History",
+      "address": "311 E Jackson St, El Campo, TX 77437",
+      "coordinates": {
+        "latitude": 29.1926,
+        "longitude": -96.2037
+      },
+      "phone": "(979) 543-3869",
+      "website": "http://www.elcampomuseum.org/"
+    },
+    {
+      "name": "El Paso Museum of Archaeology",
+      "address": "4301 Transmountain Rd, El Paso, TX 79924",
+      "coordinates": {
+        "latitude": 31.8905,
+        "longitude": -106.4936
+      },
+      "phone": "(915) 755-4332",
+      "website": "https://elpasotexas.gov/museum-of-archaeology"
+    },
+    {
+      "name": "El Paso Museum of Art",
+      "address": "1 Arts Festival Plaza, El Paso, TX 79901",
+      "coordinates": {
+        "latitude": 31.7612,
+        "longitude": -106.4850
+      },
+      "phone": "(915) 532-1709",
+      "website": "https://www.epma.art/"
+    },
+    {
+      "name": "El Paso Museum of History",
+      "address": "510 N Santa Fe St, El Paso, TX 79901",
+      "coordinates": {
+        "latitude": 31.7612,
+        "longitude": -106.4860
+      },
+      "phone": "(915) 212-3160",
+      "website": "https://elpasotexas.gov/museum-of-history"
+    },
+    {
+      "name": "FiberMax Center for Discovery",
+      "address": "3313 FM 1294, Lubbock, TX 79403",
+      "coordinates": {
+        "latitude": 33.6390,
+        "longitude": -101.7092
+      },
+      "phone": "(806) 775-2004",
+      "website": "http://www.fibermaxcenter.com/"
+    },
+    {
+      "name": "Fort Worth Aviation Museum",
+      "address": "3300 Ross Ave, Fort Worth, TX 76106",
+      "coordinates": {
+        "latitude": 32.4131,
+        "longitude": -97.3123
+      },
+      "phone": "(817) 759-4000",
+      "website": "http://fortworthaviationmuseum.org/"
+    },
+    {
+      "name": "Fort Worth Botanic Garden",
+      "address": "3220 Botanic Garden Blvd, Fort Worth, TX 76107",
+      "coordinates": {
+        "latitude": 32.7474,
+        "longitude": -97.3682
+      },
+      "phone": "(817) 392-5510",
+      "website": "https://fwbg.org/"
+    },
+    {
+      "name": "Fort Worth Museum of Science and History",
+      "address": "1600 Gendy St, Fort Worth, TX 76107",
+      "coordinates": {
+        "latitude": 32.7460,
+        "longitude": -97.3670
+      },
+      "phone": "(817) 255-9300",
+      "website": "https://www.fwmuseum.org/"
+    },
+    {
+      "name": "Freeport Historical Museum",
+      "address": "400 E 2nd St, Freeport, TX 77541",
+      "coordinates": {
+        "latitude": 28.9493,
+        "longitude": -95.3582
+      },
+      "phone": "(979) 233-0066",
+      "website": "http://www.freeporthistoricalmuseum.com/"
+    },
+    {
+      "name": "Galveston Children's Museum",
+      "address": "2618 Ball St, Galveston, TX 77550",
+      "coordinates": {
+        "latitude": 29.2957,
+        "longitude": -94.7975
+      },
+      "phone": "(409) 766-8000",
+      "website": "https://www.galvestoncm.org/"
+    },
+    {
+      "name": "Gregg County Historical Museum",
+      "address": "214 N Green St, Longview, TX 75601",
+      "coordinates": {
+        "latitude": 32.5007,
+        "longitude": -94.7404
+      },
+      "phone": "(903) 753-5840",
+      "website": "http://www.gregghistory.com/"
+    },
+    {
+      "name": "Heard-Craig Center for the Arts",
+      "address": "205 W Hunt St, McKinney, TX 75069",
+      "coordinates": {
+        "latitude": 33.1976,
+        "longitude": -96.6153
+      },
+      "phone": "(972) 569-1460",
+      "website": "http://www.heardcraig.org/"
+    },
+    {
+      "name": "Houston Botanic Garden",
+      "address": "1200 Kasasee St, Houston, TX 77015",
+      "coordinates": {
+        "latitude": 29.7316,
+        "longitude": -95.3684
+      },
+      "phone": "(713) 199-2334",
+      "website": "https://hbg.org/"
+    },
+    {
+      "name": "Houston Maritime Education Center and Museum",
+      "address": "20 Galleria Ct, Houston, TX 77056",
+      "coordinates": {
+        "latitude": 29.7351,
+        "longitude": -95.4507
+      },
+      "phone": "(281) 355-4105",
+      "website": "https://www.houstonmaritime.org/"
+    },
+    {
+      "name": "Houston Toy Museum",
+      "address": "2228 Fm 2769, Houston, TX 77015",
+      "coordinates": {
+        "latitude": 29.7589,
+        "longitude": -95.3470
+      },
+      "phone": "(281) 672-2106",
+      "website": "https://www.houstontoymuseum.com/"
+    },
+    {
+      "name": "International Museum of Art & Science",
+      "address": "1900 N 1st St, McAllen, TX 78501",
+      "coordinates": {
+        "latitude": 26.2049,
+        "longitude": -98.2399
+      },
+      "phone": "(956) 681-2800",
+      "website": "http://www.imasonline.org/"
+    },
+    {
+      "name": "Irving Archives & Museum",
+      "address": "801 W Irving Blvd, Irving, TX 75060",
+      "coordinates": {
+        "latitude": 32.8325,
+        "longitude": -96.9815
+      },
+      "phone": "(972) 721-2606",
+      "website": "https://www.cityofirving.org/archives"
+    },
+    {
+      "name": "John Jay French House",
+      "address": "3020 E Beaumont St, Beaumont, TX 77703",
+      "coordinates": {
+        "latitude": 30.0862,
+        "longitude": -94.1016
+      },
+      "phone": "(409) 832-4010",
+      "website": "https://beaumont.com/john-jay-french-house/"
+    },
+    {
+      "name": "Kimbell Art Museum",
+      "address": "3333 Camp Bowie Blvd, Fort Worth, TX 76107",
+      "coordinates": {
+        "latitude": 32.7468,
+        "longitude": -97.3580
+      },
+      "phone": "(817) 332-8451",
+      "website": "https://www.kimbellart.org/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center",
+      "address": "4801 La Crosse Ave, Austin, TX 78739",
+      "coordinates": {
+        "latitude": 30.2415,
+        "longitude": -97.8673
+      },
+      "phone": "(512) 232-0100",
+      "website": "https://wildflower.org/"
+    },
+    {
+      "name": "LBJ Library and Museum",
+      "address": "2313 Red River St, Austin, TX 78705",
+      "coordinates": {
+        "latitude": 30.2855,
+        "longitude": -97.7273
+      },
+      "phone": "(512) 721-0200",
+      "website": "https://www.lbjlibrary.org/"
+    },
+    {
+      "name": "Log Cabin Village",
+      "address": "2100 Log Cabin Village Ln, Fort Worth, TX 76109",
+      "coordinates": {
+        "latitude": 32.7250,
+        "longitude": -97.3534
+      },
+      "phone": "(817) 392-5881",
+      "website": "https://www.logcabinvillage.org/"
+    },
+    {
+      "name": "Longview Museum of Fine Arts",
+      "address": "215 E Tyler St, Longview, TX 75601",
+      "coordinates": {
+        "latitude": 32.5001,
+        "longitude": -94.7409
+      },
+      "phone": "(903) 753-8103",
+      "website": "http://www.longviewmuseumofart.org/"
+    },
+    {
+      "name": "Longview World of Wonders",
+      "address": "112 E Tyler St, Longview, TX 75601",
+      "coordinates": {
+        "latitude": 32.5001,
+        "longitude": -94.7409
+      },
+      "phone": "(903) 757-5390",
+      "website": "https://www.lwow.org/"
+    },
+    {
+      "name": "Mayborn Museum Complex",
+      "address": "1300 S University Parks Dr, Waco, TX 76706",
+      "coordinates": {
+        "latitude": 31.5469,
+        "longitude": -97.1305
+      },
+      "phone": "(254) 710-1110",
+      "website": "https://maybornmuseum.com/"
+    },
+    {
+      "name": "McNay Art Museum",
+      "address": "6000 N New Braunfels Ave, San Antonio, TX 78209",
+      "coordinates": {
+        "latitude": 29.4667,
+        "longitude": -98.4663
+      },
+      "phone": "(210) 824-5368",
+      "website": "https://www.mcnayart.org/"
+    },
+    {
+      "name": "Michelson Museum of Art",
+      "address": "1200 W Tyler St, Marshall, TX 75670",
+      "coordinates": {
+        "latitude": 32.5483,
+        "longitude": -94.3646
+      },
+      "phone": "(903) 935-7881",
+      "website": "http://www.michelsonmuseum.org/"
+    },
+    {
+      "name": "Museum of Regional History",
+      "address": "219 N State Line Ave, Texarkana, TX 75501",
+      "coordinates": {
+        "latitude": 33.4338,
+        "longitude": -94.0365
+      },
+      "phone": "(903) 793-4831",
+      "website": "http://www.museumofregionalhistory.com/"
+    },
+    {
+      "name": "Nasher Sculpture Center",
+      "address": "2001 Flora St, Dallas, TX 75201",
+      "coordinates": {
+        "latitude": 32.7946,
+        "longitude": -96.8032
+      },
+      "phone": "(214) 242-5100",
+      "website": "https://www.nashersculpturecenter.org/"
+    },
+    {
+      "name": "National Cowgirl Museum and Hall of Fame",
+      "address": "1720 Gendy St, Fort Worth, TX 76107",
+      "coordinates": {
+        "latitude": 32.7547,
+        "longitude": -97.3561
+      },
+      "phone": "(817) 336-4475",
+      "website": "https://www.cowgirl.net/"
+    },
+    {
+      "name": "National Museum of the Pacific War",
+      "address": "3400 Pecan St, Fredericksburg, TX 78624",
+      "coordinates": {
+        "latitude": 30.2745,
+        "longitude": -98.8771
+      },
+      "phone": "(830) 997-8600",
+      "website": "https://www.pacificwarmuseum.org/"
+    },
+    {
+      "name": "Panhandle-Plains Historical Museum",
+      "address": "2503 4th Ave, Canyon, TX 79015",
+      "coordinates": {
+        "latitude": 34.9833,
+        "longitude": -101.9320
+      },
+      "phone": "(806) 651-2244",
+      "website": "http://www.panhandleplains.org/"
+    },
+    {
+      "name": "Pioneer Museum",
+      "address": "331 Osecup St, Fredericksburg, TX 78624",
+      "coordinates": {
+        "latitude": 30.2784,
+        "longitude": -98.8701
+      },
+      "phone": "(830) 997-2835",
+      "website": "https://www.pioneermuseum.com/"
+    },
+    {
+      "name": "San Angelo Museum of Fine Arts",
+      "address": "1 Love St, San Angelo, TX 76903",
+      "coordinates": {
+        "latitude": 31.4636,
+        "longitude": -100.4373
+      },
+      "phone": "(325) 653-3333",
+      "website": "https://www.samfa.org/"
+    },
+    {
+      "name": "San Antonio Botanical Garden",
+      "address": "555 Funston Pl, San Antonio, TX 78209",
+      "coordinates": {
+        "latitude": 29.4713,
+        "longitude": -98.4680
+      },
+      "phone": "(210) 536-1400",
+      "website": "https://www.sabot.org/"
+    },
+    {
+      "name": "San Antonio Museum of Art",
+      "address": "200 W Jones Ave, San Antonio, TX 78215",
+      "coordinates": {
+        "latitude": 29.4269,
+        "longitude": -98.4904
+      },
+      "phone": "(210) 978-8100",
+      "website": "https://www.samuseum.org/"
+    },
+    {
+      "name": "Schulenburg Historical Museum",
+      "address": "1000 N Main St, Schulenburg, TX 78956",
+      "coordinates": {
+        "latitude": 29.5476,
+        "longitude": -96.9307
+      },
+      "phone": "(979) 743-2078",
+      "website": "http://schulenburghistoricalmuseum.org/"
+    },
+    {
+      "name": "Sci-Tech Discovery Center",
+      "address": "8004 N Dallas Pkwy, Frisco, TX 75034",
+      "coordinates": {
+        "latitude": 33.1373,
+        "longitude": -96.8113
+      },
+      "phone": "(972) 668-0000",
+      "website": "http://www.sci-techdiscovery.com/"
+    },
+    {
+      "name": "Science Spectrum & OMNI Theater",
+      "address": "2579 S Loop 289, Lubbock, TX 79423",
+      "coordinates": {
+        "latitude": 33.5539,
+        "longitude": -101.8692
+      },
+      "phone": "(806) 745-2525",
+      "website": "https://www.sciencespectrum.org/"
+    },
+    {
+      "name": "Stanzel Model Aircraft Museum",
+      "address": "101 E Main St, Schulenburg, TX 78956",
+      "coordinates": {
+        "latitude": 29.5476,
+        "longitude": -96.9306
+      },
+      "phone": "(979) 743-2300",
+      "website": "http://www.stanzelmodelaircraftmuseum.com/"
+    },
+    {
+      "name": "Texas Science & Natural History Museum",
+      "address": "5701 Nescopeck Ct, Austin, TX 78749",
+      "coordinates": {
+        "latitude": 30.2240,
+        "longitude": -97.8752
+      },
+      "phone": "(512) 448-2394",
+      "website": "http://www.tsnmh.org/"
+    },
+    {
+      "name": "The Bryan Museum",
+      "address": "1315 21st St, Galveston, TX 77550",
+      "coordinates": {
+        "latitude": 29.3095,
+        "longitude": -94.7922
+      },
+      "phone": "(409) 632-7685",
+      "website": "http://www.thebryanmuseum.com/"
+    },
+    {
+      "name": "The Children's Museum of the Brazos Valley",
+      "address": "4001 E 29th St, Bryan, TX 77802",
+      "coordinates": {
+        "latitude": 30.6224,
+        "longitude": -96.3056
+      },
+      "phone": "(979) 779-5437",
+      "website": "http://www.cmbv.org/"
+    },
+    {
+      "name": "The Contemporary Austin - Jones Center",
+      "address": "700 W 2nd St, Austin, TX 78701",
+      "coordinates": {
+        "latitude": 30.2679,
+        "longitude": -97.7431
+      },
+      "phone": "(512) 453-5312",
+      "website": "https://thecontemporaryaustin.org/jones-center/"
+    },
+    {
+      "name": "The Contemporary Austin - Laguna Gloria",
+      "address": "3809 W 35th St, Austin, TX 78703",
+      "coordinates": {
+        "latitude": 30.3055,
+        "longitude": -97.7685
+      },
+      "phone": "(512) 453-5312",
+      "website": "https://thecontemporaryaustin.org/laguna-gloria/"
+    },
+    {
+      "name": "The DoSeum",
+      "address": "2800 Broadway St, San Antonio, TX 78209",
+      "coordinates": {
+        "latitude": 29.4696,
+        "longitude": -98.4602
+      },
+      "phone": "(210) 212-4453",
+      "website": "https://www.thedoseum.org/"
+    },
+    {
+      "name": "The Forgotten Dollhouse Museum",
+      "address": "17497 Bulverde Rd, San Antonio, TX 78259",
+      "coordinates": {
+        "latitude": 29.6133,
+        "longitude": -98.4228
+      },
+      "phone": "(210) 850-8488",
+      "website": "http://www.forgottendollhousemuseum.com/"
+    },
+    {
+      "name": "The Health Museum",
+      "address": "1515 Hermann Dr, Houston, TX 77004",
+      "coordinates": {
+        "latitude": 29.7255,
+        "longitude": -95.3982
+      },
+      "phone": "(713) 521-1515",
+      "website": "https://www.thehealthmuseum.org/"
+    },
+    {
+      "name": "The Printing Museum",
+      "address": "1324 W Clay St, Houston, TX 77019",
+      "coordinates": {
+        "latitude": 29.7530,
+        "longitude": -95.3905
+      },
+      "phone": "(713) 522-4652",
+      "website": "http://www.printingmuseum.org/"
+    },
+    {
+      "name": "The Witte Museum",
+      "address": "3801 Broadway St, San Antonio, TX 78209",
+      "coordinates": {
+        "latitude": 29.4604,
+        "longitude": -98.4710
+      },
+      "phone": "(210) 357-1900",
+      "website": "https://www.wittemuseum.org/"
+    },
+    {
+      "name": "Thinkery",
+      "address": "1830 Simond Ave, Austin, TX 78723",
+      "coordinates": {
+        "latitude": 30.2864,
+        "longitude": -97.7074
+      },
+      "phone": "(512) 469-6200",
+      "website": "https://thinkeryaustin.org/"
+    },
+    {
+      "name": "Tyler Museum of Art",
+      "address": "1300 S Mahon Ave, Tyler, TX 75701",
+      "coordinates": {
+        "latitude": 32.3518,
+        "longitude": -95.2978
+      },
+      "phone": "(903) 595-1001",
+      "website": "https://www.tylermuseum.org/"
+    },
+    {
+      "name": "Whitehead Memorial Museum",
+      "address": "1308 A Main St, Del Rio, TX 78840",
+      "coordinates": {
+        "latitude": 29.3631,
+        "longitude": -100.8961
+      },
+      "phone": "(830) 775-3324",
+      "website": "http://www.whitememorialmuseum.org/"
+    },
+    {
+      "name": "Woodlands Children's Museum",
+      "address": "4775 W Panther Creek Dr, The Woodlands, TX 77381",
+      "coordinates": {
+        "latitude": 30.1761,
+        "longitude": -95.4942
+      },
+      "phone": "(281) 465-0955",
+      "website": "http://www.woodlandschildrensmuseum.org/"
+    }
+  ]
+}

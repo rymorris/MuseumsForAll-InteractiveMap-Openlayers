@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Atlanta Contemporary",
+    "address": "535 Means St NW, Atlanta, GA 30318",
+    "coordinates": {
+      "latitude": 33.7765,
+      "longitude": -84.3963
+    },
+    "phone": "(404) 688-1970",
+    "website": "https://www.atlantacontemporary.org"
+  },
+  {
+    "name": "Chehaw Park & Zoo",
+    "address": "105 Chehaw Park Rd, Albany, GA 31701",
+    "coordinates": {
+      "latitude": 31.5944,
+      "longitude": -84.1467
+    },
+    "phone": "(229) 430-5275",
+    "website": "https://www.chehaw.org"
+  },
+  {
+    "name": "Children's Museum of Atlanta",
+    "address": "275 Centennial Olympic Park Dr NW, Atlanta, GA 30313",
+    "coordinates": {
+      "latitude": 33.7609,
+      "longitude": -84.3936
+    },
+    "phone": "(404) 659-5437",
+    "website": "https://www.childrensmuseumatlanta.org"
+  },
+  {
+    "name": "ChildrenConnect Museum",
+    "address": "30 Temple Ave, Newnan, GA 30263",
+    "coordinates": {
+      "latitude": 33.3765,
+      "longitude": -84.7996
+    },
+    "phone": "(770) 683-7444",
+    "website": "https://www.childrenconnectmuseum.org"
+  },
+  {
+    "name": "Columbus Botanical Garden",
+    "address": "3603 Weems Rd, Columbus, GA 31909",
+    "coordinates": {
+      "latitude": 32.5412,
+      "longitude": -84.9334
+    },
+    "phone": "(706) 327-8400",
+    "website": "https://www.columbusbotanicalgarden.org"
+  },
+  {
+    "name": "David J. Sencer CDC Museum",
+    "address": "1600 Clifton Rd NE, Atlanta, GA 30329",
+    "coordinates": {
+      "latitude": 33.7998,
+      "longitude": -84.3276
+    },
+    "phone": "(404) 639-0830",
+    "website": "https://www.cdc.gov/museum"
+  },
+  {
+    "name": "Flint RiverQuarium",
+    "address": "101 Pine Ave, Albany, GA 31701",
+    "coordinates": {
+      "latitude": 31.5806,
+      "longitude": -84.1556
+    },
+    "phone": "(229) 639-2650",
+    "website": "https://www.flintriverquarium.com"
+  },
+  {
+    "name": "Georgia Museum of Art",
+    "address": "90 Carlton St, Athens, GA 30602",
+    "coordinates": {
+      "latitude": 33.9404,
+      "longitude": -83.3746
+    },
+    "phone": "(706) 542-4662",
+    "website": "https://georgiamuseum.org"
+  },
+  {
+    "name": "Georgia State Railroad Museum",
+    "address": "655 Louisville Rd, Savannah, GA 31401",
+    "coordinates": {
+      "latitude": 32.0764,
+      "longitude": -81.0997
+    },
+    "phone": "(912) 651-6823",
+    "website": "https://www.chsgeorgia.org"
+  },
+  {
+    "name": "Historic Oakland Foundation",
+    "address": "248 Oakland Ave SE, Atlanta, GA 30312",
+    "coordinates": {
+      "latitude": 33.7488,
+      "longitude": -84.3737
+    },
+    "phone": "(404) 688-2107",
+    "website": "https://oaklandcemetery.com"
+  },
+  {
+    "name": "Jepson Center - Telfair Museums",
+    "address": "207 W York St, Savannah, GA 31401",
+    "coordinates": {
+      "latitude": 32.0806,
+      "longitude": -81.0958
+    },
+    "phone": "(912) 790-8800",
+    "website": "https://www.telfair.org/visit/jepson-center/"
+  },
+  {
+    "name": "Juliette Gordon Low Birthplace Museum",
+    "address": "10 E Oglethorpe Ave, Savannah, GA 31401",
+    "coordinates": {
+      "latitude": 32.0794,
+      "longitude": -81.0925
+    },
+    "phone": "(912) 233-4501",
+    "website": "https://www.juliettegordonlowbirthplace.org"
+  },
+  {
+    "name": "Lapham-Patterson House",
+    "address": "626 N Dawson St, Thomasville, GA 31792",
+    "coordinates": {
+      "latitude": 30.8436,
+      "longitude": -83.9789
+    },
+    "phone": "(229) 226-7664",
+    "website": "https://www.thomasvillega.com/lapham-patterson-house"
+  },
+  {
+    "name": "Museum of Arts and Sciences",
+    "address": "4182 Forsyth Rd, Macon, GA 31210",
+    "coordinates": {
+      "latitude": 32.8536,
+      "longitude": -83.6631
+    },
+    "phone": "(478) 477-3232",
+    "website": "https://www.masmacon.org"
+  },
+  {
+    "name": "Museum of Design Atlanta",
+    "address": "1315 Peachtree St NE, Atlanta, GA 30309",
+    "coordinates": {
+      "latitude": 33.7904,
+      "longitude": -84.3856
+    },
+    "phone": "(404) 979-6455",
+    "website": "https://www.museumofdesign.org"
+  },
+  {
+    "name": "Old Fort Jackson",
+    "address": "1 Fort Jackson Rd, Savannah, GA 31404",
+    "coordinates": {
+      "latitude": 32.0819,
+      "longitude": -81.0389
+    },
+    "phone": "(912) 232-3945",
+    "website": "https://www.chsgeorgia.org"
+  },
+  {
+    "name": "Owens-Thomas House & Slave Quarters - Telfair Museums",
+    "address": "124 Abercorn St, Savannah, GA 31401",
+    "coordinates": {
+      "latitude": 32.0772,
+      "longitude": -81.0908
+    },
+    "phone": "(912) 790-8800",
+    "website": "https://www.telfair.org/visit/owens-thomas-house/"
+  },
+  {
+    "name": "Pin Point Heritage Museum",
+    "address": "9924 Pin Point Ave, Savannah, GA 31406",
+    "coordinates": {
+      "latitude": 32.0008,
+      "longitude": -81.0933
+    },
+    "phone": "(912) 355-0064",
+    "website": "https://www.chsgeorgia.org/phm"
+  },
+  {
+    "name": "Savannah Children's Museum",
+    "address": "655 Louisville Rd, Savannah, GA 31401",
+    "coordinates": {
+      "latitude": 32.0764,
+      "longitude": -81.0997
+    },
+    "phone": "(912) 651-6823",
+    "website": "https://www.savannahchildrensmuseum.org"
+  },
+  {
+    "name": "Savannah History Museum",
+    "address": "303 Martin Luther King Jr Blvd, Savannah, GA 31401",
+    "coordinates": {
+      "latitude": 32.0781,
+      "longitude": -81.0997
+    },
+    "phone": "(912) 651-6825",
+    "website": "https://www.chsgeorgia.org"
+  },
+  {
+    "name": "Ships of the Sea Maritime Museum",
+    "address": "41 Martin Luther King Jr Blvd, Savannah, GA 31401",
+    "coordinates": {
+      "latitude": 32.0803,
+      "longitude": -81.0958
+    },
+    "phone": "(912) 232-1511",
+    "website": "https://www.shipsofthesea.org"
+  },
+  {
+    "name": "Smith-Gilbert Gardens",
+    "address": "2382 Pine Mountain Rd, Kennesaw, GA 30152",
+    "coordinates": {
+      "latitude": 33.9914,
+      "longitude": -84.6417
+    },
+    "phone": "(770) 919-0248",
+    "website": "https://www.smithgilbertgardens.com"
+  },
+  {
+    "name": "Steffen Thomas Museum of Art",
+    "address": "4200 Bethany Rd, Buckhead, GA 30625",
+    "coordinates": {
+      "latitude": 33.5689,
+      "longitude": -83.3622
+    },
+    "phone": "(706) 342-7557",
+    "website": "https://www.steffenthomas.org"
+  },
+  {
+    "name": "Telfair Academy - Telfair Museums",
+    "address": "121 Barnard St, Savannah, GA 31401",
+    "coordinates": {
+      "latitude": 32.0792,
+      "longitude": -81.0958
+    },
+    "phone": "(912) 790-8800",
+    "website": "https://www.telfair.org/visit/telfair-academy/"
+  },
+  {
+    "name": "The William Breman Jewish Heritage Museum",
+    "address": "1440 Spring St NW, Atlanta, GA 30309",
+    "coordinates": {
+      "latitude": 33.7904,
+      "longitude": -84.3856
+    },
+    "phone": "(678) 222-3700",
+    "website": "https://www.thebreman.org"
+  },
+  {
+    "name": "Thomasville History Center",
+    "address": "725 N Dawson St, Thomasville, GA 31792",
+    "coordinates": {
+      "latitude": 30.8436,
+      "longitude": -83.9789
+    },
+    "phone": "(229) 226-7664",
+    "website": "https://www.thomasvillehistory.org"
+  },
+  {
+    "name": "Thronateeska Heritage Center",
+    "address": "100 W Roosevelt Ave, Albany, GA 31701",
+    "coordinates": {
+      "latitude": 31.5806,
+      "longitude": -84.1556
+    },
+    "phone": "(229) 432-6955",
+    "website": "https://www.heritagecenter.org"
+  }
+]

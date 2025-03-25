@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Adventure! Children's Museum",
+    "address": "5168 Main St, Springfield, OR 97478",
+    "coordinates": {
+      "latitude": 44.0465,
+      "longitude": -123.0228
+    },
+    "phone": "(541) 726-4366",
+    "website": "https://www.adventurechildrensmuseum.org"
+  },
+  {
+    "name": "Architectural Heritage Center",
+    "address": "701 SE Grand Ave, Portland, OR 97214",
+    "coordinates": {
+      "latitude": 45.5189,
+      "longitude": -122.6614
+    },
+    "phone": "(503) 231-7264",
+    "website": "https://www.visitahc.org"
+  },
+  {
+    "name": "Barn Exhibit Hall",
+    "address": "726 E Historic Columbia River Hwy, Troutdale, OR 97060",
+    "coordinates": {
+      "latitude": 45.5402,
+      "longitude": -122.3876
+    },
+    "phone": "(503) 674-3533",
+    "website": "https://www.troutdalehistory.org"
+  },
+  {
+    "name": "Benton County Historical Society",
+    "address": "1101 Main St, Philomath, OR 97370",
+    "coordinates": {
+      "latitude": 44.5402,
+      "longitude": -123.3689
+    },
+    "phone": "(541) 929-6230",
+    "website": "https://www.bentoncountymuseum.org"
+  },
+  {
+    "name": "Cannon Beach History Center & Museum",
+    "address": "1387 S Spruce St, Cannon Beach, OR 97110",
+    "coordinates": {
+      "latitude": 45.8876,
+      "longitude": -123.9618
+    },
+    "phone": "(503) 436-9301",
+    "website": "https://www.cbhistory.org"
+  },
+  {
+    "name": "Cascade Locks Historical Museum",
+    "address": "1 SW Portage Rd, Cascade Locks, OR 97014",
+    "coordinates": {
+      "latitude": 45.6698,
+      "longitude": -121.8904
+    },
+    "phone": "(541) 374-8535",
+    "website": "https://www.cascadelocksmuseum.org"
+  },
+  {
+    "name": "Cascades Raptor Center",
+    "address": "32275 Fox Hollow Rd, Eugene, OR 97405",
+    "coordinates": {
+      "latitude": 44.0102,
+      "longitude": -123.0789
+    },
+    "phone": "(541) 485-1320",
+    "website": "https://www.cascadesraptorcenter.org"
+  },
+  {
+    "name": "Columbia Gorge Discovery Center & Museum",
+    "address": "5000 Discovery Dr, The Dalles, OR 97058",
+    "coordinates": {
+      "latitude": 45.6003,
+      "longitude": -121.1789
+    },
+    "phone": "(541) 296-8600",
+    "website": "https://www.gorgediscovery.org"
+  },
+  {
+    "name": "Columbia River Maritime Museum",
+    "address": "1792 Marine Dr, Astoria, OR 97103",
+    "coordinates": {
+      "latitude": 46.1889,
+      "longitude": -123.8256
+    },
+    "phone": "(503) 325-2323",
+    "website": "https://www.crmm.org"
+  },
+  {
+    "name": "Coos Art Museum",
+    "address": "235 Anderson Ave, Coos Bay, OR 97420",
+    "coordinates": {
+      "latitude": 43.3675,
+      "longitude": -124.2139
+    },
+    "phone": "(541) 267-3901",
+    "website": "https://www.coosart.org"
+  },
+  {
+    "name": "Corvallis Museum - Benton County Historical Society",
+    "address": "411 SW 2nd St, Corvallis, OR 97333",
+    "coordinates": {
+      "latitude": 44.5639,
+      "longitude": -123.2608
+    },
+    "phone": "(541) 929-6230",
+    "website": "https://www.bentoncountymuseum.org"
+  },
+  {
+    "name": "Eugene Science Center",
+    "address": "2300 Leo Harris Pkwy, Eugene, OR 97401",
+    "coordinates": {
+      "latitude": 44.0589,
+      "longitude": -123.0867
+    },
+    "phone": "(541) 682-7888",
+    "website": "https://www.eugenesciencecenter.org"
+  },
+  {
+    "name": "Evergreen Aviation & Space Museum",
+    "address": "500 NE Captain Michael King Smith Way, McMinnville, OR 97128",
+    "coordinates": {
+      "latitude": 45.2042,
+      "longitude": -123.1458
+    },
+    "phone": "(503) 434-4180",
+    "website": "https://www.evergreenmuseum.org"
+  },
+  {
+    "name": "Fort Dalles Museum/Anderson Homestead",
+    "address": "500 W 15th St, The Dalles, OR 97058",
+    "coordinates": {
+      "latitude": 45.6003,
+      "longitude": -121.1789
+    },
+    "phone": "(541) 296-4547",
+    "website": "https://www.fortdallesmuseum.org"
+  },
+  {
+    "name": "Harlow House Museum",
+    "address": "726 E Historic Columbia River Hwy, Troutdale, OR 97060",
+    "coordinates": {
+      "latitude": 45.5402,
+      "longitude": -122.3876
+    },
+    "phone": "(503) 674-3533",
+    "website": "https://www.troutdalehistory.org"
+  },
+  {
+    "name": "High Desert Museum",
+    "address": "59800 S US-97, Bend, OR 97702",
+    "coordinates": {
+      "latitude": 43.9917,
+      "longitude": -121.3578
+    },
+    "phone": "(541) 382-4754",
+    "website": "https://www.highdesertmuseum.org"
+  },
+  {
+    "name": "Japanese American Museum of Oregon",
+    "address": "411 NW Flanders St, Portland, OR 97209",
+    "coordinates": {
+      "latitude": 45.5253,
+      "longitude": -122.6769
+    },
+    "phone": "(503) 224-1458",
+    "website": "https://www.jamo.org"
+  },
+  {
+    "name": "Jordan Schnitzer Museum of Art",
+    "address": "1430 Johnson Lane, Eugene, OR 97403",
+    "coordinates": {
+      "latitude": 44.0439,
+      "longitude": -123.0758
+    },
+    "phone": "(541) 346-3027",
+    "website": "https://jsma.uoregon.edu"
+  },
+  {
+    "name": "Lan Su Chinese Garden",
+    "address": "239 NW Everett St, Portland, OR 97209",
+    "coordinates": {
+      "latitude": 45.5236,
+      "longitude": -122.6739
+    },
+    "phone": "(503) 228-8131",
+    "website": "https://www.lansugarden.org"
+  },
+  {
+    "name": "Museum of Natural and Cultural History",
+    "address": "1680 E 15th Ave, Eugene, OR 97403",
+    "coordinates": {
+      "latitude": 44.0439,
+      "longitude": -123.0758
+    },
+    "phone": "(541) 346-3024",
+    "website": "https://natural-history.uoregon.edu"
+  },
+  {
+    "name": "Museum of the Oregon Territory",
+    "address": "211 Tumwater Dr, Oregon City, OR 97045",
+    "coordinates": {
+      "latitude": 45.3578,
+      "longitude": -122.6078
+    },
+    "phone": "(503) 655-5574",
+    "website": "https://www.clackamashistory.org"
+  },
+  {
+    "name": "Oregon Historical Society",
+    "address": "1200 SW Park Ave, Portland, OR 97205",
+    "coordinates": {
+      "latitude": 45.5153,
+      "longitude": -122.6819
+    },
+    "phone": "(503) 222-1741",
+    "website": "https://www.ohs.org"
+  },
+  {
+    "name": "Oregon Jewish Museum and Center for Holocaust Education",
+    "address": "724 NW Davis St, Portland, OR 97209",
+    "coordinates": {
+      "latitude": 45.5253,
+      "longitude": -122.6769
+    },
+    "phone": "(503) 226-3600",
+    "website": "https://www.ojmche.org"
+  },
+  {
+    "name": "Oswego Heritage House and Museum",
+    "address": "398 10th St, Lake Oswego, OR 97034",
+    "coordinates": {
+      "latitude": 45.4208,
+      "longitude": -122.6669
+    },
+    "phone": "(503) 635-6373",
+    "website": "https://www.oswegoheritage.org"
+  },
+  {
+    "name": "Rice Museum of Rocks & Minerals",
+    "address": "26385 NW Groveland Dr, Hillsboro, OR 97124",
+    "coordinates": {
+      "latitude": 45.5402,
+      "longitude": -122.3876
+    },
+    "phone": "(503) 647-2417",
+    "website": "https://www.ricenorthwestmuseum.org"
+  },
+  {
+    "name": "Schmidt Historical House Museum",
+    "address": "508 SW 5th St, Grants Pass, OR 97526",
+    "coordinates": {
+      "latitude": 42.4392,
+      "longitude": -123.3289
+    },
+    "phone": "(541) 479-7827",
+    "website": "https://www.gphistorical.org"
+  },
+  {
+    "name": "ScienceWorks Hands-On Museum",
+    "address": "1500 E Main St, Ashland, OR 97520",
+    "coordinates": {
+      "latitude": 42.1947,
+      "longitude": -122.7089
+    },
+    "phone": "(541) 482-6767",
+    "website": "https://scienceworksmuseum.org"
+  },
+  {
+    "name": "Shelton McMurphey Johnson House",
+    "address": "303 Willamette St, Eugene, OR 97401",
+    "coordinates": {
+      "latitude": 44.0528,
+      "longitude": -123.0889
+    },
+    "phone": "(541) 484-0808",
+    "website": "https://www.smjhouse.org"
+  },
+  {
+    "name": "Stevens-Crawford Heritage House",
+    "address": "603 6th St, Oregon City, OR 97045",
+    "coordinates": {
+      "latitude": 45.3578,
+      "longitude": -122.6078
+    },
+    "phone": "(503) 655-2866",
+    "website": "https://www.clackamashistory.org"
+  },
+  {
+    "name": "The History Museum of Hood River County",
+    "address": "300 E Port Marina Dr, Hood River, OR 97031",
+    "coordinates": {
+      "latitude": 45.7119,
+      "longitude": -121.5108
+    },
+    "phone": "(541) 386-6772",
+    "website": "https://www.hoodriverhistorymuseum.org"
+  },
+  {
+    "name": "Tillamook County Pioneer Museum",
+    "address": "2106 2nd St, Tillamook, OR 97141",
+    "coordinates": {
+      "latitude": 45.4564,
+      "longitude": -123.8447
+    },
+    "phone": "(503) 842-4553",
+    "website": "https://www.tcpm.org"
+  },
+  {
+    "name": "Willamette Heritage Center",
+    "address": "1313 Mill St SE, Salem, OR 97301",
+    "coordinates": {
+      "latitude": 44.9336,
+      "longitude": -123.0389
+    },
+    "phone": "(503) 585-7012",
+    "website": "https://www.willametteheritage.org"
+  }
+]

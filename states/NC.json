@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Airlie Gardens",
+    "address": "300 Airlie Rd, Wilmington, NC 28403",
+    "coordinates": {"latitude": 34.2215, "longitude": -77.8270},
+    "phone": "(910) 798-7700",
+    "website": "https://www.airliegardens.org/"
+  },
+  {
+    "name": "Aurora Fossil Museum",
+    "address": "400 Main St, Aurora, NC 27806",
+    "coordinates": {"latitude": 35.3006, "longitude": -76.7879},
+    "phone": "(252) 322-4238",
+    "website": "https://www.aurorafossilmuseum.org/"
+  },
+  {
+    "name": "Blowing Rock Art & History Museum",
+    "address": "159 Ginny Stevens Ln, Blowing Rock, NC 28605",
+    "coordinates": {"latitude": 36.1320, "longitude": -81.6774},
+    "phone": "(828) 295-9099",
+    "website": "https://www.blowingrockmuseum.org/"
+  },
+  {
+    "name": "Cameron Art Museum",
+    "address": "3201 S 17th St, Wilmington, NC 28412",
+    "coordinates": {"latitude": 34.1928, "longitude": -77.9134},
+    "phone": "(910) 395-5999",
+    "website": "https://www.cameronartmuseum.org/"
+  },
+  {
+    "name": "Cape Fear Botanical Garden",
+    "address": "536 N Eastern Blvd, Fayetteville, NC 28301",
+    "coordinates": {"latitude": 35.0590, "longitude": -78.8505},
+    "phone": "(910) 486-0221",
+    "website": "https://www.capefearbg.org/"
+  },
+  {
+    "name": "Cape Fear Museum of History and Science",
+    "address": "814 Market St, Wilmington, NC 28401",
+    "coordinates": {"latitude": 34.2365, "longitude": -77.9416},
+    "phone": "(910) 798-4350",
+    "website": "https://www.capefearmuseum.com/"
+  },
+  {
+    "name": "Charlotte Museum of History",
+    "address": "3500 Shamrock Dr, Charlotte, NC 28215",
+    "coordinates": {"latitude": 35.2475, "longitude": -80.7705},
+    "phone": "(704) 568-1774",
+    "website": "https://www.charlottemuseum.org/"
+  },
+  {
+    "name": "Cognition",
+    "address": "119 N Salisbury St, Mocksville, NC 27028",
+    "coordinates": {"latitude": 35.8966, "longitude": -80.5631},
+    "phone": "(336) 753-1045",
+    "website": "https://www.cognitiondavie.org/"
+  },
+  {
+    "name": "Daniel Stowe Botanical Garden",
+    "address": "6500 S New Hope Rd, Belmont, NC 28012",
+    "coordinates": {"latitude": 35.1662, "longitude": -81.0565},
+    "phone": "(704) 825-4490",
+    "website": "https://www.dsbg.org/"
+  },
+  {
+    "name": "Fit For Fun Center",
+    "address": "302 S 10th St, Wilmington, NC 28401",
+    "coordinates": {"latitude": 34.2333, "longitude": -77.9371},
+    "phone": "(910) 341-4630",
+    "website": "https://www.wilmingtonnc.gov/"
+  },
+  {
+    "name": "Imagination Station Science & History Museum",
+    "address": "224 Nash St SE, Wilson, NC 27893",
+    "coordinates": {"latitude": 35.7234, "longitude": -77.9061},
+    "phone": "(252) 291-5113",
+    "website": "https://scienceandhistory.org/"
+  },
+  {
+    "name": "Ingram Planetarium",
+    "address": "7625 High Market St, Sunset Beach, NC 28468",
+    "coordinates": {"latitude": 33.8925, "longitude": -78.5073},
+    "phone": "(910) 575-0033",
+    "website": "https://museumplanetarium.org/"
+  },
+  {
+    "name": "Kidzu Children's Museum",
+    "address": "201 S Estes Dr, Chapel Hill, NC 27514",
+    "coordinates": {"latitude": 35.9292, "longitude": -79.0332},
+    "phone": "(919) 933-1455",
+    "website": "https://www.kidzuchildrensmuseum.org/"
+  },
+  {
+    "name": "Morehead Planetarium & Science Center",
+    "address": "250 E Franklin St, Chapel Hill, NC 27514",
+    "coordinates": {"latitude": 35.9132, "longitude": -79.0558},
+    "phone": "(919) 962-1236",
+    "website": "https://moreheadplanetarium.org/"
+  },
+  {
+    "name": "Museum of Coastal Carolina",
+    "address": "21 E 2nd St, Ocean Isle Beach, NC 28469",
+    "coordinates": {"latitude": 33.8921, "longitude": -78.4363},
+    "phone": "(910) 579-1016",
+    "website": "https://museumplanetarium.org/"
+  },
+  {
+    "name": "North Carolina Botanical Garden",
+    "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+    "coordinates": {"latitude": 35.8993, "longitude": -79.0321},
+    "phone": "(919) 962-0522",
+    "website": "https://ncbg.unc.edu/"
+  },
+  {
+    "name": "Old Salem Museums & Gardens",
+    "address": "900 Old Salem Rd, Winston-Salem, NC 27101",
+    "coordinates": {"latitude": 36.0900, "longitude": -80.2442},
+    "phone": "(336) 721-7350",
+    "website": "https://www.oldsalem.org/"
+  },
+  {
+    "name": "Reynolda House Museum of American Art",
+    "address": "2250 Reynolda Rd, Winston-Salem, NC 27106",
+    "coordinates": {"latitude": 36.1273, "longitude": -80.2841},
+    "phone": "(888) 663-1149",
+    "website": "https://reynoldahouse.org/"
+  },
+  {
+    "name": "The Children's Museum of Wilmington",
+    "address": "116 Orange St, Wilmington, NC 28401",
+    "coordinates": {"latitude": 34.2353, "longitude": -77.9471},
+    "phone": "(910) 254-3534",
+    "website": "https://www.playwilmington.org/"
+  },
+  {
+    "name": "Wing Haven",
+    "address": "248 Ridgewood Ave, Charlotte, NC 28209",
+    "coordinates": {"latitude": 35.1815, "longitude": -80.8496},
+    "phone": "(704) 331-0664",
+    "website": "https://www.winghavengardens.org/"
+  }
+]

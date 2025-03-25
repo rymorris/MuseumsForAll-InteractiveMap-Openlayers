@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Auburn Cord Duesenberg Automobile Museum",
+    "address": "1600 S Wayne St, Auburn, IN 46706",
+    "coordinates": {
+      "latitude": 41.3567,
+      "longitude": -85.0586
+    },
+    "phone": "(260) 925-1444",
+    "website": "https://www.automobilemuseum.org"
+  },
+  {
+    "name": "CANDLES Holocaust Museum and Education Center",
+    "address": "1532 S 3rd St, Terre Haute, IN 47802",
+    "coordinates": {
+      "latitude": 39.4514,
+      "longitude": -87.4056
+    },
+    "phone": "(812) 234-7881",
+    "website": "https://www.candlesholocaustmuseum.org"
+  },
+  {
+    "name": "Children's Museum of South Bend",
+    "address": "1400 S Michigan St, South Bend, IN 46613",
+    "coordinates": {
+      "latitude": 41.6647,
+      "longitude": -86.2500
+    },
+    "phone": "(574) 232-5437",
+    "website": "https://www.cmsb.org"
+  },
+  {
+    "name": "Fort Wayne History Center",
+    "address": "302 E Berry St, Fort Wayne, IN 46802",
+    "coordinates": {
+      "latitude": 41.0803,
+      "longitude": -85.1375
+    },
+    "phone": "(260) 426-2882",
+    "website": "https://www.fwhistorycenter.org"
+  },
+  {
+    "name": "Fort Wayne Museum of Art",
+    "address": "311 E Main St, Fort Wayne, IN 46802",
+    "coordinates": {
+      "latitude": 41.0792,
+      "longitude": -85.1367
+    },
+    "phone": "(260) 422-6467",
+    "website": "https://www.fwmoa.org"
+  },
+  {
+    "name": "Imagination Station",
+    "address": "600 N 4th St, Lafayette, IN 47901",
+    "coordinates": {
+      "latitude": 40.4208,
+      "longitude": -86.8936
+    },
+    "phone": "(765) 420-7880",
+    "website": "https://www.imagination-station.org"
+  },
+  {
+    "name": "International Monster Truck Museum & Hall of Fame",
+    "address": "114 N Broadway St, Butler, IN 46721",
+    "coordinates": {
+      "latitude": 41.4297,
+      "longitude": -84.8714
+    },
+    "phone": "(260) 868-1522",
+    "website": "https://www.monstertruckmuseum.org"
+  },
+  {
+    "name": "Kids Discovery Factory",
+    "address": "105 4th St, Batesville, IN 47006",
+    "coordinates": {
+      "latitude": 39.2972,
+      "longitude": -85.2225
+    },
+    "phone": "(812) 933-5437",
+    "website": "https://www.kidsdiscoveryfactory.org"
+  },
+  {
+    "name": "kidscommons Columbus' community children's museum",
+    "address": "309 Washington St, Columbus, IN 47201",
+    "coordinates": {
+      "latitude": 39.2019,
+      "longitude": -85.9214
+    },
+    "phone": "(812) 378-3046",
+    "website": "https://www.kidscommons.org"
+  },
+  {
+    "name": "Koch Family Children's Museum of Evansville",
+    "address": "22 SE 5th St, Evansville, IN 47708",
+    "coordinates": {
+      "latitude": 37.9711,
+      "longitude": -87.5692
+    },
+    "phone": "(812) 464-2663",
+    "website": "https://www.cmoekids.org"
+  },
+  {
+    "name": "Lubeznik Center for the Arts",
+    "address": "101 W 2nd St, Michigan City, IN 46360",
+    "coordinates": {
+      "latitude": 41.7167,
+      "longitude": -86.9083
+    },
+    "phone": "(219) 874-4900",
+    "website": "https://www.lubeznikcenter.org"
+  },
+  {
+    "name": "Minnetrista",
+    "address": "1200 N Minnetrista Pkwy, Muncie, IN 47303",
+    "coordinates": {
+      "latitude": 40.2100,
+      "longitude": -85.4069
+    },
+    "phone": "(765) 282-4848",
+    "website": "https://www.minnetrista.net"
+  },
+  {
+    "name": "Studebaker National Museum",
+    "address": "201 S Chapin St, South Bend, IN 46601",
+    "coordinates": {
+      "latitude": 41.6747,
+      "longitude": -86.2519
+    },
+    "phone": "(574) 235-9714",
+    "website": "https://www.studebakermuseum.org"
+  },
+  {
+    "name": "Swope Art Museum",
+    "address": "25 S 7th St, Terre Haute, IN 47807",
+    "coordinates": {
+      "latitude": 39.4661,
+      "longitude": -87.4058
+    },
+    "phone": "(812) 238-1676",
+    "website": "https://www.swope.org"
+  },
+  {
+    "name": "The Barker Mansion",
+    "address": "631 Washington St, Michigan City, IN 46360",
+    "coordinates": {
+      "latitude": 41.7206,
+      "longitude": -86.9086
+    },
+    "phone": "(219) 873-1520",
+    "website": "https://www.barkermansion.com"
+  },
+  {
+    "name": "The History Museum",
+    "address": "808 W Washington St, South Bend, IN 46601",
+    "coordinates": {
+      "latitude": 41.6786,
+      "longitude": -86.2583
+    },
+    "phone": "(574) 235-9664",
+    "website": "https://www.historymuseumsb.org"
+  },
+  {
+    "name": "Wabash County Historical Museum",
+    "address": "36 E Market St, Wabash, IN 46992",
+    "coordinates": {
+      "latitude": 40.7978,
+      "longitude": -85.8258
+    },
+    "phone": "(260) 563-9070",
+    "website": "https://www.wabashmuseum.org"
+  },
+  {
+    "name": "Whitley County Historical Museum",
+    "address": "108 W Jefferson St, Columbia City, IN 46725",
+    "coordinates": {
+      "latitude": 41.1572,
+      "longitude": -85.4889
+    },
+    "phone": "(260) 244-6372",
+    "website": "https://www.whitleycountyhistoricalmuseum.org"
+  }
+]

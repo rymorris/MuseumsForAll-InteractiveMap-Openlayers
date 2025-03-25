@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Bishop Museum",
+    "address": "1525 Bernice St, Honolulu, HI 96817",
+    "coordinates": {
+      "latitude": 21.3325,
+      "longitude": -157.8719
+    },
+    "phone": "(808) 847-3511",
+    "website": "https://www.bishopmuseum.org"
+  },
+  {
+    "name": "East-West Center Arts Program",
+    "address": "1601 East-West Rd, Honolulu, HI 96848",
+    "coordinates": {
+      "latitude": 21.3069,
+      "longitude": -157.8167
+    },
+    "phone": "(808) 944-7177",
+    "website": "https://www.eastwestcenter.org"
+  },
+  {
+    "name": "H.N. Greenwell Store Museum and Exhibit",
+    "address": "81-6581 Mamalahoa Hwy, Kealakekua, HI 96750",
+    "coordinates": {
+      "latitude": 19.5333,
+      "longitude": -155.9222
+    },
+    "phone": "(808) 323-3222",
+    "website": "https://www.konahistorical.org"
+  },
+  {
+    "name": "Honolulu Museum of Art",
+    "address": "900 S Beretania St, Honolulu, HI 96814",
+    "coordinates": {
+      "latitude": 21.3044,
+      "longitude": -157.8572
+    },
+    "phone": "(808) 532-8700",
+    "website": "https://honolulumuseum.org"
+  },
+  {
+    "name": "Kona Coffee Living History Farm",
+    "address": "82-6199 Mamalahoa Hwy, Kealakekua, HI 96750",
+    "coordinates": {
+      "latitude": 19.5333,
+      "longitude": -155.9222
+    },
+    "phone": "(808) 323-3222",
+    "website": "https://www.konahistorical.org"
+  }
+]

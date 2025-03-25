@@ -1,0 +1,74 @@
+{
+  "institutions": [
+    {
+      "name": "Bennington Museum",
+      "address": "75 Main St, Bennington, VT 05201",
+      "coordinates": {
+        "latitude": 42.8788,
+        "longitude": -73.1978
+      },
+      "phone": "(802) 447-1571",
+      "website": "https://www.benningtonmuseum.org/"
+    },
+    {
+      "name": "Billings Farm & Museum",
+      "address": "69 Old River Rd, Woodstock, VT 05091",
+      "coordinates": {
+        "latitude": 43.6144,
+        "longitude": -72.5178
+      },
+      "phone": "(802) 457-2355",
+      "website": "https://billingsfarm.org/"
+    },
+    {
+      "name": "Brattleboro Museum & Art Center",
+      "address": "10 Vernon St, Brattleboro, VT 05301",
+      "coordinates": {
+        "latitude": 42.8578,
+        "longitude": -72.5585
+      },
+      "phone": "(802) 257-0124",
+      "website": "https://brattleboromuseum.org/"
+    },
+    {
+      "name": "ECHO, Leahy Center for Lake Champlain",
+      "address": "1 College St, Burlington, VT 05401",
+      "coordinates": {
+        "latitude": 44.4760,
+        "longitude": -73.2154
+      },
+      "phone": "(802) 864-1848",
+      "website": "https://www.echovermont.org/"
+    },
+    {
+      "name": "Saint Albans Museum",
+      "address": "9 Church St, St Albans, VT 05478",
+      "coordinates": {
+        "latitude": 44.8001,
+        "longitude": -73.0837
+      },
+      "phone": "(802) 524-1400",
+      "website": "https://www.stalbansmuseum.org/"
+    },
+    {
+      "name": "Southern Vermont Arts Center",
+      "address": "930 SVAC Dr, Manchester, VT 05255",
+      "coordinates": {
+        "latitude": 43.1847,
+        "longitude": -73.0463
+      },
+      "phone": "(802) 362-1405",
+      "website": "https://www.svac.org/"
+    },
+    {
+      "name": "Wonderfeet Kids' Museum",
+      "address": "69 Allen St, Rutland, VT 05701",
+      "coordinates": {
+        "latitude": 43.6055,
+        "longitude": -72.9735
+      },
+      "phone": "(802) 770-1333",
+      "website": "https://www.wonderfeetkidsmuseum.org/"
+    }
+  ]
+}

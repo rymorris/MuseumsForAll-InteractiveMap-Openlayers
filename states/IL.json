@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Abraham Lincoln Presidential Library and Museum",
+    "address": "212 N 6th St, Springfield, IL 62701",
+    "coordinates": {
+      "latitude": 39.8036,
+      "longitude": -89.6478
+    },
+    "phone": "(217) 558-8844",
+    "website": "https://www.illinois.gov/alplm"
+  },
+  {
+    "name": "Adler Planetarium",
+    "address": "1300 S Lake Shore Dr, Chicago, IL 60605",
+    "coordinates": {
+      "latitude": 41.8663,
+      "longitude": -87.6073
+    },
+    "phone": "(312) 922-7827",
+    "website": "https://www.adlerplanetarium.org"
+  },
+  {
+    "name": "American Writers Museum",
+    "address": "180 N Michigan Ave, Chicago, IL 60601",
+    "coordinates": {
+      "latitude": 41.8854,
+      "longitude": -87.6245
+    },
+    "phone": "(312) 374-8790",
+    "website": "https://americanwritersmuseum.org"
+  },
+  {
+    "name": "Art Institute of Chicago",
+    "address": "111 S Michigan Ave, Chicago, IL 60603",
+    "coordinates": {
+      "latitude": 41.8796,
+      "longitude": -87.6237
+    },
+    "phone": "(312) 443-3600",
+    "website": "https://www.artic.edu"
+  },
+  {
+    "name": "Aurora Regional Fire Museum",
+    "address": "53 N Broadway, Aurora, IL 60505",
+    "coordinates": {
+      "latitude": 41.7589,
+      "longitude": -88.3126
+    },
+    "phone": "(630) 892-1572",
+    "website": "https://www.auroraregionalfiremuseum.org"
+  },
+  {
+    "name": "Batavia Depot Museum",
+    "address": "155 Houston St, Batavia, IL 60510",
+    "coordinates": {
+      "latitude": 41.8506,
+      "longitude": -88.3086
+    },
+    "phone": "(630) 406-5274",
+    "website": "https://www.bataviahistoricalsociety.org"
+  },
+  {
+    "name": "Cantigny Park",
+    "address": "1S151 Winfield Rd, Wheaton, IL 60189",
+    "coordinates": {
+      "latitude": 41.8644,
+      "longitude": -88.1375
+    },
+    "phone": "(630) 668-5161",
+    "website": "https://www.cantigny.org"
+  },
+  {
+    "name": "Chicago Academy of Sciences/Peggy Notebaert Nature Museum",
+    "address": "2430 N Cannon Dr, Chicago, IL 60614",
+    "coordinates": {
+      "latitude": 41.9264,
+      "longitude": -87.6358
+    },
+    "phone": "(773) 755-5100",
+    "website": "https://naturemuseum.org"
+  },
+  {
+    "name": "Chicago Botanic Garden",
+    "address": "1000 Lake Cook Rd, Glencoe, IL 60022",
+    "coordinates": {
+      "latitude": 42.1469,
+      "longitude": -87.7903
+    },
+    "phone": "(847) 835-5440",
+    "website": "https://www.chicagobotanic.org"
+  },
+  {
+    "name": "Chicago Children's Museum",
+    "address": "700 E Grand Ave, Chicago, IL 60611",
+    "coordinates": {
+      "latitude": 41.8917,
+      "longitude": -87.6125
+    },
+    "phone": "(312) 527-1000",
+    "website": "https://www.chicagochildrensmuseum.org"
+  },
+  {
+    "name": "Chicago History Museum",
+    "address": "1601 N Clark St, Chicago, IL 60614",
+    "coordinates": {
+      "latitude": 41.9117,
+      "longitude": -87.6317
+    },
+    "phone": "(312) 642-4600",
+    "website": "https://www.chicagohistory.org"
+  },
+  {
+    "name": "Children's Discovery Museum",
+    "address": "101 E Beaufort St, Normal, IL 61761",
+    "coordinates": {
+      "latitude": 40.5114,
+      "longitude": -88.9875
+    },
+    "phone": "(309) 433-3443",
+    "website": "https://www.childrensdiscoverymuseum.net"
+  },
+  {
+    "name": "Children's Hands-On Museum of Northwest Illinois",
+    "address": "23 S State Ave, Freeport, IL 61032",
+    "coordinates": {
+      "latitude": 42.2964,
+      "longitude": -89.6217
+    },
+    "phone": "(815) 233-5435",
+    "website": "https://www.chomnwi.org"
+  },
+  {
+    "name": "Children's Museum of Illinois",
+    "address": "55 S Country Club Rd, Decatur, IL 62521",
+    "coordinates": {
+      "latitude": 39.8175,
+      "longitude": -88.9286
+    },
+    "phone": "(217) 423-5437",
+    "website": "https://www.cmofil.org"
+  },
+  {
+    "name": "Downers Grove Museum",
+    "address": "831 Maple Ave, Downers Grove, IL 60515",
+    "coordinates": {
+      "latitude": 41.7944,
+      "longitude": -88.0119
+    },
+    "phone": "(630) 963-1309",
+    "website": "https://www.downers.us/museum"
+  },
+  {
+    "name": "DuPage Children's Museum",
+    "address": "301 N Washington St, Naperville, IL 60540",
+    "coordinates": {
+      "latitude": 41.7775,
+      "longitude": -88.1478
+    },
+    "phone": "(630) 637-8000",
+    "website": "https://www.dupagechildrens.org"
+  },
+  {
+    "name": "DuSable Museum of African American History",
+    "address": "740 E 56th Pl, Chicago, IL 60637",
+    "coordinates": {
+      "latitude": 41.7936,
+      "longitude": -87.6078
+    },
+    "phone": "(773) 947-0600",
+    "website": "https://www.dusablemuseum.org"
+  },
+  {
+    "name": "Edwardsville Children's Museum",
+    "address": "722 Holyoake Rd, Edwardsville, IL 62025",
+    "coordinates": {
+      "latitude": 38.8036,
+      "longitude": -89.9633
+    },
+    "phone": "(618) 692-2094",
+    "website": "https://www.edwardsvillechildrensmuseum.org"
+  },
+  {
+    "name": "Evanston History Center",
+    "address": "225 Greenwood St, Evanston, IL 60201",
+    "coordinates": {
+      "latitude": 42.0469,
+      "longitude": -87.6836
+    },
+    "phone": "(847) 475-3410",
+    "website": "https://www.evanstonhistorycenter.org"
+  },
+  {
+    "name": "Grand Army of the Republic Military Museum",
+    "address": "23 E Downer Pl, Aurora, IL 60505",
+    "coordinates": {
+      "latitude": 41.7589,
+      "longitude": -88.3126
+    },
+    "phone": "(630) 256-1190",
+    "website": "https://www.garmuseum.org"
+  },
+  {
+    "name": "Heritage Museum of Asian Art",
+    "address": "218 W 26th St, Chicago, IL 60616",
+    "coordinates": {
+      "latitude": 41.8447,
+      "longitude": -87.6358
+    },
+    "phone": "(312) 842-8884",
+    "website": "https://www.heritageasianart.org"
+  },
+  {
+    "name": "Illinois Holocaust Museum & Education Center",
+    "address": "9603 Woods Dr, Skokie, IL 60077",
+    "coordinates": {
+      "latitude": 42.0469,
+      "longitude": -87.7336
+    },
+    "phone": "(847) 967-4800",
+    "website": "https://www.ilholocaustmuseum.org"
+  },
+  {
+    "name": "Illinois State Museum",
+    "address": "502 S Spring St, Springfield, IL 62706",
+    "coordinates": {
+      "latitude": 39.7986,
+      "longitude": -89.6489
+    },
+    "phone": "(217) 782-7386",
+    "website": "https://www.illinoisstatemuseum.org"
+  },
+  {
+    "name": "International Museum of Surgical Science",
+    "address": "1524 N Lake Shore Dr, Chicago, IL 60610",
+    "coordinates": {
+      "latitude": 41.9103,
+      "longitude": -87.6278
+    },
+    "phone": "(312) 642-6502",
+    "website": "https://www.imss.org"
+  },
+  {
+    "name": "Intuit: The Center for Intuitive and Outsider Art",
+    "address": "756 N Milwaukee Ave, Chicago, IL 60642",
+    "coordinates": {
+      "latitude": 41.8961,
+      "longitude": -87.6558
+    },
+    "phone": "(312) 243-9088",
+    "website": "https://www.art.org"
+  },
+  {
+    "name": "Kidzeum of Health and Science",
+    "address": "412 E Adams St, Springfield, IL 62701",
+    "coordinates": {
+      "latitude": 39.8006,
+      "longitude": -89.6467
+    },
+    "phone": "(217) 801-8830",
+    "website": "https://www.kidzeum.org"
+  },
+  {
+    "name": "Klehm Arboretum & Botanic Garden",
+    "address": "2715 S Main St, Rockford, IL 61102",
+    "coordinates": {
+      "latitude": 42.2633,
+      "longitude": -89.0939
+    },
+    "phone": "(815) 965-8146",
+    "website": "https://www.klehm.org"
+  },
+  {
+    "name": "Kohl Children's Museum",
+    "address": "2100 Patriot Blvd, Glenview, IL 60026",
+    "coordinates": {
+      "latitude": 42.0869,
+      "longitude": -87.8425
+    },
+    "phone": "(847) 832-6600",
+    "website": "https://www.kohlchildrensmuseum.org"
+  },
+  {
+    "name": "Krannert Art Museum",
+    "address": "500 E Peabody Dr, Champaign, IL 61820",
+    "coordinates": {
+      "latitude": 40.1067,
+      "longitude": -88.2272
+    },
+    "phone": "(217) 333-1861",
+    "website": "https://kam.illinois.edu"
+  },
+  {
+    "name": "Lincoln Park Zoo",
+    "address": "2001 N Clark St, Chicago, IL 60614",
+    "coordinates": {
+      "latitude": 41.9206,
+      "longitude": -87.6339
+    },
+    "phone": "(312) 742-2000",
+    "website": "https://www.lpzoo.org"
+  },
+  {
+    "name": "McLean County Museum of History",
+    "address": "200 N Main St, Bloomington, IL 61701",
+    "coordinates": {
+      "latitude": 40.4828,
+      "longitude": -88.9939
+    },
+    "phone": "(309) 827-0428",
+    "website": "https://www.mchistory.org"
+  },
+  {
+    "name": "Miller Park Zoo",
+    "address": "1020 S Morris Ave, Bloomington, IL 61701",
+    "coordinates": {
+      "latitude": 40.4722,
+      "longitude": -88.9908
+    },
+    "phone": "(309) 434-2250",
+    "website": "https://www.millerparkzoo.org"
+  },
+  {
+    "name": "Morton Arboretum",
+    "address": "4100 IL-53, Lisle, IL 60532",
+    "coordinates": {
+      "latitude": 41.8167,
+      "longitude": -88.0689
+    },
+    "phone": "(630) 968-0074",
+    "website": "https://www.mortonarb.org"
+  },
+  {
+    "name": "Museum of Contemporary Art Chicago",
+    "address": "220 E Chicago Ave, Chicago, IL 60611",
+    "coordinates": {
+      "latitude": 41.8969,
+      "longitude": -87.6219
+    },
+    "phone": "(312) 280-2660",
+    "website": "https://www.mcachicago.org"
+  },
+  {
+    "name": "Museum of Science and Industry, Chicago",
+    "address": "5700 S Lake Shore Dr, Chicago, IL 60637",
+    "coordinates": {
+      "latitude": 41.7906,
+      "longitude": -87.5831
+    },
+    "phone": "(773) 684-1414",
+    "website": "https://www.msichicago.org"
+  },
+  {
+    "name": "My Museum",
+    "address": "1860 W Algonquin Rd, Palatine, IL 60067",
+    "coordinates": {
+      "latitude": 42.0869,
+      "longitude": -88.0425
+    },
+    "phone": "(847) 358-7117",
+    "website": "https://www.mymuseum.org"
+  },
+  {
+    "name": "Naper Settlement",
+    "address": "523 S Webster St, Naperville, IL 60540",
+    "coordinates": {
+      "latitude": 41.7708,
+      "longitude": -88.1492
+    },
+    "phone": "(630) 420-6010",
+    "website": "https://www.napersettlement.org"
+  },
+  {
+    "name": "National Museum of Mexican Art",
+    "address": "1852 W 19th St, Chicago, IL 60608",
+    "coordinates": {
+      "latitude": 41.8558,
+      "longitude": -87.6719
+    },
+    "phone": "(312) 738-1503",
+    "website": "https://www.nationalmuseumofmexicanart.org"
+  },
+  {
+    "name": "National Museum of Puerto Rican Arts and Culture",
+    "address": "3015 W Division St, Chicago, IL 60622",
+    "coordinates": {
+      "latitude": 41.9028,
+      "longitude": -87.7008
+    },
+    "phone": "(773) 486-8345",
+    "website": "https://www.nmprac.org"
+  },
+  {
+    "name": "National Veterans Art Museum",
+    "address": "4041 N Milwaukee Ave, Chicago, IL 60641",
+    "coordinates": {
+      "latitude": 41.9558,
+      "longitude": -87.7475
+    },
+    "phone": "(312) 326-0270",
+    "website": "https://www.nvam.org"
+  },
+  {
+    "name": "Peoria PlayHouse Children's Museum",
+    "address": "2218 N Prospect Rd, Peoria, IL 61603",
+    "coordinates": {
+      "latitude": 40.7042,
+      "longitude": -89.5875
+    },
+    "phone": "(309) 323-6900",
+    "website": "https://www.peoriaplayhouse.org"
+  },
+  {
+    "name": "Peoria Riverfront Museum",
+    "address": "222 SW Washington St, Peoria, IL 61602",
+    "coordinates": {
+      "latitude": 40.6919,
+      "longitude": -89.5892
+    },
+    "phone": "(309) 686-7000",
+    "website": "https://www.peoriariverfrontmuseum.org"
+  },
+  {
+    "name": "Quad City Botanical Center",
+    "address": "2525 4th Ave, Rock Island, IL 61201",
+    "coordinates": {
+      "latitude": 41.5014,
+      "longitude": -90.5783
+    },
+    "phone": "(309) 794-0991",
+    "website": "https://www.qcgardens.com"
+  },
+  {
+    "name": "Quincy Children's Museum",
+    "address": "1230 N 18th St, Quincy, IL 62301",
+    "coordinates": {
+      "latitude": 39.9436,
+      "longitude": -91.3958
+    },
+    "phone": "(217) 223-3433",
+    "website": "https://www.quincychildrensmuseum.org"
+  },
+  {
+    "name": "SciTech Hands On Museum",
+    "address": "18 W Benton St, Aurora, IL 60506",
+    "coordinates": {
+      "latitude": 41.7589,
+      "longitude": -88.3126
+    },
+    "phone": "(630) 859-3434",
+    "website": "https://www.scitechmuseum.org"
+  },
+  {
+    "name": "Shedd Aquarium",
+    "address": "1200 S Lake Shore Dr, Chicago, IL 60605",
+    "coordinates": {
+      "latitude": 41.8676,
+      "longitude": -87.6147
+    },
+    "phone": "(312) 939-2438",
+    "website": "https://www.sheddaquarium.org"
+  },
+  {
+    "name": "The Field Museum",
+    "address": "1400 S Lake Shore Dr, Chicago, IL 60605",
+    "coordinates": {
+      "latitude": 41.8663,
+      "longitude": -87.6169
+    },
+    "phone": "(312) 922-9410",
+    "website": "https://www.fieldmuseum.org"
+  },
+  {
+    "name": "Wonder Works Children's Museum",
+    "address": "6445 W North Ave, Oak Park, IL 60302",
+    "coordinates": {
+      "latitude": 41.9083,
+      "longitude": -87.7936
+    },
+    "phone": "(708) 383-4815",
+    "website": "https://www.wonder-works.org"
+  }
+]

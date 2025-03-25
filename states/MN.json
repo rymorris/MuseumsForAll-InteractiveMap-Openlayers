@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Alexander Ramsey House (Minnesota Historical Society)",
+    "address": "265 S Exchange St, St Paul, MN 55102",
+    "coordinates": {
+      "latitude": 44.9425,
+      "longitude": -93.0989
+    },
+    "phone": "(651) 296-8760",
+    "website": "https://www.mnhs.org/ramseyhouse"
+  },
+  {
+    "name": "American Swedish Institute",
+    "address": "2600 Park Ave, Minneapolis, MN 55407",
+    "coordinates": {
+      "latitude": 44.9556,
+      "longitude": -93.2625
+    },
+    "phone": "(612) 871-4907",
+    "website": "https://www.asimn.org"
+  },
+  {
+    "name": "Bell Museum",
+    "address": "2088 Larpenteur Ave W, St Paul, MN 55113",
+    "coordinates": {
+      "latitude": 44.9914,
+      "longitude": -93.1669
+    },
+    "phone": "(612) 624-7083",
+    "website": "https://www.bellmuseum.umn.edu"
+  },
+  {
+    "name": "Beltrami County Historical Society",
+    "address": "130 Minnesota Ave SW, Bemidji, MN 56601",
+    "coordinates": {
+      "latitude": 47.4728,
+      "longitude": -94.8803
+    },
+    "phone": "(218) 444-3376",
+    "website": "https://www.beltramihistory.org"
+  },
+  {
+    "name": "Birch Coulee Battlefield (Minnesota Historical Society)",
+    "address": "6900 Co Rd 18, Morton, MN 56270",
+    "coordinates": {
+      "latitude": 44.575,
+      "longitude": -94.9769
+    },
+    "phone": "(507) 697-6321",
+    "website": "https://www.mnhs.org/birchcoulee"
+  },
+  {
+    "name": "Blue Earth County Historical Society",
+    "address": "424 Warren St, Mankato, MN 56001",
+    "coordinates": {
+      "latitude": 44.1636,
+      "longitude": -93.9997
+    },
+    "phone": "(507) 345-5566",
+    "website": "https://www.blueearthcountyhistory.com"
+  },
+  {
+    "name": "Charles Lindbergh House and Museum (Minnesota Historical Society)",
+    "address": "1620 Lindbergh Dr S, Little Falls, MN 56345",
+    "coordinates": {
+      "latitude": 45.9619,
+      "longitude": -94.3297
+    },
+    "phone": "(320) 616-5421",
+    "website": "https://www.mnhs.org/lindbergh"
+  },
+  {
+    "name": "Children's Museum of Southern Minnesota",
+    "address": "224 Lamm St, Mankato, MN 56001",
+    "coordinates": {
+      "latitude": 44.1636,
+      "longitude": -93.9997
+    },
+    "phone": "(507) 386-0279",
+    "website": "https://www.cmsouthernmn.org"
+  },
+  {
+    "name": "Comstock House (Minnesota Historical Society)",
+    "address": "506 8th St S, Moorhead, MN 56560",
+    "coordinates": {
+      "latitude": 46.8736,
+      "longitude": -96.7689
+    },
+    "phone": "(218) 291-4211",
+    "website": "https://www.mnhs.org/comstock"
+  },
+  {
+    "name": "Duluth Children's Museum",
+    "address": "115 S 29th Ave W, Duluth, MN 55806",
+    "coordinates": {
+      "latitude": 46.7839,
+      "longitude": -92.1186
+    },
+    "phone": "(218) 733-7543",
+    "website": "https://www.duluthchildrensmuseum.org"
+  },
+  {
+    "name": "Folsom House (Minnesota Historical Society)",
+    "address": "272 W Government St, Taylors Falls, MN 55084",
+    "coordinates": {
+      "latitude": 45.4019,
+      "longitude": -92.6558
+    },
+    "phone": "(651) 465-3125",
+    "website": "https://www.mnhs.org/folsomhouse"
+  },
+  {
+    "name": "Forest History Center (Minnesota Historical Society)",
+    "address": "2609 Co Rd 76, Grand Rapids, MN 55744",
+    "coordinates": {
+      "latitude": 47.2375,
+      "longitude": -93.5308
+    },
+    "phone": "(218) 327-4482",
+    "website": "https://www.mnhs.org/foresthistory"
+  },
+  {
+    "name": "Fort Ridgely (Minnesota Historical Society)",
+    "address": "72404 Co Rd 30, Fairfax, MN 55332",
+    "coordinates": {
+      "latitude": 44.4536,
+      "longitude": -94.7269
+    },
+    "phone": "(507) 426-7888",
+    "website": "https://www.mnhs.org/fortridgely"
+  },
+  {
+    "name": "Freeborn County Historical Museum, Library & Village",
+    "address": "1031 Bridge Ave, Albert Lea, MN 56007",
+    "coordinates": {
+      "latitude": 43.6481,
+      "longitude": -93.3689
+    },
+    "phone": "(507) 373-8003",
+    "website": "https://www.fchm.org"
+  },
+  {
+    "name": "Gale Family Library (Minnesota Historical Society)",
+    "address": "345 W Kellogg Blvd, St Paul, MN 55102",
+    "coordinates": {
+      "latitude": 44.9425,
+      "longitude": -93.0989
+    },
+    "phone": "(651) 259-3300",
+    "website": "https://www.mnhs.org/library"
+  },
+  {
+    "name": "Glensheen",
+    "address": "3300 London Rd, Duluth, MN 55804",
+    "coordinates": {
+      "latitude": 46.8319,
+      "longitude": -92.0397
+    },
+    "phone": "(218) 726-8910",
+    "website": "https://glensheen.org"
+  },
+  {
+    "name": "Harkin Store (Minnesota Historical Society)",
+    "address": "66250 Co Rd 21, New Ulm, MN 56073",
+    "coordinates": {
+      "latitude": 44.3169,
+      "longitude": -94.4419
+    },
+    "phone": "(507) 354-8666",
+    "website": "https://www.mnhs.org/harkinstore"
+  },
+  {
+    "name": "Headwaters Science Center",
+    "address": "413 Beltrami Ave NW, Bemidji, MN 56601",
+    "coordinates": {
+      "latitude": 47.4736,
+      "longitude": -94.8808
+    },
+    "phone": "(218) 444-4472",
+    "website": "https://www.hscbemidji.org"
+  },
+  {
+    "name": "Historic Forestville (Minnesota Historical Society)",
+    "address": "21899 Co Rd 118, Preston, MN 55965",
+    "coordinates": {
+      "latitude": 43.6406,
+      "longitude": -92.2119
+    },
+    "phone": "(507) 765-2785",
+    "website": "https://www.mnhs.org/forestville"
+  },
+  {
+    "name": "Historic Fort Snelling (Minnesota Historical Society)",
+    "address": "200 Tower Ave, St Paul, MN 55111",
+    "coordinates": {
+      "latitude": 44.8928,
+      "longitude": -93.1806
+    },
+    "phone": "(612) 726-1171",
+    "website": "https://www.mnhs.org/fortsnelling"
+  },
+  {
+    "name": "History Center of Olmsted County",
+    "address": "1195 W Circle Dr SW, Rochester, MN 55902",
+    "coordinates": {
+      "latitude": 44.0136,
+      "longitude": -92.4839
+    },
+    "phone": "(507) 282-9447",
+    "website": "https://www.olmstedhistory.com"
+  },
+  {
+    "name": "James J. Hill House (Minnesota Historical Society)",
+    "address": "240 Summit Ave, St Paul, MN 55102",
+    "coordinates": {
+      "latitude": 44.9425,
+      "longitude": -93.1089
+    },
+    "phone": "(651) 297-2555",
+    "website": "https://www.mnhs.org/hillhouse"
+  },
+  {
+    "name": "Jeffers Petroglyphs (Minnesota Historical Society)",
+    "address": "27160 Co Rd 2, Comfrey, MN 56019",
+    "coordinates": {
+      "latitude": 44.0958,
+      "longitude": -95.0397
+    },
+    "phone": "(507) 628-5591",
+    "website": "https://www.mnhs.org/jefferspetroglyphs"
+  },
+  {
+    "name": "Kashubian Cultural Institute & Polish Museum",
+    "address": "375 Wilson Ave, Winona, MN 55987",
+    "coordinates": {
+      "latitude": 44.0519,
+      "longitude": -91.6389
+    },
+    "phone": "(507) 454-3431",
+    "website": "https://www.polishmuseumwinona.org"
+  },
+  {
+    "name": "Lac qui Parle Mission (Minnesota Historical Society)",
+    "address": "27452 Co Rd 13, Montevideo, MN 56265",
+    "coordinates": {
+      "latitude": 45.0369,
+      "longitude": -95.8808
+    },
+    "phone": "(320) 269-7636",
+    "website": "https://www.mnhs.org/lacquiparlemission"
+  },
+  {
+    "name": "Lake Superior Zoo",
+    "address": "7210 Fremont St, Duluth, MN 55807",
+    "coordinates": {
+      "latitude": 46.7639,
+      "longitude": -92.1836
+    },
+    "phone": "(218) 730-4500",
+    "website": "https://www.lszooduluth.org"
+  },
+  {
+    "name": "Legacy of the Lakes Museum",
+    "address": "205 3rd Ave W, Alexandria, MN 56308",
+    "coordinates": {
+      "latitude": 45.8819,
+      "longitude": -95.3778
+    },
+    "phone": "(320) 762-0387",
+    "website": "https://www.legacyofthelakes.org"
+  },
+  {
+    "name": "Lower Sioux Agency (Minnesota Historical Society)",
+    "address": "32469 Redwood Co Rd 2, Morton, MN 56270",
+    "coordinates": {
+      "latitude": 44.5336,
+      "longitude": -94.9769
+    },
+    "phone": "(507) 697-6321",
+    "website": "https://www.mnhs.org/lowersioux"
+  },
+  {
+    "name": "Marine Mill (Minnesota Historical Society)",
+    "address": "Mill Site Rd, Marine on St. Croix, MN 55047",
+    "coordinates": {
+      "latitude": 45.1989,
+      "longitude": -92.7714
+    },
+    "phone": "(651) 433-4997",
+    "website": "https://www.mnhs.org/marinemill"
+  },
+  {
+    "name": "Mill City Museum (Minnesota Historical Society)",
+    "address": "704 S 2nd St, Minneapolis, MN 55401",
+    "coordinates": {
+      "latitude": 44.9786,
+      "longitude": -93.2569
+    },
+    "phone": "(612) 341-7555",
+    "website": "https://www.mnhs.org/millcity"
+  },
+  {
+    "name": "Mille Lacs Indian Museum and Trading Post (Minnesota Historical Society)",
+    "address": "43411 Oodena Dr, Onamia, MN 56359",
+    "coordinates": {
+      "latitude": 46.1389,
+      "longitude": -93.6689
+    },
+    "phone": "(320) 532-3632",
+    "website": "https://www.mnhs.org/millelacs"
+  },
+  {
+    "name": "Minnehaha Depot (Minnesota Historical Society)",
+    "address": "4189 Minnehaha Ave, Minneapolis, MN 55406",
+    "coordinates": {
+      "latitude": 44.9156,
+      "longitude": -93.2119
+    },
+    "phone": "(612) 726-1171",
+    "website": "https://www.mnhs.org/minnehahadepot"
+  },
+  {
+    "name": "Minnesota History Center (Minnesota Historical Society)",
+    "address": "345 W Kellogg Blvd, St Paul, MN 55102",
+    "coordinates": {
+      "latitude": 44.9425,
+      "longitude": -93.0989
+    },
+    "phone": "(651) 259-3000",
+    "website": "https://www.mnhs.org/historycenter"
+  },
+  {
+    "name": "Minnesota State Capitol (Minnesota Historical Society)",
+    "address": "75 Rev Dr Martin Luther King Jr Boulevard, St Paul, MN 55155",
+    "coordinates": {
+      "latitude": 44.9553,
+      "longitude": -93.1022
+    },
+    "phone": "(651) 296-2881",
+    "website": "https://www.mnhs.org/capitol"
+  },
+  {
+    "name": "Nicollet County Historical Society",
+    "address": "1851 N Minnesota Ave, Saint Peter, MN 56082",
+    "coordinates": {
+      "latitude": 44.3278,
+      "longitude": -93.9589
+    },
+    "phone": "(507) 934-2160",
+    "website": "https://www.nchsmn.org"
+  },
+  {
+    "name": "Oliver Kelley Farm (Minnesota Historical Society)",
+    "address": "15788 Kelley Farm Rd, Elk River, MN 55330",
+    "coordinates": {
+      "latitude": 45.3139,
+      "longitude": -93.5689
+    },
+    "phone": "(763) 441-6896",
+    "website": "https://www.mnhs.org/kelleyfarm"
+  },
+  {
+    "name": "Pavek Museum of Electronic Communication",
+    "address": "3517 Raleigh Ave, St Louis Park, MN 55416",
+    "coordinates": {
+      "latitude": 44.9489,
+      "longitude": -93.3408
+    },
+    "phone": "(952) 926-8198",
+    "website": "https://www.pavekmuseum.org"
+  },
+  {
+    "name": "Rochester Art Center",
+    "address": "40 Civic Center Dr SE, Rochester, MN 55904",
+    "coordinates": {
+      "latitude": 44.0219,
+      "longitude": -92.4619
+    },
+    "phone": "(507) 282-8629",
+    "website": "https://www.rochesterartcenter.org"
+  },
+  {
+    "name": "Sibley Historic Site (Minnesota Historical Society)",
+    "address": "1357 Sibley Memorial Hwy, Mendota, MN 55150",
+    "coordinates": {
+      "latitude": 44.8878,
+      "longitude": -93.1619
+    },
+    "phone": "(651) 452-1596",
+    "website": "https://www.mnhs.org/sibley"
+  },
+  {
+    "name": "Snake River Fur Post (Minnesota Historical Society)",
+    "address": "12551 Voyageur Ln, Pine City, MN 55063",
+    "coordinates": {
+      "latitude": 45.8258,
+      "longitude": -92.9689
+    },
+    "phone": "(320) 629-6356",
+    "website": "https://www.mnhs.org/snakeriver"
+  },
+  {
+    "name": "Split Rock Lighthouse (Minnesota Historical Society)",
+    "address": "3713 Split Rock Lighthouse Rd, Two Harbors, MN 55616",
+    "coordinates": {
+      "latitude": 47.1997,
+      "longitude": -91.3669
+    },
+    "phone": "(218) 226-6372",
+    "website": "https://www.mnhs.org/splitrock"
+  },
+  {
+    "name": "The Bakken Museum",
+    "address": "3537 Zenith Ave S, Minneapolis, MN 55416",
+    "coordinates": {
+      "latitude": 44.9489,
+      "longitude": -93.3408
+    },
+    "phone": "(612) 926-3878",
+    "website": "https://www.thebakken.org"
+  },
+  {
+    "name": "The Museum of Russian Art",
+    "address": "5500 Stevens Ave, Minneapolis, MN 55419",
+    "coordinates": {
+      "latitude": 44.9089,
+      "longitude": -93.2858
+    },
+    "phone": "(612) 821-9045",
+    "website": "https://www.tmora.org"
+  },
+  {
+    "name": "Traverse des Sioux (Minnesota Historical Society)",
+    "address": "1851 N Minnesota Ave, St Peter, MN 56082",
+    "coordinates": {
+      "latitude": 44.3278,
+      "longitude": -93.9589
+    },
+    "phone": "(507) 934-2160",
+    "website": "https://www.mnhs.org/traversedessioux"
+  },
+  {
+    "name": "W. W. Mayo House (Minnesota Historical Society)",
+    "address": "118 N Main St, Le Sueur, MN 56058",
+    "coordinates": {
+      "latitude": 44.4619,
+      "longitude": -93.9147
+    },
+    "phone": "(507) 665-3250",
+    "website": "https://www.mnhs.org/mayohouse"
+  },
+  {
+    "name": "Walker Art Center",
+    "address": "725 Vineland Pl, Minneapolis, MN 55403",
+    "coordinates": {
+      "latitude": 44.9689,
+      "longitude": -93.2886
+    },
+    "phone": "(612) 375-7600",
+    "website": "https://www.walkerart.org"
+  },
+  {
+    "name": "Wheels Across the Prairie Heritage Center",
+    "address": "100 US-14, Tracy, MN 56175",
+    "coordinates": {
+      "latitude": 44.2336,
+      "longitude": -95.6197
+    },
+    "phone": "(507) 629-4246",
+    "website": "https://www.wheelsacrosstheprairie.org"
+  }
+]

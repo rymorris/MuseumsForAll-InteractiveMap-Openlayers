@@ -1,0 +1,172 @@
+{
+  "institutions": [
+    {
+      "name": "Arizona Museum of Natural History",
+      "city": "Mesa",
+      "state": "Arizona",
+      "address": "53 N Macdonald, Mesa, AZ 85201",
+      "coordinates": {
+        "latitude": 33.4153,
+        "longitude": -111.8314
+      },
+      "phone": "(480) 644-2230",
+      "website": "https://www.azmnh.org"
+    },
+    {
+      "name": "Arizona Science Center",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "address": "600 E Washington St, Phoenix, AZ 85004",
+      "coordinates": {
+        "latitude": 33.4489,
+        "longitude": -112.0683
+      },
+      "phone": "(602) 716-2000",
+      "website": "https://www.azscience.org"
+    },
+    {
+      "name": "Arizona State Museum",
+      "city": "Tucson",
+      "state": "Arizona",
+      "address": "1013 E University Blvd, Tucson, AZ 85721",
+      "coordinates": {
+        "latitude": 32.2319,
+        "longitude": -110.9556
+      },
+      "phone": "(520) 621-6302",
+      "website": "https://statemuseum.arizona.edu"
+    },
+    {
+      "name": "Children's Museum of Yuma County",
+      "city": "Yuma",
+      "state": "Arizona",
+      "address": "302 W 3rd St, Yuma, AZ 85364",
+      "coordinates": {
+        "latitude": 32.7245,
+        "longitude": -114.6234
+      },
+      "phone": "(928) 314-9314",
+      "website": "https://www.cmyuma.org"
+    },
+    {
+      "name": "Flandrau Science Center & Planetarium",
+      "city": "Tucson",
+      "state": "Arizona",
+      "address": "1601 E University Blvd, Tucson, AZ 85719",
+      "coordinates": {
+        "latitude": 32.2336,
+        "longitude": -110.9528
+      },
+      "phone": "(520) 621-7827",
+      "website": "https://www.flandrau.org"
+    },
+    {
+      "name": "i.d.e.a. Museum",
+      "city": "Mesa",
+      "state": "Arizona",
+      "address": "150 W Pepper Pl, Mesa, AZ 85201",
+      "coordinates": {
+        "latitude": 33.4222,
+        "longitude": -111.8325
+      },
+      "phone": "(480) 644-2468",
+      "website": "https://www.ideamuseum.org"
+    },
+    {
+      "name": "Lowell Observatory",
+      "city": "Flagstaff",
+      "state": "Arizona",
+      "address": "1400 W Mars Hill Rd, Flagstaff, AZ 86001",
+      "coordinates": {
+        "latitude": 35.2028,
+        "longitude": -111.6656
+      },
+      "phone": "(928) 774-3358",
+      "website": "https://lowell.edu"
+    },
+    {
+      "name": "Meteor Crater & Barringer Space Museum",
+      "city": "Winslow",
+      "state": "Arizona",
+      "address": "Interstate 40, Exit 233, Winslow, AZ 86047",
+      "coordinates": {
+        "latitude": 35.0272,
+        "longitude": -111.0225
+      },
+      "phone": "(928) 289-5898",
+      "website": "https://meteorcrater.com"
+    },
+    {
+      "name": "Museum of Northern Arizona",
+      "city": "Flagstaff",
+      "state": "Arizona",
+      "address": "3101 N Fort Valley Rd, Flagstaff, AZ 86001",
+      "coordinates": {
+        "latitude": 35.2136,
+        "longitude": -111.6703
+      },
+      "phone": "(928) 774-5213",
+      "website": "https://musnaz.org"
+    },
+    {
+      "name": "Rosson House Museum at the Square PHX",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "address": "113 N 6th St, Phoenix, AZ 85004",
+      "coordinates": {
+        "latitude": 33.4506,
+        "longitude": -112.0711
+      },
+      "phone": "(602) 261-8947",
+      "website": "https://www.heritagesquarephx.org"
+    },
+    {
+      "name": "Southern Arizona Museum of Science and Technology",
+      "city": "Sierra Vista",
+      "state": "Arizona",
+      "address": "31 E Tacoma St, Sierra Vista, AZ 85635",
+      "coordinates": {
+        "latitude": 31.5544,
+        "longitude": -110.2744
+      },
+      "phone": "(520) 458-0274",
+      "website": "https://www.samstaz.org"
+    },
+    {
+      "name": "The Arboretum at Flagstaff",
+      "city": "Flagstaff",
+      "state": "Arizona",
+      "address": "4001 S Woody Mountain Rd, Flagstaff, AZ 86005",
+      "coordinates": {
+        "latitude": 35.1408,
+        "longitude": -111.7553
+      },
+      "phone": "(928) 774-1442",
+      "website": "https://thearb.org"
+    },
+    {
+      "name": "The Mini Time Machine Museum of Miniatures",
+      "city": "Tucson",
+      "state": "Arizona",
+      "address": "4455 E Camp Lowell Dr, Tucson, AZ 85712",
+      "coordinates": {
+        "latitude": 32.2772,
+        "longitude": -110.8908
+      },
+      "phone": "(520) 881-0606",
+      "website": "https://www.theminitimemachine.org"
+    },
+    {
+      "name": "Tohono Chul",
+      "city": "Tucson",
+      "state": "Arizona",
+      "address": "7366 N Paseo del Norte, Tucson, AZ 85704",
+      "coordinates": {
+        "latitude": 32.3447,
+        "longitude": -110.9842
+      },
+      "phone": "(520) 742-6455",
+      "website": "https://tohonochul.org"
+    }
+  ]
+}

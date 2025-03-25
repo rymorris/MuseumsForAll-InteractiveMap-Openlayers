@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Aviation Museum of Kentucky",
+    "address": "4029 Airport Rd, Lexington, KY 40510",
+    "coordinates": {
+      "latitude": 38.0369,
+      "longitude": -84.6058
+    },
+    "phone": "(859) 231-1219",
+    "website": "https://www.aviationky.org"
+  },
+  {
+    "name": "Behringer-Crawford Museum",
+    "address": "1600 Montague Rd, Covington, KY 41011",
+    "coordinates": {
+      "latitude": 39.0714,
+      "longitude": -84.5089
+    },
+    "phone": "(859) 491-4003",
+    "website": "https://www.bcmuseum.org"
+  },
+  {
+    "name": "Kentucky Science Center",
+    "address": "727 W Main St, Louisville, KY 40202",
+    "coordinates": {
+      "latitude": 38.2564,
+      "longitude": -85.7586
+    },
+    "phone": "(502) 561-6100",
+    "website": "https://kysciencecenter.org"
+  },
+  {
+    "name": "KMAC Museum",
+    "address": "715 W Main St, Louisville, KY 40202",
+    "coordinates": {
+      "latitude": 38.2561,
+      "longitude": -85.7608
+    },
+    "phone": "(502) 589-0102",
+    "website": "https://www.kentuckyarts.org"
+  },
+  {
+    "name": "Lexington Children's Museum",
+    "address": "401 W Main St, Lexington, KY 40507",
+    "coordinates": {
+      "latitude": 38.0467,
+      "longitude": -84.4978
+    },
+    "phone": "(859) 258-3256",
+    "website": "https://www.lexingtonchildrensmuseum.org"
+  },
+  {
+    "name": "Lexington History Museum",
+    "address": "215 W Main St, Lexington, KY 40507",
+    "coordinates": {
+      "latitude": 38.0469,
+      "longitude": -84.4972
+    },
+    "phone": "(859) 254-0530",
+    "website": "https://www.lexhistory.org"
+  },
+  {
+    "name": "Liberty Hall Historic Site",
+    "address": "218 Wilkinson St, Frankfort, KY 40601",
+    "coordinates": {
+      "latitude": 38.2008,
+      "longitude": -84.8789
+    },
+    "phone": "(502) 227-2560",
+    "website": "https://www.libertyhall.org"
+  },
+  {
+    "name": "Mary Todd Lincoln House",
+    "address": "578 W Main St, Lexington, KY 40507",
+    "coordinates": {
+      "latitude": 38.0486,
+      "longitude": -84.5033
+    },
+    "phone": "(859) 233-9999",
+    "website": "https://www.mtlhouse.org"
+  },
+  {
+    "name": "Shaker Village of Pleasant Hill",
+    "address": "3501 Lexington Rd, Harrodsburg, KY 40330",
+    "coordinates": {
+      "latitude": 37.8208,
+      "longitude": -84.7358
+    },
+    "phone": "(859) 734-5411",
+    "website": "https://www.shakervillageky.org"
+  },
+  {
+    "name": "Speed Art Museum",
+    "address": "2035 S 3rd St, Louisville, KY 40208",
+    "coordinates": {
+      "latitude": 38.2139,
+      "longitude": -85.7586
+    },
+    "phone": "(502) 634-2700",
+    "website": "https://www.speedmuseum.org"
+  },
+  {
+    "name": "The Filson Historical Society",
+    "address": "1310 S 3rd St, Louisville, KY 40208",
+    "coordinates": {
+      "latitude": 38.2136,
+      "longitude": -85.7583
+    },
+    "phone": "(502) 635-5083",
+    "website": "https://filsonhistorical.org"
+  }
+]

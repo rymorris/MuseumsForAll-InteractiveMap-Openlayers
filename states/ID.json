@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Discovery Center of Idaho",
+    "address": "131 W Myrtle St, Boise, ID 83702",
+    "coordinates": {
+      "latitude": 43.6136,
+      "longitude": -116.2075
+    },
+    "phone": "(208) 343-9895",
+    "website": "https://www.dcidaho.org"
+  },
+  {
+    "name": "Idaho State Museum",
+    "address": "610 Julia Davis Dr, Boise, ID 83702",
+    "coordinates": {
+      "latitude": 43.6086,
+      "longitude": -116.2094
+    },
+    "phone": "(208) 334-2120",
+    "website": "https://history.idaho.gov/idaho-state-museum"
+  },
+  {
+    "name": "Museum of North Idaho",
+    "address": "115 Northwest Blvd, Coeur d'Alene, ID 83814",
+    "coordinates": {
+      "latitude": 47.6744,
+      "longitude": -116.7850
+    },
+    "phone": "(208) 664-3448",
+    "website": "https://www.museumni.org"
+  },
+  {
+    "name": "Old Idaho Penitentiary",
+    "address": "2445 Old Penitentiary Rd, Boise, ID 83712",
+    "coordinates": {
+      "latitude": 43.6028,
+      "longitude": -116.1617
+    },
+    "phone": "(208) 334-2844",
+    "website": "https://history.idaho.gov/old-idaho-penitentiary"
+  },
+  {
+    "name": "The Peregrine Fund's World Center for Birds of Prey",
+    "address": "5668 W Flying Hawk Ln, Boise, ID 83709",
+    "coordinates": {
+      "latitude": 43.5628,
+      "longitude": -116.2619
+    },
+    "phone": "(208) 362-3716",
+    "website": "https://www.peregrinefund.org"
+  }
+]

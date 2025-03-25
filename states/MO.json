@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Camden County Museum",
+    "address": "206 S. Locust St., Linn Creek, MO 65052",
+    "coordinates": {"latitude": 38.0364, "longitude": -92.6824},
+    "phone": "573-346-7191",
+    "website": "https://www.camdencountymuseum.com/"
+  },
+  {
+    "name": "Contemporary Art Museum St. Louis",
+    "address": "3750 Washington Boulevard, St. Louis, MO 63108",
+    "coordinates": {"latitude": 38.6401, "longitude": -90.2337},
+    "phone": "(314) 535–4660",
+    "website": "https://camstl.org/"
+  },
+  {
+    "name": "Discovery Playhouse",
+    "address": "502 Broadway St., Cape Girardeau, MO 63701",
+    "coordinates": {"latitude": 37.3059, "longitude": -89.5181},
+    "phone": "(573) 335-7529",
+    "website": "https://discoveryplayhouse.org/"
+  },
+  {
+    "name": "Field House Museum",
+    "address": "634 South Broadway, St. Louis, MO 63102",
+    "coordinates": {"latitude": 38.6175, "longitude": -90.1910},
+    "phone": "314.421.4689",
+    "website": "https://fieldhousemuseum.org/"
+  },
+  {
+    "name": "Harry S. Truman Presidential Library and Museum",
+    "address": "500 W US Hwy 24, Independence, MO 64050",
+    "coordinates": {"latitude": 39.0911, "longitude": -94.4155},
+    "phone": "816-268-8200",
+    "website": "https://www.trumanlibrary.gov/"
+  },
+  {
+    "name": "inspireU Children's Discovery Center",
+    "address": "521 Felix St., St. Joseph, MO 64501",
+    "coordinates": {"latitude": 39.7675, "longitude": -94.8521},
+    "phone": "(816) 271-4900",
+    "website": "https://www.inspireu.com/"
+  },
+  {
+    "name": "Missouri Quilt Museum",
+    "address": "300 East Bird Street, Hamilton, MO 64644",
+    "coordinates": {"latitude": 39.7442, "longitude": -93.9983},
+    "phone": "(660) 605-4068",
+    "website": "https://www.missouriquiltmuseum.com/"
+  },
+  {
+    "name": "Museum of Art and Archaeology",
+    "address": "520 S 9th St | Room 1, Ellis Library, Columbia, MO 65211",
+    "coordinates": {"latitude": 38.9460, "longitude": -92.3280},
+    "phone": "573-882-3591",
+    "website": "https://maa.missouri.edu/"
+  },
+  {
+    "name": "National Blues Museum",
+    "address": "615 Washington Ave., St. Louis, MO 63101",
+    "coordinates": {"latitude": 38.6315, "longitude": -90.1895},
+    "phone": "(314) 925-0016",
+    "website": "https://www.nationalbluesmuseum.org/"
+  },
+  {
+    "name": "Pulitzer Arts Foundation",
+    "address": "3716 Washington Boulevard, St. Louis, MO 63108",
+    "coordinates": {"latitude": 38.6405, "longitude": -90.2340},
+    "phone": "314 754 1850",
+    "website": "https://pulitzerarts.org/"
+  },
+  {
+    "name": "The National Museum of Toys and Miniatures",
+    "address": "5235 Oak St., Kansas City, MO 64112",
+    "coordinates": {"latitude": 39.0348, "longitude": -94.5800},
+    "phone": "(816) 235-8000",
+    "website": "https://toyandminiaturemuseum.org/"
+  },
+  {
+    "name": "The Rabbit hOle",
+    "address": "919 E 14th Ave., North Kansas City, MO 64116",
+    "coordinates": {"latitude": 39.1425, "longitude": -94.5720},
+    "phone": "(816) 492-7915",
+    "website": "https://www.rabbitholekc.org/"
+  },
+  {
+    "name": "The Regnier Family Wonderscope Children's Museum of Kansas City",
+    "address": "433 E Red Bridge Road, Kansas City, MO 64131",
+    "coordinates": {"latitude": 38.9136, "longitude": -94.5853},
+    "phone": "(816) 643-6700",
+    "website": "https://wonderscope.org/"
+  },
+  {
+    "name": "The Stars and Stripes National Museum and Library",
+    "address": "17377 Stars and Stripes Way, Bloomfield, MO 63825",
+    "coordinates": {"latitude": 36.8840, "longitude": -89.9312},
+    "phone": "573-568-2055",
+    "website": "https://www.nssml.org/"
+  }
+]

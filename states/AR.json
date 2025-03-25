@@ -1,0 +1,64 @@
+{
+  "institutions": [
+    {
+      "name": "Arkansas Air & Military Museum",
+      "city": "Fayetteville",
+      "state": "Arkansas",
+      "address": "4290 S School Ave, Fayetteville, AR 72701",
+      "coordinates": {
+        "latitude": 36.0525,
+        "longitude": -94.1578
+      },
+      "phone": "(479) 521-4947",
+      "website": "https://www.arkansasairandmilitary.com"
+    },
+    {
+      "name": "Arkansas Museum of Fine Arts",
+      "city": "Little Rock",
+      "state": "Arkansas",
+      "address": "501 E 9th St, Little Rock, AR 72202",
+      "coordinates": {
+        "latitude": 34.7417,
+        "longitude": -92.2694
+      },
+      "phone": "(501) 372-4000",
+      "website": "https://www.arkmfa.org"
+    },
+    {
+      "name": "Little Rock Zoo",
+      "city": "Little Rock",
+      "state": "Arkansas",
+      "address": "1 Zoo Dr, Little Rock, AR 72205",
+      "coordinates": {
+        "latitude": 34.7469,
+        "longitude": -92.3289
+      },
+      "phone": "(501) 661-7200",
+      "website": "https://www.littlerockzoo.com"
+    },
+    {
+      "name": "Museum of Discovery",
+      "city": "Little Rock",
+      "state": "Arkansas",
+      "address": "500 President Clinton Ave #150, Little Rock, AR 72201",
+      "coordinates": {
+        "latitude": 34.7475,
+        "longitude": -92.2653
+      },
+      "phone": "(501) 396-7050",
+      "website": "https://www.museumofdiscovery.org"
+    },
+    {
+      "name": "United States Marshals Museum",
+      "city": "Fort Smith",
+      "state": "Arkansas",
+      "address": "789 Riverfront Dr, Fort Smith, AR 72901",
+      "coordinates": {
+        "latitude": 35.3864,
+        "longitude": -94.4283
+      },
+      "phone": "(479) 709-3766",
+      "website": "https://www.usmarshalsmuseum.org"
+    }
+  ]
+}

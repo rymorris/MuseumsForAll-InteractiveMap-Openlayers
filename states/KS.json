@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Amelia Earhart Birthplace Museum",
+    "address": "223 N Terrace St, Atchison, KS 66002",
+    "coordinates": {
+      "latitude": 39.5636,
+      "longitude": -95.1283
+    },
+    "phone": "(913) 367-4217",
+    "website": "https://www.ameliaearhartmuseum.org"
+  },
+  {
+    "name": "Botanica, The Wichita Gardens",
+    "address": "701 Amidon St, Wichita, KS 67203",
+    "coordinates": {
+      "latitude": 37.6925,
+      "longitude": -97.3378
+    },
+    "phone": "(316) 264-0448",
+    "website": "https://www.botanica.org"
+  },
+  {
+    "name": "Cosmosphere",
+    "address": "1100 N Plum St, Hutchinson, KS 67501",
+    "coordinates": {
+      "latitude": 38.0658,
+      "longitude": -97.9297
+    },
+    "phone": "(620) 662-2305",
+    "website": "https://www.cosmo.org"
+  },
+  {
+    "name": "Exploration Place",
+    "address": "300 N McLean Blvd, Wichita, KS 67203",
+    "coordinates": {
+      "latitude": 37.6950,
+      "longitude": -97.3403
+    },
+    "phone": "(316) 660-0600",
+    "website": "https://www.exploration.org"
+  },
+  {
+    "name": "Flint Hills Discovery Center",
+    "address": "315 S 3rd St, Manhattan, KS 66502",
+    "coordinates": {
+      "latitude": 39.1814,
+      "longitude": -96.5639
+    },
+    "phone": "(785) 587-2726",
+    "website": "https://www.flinthillsdiscovery.org"
+  },
+  {
+    "name": "Hillsboro Museums",
+    "address": "501 S Ash St, Hillsboro, KS 67063",
+    "coordinates": {
+      "latitude": 38.3478,
+      "longitude": -97.2036
+    },
+    "phone": "(620) 947-3774",
+    "website": "https://www.hillsboromuseum.org"
+  },
+  {
+    "name": "Johnson County Museum",
+    "address": "8788 Metcalf Ave, Overland Park, KS 66212",
+    "coordinates": {
+      "latitude": 38.9822,
+      "longitude": -94.6711
+    },
+    "phone": "(913) 715-2550",
+    "website": "https://www.jcprd.com/Museum"
+  },
+  {
+    "name": "Kansas Aviation Museum",
+    "address": "3350 George Washington Blvd, Wichita, KS 67210",
+    "coordinates": {
+      "latitude": 37.6542,
+      "longitude": -97.4297
+    },
+    "phone": "(316) 683-9242",
+    "website": "https://www.kansasaviationmuseum.org"
+  },
+  {
+    "name": "Kansas Children's Discovery Center",
+    "address": "4400 SW 10th Ave, Topeka, KS 66604",
+    "coordinates": {
+      "latitude": 39.0369,
+      "longitude": -95.7442
+    },
+    "phone": "(785) 783-8300",
+    "website": "https://www.kansasdiscovery.org"
+  },
+  {
+    "name": "Lindsborg Old Mill & Swedish Heritage Museum",
+    "address": "120 E Mill St, Lindsborg, KS 67456",
+    "coordinates": {
+      "latitude": 38.5739,
+      "longitude": -97.6739
+    },
+    "phone": "(785) 227-3595",
+    "website": "https://www.oldmillmuseum.org"
+  },
+  {
+    "name": "Mid-America All-Indian Museum",
+    "address": "650 N Seneca St, Wichita, KS 67203",
+    "coordinates": {
+      "latitude": 37.7000,
+      "longitude": -97.3361
+    },
+    "phone": "(316) 350-3340",
+    "website": "https://www.theindiancenter.org/museum"
+  },
+  {
+    "name": "Museum at Prairiefire",
+    "address": "5801 W 135th St, Overland Park, KS 66223",
+    "coordinates": {
+      "latitude": 38.8875,
+      "longitude": -94.6742
+    },
+    "phone": "(913) 333-3500",
+    "website": "https://www.visitthemap.org"
+  },
+  {
+    "name": "Old Cowtown Museum",
+    "address": "1865 Museum Blvd, Wichita, KS 67203",
+    "coordinates": {
+      "latitude": 37.6933,
+      "longitude": -97.3500
+    },
+    "phone": "(316) 350-3323",
+    "website": "https://www.oldcowtown.org"
+  },
+  {
+    "name": "Sedgwick County Zoo",
+    "address": "5555 W Zoo Blvd, Wichita, KS 67212",
+    "coordinates": {
+      "latitude": 37.7194,
+      "longitude": -97.4608
+    },
+    "phone": "(316) 266-8213",
+    "website": "https://www.scz.org"
+  },
+  {
+    "name": "Shawnee Town 1929",
+    "address": "11501 W 57th St, Shawnee, KS 66203",
+    "coordinates": {
+      "latitude": 39.0150,
+      "longitude": -94.7669
+    },
+    "phone": "(913) 248-2360",
+    "website": "https://www.shawneetown.org"
+  },
+  {
+    "name": "Sunset Zoo",
+    "address": "2333 Oak St, Manhattan, KS 66502",
+    "coordinates": {
+      "latitude": 39.1833,
+      "longitude": -96.5833
+    },
+    "phone": "(785) 587-2737",
+    "website": "https://www.sunsetzoo.com"
+  },
+  {
+    "name": "Topeka Zoo & Conservation Center",
+    "address": "635 SW Gage Blvd, Topeka, KS 66606",
+    "coordinates": {
+      "latitude": 39.0519,
+      "longitude": -95.7139
+    },
+    "phone": "(785) 368-9180",
+    "website": "https://www.topekazoo.org"
+  },
+  {
+    "name": "Wichita Art Museum",
+    "address": "1400 W Museum Blvd, Wichita, KS 67203",
+    "coordinates": {
+      "latitude": 37.6939,
+      "longitude": -97.3458
+    },
+    "phone": "(316) 268-4921",
+    "website": "https://www.wichitaartmuseum.org"
+  },
+  {
+    "name": "Wichita-Sedgwick County Historical Museum",
+    "address": "204 S Main St, Wichita, KS 67202",
+    "coordinates": {
+      "latitude": 37.6875,
+      "longitude": -97.3353
+    },
+    "phone": "(316) 265-9314",
+    "website": "https://www.wichitahistory.org"
+  },
+  {
+    "name": "Wonder Workshop Children's Museum",
+    "address": "2601 Anderson Ave, Manhattan, KS 66502",
+    "coordinates": {
+      "latitude": 39.1814,
+      "longitude": -96.5639
+    },
+    "phone": "(785) 537-9060",
+    "website": "https://www.wonderworkshop.org"
+  }
+]

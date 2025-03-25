@@ -1,0 +1,194 @@
+{
+  "institutions": [
+    {
+      "name": "Cherokee County Museum",
+      "address": "301 S Limestone St, Gaffney, SC 29340",
+      "coordinates": {
+        "latitude": 35.0736,
+        "longitude": -81.6534
+      },
+      "phone": "(864) 487-6244",
+      "website": "http://cherokeecountymuseum.org/"
+    },
+    {
+      "name": "Children's Museum of the Lowcountry",
+      "address": "25 Ann St, Charleston, SC 29403",
+      "coordinates": {
+        "latitude": 32.7811,
+        "longitude": -79.9448
+      },
+      "phone": "(843) 853-8962",
+      "website": "https://explorecml.org/"
+    },
+    {
+      "name": "Columbia Museum of Art",
+      "address": "1515 Main St, Columbia, SC 29201",
+      "coordinates": {
+        "latitude": 34.0007,
+        "longitude": -81.0348
+      },
+      "phone": "(803) 799-2810",
+      "website": "https://www.columbiamuseum.org/"
+    },
+    {
+      "name": "Darlington County Historical Commission & Museum",
+      "address": "204 N Main St, Darlington, SC 29532",
+      "coordinates": {
+        "latitude": 34.3005,
+        "longitude": -79.8430
+      },
+      "phone": "(843) 398-4000",
+      "website": "http://darcosc.com/historical-commission"
+    },
+    {
+      "name": "EdVenture Children's Museum: Columbia",
+      "address": "211 Gervais St, Columbia, SC 29201",
+      "coordinates": {
+        "latitude": 34.0039,
+        "longitude": -81.0284
+      },
+      "phone": "(803) 779-3100",
+      "website": "https://edventure.org/"
+    },
+    {
+      "name": "EdVenture Children's Museum: Myrtle Beach",
+      "address": "2200 N Oak St, Myrtle Beach, SC 29577",
+      "coordinates": {
+        "latitude": 33.6948,
+        "longitude": -78.8775
+      },
+      "phone": "(843) 918-1200",
+      "website": "https://www.edventure.org/"
+    },
+    {
+      "name": "Halsey Institute of Contemporary Art at the College of Charleston",
+      "address": "161 Calhoun St, Charleston, SC 29401",
+      "coordinates": {
+        "latitude": 32.7856,
+        "longitude": -79.9359
+      },
+      "phone": "(843) 953-5680",
+      "website": "https://www.halsey.cofc.edu/"
+    },
+    {
+      "name": "Historic Brattonsville (Culture & Heritage Museums)",
+      "address": "1444 Brattonsville Rd, McConnells, SC 29726",
+      "coordinates": {
+        "latitude": 34.7731,
+        "longitude": -80.9051
+      },
+      "phone": "(803) 684-2327",
+      "website": "https://chmuseums.org/brattonsville/"
+    },
+    {
+      "name": "Main Street Children's Museum (Culture & Heritage Museums)",
+      "address": "133 E Main St, Rock Hill, SC 29730",
+      "coordinates": {
+        "latitude": 34.9289,
+        "longitude": -81.0251
+      },
+      "phone": "(803) 981-9182",
+      "website": "https://chmuseums.org/mainstreet/"
+    },
+    {
+      "name": "McCelvey Center (Culture & Heritage Museums)",
+      "address": "212 E Jefferson St, York, SC 29745",
+      "coordinates": {
+        "latitude": 34.9954,
+        "longitude": -81.2462
+      },
+      "phone": "(803) 684-2124",
+      "website": "https://chmuseums.org/mccelvey-center/"
+    },
+    {
+      "name": "Museum of York County (Culture & Heritage Museums)",
+      "address": "4621 Mt Gallant Rd, Rock Hill, SC 29732",
+      "coordinates": {
+        "latitude": 34.9345,
+        "longitude": -81.0149
+      },
+      "phone": "(803) 329-2121",
+      "website": "https://chmuseums.org/york/"
+    },
+    {
+      "name": "Patriots Point Naval & Maritime Museum",
+      "address": "40 Patriots Point Rd, Mt Pleasant, SC 29464",
+      "coordinates": {
+        "latitude": 32.7859,
+        "longitude": -79.9017
+      },
+      "phone": "(843) 884-2727",
+      "website": "https://www.patriotspoint.org/"
+    },
+    {
+      "name": "Sigal Music Museum",
+      "address": "300 E Camperdown Way, Greenville, SC 29601",
+      "coordinates": {
+        "latitude": 34.8476,
+        "longitude": -82.3952
+      },
+      "phone": "(864) 520-8800",
+      "website": "https://www.sigalmusicmuseum.org/"
+    },
+    {
+      "name": "South Carolina State Museum",
+      "address": "301 Gervais St, Columbia, SC 29201",
+      "coordinates": {
+        "latitude": 34.0020,
+        "longitude": -81.0324
+      },
+      "phone": "(803) 898-4921",
+      "website": "https://www.scmuseum.org/"
+    },
+    {
+      "name": "The Children's Museum of the Upstate",
+      "address": "300 College St, Greenville, SC 29601",
+      "coordinates": {
+        "latitude": 34.8509,
+        "longitude": -82.3971
+      },
+      "phone": "(864) 223-4330",
+      "website": "https://www.tcmupstate.org/"
+    },
+    {
+      "name": "The Children's Museum of the Upstate - Spartanburg",
+      "address": "130 Magnolia St, Spartanburg, SC 29306",
+      "coordinates": {
+        "latitude": 34.9493,
+        "longitude": -81.9320
+      },
+      "phone": "(864) 576-4141",
+      "website": "https://www.tcmupstate.org/"
+    },
+    {
+      "name": "The Powder Magazine Museum",
+      "address": "79 Cumberland St, Charleston, SC 29401",
+      "coordinates": {
+        "latitude": 32.7813,
+        "longitude": -79.9353
+      },
+      "phone": "(843) 722-3996",
+      "website": "https://www.charlestonmuseum.org/"
+    },
+    {
+      "name": "The Sandbox: An Interactive Children’s Museum",
+      "address": "18 McQueen Ave, Hilton Head Island, SC 29926",
+      "coordinates": {
+        "latitude": 32.2124,
+        "longitude": -80.6775
+      },
+      "phone": "(843) 842-7645",
+      "website": "https://www.thesandbox.org/"
+    },
+    {
+      "name": "Upcountry History Museum - Furman University",
+      "address": "540 Buncombe St, Greenville, SC 29601",
+      "coordinates": {
+        "latitude": 34.8515,
+        "longitude": -82.3977
+      },
+      "phone": "(864) 467-3100",
+      "website": "https://www.upcountryhistory.org/"
+    }
+  ]
+}

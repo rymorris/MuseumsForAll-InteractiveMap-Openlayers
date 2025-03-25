@@ -1,0 +1,44 @@
+{
+  "institutions": [
+    {
+      "name": "Butterfly House & Aquarium",
+      "address": "4320 S Oxbow Ave, Sioux Falls, SD 57106",
+      "coordinates": {
+        "latitude": 43.4825,
+        "longitude": -96.7462
+      },
+      "phone": "(605) 334-8780",
+      "website": "https://www.butterflyhouseaquarium.org/"
+    },
+    {
+      "name": "Children's Museum of South Dakota",
+      "address": "521 4th St, Brookings, SD 57006",
+      "coordinates": {
+        "latitude": 44.2996,
+        "longitude": -96.7912
+      },
+      "phone": "(605) 692-6700",
+      "website": "https://www.cmofsd.org/"
+    },
+    {
+      "name": "Museum of Geology",
+      "address": "501 E St Joseph St, Rapid City, SD 57701",
+      "coordinates": {
+        "latitude": 44.0802,
+        "longitude": -103.2279
+      },
+      "phone": "(605) 394-2467",
+      "website": "https://www.sdsmt.edu/museum/"
+    },
+    {
+      "name": "South Dakota Discovery Center",
+      "address": "805 W Sioux Ave, Pierre, SD 57501",
+      "coordinates": {
+        "latitude": 44.3683,
+        "longitude": -100.3587
+      },
+      "phone": "(605) 224-8295",
+      "website": "https://www.sd-discovery.org/"
+    }
+  ]
+}

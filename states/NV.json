@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Beatty Museum and Historical Society",
+    "address": "417 Main St, Beatty, NV 89003",
+    "coordinates": {
+      "latitude": 36.9086,
+      "longitude": -116.7583
+    },
+    "phone": "(775) 553-2303",
+    "website": "https://www.beattymuseum.org"
+  },
+  {
+    "name": "Boulder City/Hoover Dam Museum",
+    "address": "1305 Arizona St, Boulder City, NV 89005",
+    "coordinates": {
+      "latitude": 35.9786,
+      "longitude": -114.8325
+    },
+    "phone": "(702) 294-1988",
+    "website": "https://www.bcmha.org"
+  },
+  {
+    "name": "Burlesque Hall of Fame",
+    "address": "1027 S Main St #110, Las Vegas, NV 89101",
+    "coordinates": {
+      "latitude": 36.1586,
+      "longitude": -115.1525
+    },
+    "phone": "(702) 777-7737",
+    "website": "https://www.burlesquehall.com"
+  },
+  {
+    "name": "Churchill County Museum",
+    "address": "1050 S Maine St, Fallon, NV 89406",
+    "coordinates": {
+      "latitude": 39.4714,
+      "longitude": -118.7775
+    },
+    "phone": "(775) 423-3677",
+    "website": "https://www.ccmuseum.org"
+  },
+  {
+    "name": "DISCOVERY Children's Museum",
+    "address": "360 Promenade Pl, Las Vegas, NV 89106",
+    "coordinates": {
+      "latitude": 36.1697,
+      "longitude": -115.1728
+    },
+    "phone": "(702) 382-3445",
+    "website": "https://www.discoverykidslv.org"
+  },
+  {
+    "name": "National Atomic Testing Museum",
+    "address": "755 E Flamingo Rd, Las Vegas, NV 89119",
+    "coordinates": {
+      "latitude": 36.1086,
+      "longitude": -115.1486
+    },
+    "phone": "(702) 794-5151",
+    "website": "https://www.nationalatomictestingmuseum.org"
+  },
+  {
+    "name": "Nevada State Museum | Las Vegas",
+    "address": "309 S Valley View Blvd, Las Vegas, NV 89107",
+    "coordinates": {
+      "latitude": 36.1486,
+      "longitude": -115.1903
+    },
+    "phone": "(702) 486-5205",
+    "website": "https://www.nvculture.org/nevadastatemuseums"
+  },
+  {
+    "name": "Northeastern Nevada Museum",
+    "address": "1515 Idaho St, Elko, NV 89801",
+    "coordinates": {
+      "latitude": 40.8386,
+      "longitude": -115.7628
+    },
+    "phone": "(775) 738-3418",
+    "website": "https://www.museumelko.org"
+  },
+  {
+    "name": "Springs Preserve",
+    "address": "333 S Valley View Blvd, Las Vegas, NV 89107",
+    "coordinates": {
+      "latitude": 36.1686,
+      "longitude": -115.1936
+    },
+    "phone": "(702) 822-7700",
+    "website": "https://www.springspreserve.org"
+  },
+  {
+    "name": "The Neon Museum",
+    "address": "770 Las Vegas Blvd N, Las Vegas, NV 89101",
+    "coordinates": {
+      "latitude": 36.1808,
+      "longitude": -115.1358
+    },
+    "phone": "(702) 387-6366",
+    "website": "https://www.neonmuseum.org"
+  }
+]
