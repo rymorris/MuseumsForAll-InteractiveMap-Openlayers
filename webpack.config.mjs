@@ -17,7 +17,7 @@ const config = {
   devtool: 'cheap-module-source-map', // Better for development
   output: {
     filename: 'bundle.js',
-    path: path.resolve(__dirname, 'dist'),
+    path: path.resolve(__dirname, ''),
     publicPath: '/',
   },
   module: {
@@ -30,7 +30,7 @@ const config = {
   },
   devServer: {
     static: {
-      directory: path.join(__dirname, 'dist'),
+      directory: path.join(__dirname, ''),
     },
     compress: false,
     port: 9000,
@@ -66,15 +66,15 @@ const config = {
       patterns: [
         {
           from: path.resolve(__dirname, 'src', 'index.css'),
-          to: path.resolve(__dirname, 'dist', 'index.css')
+          to: path.resolve(__dirname, '', 'index.css')
         },
         {
           from: path.resolve(__dirname, 'src', 'USCities.json'),
-          to: path.resolve(__dirname, 'dist', 'USCities.json')
+          to: path.resolve(__dirname, '', 'USCities.json')
         },
         {
           from: path.resolve(__dirname, 'src', 'about.html'),
-          to: path.resolve(__dirname, 'dist', 'about.html')
+          to: path.resolve(__dirname, '', 'about.html')
         }
       ]
     })
