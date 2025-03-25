@@ -301,3 +301,10 @@ p {
   -webkit-box-shadow: none !important;
   -moz-box-shadow: none !important;
 }
+.popup-content p {
+  text-align: left;
+}
+
+.popup-content p.disclaimer {
+  font-size: 1rem;
+}
