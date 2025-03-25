@@ -1,15 +1,15 @@
 // import modules
 import "ol/ol.css"
-import { Map, View, Feature } from 'ol'
-import TileLayer from 'ol/layer/Tile'
-import OSM from 'ol/source/OSM'
-import { defaults as defaultControls, ScaleLine,ZoomSlider,ZoomToExtent} from 'ol/control'
-import VectorSource from 'ol/source/Vector'
-import {  Vector as VectorLayer } from 'ol/layer'
+import { Map, View, Feature } from 'ol/index.js'
+import TileLayer from 'ol/layer/Tile.js'
+import OSM from 'ol/source/OSM.js'
+import { defaults as defaultControls, ScaleLine,ZoomSlider,ZoomToExtent} from 'ol/control.js'
+import VectorSource from 'ol/source/Vector.js'
+import {  Vector as VectorLayer } from 'ol/layer.js'
 import { Circle, Fill, Stroke, Style } from 'ol/style.js';
 import Overlay from 'ol/Overlay.js';
-import {  fromLonLat } from "ol/proj"
-import Point from "ol/geom/Point"
+import {  fromLonLat } from "ol/proj.js"
+import Point from "ol/geom/Point.js"
 
 // get information container
 var container = document.getElementById('popup');
