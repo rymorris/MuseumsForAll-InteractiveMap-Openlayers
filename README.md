@@ -18,4 +18,4 @@ This page is built with OpenLayers and based on the nodejs-geoserver-openlayers-
 
 ```npm run build```
 
-### Start and Build both create an updated list of all Museums from the states folder and create a webpack build in the "dist" folder.
+### Start and Build both create an updated list of all Museums from the states folder and create a webpack build in the "gh-pages" folder.

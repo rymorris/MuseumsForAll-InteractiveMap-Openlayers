@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const directoryPath = './states'; // path to your JSON files
-const outputFile = './dist/combined.json';
+const outputFile = './gh-pages/combined.json';
 
 readdir(directoryPath, (err, files) => {
   if (err) {
