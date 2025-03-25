@@ -1,9 +1,9 @@
-# nodejs-geoserver-openlayers-boilerplate
-This is a boilerplate template for creating web map applications with openlayers and geoserver.
+# MuseumsForAll-InteractiveMap-Openlayers
+This page is built with OpenLayers and based on the nodejs-geoserver-openlayers-boilerplate repo. This repo uses webpack to build a static, self-contained site that maps all museums participating in the IMLS Museums for All program. 
 
 #### Clone repo
 
-```` git clone https://github.com/Grace-Amondi/geoserver-openlayers-boilerplate.git````
+```` git clone https://github.com/rymorris/MuseumsForAll-InteractiveMap-Openlayers.git````
 
 #### Install modules
 
@@ -11,11 +11,11 @@ This is a boilerplate template for creating web map applications with openlayers
 
 #### For development
 
-```npm start```
+```npm run dev```
 
 
 #### Build
 
 ```npm run build```
 
-Open `index.html` in browser
+### Start and Build both create an updated list of all Museums from the states folder and create a webpack build in the "dist" folder.

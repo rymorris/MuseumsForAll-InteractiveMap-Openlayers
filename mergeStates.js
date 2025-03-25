@@ -1,10 +1,16 @@
-const fs = require('fs');
-const path = require('path');
+import { readdir, readFileSync, writeFileSync } from 'fs';
+import { join } from 'path';
+import { fileURLToPath } from 'url';
+import { dirname } from 'path';
+
+// Get current directory path in ES modules
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 const directoryPath = './states'; // path to your JSON files
-const outputFile = 'combined.json';
+const outputFile = './dist/combined.json';
 
-fs.readdir(directoryPath, (err, files) => {
+readdir(directoryPath, (err, files) => {
   if (err) {
     console.error('Error reading directory:', err);
     return;
@@ -14,16 +20,16 @@ fs.readdir(directoryPath, (err, files) => {
   const combinedArray = [];
 
   jsonFiles.forEach(file => {
-    const filePath = path.join(directoryPath, file);
-    const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    const filePath = join(__dirname, directoryPath, file);
+    const data = JSON.parse(readFileSync(filePath, 'utf8'));
     console.log(data);
     if (data.institutions) {
-        combinedArray.push(...data.institutions);
-        } else {
-            combinedArray.push(...data);
-        }
+      combinedArray.push(...data.institutions);
+    } else {
+      combinedArray.push(...data);
+    }
   });
 
-  fs.writeFileSync(outputFile, JSON.stringify(combinedArray, null, 2));
+  writeFileSync(join(__dirname, outputFile), JSON.stringify(combinedArray, null, 2));
   console.log(`Combined ${jsonFiles.length} files into ${outputFile}`);
 });

@@ -2,6 +2,10 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import webpack from 'webpack';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
+import CopyWebpackPlugin from 'copy-webpack-plugin';
+import WebpackShellPluginNext from 'webpack-shell-plugin-next';
+
+
 
 // Create __dirname equivalent
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -9,11 +13,11 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 // Webpack configuration
 const config = {
   mode: 'development',
-  entry: './index.js',
+  entry: './src/index.js',
   devtool: 'cheap-module-source-map', // Better for development
   output: {
     filename: 'bundle.js',
-    path: path.resolve(__dirname, ''),
+    path: path.resolve(__dirname, 'dist'),
     publicPath: '/',
   },
   module: {
@@ -26,7 +30,7 @@ const config = {
   },
   devServer: {
     static: {
-      directory: path.join(__dirname, ''),
+      directory: path.join(__dirname, 'dist'),
     },
     compress: false,
     port: 9000,
@@ -34,6 +38,18 @@ const config = {
     open: false,
   },
   plugins: [
+    new WebpackShellPluginNext({
+      onBuildStart: {
+        scripts: ['node ./mergeStates.js'],
+        blocking: true, // Waits for script to finish
+        parallel: false
+      },
+      onBuildEnd: {
+        scripts: ['echo "states merged"'],
+        blocking: false, // Runs in background
+        parallel: true
+      }
+    }),
     new webpack.ProvidePlugin({
       process: 'process/browser',
     }),
@@ -41,9 +57,27 @@ const config = {
       Buffer: ['buffer', 'Buffer'],
     }),
     new HtmlWebpackPlugin({
-      template: './index.html',
+      template: './src/index.html',
       filename: 'index.html',
+      inject: 'body', // Explicitly inject at end of body
+      hash: true, // Optional: adds hash to prevent caching issues
     }),
+    new CopyWebpackPlugin({
+      patterns: [
+        {
+          from: path.resolve(__dirname, 'src', 'index.css'),
+          to: path.resolve(__dirname, 'dist', 'index.css')
+        },
+        {
+          from: path.resolve(__dirname, 'src', 'USCities.json'),
+          to: path.resolve(__dirname, 'dist', 'USCities.json')
+        },
+        {
+          from: path.resolve(__dirname, 'src', 'about.html'),
+          to: path.resolve(__dirname, 'dist', 'about.html')
+        }
+      ]
+    })
   ],
   resolve: {
     fallback: {
