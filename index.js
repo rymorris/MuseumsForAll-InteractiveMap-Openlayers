@@ -19,8 +19,8 @@ var closer = document.getElementById('popup-closer');
 // define view
 const view = new View({
   projection: 'EPSG:4326',
-  center: [37.0400, -0.7839],
-  zoom: 13
+  center: [-98.583333, 39.833333],
+  zoom: 3
 })
 
 var vectorSource = new VectorSource();
@@ -65,7 +65,7 @@ const map = new Map({
     new ZoomSlider(),
     new ZoomToExtent({
       extent: [
-        36.70170233932109, -1.0942626313459929, 37.41451596564397, -0.567184137048762
+        -98.583333, 39.833333, -98.583333, 39.833333
       ]
     })
   ]),
@@ -102,23 +102,28 @@ $(document).ready(function () {
 
 });
 
+
 // Add click handler to the map
 map.on('click', function(evt) {
+  evt.stopPropagation();
+
   const feature = map.forEachFeatureAtPixel(evt.pixel, function(feature) {
     return feature;
   });
   
+  console.log('Feature:', feature);
   if (feature) {
     const properties = feature.getProperties();
     const coordinate = evt.coordinate;
     
     content.innerHTML = `
       <h3>${properties.name}</h3>
-      <p><strong>Address:</strong> <a href="http://maps.google.com/?q=${properties.name}+${properties.address}">${properties.address}</a></p>
-      <p><strong>Phone:</strong> <a href='tel: ${properties.phone}'>${properties.phone}</a></p>
-      <p><strong>Website:</strong> <a href="${properties.website}" target="_blank">${properties.website}</a></p>
+      <p><strong>Address:</strong> <a target="_blank" href="http://maps.google.com/?q=${properties.name}+${properties.address}">${properties.address}</a></p>
+      <p><strong>Phone:</strong> <a target="_blank" href='tel: ${properties.phone}'>${properties.phone}</a></p>
+      <p><strong>Website:</strong> <a target="_blank" href="${properties.website}">${properties.website}</a></p>
       <button class="google-maps-button" onclick="window.open('http://maps.google.com/?q=${properties.name}+${properties.address}', '_blank')">Open in Google Maps</button>
     `;
+
     overlay.setPosition(coordinate);
   } else {
     overlay.setPosition(undefined);
@@ -267,7 +272,7 @@ function getUserLocationAndSetMap() {
         // Update map view
         const view = map.getView();
         view.setCenter(userCoords);
-        view.setZoom(12); // Zoom level for a good local view
+        view.setZoom(13); // Zoom level for a good local view
 
         // 5. Create and add vector layer (only if not already added to map)
 if (!map.getLayers().getArray().some(layer => layer instanceof VectorLayer)) {
@@ -284,8 +289,8 @@ if (!map.getLayers().getArray().some(layer => layer instanceof VectorLayer)) {
         // Error callback
         console.error('Error getting location:', error.message);
         // Fallback to default coordinates
-        map.getView().setCenter([-0.7839, 37.0400]); // Your default coordinates
-        map.getView().setZoom(13);
+        map.getView().setCenter([-98.583333, 39.833333]); // Your default coordinates
+        map.getView().setZoom(3);
       },
       {
         enableHighAccuracy: true, // Try to get the most accurate position
