@@ -231,9 +231,6 @@ document.addEventListener('DOMContentLoaded', function () {
                             // Set the input value to the selected city
                             cityInput.value = `${city.city}, ${city.state}`;
 
-                            // Hide the results after selection
-                            resultsDiv.innerHTML = '';
-
                             // Center the map on the selected city
                             if (typeof city.longitude === 'number' && typeof city.latitude === 'number') {
                               map.getView().animate({

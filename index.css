@@ -189,7 +189,8 @@ body {
     box-shadow: -4px 0 0 0 rgba(170, 98, 4, 0.26);
     height: calc(100%);
     overflow-y: auto;
-    height: 175px;
+    height: 190px;
+    height: -webkit-min-content;
     top: 60px;
     right: 20px;
   }
