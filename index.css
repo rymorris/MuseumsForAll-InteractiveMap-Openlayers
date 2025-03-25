@@ -29,11 +29,11 @@ body {
 .site-main {
   position: relative;
   z-index: 1;
-  height: 100vh;
+  height:  100dvh;
 }
 @media screen and (min-width: 64em) {
   .site-main {
-    height: calc(100vh - 4rem);
+    height: calc( 100dvh - 4rem);
   }
 }
 
@@ -93,11 +93,11 @@ body {
 }
 
 .map-container {
-  height: calc(100vh - 77px);
+  height: calc( 100dvh - 77px);
 }
 @media screen and (min-width: 64em) {
   .map-container {
-    height: 100vh;
+    height:  100dvh;
   }
 }
 
@@ -185,7 +185,7 @@ body {
   z-index: 4;
   width: 100%;
   box-shadow: 0 -2px 0 rgba(170, 98, 4, 0.26);
-  background-color: rgb(2, 2, 2);
+  background-color: #fff;
   padding: 1rem;
 }
 @media screen and (min-width: 64em) {
@@ -202,7 +202,7 @@ body {
 @media print, screen and (min-width: 40em) {
   .site-main:not(.has-content-open) .map-container,
   .site-main:not(.has-content-open) .sidebar {
-    height: calc(100vh);
+    height: calc( 100dvh);
   }
 }
 
