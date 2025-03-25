@@ -298,3 +298,17 @@ if (!map.getLayers().getArray().some(layer => layer instanceof VectorLayer)) {
     // Fallback to default coordinates
   }
 }
+
+// On page load
+window.addEventListener('load', function() {
+  setTimeout(function() {
+      window.scrollTo(0, 1);
+  }, 100);
+});
+
+// On orientation change
+window.addEventListener('orientationchange', function() {
+  setTimeout(function() {
+      window.scrollTo(0, 1);
+  }, 100);
+});
