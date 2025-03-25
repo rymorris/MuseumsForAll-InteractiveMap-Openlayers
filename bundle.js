@@ -48081,7 +48081,7 @@ var closer = document.getElementById('popup-closer');
 // define view
 const view = new ol_index_js__WEBPACK_IMPORTED_MODULE_2__["default"]({
   projection: 'EPSG:3857',
-  center: [-98.583333, 39.833333],
+  center: [-10198538, 5535775],
   zoom: 3
 })
 
@@ -48216,8 +48216,7 @@ fetch('combined.json', {
     const features = institutions.map(institution => {
       // Convert coordinates to the map's projection
       const coords = (0,ol_proj_js__WEBPACK_IMPORTED_MODULE_1__.fromLonLat)(
-        [institution.coordinates.longitude, institution.coordinates.latitude],
-        view.getProjection()
+        [institution.coordinates.longitude, institution.coordinates.latitude]
       );
       
       // Create a point feature
@@ -48295,8 +48294,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
                             // Center the map on the selected city
                             if (typeof city.longitude === 'number' && typeof city.latitude === 'number') {
+                              const centerCoords = (0,ol_proj_js__WEBPACK_IMPORTED_MODULE_1__.fromLonLat)(
+                                [city.longitude, city.latitude]// Optional: specify target projection
+                              );
                               map.getView().animate({
-                                  center: [city.longitude, city.latitude],
+                                  center: centerCoords,
                                   zoom: 11
                               });
                           } else {
@@ -48331,7 +48333,7 @@ function getUserLocationAndSetMap() {
         
         // Update map view
         const view = map.getView();
-        view.setCenter(userCoords);
+        view.setCenter((0,ol_proj_js__WEBPACK_IMPORTED_MODULE_1__.fromLonLat)(userCoords));
         view.setZoom(11); // Zoom level for a good local view
 
         // 5. Create and add vector layer (only if not already added to map)
@@ -48349,8 +48351,11 @@ if (!map.getLayers().getArray().some(layer => layer instanceof ol_layer_js__WEBP
         // Error callback
         console.error('Error getting location:', error.message);
         // Fallback to default coordinates
-        map.getView().setCenter([-98.583333, 39.833333]); // Your default coordinates
-        map.getView().setZoom(3);
+        const defaultCoords = (0,ol_proj_js__WEBPACK_IMPORTED_MODULE_1__.fromLonLat)(
+          [-98.583333, 39.833333] // Optional: specify target projection
+        );
+        map.getView().setCenter(defaultCoords); // Your default coordinates
+        map.getView().setZoom(4);
       },
       {
         enableHighAccuracy: true, // Try to get the most accurate position

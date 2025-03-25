@@ -154,8 +154,7 @@ fetch('combined.json', {
     const features = institutions.map(institution => {
       // Convert coordinates to the map's projection
       const coords = fromLonLat(
-        [institution.coordinates.longitude, institution.coordinates.latitude],
-        view.getProjection()
+        [institution.coordinates.longitude, institution.coordinates.latitude]
       );
       
       // Create a point feature
@@ -234,8 +233,7 @@ document.addEventListener('DOMContentLoaded', function () {
                             // Center the map on the selected city
                             if (typeof city.longitude === 'number' && typeof city.latitude === 'number') {
                               const centerCoords = fromLonLat(
-                                [city.longitude, city.latitude],
-                                view.getProjection() // Optional: specify target projection
+                                [city.longitude, city.latitude]// Optional: specify target projection
                               );
                               map.getView().animate({
                                   center: centerCoords,
@@ -273,7 +271,7 @@ function getUserLocationAndSetMap() {
         
         // Update map view
         const view = map.getView();
-        view.setCenter(fromLonLat(userCoords, view.getProjection()));
+        view.setCenter(fromLonLat(userCoords));
         view.setZoom(11); // Zoom level for a good local view
 
         // 5. Create and add vector layer (only if not already added to map)
@@ -292,8 +290,7 @@ if (!map.getLayers().getArray().some(layer => layer instanceof VectorLayer)) {
         console.error('Error getting location:', error.message);
         // Fallback to default coordinates
         const defaultCoords = fromLonLat(
-          [-98.583333, 39.833333],
-          view.getProjection() // Optional: specify target projection
+          [-98.583333, 39.833333] // Optional: specify target projection
         );
         map.getView().setCenter(defaultCoords); // Your default coordinates
         map.getView().setZoom(4);
