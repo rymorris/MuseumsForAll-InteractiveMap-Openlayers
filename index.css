@@ -1,3 +1,8 @@
+html {
+  height: 100.1%; /* Slightly more than viewport */
+  overflow-y: scroll;
+}
+
 body {
   margin:0;
   padding:0;
@@ -6,6 +11,7 @@ body {
   height:100%;
   box-sizing: border-box;
 }
+
 .site-header {
   height: 3rem;
   position: relative;
@@ -179,7 +185,7 @@ body {
   z-index: 4;
   width: 100%;
   box-shadow: 0 -2px 0 rgba(170, 98, 4, 0.26);
-  background-color: White;
+  background-color: rgb(2, 2, 2);
   padding: 1rem;
 }
 @media screen and (min-width: 64em) {
