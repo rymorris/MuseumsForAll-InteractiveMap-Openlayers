@@ -80,6 +80,14 @@ const config = {
           to: path.resolve(__dirname, '', 'USCities.json')
         },
         {
+          from: path.resolve(__dirname, 'src', 'USCities.json'),
+          to: path.resolve(__dirname, 'states', 'USCities.json')
+        },
+        {
+          from: path.resolve(__dirname, '', 'combined.json'),
+          to: path.resolve(__dirname, 'states', 'combined.json')
+        },
+        {
           from: path.resolve(__dirname, 'src', 'about.html'),
           to: path.resolve(__dirname, '', 'about.html')
         },
