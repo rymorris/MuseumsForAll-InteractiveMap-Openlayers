@@ -48077,13 +48077,24 @@ __webpack_require__.r(__webpack_exports__);
 var container = document.getElementById('popup');
 var content = document.getElementById('popup-content');
 var closer = document.getElementById('popup-closer');
+let startCoords; 
+let startZoom;
 
-// define view
+if (!stateCenter) {
+  startCoords = (0,ol_proj_js__WEBPACK_IMPORTED_MODULE_1__.fromLonLat)([-98.583333, 39.833333])
+  startZoom = 3;
+} else {
+  
+  console.log(stateCenter)
+  startCoords = (0,ol_proj_js__WEBPACK_IMPORTED_MODULE_1__.fromLonLat)(stateCenter);
+  startZoom = 6;
+}
+
 const view = new ol_index_js__WEBPACK_IMPORTED_MODULE_2__["default"]({
   projection: 'EPSG:3857',
-  center: [-10198538, 5535775],
-  zoom: 3
-})
+  center: startCoords,
+  zoom: startZoom
+});
 
 var vectorSource = new ol_source_Vector_js__WEBPACK_IMPORTED_MODULE_3__["default"]();
 var vector = new ol_layer_js__WEBPACK_IMPORTED_MODULE_4__["default"]({
@@ -48351,11 +48362,8 @@ if (!map.getLayers().getArray().some(layer => layer instanceof ol_layer_js__WEBP
         // Error callback
         console.error('Error getting location:', error.message);
         // Fallback to default coordinates
-        const defaultCoords = (0,ol_proj_js__WEBPACK_IMPORTED_MODULE_1__.fromLonLat)(
-          [-98.583333, 39.833333] // Optional: specify target projection
-        );
-        map.getView().setCenter(defaultCoords); // Your default coordinates
-        map.getView().setZoom(4);
+          map.getView().setCenter(startCoords); // Your default coordinates
+          map.getView().setZoom(startZoom);
       },
       {
         enableHighAccuracy: true, // Try to get the most accurate position

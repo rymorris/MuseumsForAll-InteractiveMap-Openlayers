@@ -4,6 +4,7 @@ import webpack from 'webpack';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
 import CopyWebpackPlugin from 'copy-webpack-plugin';
 import WebpackShellPluginNext from 'webpack-shell-plugin-next';
+import { buildPlugins } from './buildStates.mjs';
 
 
 
@@ -61,6 +62,12 @@ const config = {
       filename: 'index.html',
       inject: 'body', // Explicitly inject at end of body
       hash: true, // Optional: adds hash to prevent caching issues
+      templateParameters: {
+        state: '',
+        url: '',
+        urlPrefix: '',
+        stateCenter: 'const stateCenter = undefined;',
+      }
     }),
     new CopyWebpackPlugin({
       patterns: [
@@ -77,7 +84,8 @@ const config = {
           to: path.resolve(__dirname, '', 'about.html')
         }
       ]
-    })
+    }),
+    ...buildPlugins(),
   ],
   resolve: {
     fallback: {

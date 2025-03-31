@@ -15,13 +15,24 @@ import Point from "ol/geom/Point.js"
 var container = document.getElementById('popup');
 var content = document.getElementById('popup-content');
 var closer = document.getElementById('popup-closer');
+let startCoords; 
+let startZoom;
 
-// define view
+if (!stateCenter) {
+  startCoords = fromLonLat([-98.583333, 39.833333])
+  startZoom = 3;
+} else {
+  
+  console.log(stateCenter)
+  startCoords = fromLonLat(stateCenter);
+  startZoom = 6;
+}
+
 const view = new View({
   projection: 'EPSG:3857',
-  center: [-10198538, 5535775],
-  zoom: 3
-})
+  center: startCoords,
+  zoom: startZoom
+});
 
 var vectorSource = new VectorSource();
 var vector = new VectorLayer({
@@ -289,11 +300,8 @@ if (!map.getLayers().getArray().some(layer => layer instanceof VectorLayer)) {
         // Error callback
         console.error('Error getting location:', error.message);
         // Fallback to default coordinates
-        const defaultCoords = fromLonLat(
-          [-98.583333, 39.833333] // Optional: specify target projection
-        );
-        map.getView().setCenter(defaultCoords); // Your default coordinates
-        map.getView().setZoom(4);
+          map.getView().setCenter(startCoords); // Your default coordinates
+          map.getView().setZoom(startZoom);
       },
       {
         enableHighAccuracy: true, // Try to get the most accurate position

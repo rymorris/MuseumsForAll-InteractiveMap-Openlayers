@@ -7,7 +7,7 @@ import { dirname } from 'path';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const directoryPath = './states'; // path to your JSON files
+const directoryPath = './statesJSON'; // path to your JSON files
 const outputFile = './combined.json';
 
 readdir(directoryPath, (err, files) => {

@@ -1,29 +1,5 @@
 [
   {
-    "name": "Fairbanks Children's Museum",
-    "city": "Fairbanks",
-    "state": "Alaska",
-    "address": "302 Cushman St, Fairbanks, AK 99701",
-    "coordinates": {
-      "latitude": 64.8436,
-      "longitude": -147.7235
-    },
-    "phone": "(907) 374-3171",
-    "website": "https://www.fairbankschildrensmuseum.com"
-  },
-  {
-    "name": "University of Alaska Museum of the North",
-    "city": "Fairbanks",
-    "state": "Alaska",
-    "address": "1962 Yukon Dr, Fairbanks, AK 99775",
-    "coordinates": {
-      "latitude": 64.8584,
-      "longitude": -147.8414
-    },
-    "phone": "(907) 474-7505",
-    "website": "https://www.uaf.edu/museum/"
-  },
-  {
     "name": "Alabama Constitution Hall Park",
     "city": "Huntsville",
     "state": "Alabama",
@@ -178,64 +154,28 @@
     "phone": "(205) 933-1409"
   },
   {
-    "name": "Arkansas Air & Military Museum",
-    "city": "Fayetteville",
-    "state": "Arkansas",
-    "address": "4290 S School Ave, Fayetteville, AR 72701",
+    "name": "Fairbanks Children's Museum",
+    "city": "Fairbanks",
+    "state": "Alaska",
+    "address": "302 Cushman St, Fairbanks, AK 99701",
     "coordinates": {
-      "latitude": 36.0525,
-      "longitude": -94.1578
+      "latitude": 64.8436,
+      "longitude": -147.7235
     },
-    "phone": "(479) 521-4947",
-    "website": "https://www.arkansasairandmilitary.com"
+    "phone": "(907) 374-3171",
+    "website": "https://www.fairbankschildrensmuseum.com"
   },
   {
-    "name": "Arkansas Museum of Fine Arts",
-    "city": "Little Rock",
-    "state": "Arkansas",
-    "address": "501 E 9th St, Little Rock, AR 72202",
+    "name": "University of Alaska Museum of the North",
+    "city": "Fairbanks",
+    "state": "Alaska",
+    "address": "1962 Yukon Dr, Fairbanks, AK 99775",
     "coordinates": {
-      "latitude": 34.7417,
-      "longitude": -92.2694
+      "latitude": 64.8584,
+      "longitude": -147.8414
     },
-    "phone": "(501) 372-4000",
-    "website": "https://www.arkmfa.org"
-  },
-  {
-    "name": "Little Rock Zoo",
-    "city": "Little Rock",
-    "state": "Arkansas",
-    "address": "1 Zoo Dr, Little Rock, AR 72205",
-    "coordinates": {
-      "latitude": 34.7469,
-      "longitude": -92.3289
-    },
-    "phone": "(501) 661-7200",
-    "website": "https://www.littlerockzoo.com"
-  },
-  {
-    "name": "Museum of Discovery",
-    "city": "Little Rock",
-    "state": "Arkansas",
-    "address": "500 President Clinton Ave #150, Little Rock, AR 72201",
-    "coordinates": {
-      "latitude": 34.7475,
-      "longitude": -92.2653
-    },
-    "phone": "(501) 396-7050",
-    "website": "https://www.museumofdiscovery.org"
-  },
-  {
-    "name": "United States Marshals Museum",
-    "city": "Fort Smith",
-    "state": "Arkansas",
-    "address": "789 Riverfront Dr, Fort Smith, AR 72901",
-    "coordinates": {
-      "latitude": 35.3864,
-      "longitude": -94.4283
-    },
-    "phone": "(479) 709-3766",
-    "website": "https://www.usmarshalsmuseum.org"
+    "phone": "(907) 474-7505",
+    "website": "https://www.uaf.edu/museum/"
   },
   {
     "name": "Arizona Museum of Natural History",
@@ -404,6 +344,66 @@
     },
     "phone": "(520) 742-6455",
     "website": "https://tohonochul.org"
+  },
+  {
+    "name": "Arkansas Air & Military Museum",
+    "city": "Fayetteville",
+    "state": "Arkansas",
+    "address": "4290 S School Ave, Fayetteville, AR 72701",
+    "coordinates": {
+      "latitude": 36.0525,
+      "longitude": -94.1578
+    },
+    "phone": "(479) 521-4947",
+    "website": "https://www.arkansasairandmilitary.com"
+  },
+  {
+    "name": "Arkansas Museum of Fine Arts",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "address": "501 E 9th St, Little Rock, AR 72202",
+    "coordinates": {
+      "latitude": 34.7417,
+      "longitude": -92.2694
+    },
+    "phone": "(501) 372-4000",
+    "website": "https://www.arkmfa.org"
+  },
+  {
+    "name": "Little Rock Zoo",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "address": "1 Zoo Dr, Little Rock, AR 72205",
+    "coordinates": {
+      "latitude": 34.7469,
+      "longitude": -92.3289
+    },
+    "phone": "(501) 661-7200",
+    "website": "https://www.littlerockzoo.com"
+  },
+  {
+    "name": "Museum of Discovery",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "address": "500 President Clinton Ave #150, Little Rock, AR 72201",
+    "coordinates": {
+      "latitude": 34.7475,
+      "longitude": -92.2653
+    },
+    "phone": "(501) 396-7050",
+    "website": "https://www.museumofdiscovery.org"
+  },
+  {
+    "name": "United States Marshals Museum",
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "address": "789 Riverfront Dr, Fort Smith, AR 72901",
+    "coordinates": {
+      "latitude": 35.3864,
+      "longitude": -94.4283
+    },
+    "phone": "(479) 709-3766",
+    "website": "https://www.usmarshalsmuseum.org"
   },
   {
     "name": "Agape Children's Museum",
@@ -3238,90 +3238,6 @@
     "website": "https://www.shorelinetrolley.org"
   },
   {
-    "name": "Hillwood Estate, Museum & Gardens",
-    "city": "Washington",
-    "state": "District of Columbia",
-    "address": "4155 Linnean Ave NW, Washington, DC 20008",
-    "coordinates": {
-      "latitude": 38.9416,
-      "longitude": -77.0594
-    },
-    "phone": "(202) 686-5807",
-    "website": "https://www.hillwoodmuseum.org"
-  },
-  {
-    "name": "International Spy Museum",
-    "city": "Washington",
-    "state": "District of Columbia",
-    "address": "700 L'Enfant Plaza SW, Washington, DC 20024",
-    "coordinates": {
-      "latitude": 38.8845,
-      "longitude": -77.0246
-    },
-    "phone": "(202) 393-7798",
-    "website": "https://www.spymuseum.org"
-  },
-  {
-    "name": "Museum of the Bible",
-    "city": "Washington",
-    "state": "District of Columbia",
-    "address": "400 4th St SW, Washington, DC 20024",
-    "coordinates": {
-      "latitude": 38.8867,
-      "longitude": -77.0189
-    },
-    "phone": "(866) 430-6682",
-    "website": "https://www.museumofthebible.org"
-  },
-  {
-    "name": "National Building Museum",
-    "city": "Washington",
-    "state": "District of Columbia",
-    "address": "401 F St NW, Washington, DC 20001",
-    "coordinates": {
-      "latitude": 38.898,
-      "longitude": -77.0179
-    },
-    "phone": "(202) 272-2448",
-    "website": "https://www.nbm.org"
-  },
-  {
-    "name": "National Children's Museum",
-    "city": "Washington",
-    "state": "District of Columbia",
-    "address": "1300 Pennsylvania Ave NW, Washington, DC 20004",
-    "coordinates": {
-      "latitude": 38.8953,
-      "longitude": -77.0317
-    },
-    "phone": "(202) 844-2486",
-    "website": "https://www.nationalchildrensmuseum.org"
-  },
-  {
-    "name": "President Lincoln's Cottage",
-    "city": "Washington",
-    "state": "District of Columbia",
-    "address": "140 Rock Creek Church Rd NW, Washington, DC 20011",
-    "coordinates": {
-      "latitude": 38.9417,
-      "longitude": -77.012
-    },
-    "phone": "(202) 829-0436",
-    "website": "https://www.lincolncottage.org"
-  },
-  {
-    "name": "Tudor Place",
-    "city": "Washington",
-    "state": "District of Columbia",
-    "address": "1644 31st St NW, Washington, DC 20007",
-    "coordinates": {
-      "latitude": 38.9137,
-      "longitude": -77.0638
-    },
-    "phone": "(202) 965-0400",
-    "website": "https://www.tudorplace.org"
-  },
-  {
     "name": "Biggs Museum of American Art",
     "city": "Dover",
     "state": "Delaware",
@@ -3428,6 +3344,90 @@
     },
     "phone": "(800) 448-3883",
     "website": "https://www.winterthur.org"
+  },
+  {
+    "name": "Hillwood Estate, Museum & Gardens",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "address": "4155 Linnean Ave NW, Washington, DC 20008",
+    "coordinates": {
+      "latitude": 38.9416,
+      "longitude": -77.0594
+    },
+    "phone": "(202) 686-5807",
+    "website": "https://www.hillwoodmuseum.org"
+  },
+  {
+    "name": "International Spy Museum",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "address": "700 L'Enfant Plaza SW, Washington, DC 20024",
+    "coordinates": {
+      "latitude": 38.8845,
+      "longitude": -77.0246
+    },
+    "phone": "(202) 393-7798",
+    "website": "https://www.spymuseum.org"
+  },
+  {
+    "name": "Museum of the Bible",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "address": "400 4th St SW, Washington, DC 20024",
+    "coordinates": {
+      "latitude": 38.8867,
+      "longitude": -77.0189
+    },
+    "phone": "(866) 430-6682",
+    "website": "https://www.museumofthebible.org"
+  },
+  {
+    "name": "National Building Museum",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "address": "401 F St NW, Washington, DC 20001",
+    "coordinates": {
+      "latitude": 38.898,
+      "longitude": -77.0179
+    },
+    "phone": "(202) 272-2448",
+    "website": "https://www.nbm.org"
+  },
+  {
+    "name": "National Children's Museum",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "address": "1300 Pennsylvania Ave NW, Washington, DC 20004",
+    "coordinates": {
+      "latitude": 38.8953,
+      "longitude": -77.0317
+    },
+    "phone": "(202) 844-2486",
+    "website": "https://www.nationalchildrensmuseum.org"
+  },
+  {
+    "name": "President Lincoln's Cottage",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "address": "140 Rock Creek Church Rd NW, Washington, DC 20011",
+    "coordinates": {
+      "latitude": 38.9417,
+      "longitude": -77.012
+    },
+    "phone": "(202) 829-0436",
+    "website": "https://www.lincolncottage.org"
+  },
+  {
+    "name": "Tudor Place",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "address": "1644 31st St NW, Washington, DC 20007",
+    "coordinates": {
+      "latitude": 38.9137,
+      "longitude": -77.0638
+    },
+    "phone": "(202) 965-0400",
+    "website": "https://www.tudorplace.org"
   },
   {
     "name": "Albin Polasek Museum & Sculpture Gardens",
@@ -4690,256 +4690,6 @@
     "website": "https://www.konahistorical.org"
   },
   {
-    "name": "African American Museum of Iowa",
-    "address": "55 12th Ave SE, Cedar Rapids, IA 52401",
-    "coordinates": {
-      "latitude": 41.9775,
-      "longitude": -91.6578
-    },
-    "phone": "(319) 862-2101",
-    "website": "https://www.blackiowa.org"
-  },
-  {
-    "name": "Carroll Children's Museum",
-    "address": "418 W 6th St, Carroll, IA 51401",
-    "coordinates": {
-      "latitude": 42.0636,
-      "longitude": -94.8692
-    },
-    "phone": "(712) 792-5900",
-    "website": "https://www.carrollchildrensmuseum.org"
-  },
-  {
-    "name": "Cedar Valley Arboretum & Botanic Gardens",
-    "address": "1927 Arboretum Dr, Waterloo, IA 50701",
-    "coordinates": {
-      "latitude": 42.4925,
-      "longitude": -92.3478
-    },
-    "phone": "(319) 226-4966",
-    "website": "https://www.cedarvalleyarboretum.org"
-  },
-  {
-    "name": "Des Moines Children's Museum",
-    "address": "1235 8th St, West Des Moines, IA 50265",
-    "coordinates": {
-      "latitude": 41.5869,
-      "longitude": -93.7292
-    },
-    "phone": "(515) 224-9088",
-    "website": "https://www.dmchildrensmuseum.org"
-  },
-  {
-    "name": "Des Moines County Historical Society",
-    "address": "501 N 4th St, Burlington, IA 52601",
-    "coordinates": {
-      "latitude": 40.8092,
-      "longitude": -91.1025
-    },
-    "phone": "(319) 752-7449",
-    "website": "https://www.dmchs.org"
-  },
-  {
-    "name": "Dubuque Museum of Art",
-    "address": "701 Locust St, Dubuque, IA 52001",
-    "coordinates": {
-      "latitude": 42.5006,
-      "longitude": -90.6647
-    },
-    "phone": "(563) 557-1851",
-    "website": "https://www.dbqart.org"
-  },
-  {
-    "name": "Family Museum",
-    "address": "2900 Learning Campus Dr, Bettendorf, IA 52722",
-    "coordinates": {
-      "latitude": 41.5458,
-      "longitude": -90.4767
-    },
-    "phone": "(563) 344-4106",
-    "website": "https://www.familymuseum.org"
-  },
-  {
-    "name": "Figge Art Museum",
-    "address": "225 W 2nd St, Davenport, IA 52801",
-    "coordinates": {
-      "latitude": 41.5219,
-      "longitude": -90.5744
-    },
-    "phone": "(563) 326-7804",
-    "website": "https://www.figgeartmuseum.org"
-  },
-  {
-    "name": "German American Heritage Center & Museum",
-    "address": "712 W 2nd St, Davenport, IA 52802",
-    "coordinates": {
-      "latitude": 41.5211,
-      "longitude": -90.5797
-    },
-    "phone": "(563) 322-8844",
-    "website": "https://www.gahc.org"
-  },
-  {
-    "name": "Grandma Jane's Playhouse",
-    "address": "520 Rocksylvania Ave, Iowa Falls, IA 50126",
-    "coordinates": {
-      "latitude": 42.5228,
-      "longitude": -93.2658
-    },
-    "phone": "(641) 648-7070",
-    "website": "https://www.grandmajanesplayhouse.org"
-  },
-  {
-    "name": "Greater Des Moines Botanical Garden",
-    "address": "909 Robert D. Ray Dr, Des Moines, IA 50309",
-    "coordinates": {
-      "latitude": 41.5911,
-      "longitude": -93.6119
-    },
-    "phone": "(515) 323-6290",
-    "website": "https://www.dmbotanicalgarden.com"
-  },
-  {
-    "name": "Grout Museum District",
-    "address": "503 South St, Waterloo, IA 50701",
-    "coordinates": {
-      "latitude": 42.4922,
-      "longitude": -92.3433
-    },
-    "phone": "(319) 234-6357",
-    "website": "https://www.groutmuseumdistrict.org"
-  },
-  {
-    "name": "Johnson County Historical Society",
-    "address": "860 Quarry Rd, Coralville, IA 52241",
-    "coordinates": {
-      "latitude": 41.6936,
-      "longitude": -91.5908
-    },
-    "phone": "(319) 351-5738",
-    "website": "https://www.johnsoncountyhistory.org"
-  },
-  {
-    "name": "LaunchPAD Children's Museum",
-    "address": "623 Pearl St, Sioux City, IA 51101",
-    "coordinates": {
-      "latitude": 42.4958,
-      "longitude": -96.4042
-    },
-    "phone": "(712) 224-2222",
-    "website": "https://www.launchpadmuseum.com"
-  },
-  {
-    "name": "Museum of Danish America",
-    "address": "2212 Washington St, Elk Horn, IA 51531",
-    "coordinates": {
-      "latitude": 41.5919,
-      "longitude": -95.0597
-    },
-    "phone": "(712) 764-7001",
-    "website": "https://www.danishmuseum.org"
-  },
-  {
-    "name": "National Czech & Slovak Museum & Library",
-    "address": "1400 Inspiration Pl SW, Cedar Rapids, IA 52404",
-    "coordinates": {
-      "latitude": 41.9717,
-      "longitude": -91.6789
-    },
-    "phone": "(319) 362-8500",
-    "website": "https://www.ncsml.org"
-  },
-  {
-    "name": "National Mississippi River Museum & Aquarium",
-    "address": "350 E 3rd St, Dubuque, IA 52001",
-    "coordinates": {
-      "latitude": 42.4964,
-      "longitude": -90.6617
-    },
-    "phone": "(563) 557-9545",
-    "website": "https://www.rivermuseum.com"
-  },
-  {
-    "name": "National Wrestling Hall of Fame Dan Gable Museum",
-    "address": "303 Jefferson St, Waterloo, IA 50701",
-    "coordinates": {
-      "latitude": 42.4928,
-      "longitude": -92.3419
-    },
-    "phone": "(319) 233-0745",
-    "website": "https://www.nwhof.org"
-  },
-  {
-    "name": "Phelps Youth Pavilion at Waterloo Center for the Arts",
-    "address": "225 Commercial St, Waterloo, IA 50701",
-    "coordinates": {
-      "latitude": 42.4922,
-      "longitude": -92.3433
-    },
-    "phone": "(319) 291-4490",
-    "website": "https://www.waterlooarts.org/phelps"
-  },
-  {
-    "name": "Reiman Gardens",
-    "address": "1407 University Blvd, Ames, IA 50011",
-    "coordinates": {
-      "latitude": 42.0194,
-      "longitude": -93.6389
-    },
-    "phone": "(515) 294-2710",
-    "website": "https://www.reimangardens.com"
-  },
-  {
-    "name": "Science Center of Iowa",
-    "address": "401 W Martin Luther King Jr Pkwy, Des Moines, IA 50309",
-    "coordinates": {
-      "latitude": 41.5917,
-      "longitude": -93.6119
-    },
-    "phone": "(515) 274-6868",
-    "website": "https://www.sciowa.org"
-  },
-  {
-    "name": "State Historical Museum of Iowa",
-    "address": "600 E Locust St, Des Moines, IA 50319",
-    "coordinates": {
-      "latitude": 41.5911,
-      "longitude": -93.6083
-    },
-    "phone": "(515) 281-5111",
-    "website": "https://www.historyiowa.org"
-  },
-  {
-    "name": "The Iowa Children's Museum",
-    "address": "1451 Coral Ridge Ave, Coralville, IA 52241",
-    "coordinates": {
-      "latitude": 41.6936,
-      "longitude": -91.5908
-    },
-    "phone": "(319) 625-6255",
-    "website": "https://www.theicm.org"
-  },
-  {
-    "name": "The Putnam Museum & Science Center",
-    "address": "1717 W 12th St, Davenport, IA 52804",
-    "coordinates": {
-      "latitude": 41.5311,
-      "longitude": -90.6087
-    },
-    "phone": "(563) 324-1933",
-    "website": "https://www.putnam.org"
-  },
-  {
-    "name": "Vesterheim",
-    "address": "502 W Water St, Decorah, IA 52101",
-    "coordinates": {
-      "latitude": 43.3036,
-      "longitude": -91.7903
-    },
-    "phone": "(563) 382-9681",
-    "website": "https://www.vesterheim.org"
-  },
-  {
     "name": "Discovery Center of Idaho",
     "address": "131 W Myrtle St, Boise, ID 83702",
     "coordinates": {
@@ -5650,6 +5400,256 @@
     "website": "https://www.whitleycountyhistoricalmuseum.org"
   },
   {
+    "name": "African American Museum of Iowa",
+    "address": "55 12th Ave SE, Cedar Rapids, IA 52401",
+    "coordinates": {
+      "latitude": 41.9775,
+      "longitude": -91.6578
+    },
+    "phone": "(319) 862-2101",
+    "website": "https://www.blackiowa.org"
+  },
+  {
+    "name": "Carroll Children's Museum",
+    "address": "418 W 6th St, Carroll, IA 51401",
+    "coordinates": {
+      "latitude": 42.0636,
+      "longitude": -94.8692
+    },
+    "phone": "(712) 792-5900",
+    "website": "https://www.carrollchildrensmuseum.org"
+  },
+  {
+    "name": "Cedar Valley Arboretum & Botanic Gardens",
+    "address": "1927 Arboretum Dr, Waterloo, IA 50701",
+    "coordinates": {
+      "latitude": 42.4925,
+      "longitude": -92.3478
+    },
+    "phone": "(319) 226-4966",
+    "website": "https://www.cedarvalleyarboretum.org"
+  },
+  {
+    "name": "Des Moines Children's Museum",
+    "address": "1235 8th St, West Des Moines, IA 50265",
+    "coordinates": {
+      "latitude": 41.5869,
+      "longitude": -93.7292
+    },
+    "phone": "(515) 224-9088",
+    "website": "https://www.dmchildrensmuseum.org"
+  },
+  {
+    "name": "Des Moines County Historical Society",
+    "address": "501 N 4th St, Burlington, IA 52601",
+    "coordinates": {
+      "latitude": 40.8092,
+      "longitude": -91.1025
+    },
+    "phone": "(319) 752-7449",
+    "website": "https://www.dmchs.org"
+  },
+  {
+    "name": "Dubuque Museum of Art",
+    "address": "701 Locust St, Dubuque, IA 52001",
+    "coordinates": {
+      "latitude": 42.5006,
+      "longitude": -90.6647
+    },
+    "phone": "(563) 557-1851",
+    "website": "https://www.dbqart.org"
+  },
+  {
+    "name": "Family Museum",
+    "address": "2900 Learning Campus Dr, Bettendorf, IA 52722",
+    "coordinates": {
+      "latitude": 41.5458,
+      "longitude": -90.4767
+    },
+    "phone": "(563) 344-4106",
+    "website": "https://www.familymuseum.org"
+  },
+  {
+    "name": "Figge Art Museum",
+    "address": "225 W 2nd St, Davenport, IA 52801",
+    "coordinates": {
+      "latitude": 41.5219,
+      "longitude": -90.5744
+    },
+    "phone": "(563) 326-7804",
+    "website": "https://www.figgeartmuseum.org"
+  },
+  {
+    "name": "German American Heritage Center & Museum",
+    "address": "712 W 2nd St, Davenport, IA 52802",
+    "coordinates": {
+      "latitude": 41.5211,
+      "longitude": -90.5797
+    },
+    "phone": "(563) 322-8844",
+    "website": "https://www.gahc.org"
+  },
+  {
+    "name": "Grandma Jane's Playhouse",
+    "address": "520 Rocksylvania Ave, Iowa Falls, IA 50126",
+    "coordinates": {
+      "latitude": 42.5228,
+      "longitude": -93.2658
+    },
+    "phone": "(641) 648-7070",
+    "website": "https://www.grandmajanesplayhouse.org"
+  },
+  {
+    "name": "Greater Des Moines Botanical Garden",
+    "address": "909 Robert D. Ray Dr, Des Moines, IA 50309",
+    "coordinates": {
+      "latitude": 41.5911,
+      "longitude": -93.6119
+    },
+    "phone": "(515) 323-6290",
+    "website": "https://www.dmbotanicalgarden.com"
+  },
+  {
+    "name": "Grout Museum District",
+    "address": "503 South St, Waterloo, IA 50701",
+    "coordinates": {
+      "latitude": 42.4922,
+      "longitude": -92.3433
+    },
+    "phone": "(319) 234-6357",
+    "website": "https://www.groutmuseumdistrict.org"
+  },
+  {
+    "name": "Johnson County Historical Society",
+    "address": "860 Quarry Rd, Coralville, IA 52241",
+    "coordinates": {
+      "latitude": 41.6936,
+      "longitude": -91.5908
+    },
+    "phone": "(319) 351-5738",
+    "website": "https://www.johnsoncountyhistory.org"
+  },
+  {
+    "name": "LaunchPAD Children's Museum",
+    "address": "623 Pearl St, Sioux City, IA 51101",
+    "coordinates": {
+      "latitude": 42.4958,
+      "longitude": -96.4042
+    },
+    "phone": "(712) 224-2222",
+    "website": "https://www.launchpadmuseum.com"
+  },
+  {
+    "name": "Museum of Danish America",
+    "address": "2212 Washington St, Elk Horn, IA 51531",
+    "coordinates": {
+      "latitude": 41.5919,
+      "longitude": -95.0597
+    },
+    "phone": "(712) 764-7001",
+    "website": "https://www.danishmuseum.org"
+  },
+  {
+    "name": "National Czech & Slovak Museum & Library",
+    "address": "1400 Inspiration Pl SW, Cedar Rapids, IA 52404",
+    "coordinates": {
+      "latitude": 41.9717,
+      "longitude": -91.6789
+    },
+    "phone": "(319) 362-8500",
+    "website": "https://www.ncsml.org"
+  },
+  {
+    "name": "National Mississippi River Museum & Aquarium",
+    "address": "350 E 3rd St, Dubuque, IA 52001",
+    "coordinates": {
+      "latitude": 42.4964,
+      "longitude": -90.6617
+    },
+    "phone": "(563) 557-9545",
+    "website": "https://www.rivermuseum.com"
+  },
+  {
+    "name": "National Wrestling Hall of Fame Dan Gable Museum",
+    "address": "303 Jefferson St, Waterloo, IA 50701",
+    "coordinates": {
+      "latitude": 42.4928,
+      "longitude": -92.3419
+    },
+    "phone": "(319) 233-0745",
+    "website": "https://www.nwhof.org"
+  },
+  {
+    "name": "Phelps Youth Pavilion at Waterloo Center for the Arts",
+    "address": "225 Commercial St, Waterloo, IA 50701",
+    "coordinates": {
+      "latitude": 42.4922,
+      "longitude": -92.3433
+    },
+    "phone": "(319) 291-4490",
+    "website": "https://www.waterlooarts.org/phelps"
+  },
+  {
+    "name": "Reiman Gardens",
+    "address": "1407 University Blvd, Ames, IA 50011",
+    "coordinates": {
+      "latitude": 42.0194,
+      "longitude": -93.6389
+    },
+    "phone": "(515) 294-2710",
+    "website": "https://www.reimangardens.com"
+  },
+  {
+    "name": "Science Center of Iowa",
+    "address": "401 W Martin Luther King Jr Pkwy, Des Moines, IA 50309",
+    "coordinates": {
+      "latitude": 41.5917,
+      "longitude": -93.6119
+    },
+    "phone": "(515) 274-6868",
+    "website": "https://www.sciowa.org"
+  },
+  {
+    "name": "State Historical Museum of Iowa",
+    "address": "600 E Locust St, Des Moines, IA 50319",
+    "coordinates": {
+      "latitude": 41.5911,
+      "longitude": -93.6083
+    },
+    "phone": "(515) 281-5111",
+    "website": "https://www.historyiowa.org"
+  },
+  {
+    "name": "The Iowa Children's Museum",
+    "address": "1451 Coral Ridge Ave, Coralville, IA 52241",
+    "coordinates": {
+      "latitude": 41.6936,
+      "longitude": -91.5908
+    },
+    "phone": "(319) 625-6255",
+    "website": "https://www.theicm.org"
+  },
+  {
+    "name": "The Putnam Museum & Science Center",
+    "address": "1717 W 12th St, Davenport, IA 52804",
+    "coordinates": {
+      "latitude": 41.5311,
+      "longitude": -90.6087
+    },
+    "phone": "(563) 324-1933",
+    "website": "https://www.putnam.org"
+  },
+  {
+    "name": "Vesterheim",
+    "address": "502 W Water St, Decorah, IA 52101",
+    "coordinates": {
+      "latitude": 43.3036,
+      "longitude": -91.7903
+    },
+    "phone": "(563) 382-9681",
+    "website": "https://www.vesterheim.org"
+  },
+  {
     "name": "Amelia Earhart Birthplace Museum",
     "address": "223 N Terrace St, Atchison, KS 66002",
     "coordinates": {
@@ -6088,6 +6088,606 @@
     },
     "phone": "(985) 888-4636",
     "website": "https://www.theiconsmuseum.org"
+  },
+  {
+    "name": "Abbe Museum",
+    "address": "26 Mount Desert St, Bar Harbor, ME 04609",
+    "coordinates": {
+      "latitude": 44.3875,
+      "longitude": -68.205
+    },
+    "phone": "(207) 288-3519",
+    "website": "https://www.abbemuseum.org"
+  },
+  {
+    "name": "Brick Store Museum",
+    "address": "117 Main St, Kennebunk, ME 04043",
+    "coordinates": {
+      "latitude": 43.3839,
+      "longitude": -70.545
+    },
+    "phone": "(207) 985-4802",
+    "website": "https://www.brickstoremuseum.org"
+  },
+  {
+    "name": "Children's Museum & Theatre of Maine",
+    "address": "250 Thompson's Point Rd, Portland, ME 04102",
+    "coordinates": {
+      "latitude": 43.6514,
+      "longitude": -70.29
+    },
+    "phone": "(207) 828-1234",
+    "website": "https://www.kitetails.org"
+  },
+  {
+    "name": "Coastal Maine Botanical Gardens",
+    "address": "132 Botanical Gardens Dr, Boothbay, ME 04537",
+    "coordinates": {
+      "latitude": 43.8764,
+      "longitude": -69.6425
+    },
+    "phone": "(207) 633-4333",
+    "website": "https://www.mainegardens.org"
+  },
+  {
+    "name": "Franco Center",
+    "address": "46 Cedar St, Lewiston, ME 04240",
+    "coordinates": {
+      "latitude": 44.0958,
+      "longitude": -70.2169
+    },
+    "phone": "(207) 783-1585",
+    "website": "https://www.francocenter.org"
+  },
+  {
+    "name": "Historic New England - Castle Tucker",
+    "address": "2 Lee St, Wiscasset, ME 04578",
+    "coordinates": {
+      "latitude": 44.0025,
+      "longitude": -69.665
+    },
+    "phone": "(207) 882-7169",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Hamilton House",
+    "address": "40 Vaughan's Lane, South Berwick, ME 03908",
+    "coordinates": {
+      "latitude": 43.2342,
+      "longitude": -70.8089
+    },
+    "phone": "(207) 384-2454",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Marrett House",
+    "address": "40 Marrett Rd, Standish, ME 04084",
+    "coordinates": {
+      "latitude": 43.7358,
+      "longitude": -70.5519
+    },
+    "phone": "(207) 384-2454",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Nickels-Sortwell House",
+    "address": "121 Main St, Wiscasset, ME 04578",
+    "coordinates": {
+      "latitude": 44.0028,
+      "longitude": -69.6653
+    },
+    "phone": "(207) 882-7169",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Sarah Orne Jewett House Museum and Visitor Center",
+    "address": "5 Portland St, South Berwick, ME 03908",
+    "coordinates": {
+      "latitude": 43.2344,
+      "longitude": -70.8092
+    },
+    "phone": "(207) 384-2454",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "Historic New England - Sayward-Wheeler House",
+    "address": "9 Barrell Lane, York Harbor, ME 03911",
+    "coordinates": {
+      "latitude": 43.1436,
+      "longitude": -70.6481
+    },
+    "phone": "(207) 384-2454",
+    "website": "https://www.historicnewengland.org"
+  },
+  {
+    "name": "L.C. Bates Museum",
+    "address": "14 Easler Rd, Hinckley, ME 04944",
+    "coordinates": {
+      "latitude": 44.685,
+      "longitude": -69.6208
+    },
+    "phone": "(207) 238-4250",
+    "website": "https://www.gwh.org/lc-bates-museum"
+  },
+  {
+    "name": "Maine Historical Society",
+    "address": "489 Congress St, Portland, ME 04101",
+    "coordinates": {
+      "latitude": 43.6542,
+      "longitude": -70.2608
+    },
+    "phone": "(207) 774-1822",
+    "website": "https://www.mainehistory.org"
+  },
+  {
+    "name": "Maine Maritime Museum",
+    "address": "243 Washington St, Bath, ME 04530",
+    "coordinates": {
+      "latitude": 43.91,
+      "longitude": -69.815
+    },
+    "phone": "(207) 443-1316",
+    "website": "https://www.mainemaritimemuseum.org"
+  },
+  {
+    "name": "Maine Mineral & Gem Museum",
+    "address": "99 Main St, Bethel, ME 04217",
+    "coordinates": {
+      "latitude": 44.4081,
+      "longitude": -70.79
+    },
+    "phone": "(207) 824-3036",
+    "website": "https://www.mainemineralmuseum.org"
+  },
+  {
+    "name": "Maine Museum of Innovation, Learning and Labor",
+    "address": "1 Museum Ct, Lewiston, ME 04240",
+    "coordinates": {
+      "latitude": 44.0961,
+      "longitude": -70.2172
+    },
+    "phone": "(207) 333-3886",
+    "website": "https://www.mainemill.org"
+  },
+  {
+    "name": "Museum of Maritime Pets",
+    "address": "1 Pleasant St, Rockland, ME 04841",
+    "coordinates": {
+      "latitude": 44.1036,
+      "longitude": -69.1089
+    },
+    "phone": "(207) 701-7624",
+    "website": "https://www.museumofmaritimepets.org"
+  },
+  {
+    "name": "Ogunquit Museum of American Art",
+    "address": "543 Shore Rd, Ogunquit, ME 03907",
+    "coordinates": {
+      "latitude": 43.2439,
+      "longitude": -70.5931
+    },
+    "phone": "(207) 646-4909",
+    "website": "https://www.ogunquitmuseum.org"
+  },
+  {
+    "name": "Our Heroes Military Museum",
+    "address": "25 West Broadway, Lincoln, ME 04457",
+    "coordinates": {
+      "latitude": 45.3625,
+      "longitude": -68.505
+    },
+    "phone": "(207) 794-3500",
+    "website": "https://www.ourheroesmilitarymuseum.org"
+  },
+  {
+    "name": "Owls Head Transportation Museum",
+    "address": "117 Museum St, Owls Head, ME 04854",
+    "coordinates": {
+      "latitude": 44.0822,
+      "longitude": -69.0578
+    },
+    "phone": "(207) 594-4418",
+    "website": "https://www.owlshead.org"
+  },
+  {
+    "name": "Portland Museum of Art",
+    "address": "7 Congress Sq, Portland, ME 04101",
+    "coordinates": {
+      "latitude": 43.6536,
+      "longitude": -70.2628
+    },
+    "phone": "(207) 775-6148",
+    "website": "https://www.portlandmuseum.org"
+  },
+  {
+    "name": "Rufus Porter Museum of Art and Ingenuity",
+    "address": "67 N High St, Bridgton, ME 04009",
+    "coordinates": {
+      "latitude": 44.0547,
+      "longitude": -70.7089
+    },
+    "phone": "(207) 647-2828",
+    "website": "https://www.rufusportermuseum.org"
+  },
+  {
+    "name": "Victoria Mansion",
+    "address": "109 Danforth St, Portland, ME 04101",
+    "coordinates": {
+      "latitude": 43.6519,
+      "longitude": -70.2639
+    },
+    "phone": "(207) 772-4841",
+    "website": "https://www.victoriamansion.org"
+  },
+  {
+    "name": "Wilson Museum",
+    "address": "120 Perkins St, Castine, ME 04421",
+    "coordinates": {
+      "latitude": 44.3878,
+      "longitude": -68.7989
+    },
+    "phone": "(207) 326-9247",
+    "website": "https://www.wilsonmuseum.org"
+  },
+  {
+    "name": "American Visionary Art Museum",
+    "address": "800 Key Hwy, Baltimore, MD 21230",
+    "coordinates": {
+      "latitude": 39.2783,
+      "longitude": -76.6064
+    },
+    "phone": "(410) 244-1900",
+    "website": "https://www.avam.org"
+  },
+  {
+    "name": "Annapolis Maritime Museum & Park",
+    "address": "723 2nd St, Annapolis, MD 21403",
+    "coordinates": {
+      "latitude": 38.9708,
+      "longitude": -76.4908
+    },
+    "phone": "(410) 295-0104",
+    "website": "https://www.amaritime.org"
+  },
+  {
+    "name": "Annmarie Sculpture Garden & Arts Center",
+    "address": "13480 Dowell Rd, Solomons, MD 20688",
+    "coordinates": {
+      "latitude": 38.3319,
+      "longitude": -76.4619
+    },
+    "phone": "(410) 326-4640",
+    "website": "https://www.annmariegarden.org"
+  },
+  {
+    "name": "B&O Railroad Museum",
+    "address": "901 W Pratt St, Baltimore, MD 21223",
+    "coordinates": {
+      "latitude": 39.2853,
+      "longitude": -76.6325
+    },
+    "phone": "(410) 752-2490",
+    "website": "https://www.borail.org"
+  },
+  {
+    "name": "Baltimore Museum of Industry",
+    "address": "1415 Key Hwy, Baltimore, MD 21230",
+    "coordinates": {
+      "latitude": 39.2758,
+      "longitude": -76.6086
+    },
+    "phone": "(410) 727-4808",
+    "website": "https://www.thebmi.org"
+  },
+  {
+    "name": "Calvert Marine Museum",
+    "address": "14200 Solomons Island Rd, Solomons, MD 20688",
+    "coordinates": {
+      "latitude": 38.3322,
+      "longitude": -76.4639
+    },
+    "phone": "(410) 326-2042",
+    "website": "https://www.calvertmarinemuseum.com"
+  },
+  {
+    "name": "Chesapeake Bay Maritime Museum",
+    "address": "213 N Talbot St, St. Michaels, MD 21663",
+    "coordinates": {
+      "latitude": 38.7858,
+      "longitude": -76.2239
+    },
+    "phone": "(410) 745-2916",
+    "website": "https://www.cbmm.org"
+  },
+  {
+    "name": "Chesapeake Children's Museum",
+    "address": "25 Silopanna Rd, Annapolis, MD 21403",
+    "coordinates": {
+      "latitude": 38.97,
+      "longitude": -76.4933
+    },
+    "phone": "(410) 266-0677",
+    "website": "https://www.theccm.org"
+  },
+  {
+    "name": "Computer Museum @ System Source",
+    "address": "10221 Wincopin Cir, Hunt Valley, MD 21030",
+    "coordinates": {
+      "latitude": 39.5,
+      "longitude": -76.6417
+    },
+    "phone": "(410) 584-1970",
+    "website": "https://www.computermuseum.org"
+  },
+  {
+    "name": "Discovery Station",
+    "address": "101 W Washington St, Hagerstown, MD 21740",
+    "coordinates": {
+      "latitude": 39.6425,
+      "longitude": -77.7219
+    },
+    "phone": "(301) 790-0076",
+    "website": "https://www.discoverystation.org"
+  },
+  {
+    "name": "Furnace Town Historic Site",
+    "address": "3816 Old Furnace Rd, Snow Hill, MD 21863",
+    "coordinates": {
+      "latitude": 38.1758,
+      "longitude": -75.39
+    },
+    "phone": "(410) 632-2032",
+    "website": "https://www.furnacetown.com"
+  },
+  {
+    "name": "Greenbelt Museum",
+    "address": "10B Crescent Rd, Greenbelt, MD 20770",
+    "coordinates": {
+      "latitude": 39,
+      "longitude": -76.88
+    },
+    "phone": "(301) 507-6582",
+    "website": "https://www.greenbeltmuseum.org"
+  },
+  {
+    "name": "Hammond-Harwood House",
+    "address": "19 Maryland Ave, Annapolis, MD 21401",
+    "coordinates": {
+      "latitude": 38.9847,
+      "longitude": -76.4897
+    },
+    "phone": "(410) 263-4683",
+    "website": "https://www.hammondharwoodhouse.org"
+  },
+  {
+    "name": "Historic London Town & Gardens",
+    "address": "839 Londontown Rd, Edgewater, MD 21037",
+    "coordinates": {
+      "latitude": 38.9333,
+      "longitude": -76.5417
+    },
+    "phone": "(410) 222-1919",
+    "website": "https://www.historiclondontown.org"
+  },
+  {
+    "name": "Historic Rich Hill",
+    "address": "12050 Bel Alton Newtown Rd, Bel Alton, MD 20611",
+    "coordinates": {
+      "latitude": 38.4739,
+      "longitude": -77.0069
+    },
+    "phone": "(301) 934-8848",
+    "website": "https://www.historichomes.org"
+  },
+  {
+    "name": "Historic Sotterley",
+    "address": "44300 Sotterley Ln, Hollywood, MD 20636",
+    "coordinates": {
+      "latitude": 38.3778,
+      "longitude": -76.5389
+    },
+    "phone": "(301) 373-2280",
+    "website": "https://www.sotterley.org"
+  },
+  {
+    "name": "Historic St. Mary's City",
+    "address": "18751 Hogaboom Ln, St. Marys City, MD 20686",
+    "coordinates": {
+      "latitude": 38.1867,
+      "longitude": -76.4347
+    },
+    "phone": "(240) 895-4990",
+    "website": "https://www.hsmcdigshistory.org"
+  },
+  {
+    "name": "Irvine Nature Center",
+    "address": "11201 Garrison Forest Rd, Owings Mills, MD 21117",
+    "coordinates": {
+      "latitude": 39.4167,
+      "longitude": -76.7917
+    },
+    "phone": "(443) 738-9200",
+    "website": "https://www.explorenature.org"
+  },
+  {
+    "name": "Jewish Museum of Maryland",
+    "address": "15 Lloyd St, Baltimore, MD 21202",
+    "coordinates": {
+      "latitude": 39.2894,
+      "longitude": -76.6075
+    },
+    "phone": "(410) 732-6400",
+    "website": "https://www.jewishmuseummd.org"
+  },
+  {
+    "name": "KID Museum",
+    "address": "3 Metro Center, Bethesda, MD 20814",
+    "coordinates": {
+      "latitude": 38.98,
+      "longitude": -77.095
+    },
+    "phone": "(301) 941-4905",
+    "website": "https://www.kid-museum.org"
+  },
+  {
+    "name": "Ladew Topiary Gardens",
+    "address": "3535 Jarrettsville Pike, Monkton, MD 21111",
+    "coordinates": {
+      "latitude": 39.575,
+      "longitude": -76.5917
+    },
+    "phone": "(410) 557-9466",
+    "website": "https://www.ladewgardens.com"
+  },
+  {
+    "name": "Maryland Center for History and Culture",
+    "address": "610 Park Ave, Baltimore, MD 21201",
+    "coordinates": {
+      "latitude": 39.3,
+      "longitude": -76.615
+    },
+    "phone": "(410) 685-3750",
+    "website": "https://www.mdhistory.org"
+  },
+  {
+    "name": "Miller House Museum",
+    "address": "135 W Washington St, Hagerstown, MD 21740",
+    "coordinates": {
+      "latitude": 39.6425,
+      "longitude": -77.7219
+    },
+    "phone": "(301) 797-8782",
+    "website": "https://www.washcohistory.org"
+  },
+  {
+    "name": "Museum of Historic Annapolis",
+    "address": "99 Main St, Annapolis, MD 21401",
+    "coordinates": {
+      "latitude": 38.9789,
+      "longitude": -76.4908
+    },
+    "phone": "(410) 267-6656",
+    "website": "https://www.annapolis.org"
+  },
+  {
+    "name": "NASA Goddard Visitor Center",
+    "address": "8800 Greenbelt Rd, Greenbelt, MD 20771",
+    "coordinates": {
+      "latitude": 38.9917,
+      "longitude": -76.8528
+    },
+    "phone": "(301) 286-3978",
+    "website": "https://www.nasa.gov/goddard/visitor"
+  },
+  {
+    "name": "National Electronics Museum",
+    "address": "1745 W Nursery Rd, Linthicum, MD 21090",
+    "coordinates": {
+      "latitude": 39.2,
+      "longitude": -76.67
+    },
+    "phone": "(410) 765-0230",
+    "website": "https://www.nationalelectronicsmuseum.org"
+  },
+  {
+    "name": "Natural History Society of Maryland",
+    "address": "6908 Belair Rd, Baltimore, MD 21206",
+    "coordinates": {
+      "latitude": 39.35,
+      "longitude": -76.53
+    },
+    "phone": "(410) 882-5960",
+    "website": "https://www.marylandnature.org"
+  },
+  {
+    "name": "Patuxent River Naval Air Museum",
+    "address": "22156 Three Notch Rd, Lexington Park, MD 20653",
+    "coordinates": {
+      "latitude": 38.275,
+      "longitude": -76.44
+    },
+    "phone": "(301) 863-7418",
+    "website": "https://www.paxmuseum.org"
+  },
+  {
+    "name": "Piney Point Lighthouse Museum",
+    "address": "44720 Lighthouse Rd, Piney Point, MD 20674",
+    "coordinates": {
+      "latitude": 38.1333,
+      "longitude": -76.5333
+    },
+    "phone": "(301) 994-1471",
+    "website": "https://www.stmarysmd.com/recreate/museums"
+  },
+  {
+    "name": "Reginald F. Lewis Museum of Maryland African American History & Culture",
+    "address": "830 E Pratt St, Baltimore, MD 21202",
+    "coordinates": {
+      "latitude": 39.29,
+      "longitude": -76.605
+    },
+    "phone": "(443) 263-1800",
+    "website": "https://www.lewismuseum.org"
+  },
+  {
+    "name": "Robinson Nature Center",
+    "address": "6692 Cedar Ln, Columbia, MD 21044",
+    "coordinates": {
+      "latitude": 39.2,
+      "longitude": -76.88
+    },
+    "phone": "(410) 313-0400",
+    "website": "https://www.howardcountymd.gov/robinson"
+  },
+  {
+    "name": "St. Clement's Island Museum",
+    "address": "38370 Point Breeze Rd, Coltons Point, MD 20626",
+    "coordinates": {
+      "latitude": 38.2333,
+      "longitude": -76.75
+    },
+    "phone": "(301) 769-2222",
+    "website": "https://www.stmarysmd.com/recreate/museums"
+  },
+  {
+    "name": "Star-Spangled Banner Flag House",
+    "address": "844 E Pratt St, Baltimore, MD 21202",
+    "coordinates": {
+      "latitude": 39.29,
+      "longitude": -76.605
+    },
+    "phone": "(410) 837-1793",
+    "website": "https://www.flaghouse.org"
+  },
+  {
+    "name": "Stop Drop and Play Children's Museum",
+    "address": "10201 Lewis Dr, Damascus, MD 20872",
+    "coordinates": {
+      "latitude": 39.28,
+      "longitude": -77.2
+    },
+    "phone": "(301) 482-6003",
+    "website": "https://www.stopdropandplay.org"
+  },
+  {
+    "name": "The Laurel Museum",
+    "address": "817 Main St, Laurel, MD 20707",
+    "coordinates": {
+      "latitude": 39.1,
+      "longitude": -76.85
+    },
+    "phone": "(301) 725-7975",
+    "website": "https://www.laurelhistoricalsociety.org"
+  },
+  {
+    "name": "William Paca House and Garden",
+    "address": "186 Prince George St, Annapolis, MD 21401",
+    "coordinates": {
+      "latitude": 38.9789,
+      "longitude": -76.4908
+    },
+    "phone": "(410) 267-7619",
+    "website": "https://www.annapolis.org"
   },
   {
     "name": "Amesbury Carriage Museum",
@@ -6668,606 +7268,6 @@
     },
     "phone": "(978) 468-2377",
     "website": "https://www.wenhammuseum.org"
-  },
-  {
-    "name": "American Visionary Art Museum",
-    "address": "800 Key Hwy, Baltimore, MD 21230",
-    "coordinates": {
-      "latitude": 39.2783,
-      "longitude": -76.6064
-    },
-    "phone": "(410) 244-1900",
-    "website": "https://www.avam.org"
-  },
-  {
-    "name": "Annapolis Maritime Museum & Park",
-    "address": "723 2nd St, Annapolis, MD 21403",
-    "coordinates": {
-      "latitude": 38.9708,
-      "longitude": -76.4908
-    },
-    "phone": "(410) 295-0104",
-    "website": "https://www.amaritime.org"
-  },
-  {
-    "name": "Annmarie Sculpture Garden & Arts Center",
-    "address": "13480 Dowell Rd, Solomons, MD 20688",
-    "coordinates": {
-      "latitude": 38.3319,
-      "longitude": -76.4619
-    },
-    "phone": "(410) 326-4640",
-    "website": "https://www.annmariegarden.org"
-  },
-  {
-    "name": "B&O Railroad Museum",
-    "address": "901 W Pratt St, Baltimore, MD 21223",
-    "coordinates": {
-      "latitude": 39.2853,
-      "longitude": -76.6325
-    },
-    "phone": "(410) 752-2490",
-    "website": "https://www.borail.org"
-  },
-  {
-    "name": "Baltimore Museum of Industry",
-    "address": "1415 Key Hwy, Baltimore, MD 21230",
-    "coordinates": {
-      "latitude": 39.2758,
-      "longitude": -76.6086
-    },
-    "phone": "(410) 727-4808",
-    "website": "https://www.thebmi.org"
-  },
-  {
-    "name": "Calvert Marine Museum",
-    "address": "14200 Solomons Island Rd, Solomons, MD 20688",
-    "coordinates": {
-      "latitude": 38.3322,
-      "longitude": -76.4639
-    },
-    "phone": "(410) 326-2042",
-    "website": "https://www.calvertmarinemuseum.com"
-  },
-  {
-    "name": "Chesapeake Bay Maritime Museum",
-    "address": "213 N Talbot St, St. Michaels, MD 21663",
-    "coordinates": {
-      "latitude": 38.7858,
-      "longitude": -76.2239
-    },
-    "phone": "(410) 745-2916",
-    "website": "https://www.cbmm.org"
-  },
-  {
-    "name": "Chesapeake Children's Museum",
-    "address": "25 Silopanna Rd, Annapolis, MD 21403",
-    "coordinates": {
-      "latitude": 38.97,
-      "longitude": -76.4933
-    },
-    "phone": "(410) 266-0677",
-    "website": "https://www.theccm.org"
-  },
-  {
-    "name": "Computer Museum @ System Source",
-    "address": "10221 Wincopin Cir, Hunt Valley, MD 21030",
-    "coordinates": {
-      "latitude": 39.5,
-      "longitude": -76.6417
-    },
-    "phone": "(410) 584-1970",
-    "website": "https://www.computermuseum.org"
-  },
-  {
-    "name": "Discovery Station",
-    "address": "101 W Washington St, Hagerstown, MD 21740",
-    "coordinates": {
-      "latitude": 39.6425,
-      "longitude": -77.7219
-    },
-    "phone": "(301) 790-0076",
-    "website": "https://www.discoverystation.org"
-  },
-  {
-    "name": "Furnace Town Historic Site",
-    "address": "3816 Old Furnace Rd, Snow Hill, MD 21863",
-    "coordinates": {
-      "latitude": 38.1758,
-      "longitude": -75.39
-    },
-    "phone": "(410) 632-2032",
-    "website": "https://www.furnacetown.com"
-  },
-  {
-    "name": "Greenbelt Museum",
-    "address": "10B Crescent Rd, Greenbelt, MD 20770",
-    "coordinates": {
-      "latitude": 39,
-      "longitude": -76.88
-    },
-    "phone": "(301) 507-6582",
-    "website": "https://www.greenbeltmuseum.org"
-  },
-  {
-    "name": "Hammond-Harwood House",
-    "address": "19 Maryland Ave, Annapolis, MD 21401",
-    "coordinates": {
-      "latitude": 38.9847,
-      "longitude": -76.4897
-    },
-    "phone": "(410) 263-4683",
-    "website": "https://www.hammondharwoodhouse.org"
-  },
-  {
-    "name": "Historic London Town & Gardens",
-    "address": "839 Londontown Rd, Edgewater, MD 21037",
-    "coordinates": {
-      "latitude": 38.9333,
-      "longitude": -76.5417
-    },
-    "phone": "(410) 222-1919",
-    "website": "https://www.historiclondontown.org"
-  },
-  {
-    "name": "Historic Rich Hill",
-    "address": "12050 Bel Alton Newtown Rd, Bel Alton, MD 20611",
-    "coordinates": {
-      "latitude": 38.4739,
-      "longitude": -77.0069
-    },
-    "phone": "(301) 934-8848",
-    "website": "https://www.historichomes.org"
-  },
-  {
-    "name": "Historic Sotterley",
-    "address": "44300 Sotterley Ln, Hollywood, MD 20636",
-    "coordinates": {
-      "latitude": 38.3778,
-      "longitude": -76.5389
-    },
-    "phone": "(301) 373-2280",
-    "website": "https://www.sotterley.org"
-  },
-  {
-    "name": "Historic St. Mary's City",
-    "address": "18751 Hogaboom Ln, St. Marys City, MD 20686",
-    "coordinates": {
-      "latitude": 38.1867,
-      "longitude": -76.4347
-    },
-    "phone": "(240) 895-4990",
-    "website": "https://www.hsmcdigshistory.org"
-  },
-  {
-    "name": "Irvine Nature Center",
-    "address": "11201 Garrison Forest Rd, Owings Mills, MD 21117",
-    "coordinates": {
-      "latitude": 39.4167,
-      "longitude": -76.7917
-    },
-    "phone": "(443) 738-9200",
-    "website": "https://www.explorenature.org"
-  },
-  {
-    "name": "Jewish Museum of Maryland",
-    "address": "15 Lloyd St, Baltimore, MD 21202",
-    "coordinates": {
-      "latitude": 39.2894,
-      "longitude": -76.6075
-    },
-    "phone": "(410) 732-6400",
-    "website": "https://www.jewishmuseummd.org"
-  },
-  {
-    "name": "KID Museum",
-    "address": "3 Metro Center, Bethesda, MD 20814",
-    "coordinates": {
-      "latitude": 38.98,
-      "longitude": -77.095
-    },
-    "phone": "(301) 941-4905",
-    "website": "https://www.kid-museum.org"
-  },
-  {
-    "name": "Ladew Topiary Gardens",
-    "address": "3535 Jarrettsville Pike, Monkton, MD 21111",
-    "coordinates": {
-      "latitude": 39.575,
-      "longitude": -76.5917
-    },
-    "phone": "(410) 557-9466",
-    "website": "https://www.ladewgardens.com"
-  },
-  {
-    "name": "Maryland Center for History and Culture",
-    "address": "610 Park Ave, Baltimore, MD 21201",
-    "coordinates": {
-      "latitude": 39.3,
-      "longitude": -76.615
-    },
-    "phone": "(410) 685-3750",
-    "website": "https://www.mdhistory.org"
-  },
-  {
-    "name": "Miller House Museum",
-    "address": "135 W Washington St, Hagerstown, MD 21740",
-    "coordinates": {
-      "latitude": 39.6425,
-      "longitude": -77.7219
-    },
-    "phone": "(301) 797-8782",
-    "website": "https://www.washcohistory.org"
-  },
-  {
-    "name": "Museum of Historic Annapolis",
-    "address": "99 Main St, Annapolis, MD 21401",
-    "coordinates": {
-      "latitude": 38.9789,
-      "longitude": -76.4908
-    },
-    "phone": "(410) 267-6656",
-    "website": "https://www.annapolis.org"
-  },
-  {
-    "name": "NASA Goddard Visitor Center",
-    "address": "8800 Greenbelt Rd, Greenbelt, MD 20771",
-    "coordinates": {
-      "latitude": 38.9917,
-      "longitude": -76.8528
-    },
-    "phone": "(301) 286-3978",
-    "website": "https://www.nasa.gov/goddard/visitor"
-  },
-  {
-    "name": "National Electronics Museum",
-    "address": "1745 W Nursery Rd, Linthicum, MD 21090",
-    "coordinates": {
-      "latitude": 39.2,
-      "longitude": -76.67
-    },
-    "phone": "(410) 765-0230",
-    "website": "https://www.nationalelectronicsmuseum.org"
-  },
-  {
-    "name": "Natural History Society of Maryland",
-    "address": "6908 Belair Rd, Baltimore, MD 21206",
-    "coordinates": {
-      "latitude": 39.35,
-      "longitude": -76.53
-    },
-    "phone": "(410) 882-5960",
-    "website": "https://www.marylandnature.org"
-  },
-  {
-    "name": "Patuxent River Naval Air Museum",
-    "address": "22156 Three Notch Rd, Lexington Park, MD 20653",
-    "coordinates": {
-      "latitude": 38.275,
-      "longitude": -76.44
-    },
-    "phone": "(301) 863-7418",
-    "website": "https://www.paxmuseum.org"
-  },
-  {
-    "name": "Piney Point Lighthouse Museum",
-    "address": "44720 Lighthouse Rd, Piney Point, MD 20674",
-    "coordinates": {
-      "latitude": 38.1333,
-      "longitude": -76.5333
-    },
-    "phone": "(301) 994-1471",
-    "website": "https://www.stmarysmd.com/recreate/museums"
-  },
-  {
-    "name": "Reginald F. Lewis Museum of Maryland African American History & Culture",
-    "address": "830 E Pratt St, Baltimore, MD 21202",
-    "coordinates": {
-      "latitude": 39.29,
-      "longitude": -76.605
-    },
-    "phone": "(443) 263-1800",
-    "website": "https://www.lewismuseum.org"
-  },
-  {
-    "name": "Robinson Nature Center",
-    "address": "6692 Cedar Ln, Columbia, MD 21044",
-    "coordinates": {
-      "latitude": 39.2,
-      "longitude": -76.88
-    },
-    "phone": "(410) 313-0400",
-    "website": "https://www.howardcountymd.gov/robinson"
-  },
-  {
-    "name": "St. Clement's Island Museum",
-    "address": "38370 Point Breeze Rd, Coltons Point, MD 20626",
-    "coordinates": {
-      "latitude": 38.2333,
-      "longitude": -76.75
-    },
-    "phone": "(301) 769-2222",
-    "website": "https://www.stmarysmd.com/recreate/museums"
-  },
-  {
-    "name": "Star-Spangled Banner Flag House",
-    "address": "844 E Pratt St, Baltimore, MD 21202",
-    "coordinates": {
-      "latitude": 39.29,
-      "longitude": -76.605
-    },
-    "phone": "(410) 837-1793",
-    "website": "https://www.flaghouse.org"
-  },
-  {
-    "name": "Stop Drop and Play Children's Museum",
-    "address": "10201 Lewis Dr, Damascus, MD 20872",
-    "coordinates": {
-      "latitude": 39.28,
-      "longitude": -77.2
-    },
-    "phone": "(301) 482-6003",
-    "website": "https://www.stopdropandplay.org"
-  },
-  {
-    "name": "The Laurel Museum",
-    "address": "817 Main St, Laurel, MD 20707",
-    "coordinates": {
-      "latitude": 39.1,
-      "longitude": -76.85
-    },
-    "phone": "(301) 725-7975",
-    "website": "https://www.laurelhistoricalsociety.org"
-  },
-  {
-    "name": "William Paca House and Garden",
-    "address": "186 Prince George St, Annapolis, MD 21401",
-    "coordinates": {
-      "latitude": 38.9789,
-      "longitude": -76.4908
-    },
-    "phone": "(410) 267-7619",
-    "website": "https://www.annapolis.org"
-  },
-  {
-    "name": "Abbe Museum",
-    "address": "26 Mount Desert St, Bar Harbor, ME 04609",
-    "coordinates": {
-      "latitude": 44.3875,
-      "longitude": -68.205
-    },
-    "phone": "(207) 288-3519",
-    "website": "https://www.abbemuseum.org"
-  },
-  {
-    "name": "Brick Store Museum",
-    "address": "117 Main St, Kennebunk, ME 04043",
-    "coordinates": {
-      "latitude": 43.3839,
-      "longitude": -70.545
-    },
-    "phone": "(207) 985-4802",
-    "website": "https://www.brickstoremuseum.org"
-  },
-  {
-    "name": "Children's Museum & Theatre of Maine",
-    "address": "250 Thompson's Point Rd, Portland, ME 04102",
-    "coordinates": {
-      "latitude": 43.6514,
-      "longitude": -70.29
-    },
-    "phone": "(207) 828-1234",
-    "website": "https://www.kitetails.org"
-  },
-  {
-    "name": "Coastal Maine Botanical Gardens",
-    "address": "132 Botanical Gardens Dr, Boothbay, ME 04537",
-    "coordinates": {
-      "latitude": 43.8764,
-      "longitude": -69.6425
-    },
-    "phone": "(207) 633-4333",
-    "website": "https://www.mainegardens.org"
-  },
-  {
-    "name": "Franco Center",
-    "address": "46 Cedar St, Lewiston, ME 04240",
-    "coordinates": {
-      "latitude": 44.0958,
-      "longitude": -70.2169
-    },
-    "phone": "(207) 783-1585",
-    "website": "https://www.francocenter.org"
-  },
-  {
-    "name": "Historic New England - Castle Tucker",
-    "address": "2 Lee St, Wiscasset, ME 04578",
-    "coordinates": {
-      "latitude": 44.0025,
-      "longitude": -69.665
-    },
-    "phone": "(207) 882-7169",
-    "website": "https://www.historicnewengland.org"
-  },
-  {
-    "name": "Historic New England - Hamilton House",
-    "address": "40 Vaughan's Lane, South Berwick, ME 03908",
-    "coordinates": {
-      "latitude": 43.2342,
-      "longitude": -70.8089
-    },
-    "phone": "(207) 384-2454",
-    "website": "https://www.historicnewengland.org"
-  },
-  {
-    "name": "Historic New England - Marrett House",
-    "address": "40 Marrett Rd, Standish, ME 04084",
-    "coordinates": {
-      "latitude": 43.7358,
-      "longitude": -70.5519
-    },
-    "phone": "(207) 384-2454",
-    "website": "https://www.historicnewengland.org"
-  },
-  {
-    "name": "Historic New England - Nickels-Sortwell House",
-    "address": "121 Main St, Wiscasset, ME 04578",
-    "coordinates": {
-      "latitude": 44.0028,
-      "longitude": -69.6653
-    },
-    "phone": "(207) 882-7169",
-    "website": "https://www.historicnewengland.org"
-  },
-  {
-    "name": "Historic New England - Sarah Orne Jewett House Museum and Visitor Center",
-    "address": "5 Portland St, South Berwick, ME 03908",
-    "coordinates": {
-      "latitude": 43.2344,
-      "longitude": -70.8092
-    },
-    "phone": "(207) 384-2454",
-    "website": "https://www.historicnewengland.org"
-  },
-  {
-    "name": "Historic New England - Sayward-Wheeler House",
-    "address": "9 Barrell Lane, York Harbor, ME 03911",
-    "coordinates": {
-      "latitude": 43.1436,
-      "longitude": -70.6481
-    },
-    "phone": "(207) 384-2454",
-    "website": "https://www.historicnewengland.org"
-  },
-  {
-    "name": "L.C. Bates Museum",
-    "address": "14 Easler Rd, Hinckley, ME 04944",
-    "coordinates": {
-      "latitude": 44.685,
-      "longitude": -69.6208
-    },
-    "phone": "(207) 238-4250",
-    "website": "https://www.gwh.org/lc-bates-museum"
-  },
-  {
-    "name": "Maine Historical Society",
-    "address": "489 Congress St, Portland, ME 04101",
-    "coordinates": {
-      "latitude": 43.6542,
-      "longitude": -70.2608
-    },
-    "phone": "(207) 774-1822",
-    "website": "https://www.mainehistory.org"
-  },
-  {
-    "name": "Maine Maritime Museum",
-    "address": "243 Washington St, Bath, ME 04530",
-    "coordinates": {
-      "latitude": 43.91,
-      "longitude": -69.815
-    },
-    "phone": "(207) 443-1316",
-    "website": "https://www.mainemaritimemuseum.org"
-  },
-  {
-    "name": "Maine Mineral & Gem Museum",
-    "address": "99 Main St, Bethel, ME 04217",
-    "coordinates": {
-      "latitude": 44.4081,
-      "longitude": -70.79
-    },
-    "phone": "(207) 824-3036",
-    "website": "https://www.mainemineralmuseum.org"
-  },
-  {
-    "name": "Maine Museum of Innovation, Learning and Labor",
-    "address": "1 Museum Ct, Lewiston, ME 04240",
-    "coordinates": {
-      "latitude": 44.0961,
-      "longitude": -70.2172
-    },
-    "phone": "(207) 333-3886",
-    "website": "https://www.mainemill.org"
-  },
-  {
-    "name": "Museum of Maritime Pets",
-    "address": "1 Pleasant St, Rockland, ME 04841",
-    "coordinates": {
-      "latitude": 44.1036,
-      "longitude": -69.1089
-    },
-    "phone": "(207) 701-7624",
-    "website": "https://www.museumofmaritimepets.org"
-  },
-  {
-    "name": "Ogunquit Museum of American Art",
-    "address": "543 Shore Rd, Ogunquit, ME 03907",
-    "coordinates": {
-      "latitude": 43.2439,
-      "longitude": -70.5931
-    },
-    "phone": "(207) 646-4909",
-    "website": "https://www.ogunquitmuseum.org"
-  },
-  {
-    "name": "Our Heroes Military Museum",
-    "address": "25 West Broadway, Lincoln, ME 04457",
-    "coordinates": {
-      "latitude": 45.3625,
-      "longitude": -68.505
-    },
-    "phone": "(207) 794-3500",
-    "website": "https://www.ourheroesmilitarymuseum.org"
-  },
-  {
-    "name": "Owls Head Transportation Museum",
-    "address": "117 Museum St, Owls Head, ME 04854",
-    "coordinates": {
-      "latitude": 44.0822,
-      "longitude": -69.0578
-    },
-    "phone": "(207) 594-4418",
-    "website": "https://www.owlshead.org"
-  },
-  {
-    "name": "Portland Museum of Art",
-    "address": "7 Congress Sq, Portland, ME 04101",
-    "coordinates": {
-      "latitude": 43.6536,
-      "longitude": -70.2628
-    },
-    "phone": "(207) 775-6148",
-    "website": "https://www.portlandmuseum.org"
-  },
-  {
-    "name": "Rufus Porter Museum of Art and Ingenuity",
-    "address": "67 N High St, Bridgton, ME 04009",
-    "coordinates": {
-      "latitude": 44.0547,
-      "longitude": -70.7089
-    },
-    "phone": "(207) 647-2828",
-    "website": "https://www.rufusportermuseum.org"
-  },
-  {
-    "name": "Victoria Mansion",
-    "address": "109 Danforth St, Portland, ME 04101",
-    "coordinates": {
-      "latitude": 43.6519,
-      "longitude": -70.2639
-    },
-    "phone": "(207) 772-4841",
-    "website": "https://www.victoriamansion.org"
-  },
-  {
-    "name": "Wilson Museum",
-    "address": "120 Perkins St, Castine, ME 04421",
-    "coordinates": {
-      "latitude": 44.3878,
-      "longitude": -68.7989
-    },
-    "phone": "(207) 326-9247",
-    "website": "https://www.wilsonmuseum.org"
   },
   {
     "name": "A.E. Seaman Mineral Museum at Michigan Tech",
@@ -8480,6 +8480,16 @@
     "website": "https://www.wheelsacrosstheprairie.org"
   },
   {
+    "name": "Lynn Meadows Discovery Center",
+    "address": "246 Dolan Ave, Gulfport, MS 39507",
+    "coordinates": {
+      "latitude": 30.3864,
+      "longitude": -89.0928
+    },
+    "phone": "(228) 897-6039",
+    "website": "https://www.lmdc.org"
+  },
+  {
     "name": "Camden County Museum",
     "address": "206 S. Locust St., Linn Creek, MO 65052",
     "coordinates": {
@@ -8620,16 +8630,6 @@
     "website": "https://www.nssml.org/"
   },
   {
-    "name": "Lynn Meadows Discovery Center",
-    "address": "246 Dolan Ave, Gulfport, MS 39507",
-    "coordinates": {
-      "latitude": 30.3864,
-      "longitude": -89.0928
-    },
-    "phone": "(228) 897-6039",
-    "website": "https://www.lmdc.org"
-  },
-  {
     "name": "ExplorationWorks",
     "address": "995 Carousel Way, Helena, MT 59601",
     "coordinates": {
@@ -8748,266 +8748,6 @@
     },
     "phone": "406.256.6804",
     "website": "https://www.artmuseum.org/"
-  },
-  {
-    "name": "Airlie Gardens",
-    "address": "300 Airlie Rd, Wilmington, NC 28403",
-    "coordinates": {
-      "latitude": 34.2215,
-      "longitude": -77.827
-    },
-    "phone": "(910) 798-7700",
-    "website": "https://www.airliegardens.org/"
-  },
-  {
-    "name": "Aurora Fossil Museum",
-    "address": "400 Main St, Aurora, NC 27806",
-    "coordinates": {
-      "latitude": 35.3006,
-      "longitude": -76.7879
-    },
-    "phone": "(252) 322-4238",
-    "website": "https://www.aurorafossilmuseum.org/"
-  },
-  {
-    "name": "Blowing Rock Art & History Museum",
-    "address": "159 Ginny Stevens Ln, Blowing Rock, NC 28605",
-    "coordinates": {
-      "latitude": 36.132,
-      "longitude": -81.6774
-    },
-    "phone": "(828) 295-9099",
-    "website": "https://www.blowingrockmuseum.org/"
-  },
-  {
-    "name": "Cameron Art Museum",
-    "address": "3201 S 17th St, Wilmington, NC 28412",
-    "coordinates": {
-      "latitude": 34.1928,
-      "longitude": -77.9134
-    },
-    "phone": "(910) 395-5999",
-    "website": "https://www.cameronartmuseum.org/"
-  },
-  {
-    "name": "Cape Fear Botanical Garden",
-    "address": "536 N Eastern Blvd, Fayetteville, NC 28301",
-    "coordinates": {
-      "latitude": 35.059,
-      "longitude": -78.8505
-    },
-    "phone": "(910) 486-0221",
-    "website": "https://www.capefearbg.org/"
-  },
-  {
-    "name": "Cape Fear Museum of History and Science",
-    "address": "814 Market St, Wilmington, NC 28401",
-    "coordinates": {
-      "latitude": 34.2365,
-      "longitude": -77.9416
-    },
-    "phone": "(910) 798-4350",
-    "website": "https://www.capefearmuseum.com/"
-  },
-  {
-    "name": "Charlotte Museum of History",
-    "address": "3500 Shamrock Dr, Charlotte, NC 28215",
-    "coordinates": {
-      "latitude": 35.2475,
-      "longitude": -80.7705
-    },
-    "phone": "(704) 568-1774",
-    "website": "https://www.charlottemuseum.org/"
-  },
-  {
-    "name": "Cognition",
-    "address": "119 N Salisbury St, Mocksville, NC 27028",
-    "coordinates": {
-      "latitude": 35.8966,
-      "longitude": -80.5631
-    },
-    "phone": "(336) 753-1045",
-    "website": "https://www.cognitiondavie.org/"
-  },
-  {
-    "name": "Daniel Stowe Botanical Garden",
-    "address": "6500 S New Hope Rd, Belmont, NC 28012",
-    "coordinates": {
-      "latitude": 35.1662,
-      "longitude": -81.0565
-    },
-    "phone": "(704) 825-4490",
-    "website": "https://www.dsbg.org/"
-  },
-  {
-    "name": "Fit For Fun Center",
-    "address": "302 S 10th St, Wilmington, NC 28401",
-    "coordinates": {
-      "latitude": 34.2333,
-      "longitude": -77.9371
-    },
-    "phone": "(910) 341-4630",
-    "website": "https://www.wilmingtonnc.gov/"
-  },
-  {
-    "name": "Imagination Station Science & History Museum",
-    "address": "224 Nash St SE, Wilson, NC 27893",
-    "coordinates": {
-      "latitude": 35.7234,
-      "longitude": -77.9061
-    },
-    "phone": "(252) 291-5113",
-    "website": "https://scienceandhistory.org/"
-  },
-  {
-    "name": "Ingram Planetarium",
-    "address": "7625 High Market St, Sunset Beach, NC 28468",
-    "coordinates": {
-      "latitude": 33.8925,
-      "longitude": -78.5073
-    },
-    "phone": "(910) 575-0033",
-    "website": "https://museumplanetarium.org/"
-  },
-  {
-    "name": "Kidzu Children's Museum",
-    "address": "201 S Estes Dr, Chapel Hill, NC 27514",
-    "coordinates": {
-      "latitude": 35.9292,
-      "longitude": -79.0332
-    },
-    "phone": "(919) 933-1455",
-    "website": "https://www.kidzuchildrensmuseum.org/"
-  },
-  {
-    "name": "Morehead Planetarium & Science Center",
-    "address": "250 E Franklin St, Chapel Hill, NC 27514",
-    "coordinates": {
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    "phone": "(919) 962-1236",
-    "website": "https://moreheadplanetarium.org/"
-  },
-  {
-    "name": "Museum of Coastal Carolina",
-    "address": "21 E 2nd St, Ocean Isle Beach, NC 28469",
-    "coordinates": {
-      "latitude": 33.8921,
-      "longitude": -78.4363
-    },
-    "phone": "(910) 579-1016",
-    "website": "https://museumplanetarium.org/"
-  },
-  {
-    "name": "North Carolina Botanical Garden",
-    "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
-    "coordinates": {
-      "latitude": 35.8993,
-      "longitude": -79.0321
-    },
-    "phone": "(919) 962-0522",
-    "website": "https://ncbg.unc.edu/"
-  },
-  {
-    "name": "Old Salem Museums & Gardens",
-    "address": "900 Old Salem Rd, Winston-Salem, NC 27101",
-    "coordinates": {
-      "latitude": 36.09,
-      "longitude": -80.2442
-    },
-    "phone": "(336) 721-7350",
-    "website": "https://www.oldsalem.org/"
-  },
-  {
-    "name": "Reynolda House Museum of American Art",
-    "address": "2250 Reynolda Rd, Winston-Salem, NC 27106",
-    "coordinates": {
-      "latitude": 36.1273,
-      "longitude": -80.2841
-    },
-    "phone": "(888) 663-1149",
-    "website": "https://reynoldahouse.org/"
-  },
-  {
-    "name": "The Children's Museum of Wilmington",
-    "address": "116 Orange St, Wilmington, NC 28401",
-    "coordinates": {
-      "latitude": 34.2353,
-      "longitude": -77.9471
-    },
-    "phone": "(910) 254-3534",
-    "website": "https://www.playwilmington.org/"
-  },
-  {
-    "name": "Wing Haven",
-    "address": "248 Ridgewood Ave, Charlotte, NC 28209",
-    "coordinates": {
-      "latitude": 35.1815,
-      "longitude": -80.8496
-    },
-    "phone": "(704) 331-0664",
-    "website": "https://www.winghavengardens.org/"
-  },
-  {
-    "name": "Dale and Martha Hawk Museum",
-    "address": "4839 78th St NE, Wolford, ND 58385",
-    "coordinates": {
-      "latitude": 48.5264,
-      "longitude": -99.5086
-    },
-    "phone": "(701) 583-2381",
-    "website": "https://www.hawkmuseum.org/"
-  },
-  {
-    "name": "Gateway to Science",
-    "address": "1600 Canary Ave, Bismarck, ND 58501",
-    "coordinates": {
-      "latitude": 46.8297,
-      "longitude": -100.8195
-    },
-    "phone": "(701) 258-1975",
-    "website": "https://gatewaytoscience.org/"
-  },
-  {
-    "name": "Magic City Discovery Center",
-    "address": "1545 1st St NW, Minot, ND 58703",
-    "coordinates": {
-      "latitude": 48.2453,
-      "longitude": -101.295
-    },
-    "phone": "(701) 858-7529",
-    "website": "https://www.magiccitydiscoverycenter.com/"
-  },
-  {
-    "name": "North American Bison Discovery Center",
-    "address": "500 17th St SE, Jamestown, ND 58401",
-    "coordinates": {
-      "latitude": 46.8965,
-      "longitude": -98.6942
-    },
-    "phone": "(701) 252-8648",
-    "website": "https://www.ndtourism.com/jamestown/attractions-entertainment/arts-attractions/north-american-bison-discovery-center"
-  },
-  {
-    "name": "Pioneer Trails Regional Museum",
-    "address": "12 1st Ave NE, Bowman, ND 58623",
-    "coordinates": {
-      "latitude": 46.1833,
-      "longitude": -103.3949
-    },
-    "phone": "(701) 523-3600",
-    "website": "https://ptrm.org/"
-  },
-  {
-    "name": "Plains Art Museum",
-    "address": "704 1st Ave N, Fargo, ND 58102",
-    "coordinates": {
-      "latitude": 46.8772,
-      "longitude": -96.7898
-    },
-    "phone": "(701) 551-6100",
-    "website": "https://plainsart.org/"
   },
   {
     "name": "Chimney Rock Museum - Nebraska State Historical Society",
@@ -9148,6 +8888,106 @@
     },
     "phone": "402-472-2637",
     "website": "https://museum.unl.edu/"
+  },
+  {
+    "name": "Beatty Museum and Historical Society",
+    "address": "417 Main St, Beatty, NV 89003",
+    "coordinates": {
+      "latitude": 36.9086,
+      "longitude": -116.7583
+    },
+    "phone": "(775) 553-2303",
+    "website": "https://www.beattymuseum.org"
+  },
+  {
+    "name": "Boulder City/Hoover Dam Museum",
+    "address": "1305 Arizona St, Boulder City, NV 89005",
+    "coordinates": {
+      "latitude": 35.9786,
+      "longitude": -114.8325
+    },
+    "phone": "(702) 294-1988",
+    "website": "https://www.bcmha.org"
+  },
+  {
+    "name": "Burlesque Hall of Fame",
+    "address": "1027 S Main St #110, Las Vegas, NV 89101",
+    "coordinates": {
+      "latitude": 36.1586,
+      "longitude": -115.1525
+    },
+    "phone": "(702) 777-7737",
+    "website": "https://www.burlesquehall.com"
+  },
+  {
+    "name": "Churchill County Museum",
+    "address": "1050 S Maine St, Fallon, NV 89406",
+    "coordinates": {
+      "latitude": 39.4714,
+      "longitude": -118.7775
+    },
+    "phone": "(775) 423-3677",
+    "website": "https://www.ccmuseum.org"
+  },
+  {
+    "name": "DISCOVERY Children's Museum",
+    "address": "360 Promenade Pl, Las Vegas, NV 89106",
+    "coordinates": {
+      "latitude": 36.1697,
+      "longitude": -115.1728
+    },
+    "phone": "(702) 382-3445",
+    "website": "https://www.discoverykidslv.org"
+  },
+  {
+    "name": "National Atomic Testing Museum",
+    "address": "755 E Flamingo Rd, Las Vegas, NV 89119",
+    "coordinates": {
+      "latitude": 36.1086,
+      "longitude": -115.1486
+    },
+    "phone": "(702) 794-5151",
+    "website": "https://www.nationalatomictestingmuseum.org"
+  },
+  {
+    "name": "Nevada State Museum | Las Vegas",
+    "address": "309 S Valley View Blvd, Las Vegas, NV 89107",
+    "coordinates": {
+      "latitude": 36.1486,
+      "longitude": -115.1903
+    },
+    "phone": "(702) 486-5205",
+    "website": "https://www.nvculture.org/nevadastatemuseums"
+  },
+  {
+    "name": "Northeastern Nevada Museum",
+    "address": "1515 Idaho St, Elko, NV 89801",
+    "coordinates": {
+      "latitude": 40.8386,
+      "longitude": -115.7628
+    },
+    "phone": "(775) 738-3418",
+    "website": "https://www.museumelko.org"
+  },
+  {
+    "name": "Springs Preserve",
+    "address": "333 S Valley View Blvd, Las Vegas, NV 89107",
+    "coordinates": {
+      "latitude": 36.1686,
+      "longitude": -115.1936
+    },
+    "phone": "(702) 822-7700",
+    "website": "https://www.springspreserve.org"
+  },
+  {
+    "name": "The Neon Museum",
+    "address": "770 Las Vegas Blvd N, Las Vegas, NV 89101",
+    "coordinates": {
+      "latitude": 36.1808,
+      "longitude": -115.1358
+    },
+    "phone": "(702) 387-6366",
+    "website": "https://www.neonmuseum.org"
   },
   {
     "name": "Children's Museum of New Hampshire",
@@ -9518,106 +9358,6 @@
     },
     "phone": "(505) 989-8359",
     "website": "https://santafechildrensmuseum.org/"
-  },
-  {
-    "name": "Beatty Museum and Historical Society",
-    "address": "417 Main St, Beatty, NV 89003",
-    "coordinates": {
-      "latitude": 36.9086,
-      "longitude": -116.7583
-    },
-    "phone": "(775) 553-2303",
-    "website": "https://www.beattymuseum.org"
-  },
-  {
-    "name": "Boulder City/Hoover Dam Museum",
-    "address": "1305 Arizona St, Boulder City, NV 89005",
-    "coordinates": {
-      "latitude": 35.9786,
-      "longitude": -114.8325
-    },
-    "phone": "(702) 294-1988",
-    "website": "https://www.bcmha.org"
-  },
-  {
-    "name": "Burlesque Hall of Fame",
-    "address": "1027 S Main St #110, Las Vegas, NV 89101",
-    "coordinates": {
-      "latitude": 36.1586,
-      "longitude": -115.1525
-    },
-    "phone": "(702) 777-7737",
-    "website": "https://www.burlesquehall.com"
-  },
-  {
-    "name": "Churchill County Museum",
-    "address": "1050 S Maine St, Fallon, NV 89406",
-    "coordinates": {
-      "latitude": 39.4714,
-      "longitude": -118.7775
-    },
-    "phone": "(775) 423-3677",
-    "website": "https://www.ccmuseum.org"
-  },
-  {
-    "name": "DISCOVERY Children's Museum",
-    "address": "360 Promenade Pl, Las Vegas, NV 89106",
-    "coordinates": {
-      "latitude": 36.1697,
-      "longitude": -115.1728
-    },
-    "phone": "(702) 382-3445",
-    "website": "https://www.discoverykidslv.org"
-  },
-  {
-    "name": "National Atomic Testing Museum",
-    "address": "755 E Flamingo Rd, Las Vegas, NV 89119",
-    "coordinates": {
-      "latitude": 36.1086,
-      "longitude": -115.1486
-    },
-    "phone": "(702) 794-5151",
-    "website": "https://www.nationalatomictestingmuseum.org"
-  },
-  {
-    "name": "Nevada State Museum | Las Vegas",
-    "address": "309 S Valley View Blvd, Las Vegas, NV 89107",
-    "coordinates": {
-      "latitude": 36.1486,
-      "longitude": -115.1903
-    },
-    "phone": "(702) 486-5205",
-    "website": "https://www.nvculture.org/nevadastatemuseums"
-  },
-  {
-    "name": "Northeastern Nevada Museum",
-    "address": "1515 Idaho St, Elko, NV 89801",
-    "coordinates": {
-      "latitude": 40.8386,
-      "longitude": -115.7628
-    },
-    "phone": "(775) 738-3418",
-    "website": "https://www.museumelko.org"
-  },
-  {
-    "name": "Springs Preserve",
-    "address": "333 S Valley View Blvd, Las Vegas, NV 89107",
-    "coordinates": {
-      "latitude": 36.1686,
-      "longitude": -115.1936
-    },
-    "phone": "(702) 822-7700",
-    "website": "https://www.springspreserve.org"
-  },
-  {
-    "name": "The Neon Museum",
-    "address": "770 Las Vegas Blvd N, Las Vegas, NV 89101",
-    "coordinates": {
-      "latitude": 36.1808,
-      "longitude": -115.1358
-    },
-    "phone": "(702) 387-6366",
-    "website": "https://www.neonmuseum.org"
   },
   {
     "name": "Adirondack Carousel",
@@ -10728,6 +10468,266 @@
     },
     "phone": "(518) 793-2773",
     "website": "https://www.worldchildrensmuseum.org"
+  },
+  {
+    "name": "Airlie Gardens",
+    "address": "300 Airlie Rd, Wilmington, NC 28403",
+    "coordinates": {
+      "latitude": 34.2215,
+      "longitude": -77.827
+    },
+    "phone": "(910) 798-7700",
+    "website": "https://www.airliegardens.org/"
+  },
+  {
+    "name": "Aurora Fossil Museum",
+    "address": "400 Main St, Aurora, NC 27806",
+    "coordinates": {
+      "latitude": 35.3006,
+      "longitude": -76.7879
+    },
+    "phone": "(252) 322-4238",
+    "website": "https://www.aurorafossilmuseum.org/"
+  },
+  {
+    "name": "Blowing Rock Art & History Museum",
+    "address": "159 Ginny Stevens Ln, Blowing Rock, NC 28605",
+    "coordinates": {
+      "latitude": 36.132,
+      "longitude": -81.6774
+    },
+    "phone": "(828) 295-9099",
+    "website": "https://www.blowingrockmuseum.org/"
+  },
+  {
+    "name": "Cameron Art Museum",
+    "address": "3201 S 17th St, Wilmington, NC 28412",
+    "coordinates": {
+      "latitude": 34.1928,
+      "longitude": -77.9134
+    },
+    "phone": "(910) 395-5999",
+    "website": "https://www.cameronartmuseum.org/"
+  },
+  {
+    "name": "Cape Fear Botanical Garden",
+    "address": "536 N Eastern Blvd, Fayetteville, NC 28301",
+    "coordinates": {
+      "latitude": 35.059,
+      "longitude": -78.8505
+    },
+    "phone": "(910) 486-0221",
+    "website": "https://www.capefearbg.org/"
+  },
+  {
+    "name": "Cape Fear Museum of History and Science",
+    "address": "814 Market St, Wilmington, NC 28401",
+    "coordinates": {
+      "latitude": 34.2365,
+      "longitude": -77.9416
+    },
+    "phone": "(910) 798-4350",
+    "website": "https://www.capefearmuseum.com/"
+  },
+  {
+    "name": "Charlotte Museum of History",
+    "address": "3500 Shamrock Dr, Charlotte, NC 28215",
+    "coordinates": {
+      "latitude": 35.2475,
+      "longitude": -80.7705
+    },
+    "phone": "(704) 568-1774",
+    "website": "https://www.charlottemuseum.org/"
+  },
+  {
+    "name": "Cognition",
+    "address": "119 N Salisbury St, Mocksville, NC 27028",
+    "coordinates": {
+      "latitude": 35.8966,
+      "longitude": -80.5631
+    },
+    "phone": "(336) 753-1045",
+    "website": "https://www.cognitiondavie.org/"
+  },
+  {
+    "name": "Daniel Stowe Botanical Garden",
+    "address": "6500 S New Hope Rd, Belmont, NC 28012",
+    "coordinates": {
+      "latitude": 35.1662,
+      "longitude": -81.0565
+    },
+    "phone": "(704) 825-4490",
+    "website": "https://www.dsbg.org/"
+  },
+  {
+    "name": "Fit For Fun Center",
+    "address": "302 S 10th St, Wilmington, NC 28401",
+    "coordinates": {
+      "latitude": 34.2333,
+      "longitude": -77.9371
+    },
+    "phone": "(910) 341-4630",
+    "website": "https://www.wilmingtonnc.gov/"
+  },
+  {
+    "name": "Imagination Station Science & History Museum",
+    "address": "224 Nash St SE, Wilson, NC 27893",
+    "coordinates": {
+      "latitude": 35.7234,
+      "longitude": -77.9061
+    },
+    "phone": "(252) 291-5113",
+    "website": "https://scienceandhistory.org/"
+  },
+  {
+    "name": "Ingram Planetarium",
+    "address": "7625 High Market St, Sunset Beach, NC 28468",
+    "coordinates": {
+      "latitude": 33.8925,
+      "longitude": -78.5073
+    },
+    "phone": "(910) 575-0033",
+    "website": "https://museumplanetarium.org/"
+  },
+  {
+    "name": "Kidzu Children's Museum",
+    "address": "201 S Estes Dr, Chapel Hill, NC 27514",
+    "coordinates": {
+      "latitude": 35.9292,
+      "longitude": -79.0332
+    },
+    "phone": "(919) 933-1455",
+    "website": "https://www.kidzuchildrensmuseum.org/"
+  },
+  {
+    "name": "Morehead Planetarium & Science Center",
+    "address": "250 E Franklin St, Chapel Hill, NC 27514",
+    "coordinates": {
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    "phone": "(919) 962-1236",
+    "website": "https://moreheadplanetarium.org/"
+  },
+  {
+    "name": "Museum of Coastal Carolina",
+    "address": "21 E 2nd St, Ocean Isle Beach, NC 28469",
+    "coordinates": {
+      "latitude": 33.8921,
+      "longitude": -78.4363
+    },
+    "phone": "(910) 579-1016",
+    "website": "https://museumplanetarium.org/"
+  },
+  {
+    "name": "North Carolina Botanical Garden",
+    "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+    "coordinates": {
+      "latitude": 35.8993,
+      "longitude": -79.0321
+    },
+    "phone": "(919) 962-0522",
+    "website": "https://ncbg.unc.edu/"
+  },
+  {
+    "name": "Old Salem Museums & Gardens",
+    "address": "900 Old Salem Rd, Winston-Salem, NC 27101",
+    "coordinates": {
+      "latitude": 36.09,
+      "longitude": -80.2442
+    },
+    "phone": "(336) 721-7350",
+    "website": "https://www.oldsalem.org/"
+  },
+  {
+    "name": "Reynolda House Museum of American Art",
+    "address": "2250 Reynolda Rd, Winston-Salem, NC 27106",
+    "coordinates": {
+      "latitude": 36.1273,
+      "longitude": -80.2841
+    },
+    "phone": "(888) 663-1149",
+    "website": "https://reynoldahouse.org/"
+  },
+  {
+    "name": "The Children's Museum of Wilmington",
+    "address": "116 Orange St, Wilmington, NC 28401",
+    "coordinates": {
+      "latitude": 34.2353,
+      "longitude": -77.9471
+    },
+    "phone": "(910) 254-3534",
+    "website": "https://www.playwilmington.org/"
+  },
+  {
+    "name": "Wing Haven",
+    "address": "248 Ridgewood Ave, Charlotte, NC 28209",
+    "coordinates": {
+      "latitude": 35.1815,
+      "longitude": -80.8496
+    },
+    "phone": "(704) 331-0664",
+    "website": "https://www.winghavengardens.org/"
+  },
+  {
+    "name": "Dale and Martha Hawk Museum",
+    "address": "4839 78th St NE, Wolford, ND 58385",
+    "coordinates": {
+      "latitude": 48.5264,
+      "longitude": -99.5086
+    },
+    "phone": "(701) 583-2381",
+    "website": "https://www.hawkmuseum.org/"
+  },
+  {
+    "name": "Gateway to Science",
+    "address": "1600 Canary Ave, Bismarck, ND 58501",
+    "coordinates": {
+      "latitude": 46.8297,
+      "longitude": -100.8195
+    },
+    "phone": "(701) 258-1975",
+    "website": "https://gatewaytoscience.org/"
+  },
+  {
+    "name": "Magic City Discovery Center",
+    "address": "1545 1st St NW, Minot, ND 58703",
+    "coordinates": {
+      "latitude": 48.2453,
+      "longitude": -101.295
+    },
+    "phone": "(701) 858-7529",
+    "website": "https://www.magiccitydiscoverycenter.com/"
+  },
+  {
+    "name": "North American Bison Discovery Center",
+    "address": "500 17th St SE, Jamestown, ND 58401",
+    "coordinates": {
+      "latitude": 46.8965,
+      "longitude": -98.6942
+    },
+    "phone": "(701) 252-8648",
+    "website": "https://www.ndtourism.com/jamestown/attractions-entertainment/arts-attractions/north-american-bison-discovery-center"
+  },
+  {
+    "name": "Pioneer Trails Regional Museum",
+    "address": "12 1st Ave NE, Bowman, ND 58623",
+    "coordinates": {
+      "latitude": 46.1833,
+      "longitude": -103.3949
+    },
+    "phone": "(701) 523-3600",
+    "website": "https://ptrm.org/"
+  },
+  {
+    "name": "Plains Art Museum",
+    "address": "704 1st Ave N, Fargo, ND 58102",
+    "coordinates": {
+      "latitude": 46.8772,
+      "longitude": -96.7898
+    },
+    "phone": "(701) 551-6100",
+    "website": "https://plainsart.org/"
   },
   {
     "name": "AHA! A Hands-On Adventure, A Children's Museum",
@@ -14320,6 +14320,97 @@
     "website": "https://umfa.utah.edu/"
   },
   {
+    "name": "Bennington Museum",
+    "address": "75 Main St, Bennington, VT 05201",
+    "coordinates": {
+      "latitude": 42.8788,
+      "longitude": -73.1978
+    },
+    "phone": "(802) 447-1571",
+    "website": "https://www.benningtonmuseum.org/"
+  },
+  {
+    "name": "Billings Farm & Museum",
+    "address": "69 Old River Rd, Woodstock, VT 05091",
+    "coordinates": {
+      "latitude": 43.6144,
+      "longitude": -72.5178
+    },
+    "phone": "(802) 457-2355",
+    "website": "https://billingsfarm.org/"
+  },
+  {
+    "name": "Brattleboro Museum & Art Center",
+    "address": "10 Vernon St, Brattleboro, VT 05301",
+    "coordinates": {
+      "latitude": 42.8578,
+      "longitude": -72.5585
+    },
+    "phone": "(802) 257-0124",
+    "website": "https://brattleboromuseum.org/"
+  },
+  {
+    "name": "ECHO, Leahy Center for Lake Champlain",
+    "address": "1 College St, Burlington, VT 05401",
+    "coordinates": {
+      "latitude": 44.476,
+      "longitude": -73.2154
+    },
+    "phone": "(802) 864-1848",
+    "website": "https://www.echovermont.org/"
+  },
+  {
+    "name": "Saint Albans Museum",
+    "address": "9 Church St, St Albans, VT 05478",
+    "coordinates": {
+      "latitude": 44.8001,
+      "longitude": -73.0837
+    },
+    "phone": "(802) 524-1400",
+    "website": "https://www.stalbansmuseum.org/"
+  },
+  {
+    "name": "Southern Vermont Arts Center",
+    "address": "930 SVAC Dr, Manchester, VT 05255",
+    "coordinates": {
+      "latitude": 43.1847,
+      "longitude": -73.0463
+    },
+    "phone": "(802) 362-1405",
+    "website": "https://www.svac.org/"
+  },
+  {
+    "name": "Wonderfeet Kids' Museum",
+    "address": "69 Allen St, Rutland, VT 05701",
+    "coordinates": {
+      "latitude": 43.6055,
+      "longitude": -72.9735
+    },
+    "phone": "(802) 770-1333",
+    "website": "https://www.wonderfeetkidsmuseum.org/"
+  },
+  {
+    "name": "The Virgin Islands Children's Museum",
+    "address": "6100 Estate Smith Bay, St. Thomas, VI 00802",
+    "coordinates": {
+      "latitude": 18.35,
+      "longitude": -64.88
+    },
+    "phone": "(340) 643-0367",
+    "website": "https://www.vichildrensmuseum.org"
+  },
+  {
+    "name": "The Children's Museum of St. Croix",
+    "address": "52 Company Street, Christiansted, St. Croix, VI 00820",
+    "coordinates": {
+      "latitude": 17.7465,
+      "longitude": -64.7034
+    },
+    "phone": "(340) 773-5250",
+    "website": "https://www.childrenmuseumstx.org",
+    "description": "An interactive learning space for children featuring hands-on exhibits focused on Caribbean culture, marine ecology, and creative play. The museum offers educational programs and activities designed specifically for young visitors in the St. Croix community."
+  },
+  {
     "name": "Agecroft Hall & Gardens",
     "address": "4305 Sulgrave Rd, Richmond, VA 23221",
     "coordinates": {
@@ -14990,97 +15081,6 @@
     "website": "https://www.woodlawnpopeleighey.org/"
   },
   {
-    "name": "The Virgin Islands Children's Museum",
-    "address": "6100 Estate Smith Bay, St. Thomas, VI 00802",
-    "coordinates": {
-      "latitude": 18.35,
-      "longitude": -64.88
-    },
-    "phone": "(340) 643-0367",
-    "website": "https://www.vichildrensmuseum.org"
-  },
-  {
-    "name": "The Children's Museum of St. Croix",
-    "address": "52 Company Street, Christiansted, St. Croix, VI 00820",
-    "coordinates": {
-      "latitude": 17.7465,
-      "longitude": -64.7034
-    },
-    "phone": "(340) 773-5250",
-    "website": "https://www.childrenmuseumstx.org",
-    "description": "An interactive learning space for children featuring hands-on exhibits focused on Caribbean culture, marine ecology, and creative play. The museum offers educational programs and activities designed specifically for young visitors in the St. Croix community."
-  },
-  {
-    "name": "Bennington Museum",
-    "address": "75 Main St, Bennington, VT 05201",
-    "coordinates": {
-      "latitude": 42.8788,
-      "longitude": -73.1978
-    },
-    "phone": "(802) 447-1571",
-    "website": "https://www.benningtonmuseum.org/"
-  },
-  {
-    "name": "Billings Farm & Museum",
-    "address": "69 Old River Rd, Woodstock, VT 05091",
-    "coordinates": {
-      "latitude": 43.6144,
-      "longitude": -72.5178
-    },
-    "phone": "(802) 457-2355",
-    "website": "https://billingsfarm.org/"
-  },
-  {
-    "name": "Brattleboro Museum & Art Center",
-    "address": "10 Vernon St, Brattleboro, VT 05301",
-    "coordinates": {
-      "latitude": 42.8578,
-      "longitude": -72.5585
-    },
-    "phone": "(802) 257-0124",
-    "website": "https://brattleboromuseum.org/"
-  },
-  {
-    "name": "ECHO, Leahy Center for Lake Champlain",
-    "address": "1 College St, Burlington, VT 05401",
-    "coordinates": {
-      "latitude": 44.476,
-      "longitude": -73.2154
-    },
-    "phone": "(802) 864-1848",
-    "website": "https://www.echovermont.org/"
-  },
-  {
-    "name": "Saint Albans Museum",
-    "address": "9 Church St, St Albans, VT 05478",
-    "coordinates": {
-      "latitude": 44.8001,
-      "longitude": -73.0837
-    },
-    "phone": "(802) 524-1400",
-    "website": "https://www.stalbansmuseum.org/"
-  },
-  {
-    "name": "Southern Vermont Arts Center",
-    "address": "930 SVAC Dr, Manchester, VT 05255",
-    "coordinates": {
-      "latitude": 43.1847,
-      "longitude": -73.0463
-    },
-    "phone": "(802) 362-1405",
-    "website": "https://www.svac.org/"
-  },
-  {
-    "name": "Wonderfeet Kids' Museum",
-    "address": "69 Allen St, Rutland, VT 05701",
-    "coordinates": {
-      "latitude": 43.6055,
-      "longitude": -72.9735
-    },
-    "phone": "(802) 770-1333",
-    "website": "https://www.wonderfeetkidsmuseum.org/"
-  },
-  {
     "name": "Bellevue Arts Museum",
     "address": "510 Bellevue Way NE, Bellevue, WA 98004",
     "coordinates": {
@@ -15421,6 +15421,66 @@
     "website": "https://winglukemuseum.org/"
   },
   {
+    "name": "Appalachian Forest Discovery Center",
+    "address": "3 Railroad Ave, Elkins, WV 26241",
+    "coordinates": {
+      "latitude": 38.9239,
+      "longitude": -79.8467
+    },
+    "phone": "(304) 636-6182",
+    "website": "https://www.appalachianforest.us"
+  },
+  {
+    "name": "Arthurdale Heritage, Inc.",
+    "address": "1 Arthurdale Square, Arthurdale, WV 26520",
+    "coordinates": {
+      "latitude": 39.495,
+      "longitude": -79.8153
+    },
+    "phone": "(304) 864-3959",
+    "website": "https://www.arthurdaleheritage.org"
+  },
+  {
+    "name": "Beverly Heritage Center",
+    "address": "4 Court St, Beverly, WV 26253",
+    "coordinates": {
+      "latitude": 38.8419,
+      "longitude": -79.875
+    },
+    "phone": "(304) 637-7424",
+    "website": "https://www.beverlyheritagecenter.org"
+  },
+  {
+    "name": "Discovery World on Market",
+    "address": "113 Market St, Parkersburg, WV 26101",
+    "coordinates": {
+      "latitude": 39.2625,
+      "longitude": -81.5614
+    },
+    "phone": "(304) 420-4420",
+    "website": "https://www.discoveryworldonmarket.com"
+  },
+  {
+    "name": "Huntington Children's Museum",
+    "address": "1208 7th Ave, Huntington, WV 25701",
+    "coordinates": {
+      "latitude": 38.4208,
+      "longitude": -82.4347
+    },
+    "phone": "(304) 523-6585",
+    "website": "https://www.huntingtonchildrensmuseum.org"
+  },
+  {
+    "name": "Spark! Imagination and Science Center",
+    "address": "5000 Greenbag Rd, Morgantown, WV 26501",
+    "coordinates": {
+      "latitude": 39.6292,
+      "longitude": -79.9536
+    },
+    "phone": "(304) 292-4646",
+    "website": "https://www.sparkwv.org"
+  },
+  {
     "name": "Above & Beyond Children’s Museum",
     "address": "902 N 8th St, Sheboygan, WI 53081",
     "coordinates": {
@@ -15759,66 +15819,6 @@
     },
     "phone": "(920) 684-0218",
     "website": "https://www.wisconsinmaritime.org/"
-  },
-  {
-    "name": "Appalachian Forest Discovery Center",
-    "address": "3 Railroad Ave, Elkins, WV 26241",
-    "coordinates": {
-      "latitude": 38.9239,
-      "longitude": -79.8467
-    },
-    "phone": "(304) 636-6182",
-    "website": "https://www.appalachianforest.us"
-  },
-  {
-    "name": "Arthurdale Heritage, Inc.",
-    "address": "1 Arthurdale Square, Arthurdale, WV 26520",
-    "coordinates": {
-      "latitude": 39.495,
-      "longitude": -79.8153
-    },
-    "phone": "(304) 864-3959",
-    "website": "https://www.arthurdaleheritage.org"
-  },
-  {
-    "name": "Beverly Heritage Center",
-    "address": "4 Court St, Beverly, WV 26253",
-    "coordinates": {
-      "latitude": 38.8419,
-      "longitude": -79.875
-    },
-    "phone": "(304) 637-7424",
-    "website": "https://www.beverlyheritagecenter.org"
-  },
-  {
-    "name": "Discovery World on Market",
-    "address": "113 Market St, Parkersburg, WV 26101",
-    "coordinates": {
-      "latitude": 39.2625,
-      "longitude": -81.5614
-    },
-    "phone": "(304) 420-4420",
-    "website": "https://www.discoveryworldonmarket.com"
-  },
-  {
-    "name": "Huntington Children's Museum",
-    "address": "1208 7th Ave, Huntington, WV 25701",
-    "coordinates": {
-      "latitude": 38.4208,
-      "longitude": -82.4347
-    },
-    "phone": "(304) 523-6585",
-    "website": "https://www.huntingtonchildrensmuseum.org"
-  },
-  {
-    "name": "Spark! Imagination and Science Center",
-    "address": "5000 Greenbag Rd, Morgantown, WV 26501",
-    "coordinates": {
-      "latitude": 39.6292,
-      "longitude": -79.9536
-    },
-    "phone": "(304) 292-4646",
-    "website": "https://www.sparkwv.org"
   },
   {
     "name": "Campbell County Rockpile Museum",
