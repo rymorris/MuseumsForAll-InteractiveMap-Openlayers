@@ -9,13 +9,278 @@
 
 <url>
   <loc>https://museumsforallmap.com/</loc>
-  <lastmod>2025-03-25T22:51:41+00:00</lastmod>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://museumsforallmap.com/about.html</loc>
-  <lastmod>2025-03-25T22:51:41+00:00</lastmod>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Alabama.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Alaska.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Arizona.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Arkansas.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/California.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Colorado.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Connecticut.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Delaware.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Florida.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Georgia.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Hawaii.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Idaho.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Illinois.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Indiana.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Iowa.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Kansas.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Kentucky.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Louisiana.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Maine.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Maryland.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Massachusetts.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Michigan.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Minnesota.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Mississippi.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Missouri.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Montana.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Nebraska.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Nevada.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/New-Hampshire.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/New-Jersey.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/New-Mexico.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/New-York.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/North-Carolina.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/North-Dakota.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Ohio.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Oklahoma.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Oregon.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Pennsylvania.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Rhode-Island.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/South-Carolina.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/South-Dakota.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Tennessee.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Texas.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Utah.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Vermont.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Virginia.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Virgin-Islands.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Washington.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/West-Virginia.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Wisconsin.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/Wyoming.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://museumsforallmap.com/states/District-of-Columbia.html</loc>
+  <lastmod>2025-03-31T22:57:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
