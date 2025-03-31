@@ -48080,14 +48080,13 @@ var closer = document.getElementById('popup-closer');
 let startCoords; 
 let startZoom;
 
-if (!stateCenter) {
-  startCoords = (0,ol_proj_js__WEBPACK_IMPORTED_MODULE_1__.fromLonLat)([-98.583333, 39.833333])
-  startZoom = 3;
-} else {
-  
+if (stateCenter !== undefined) {
   console.log(stateCenter)
   startCoords = (0,ol_proj_js__WEBPACK_IMPORTED_MODULE_1__.fromLonLat)(stateCenter);
   startZoom = 6;
+} else {
+  startCoords = (0,ol_proj_js__WEBPACK_IMPORTED_MODULE_1__.fromLonLat)([-98.583333, 39.833333])
+  startZoom = 3;
 }
 
 const view = new ol_index_js__WEBPACK_IMPORTED_MODULE_2__["default"]({

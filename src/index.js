@@ -18,14 +18,13 @@ var closer = document.getElementById('popup-closer');
 let startCoords; 
 let startZoom;
 
-if (!stateCenter) {
-  startCoords = fromLonLat([-98.583333, 39.833333])
-  startZoom = 3;
-} else {
-  
+if (stateCenter !== undefined) {
   console.log(stateCenter)
   startCoords = fromLonLat(stateCenter);
   startZoom = 6;
+} else {
+  startCoords = fromLonLat([-98.583333, 39.833333])
+  startZoom = 3;
 }
 
 const view = new View({

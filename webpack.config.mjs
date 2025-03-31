@@ -82,6 +82,10 @@ const config = {
         {
           from: path.resolve(__dirname, 'src', 'about.html'),
           to: path.resolve(__dirname, '', 'about.html')
+        },
+        {
+          from: path.resolve(__dirname, 'src', 'states.html'),
+          to: path.resolve(__dirname, '', 'states.html')
         }
       ]
     }),
