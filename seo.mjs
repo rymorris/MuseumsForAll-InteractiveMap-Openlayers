@@ -250,7 +250,7 @@ ${faqs
 // Scoped CSS for the directory (injected once into <head> via the template).
 export const SEO_STYLES = `<style>
   body.has-seo-directory { overflow-y: auto; height: auto; min-height: 100dvh; }
-  .seo-directory { background:#fff; color:#212529; padding:2.5rem 1rem 4rem; border-top:3px solid #d9534f; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height:1.55; }
+  .seo-directory { background:#fff; color:#212529; padding:10rem 1rem 4rem; border-top:3px solid #d9534f; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height:1.55; }
   .seo-directory__inner { max-width:960px; margin:0 auto; }
   .seo-directory__h2 { font-size:1.6rem; margin:1.5rem 0 .75rem; }
   .seo-directory__intro { color:#495057; margin-bottom:1.5rem; }
