@@ -1,0 +1,44 @@
+# Museums for All Map — https://museumsforallmap.com
+# All content is public and free to index by search engines and AI crawlers.
+
+User-agent: *
+Allow: /
+
+# AI / LLM crawlers (explicitly welcomed for answer engines & citations)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://museumsforallmap.com/sitemap.xml

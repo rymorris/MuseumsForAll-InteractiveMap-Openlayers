@@ -5,6 +5,7 @@ import HtmlWebpackPlugin from 'html-webpack-plugin';
 import CopyWebpackPlugin from 'copy-webpack-plugin';
 import WebpackShellPluginNext from 'webpack-shell-plugin-next';
 import { buildPlugins } from './buildStates.mjs';
+import { buildSeoHead, buildSeoContent, SEO_STYLES } from './seo.mjs';
 
 
 
@@ -64,8 +65,12 @@ const config = {
       hash: true, // Optional: adds hash to prevent caching issues
       templateParameters: {
         state: '',
+        stateDisplay: '',
         url: '',
         urlPrefix: '',
+        seoHead: buildSeoHead({ stateName: '', url: '', institutions: [] }),
+        seoContent: buildSeoContent({ stateName: '', url: '', urlPrefix: '', institutions: [] }),
+        seoStyles: SEO_STYLES,
         stateCenter: 'const stateCenter = undefined;',
       }
     }),
